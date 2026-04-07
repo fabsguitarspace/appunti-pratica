@@ -2,8 +2,9 @@ Prefazione
 ==========
 
 
-Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarristi Curios**i**”) nasce libero.
+Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarristi Curiosi**”) nasce libero.
 Tutti i contenuti qui presenti possono essere:
+
 - letti
 - copiati
 - estratti
@@ -16,6 +17,7 @@ Non ci sono vincoli, licenze restrittive o condizioni nascoste.
 Ogni parte del testo può vivere anche fuori da questo libro, in qualunque forma e contesto.
 
 Detto questo, se vorrai:
+
 - condividere il libro integralmente mediante link o in formato PDF
 - citare la fonte quando utilizzi parti del materiale
 - iscriverti al mio canale YouTube o condividerne il link
@@ -31,10 +33,9 @@ Se queste pagine ti saranno utili, falle viaggiare.
 
 La musica cresce solo così.
 
-   Fabrizio
+    Fabrizio
 
-
-= Perché questo libro esiste (e perché è separato dalla teoria)
+Perché questo libro esiste (e perché è separato dalla teoria)
 
 Questi appunti nascono da una scena molto comune... che conosco bene.
 

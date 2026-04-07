@@ -1,4 +1,4 @@
-Titolo del libro
+Appunti di Pratica per Chitarristi Curiosi
 ================
 
 Benvenuto nella documentazione del libro.

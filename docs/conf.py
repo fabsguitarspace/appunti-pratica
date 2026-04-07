@@ -1,5 +1,5 @@
-project = "Titolo del libro"
-author = "Nome Autore"
+project = "Appunti di Pratica per Chitarristi Curiosi"
+author = "Fabrizio's Guitar Space"
 copyright = ""
 release = "0.1"
 
@@ -12,7 +12,7 @@ language = "it"
 
 html_theme = "furo"
 html_static_path = ["_static"]
-html_title = "Titolo del libro"
+html_title = "Appunti di Pratica per Chitarristi Curiosi"
 html_show_copyright = False
 html_show_sphinx = False
 

@@ -3,6 +3,7 @@
 # -- Project information
 
 project = 'Appunti di Pratica per Chitarristi Curiosi'
+copyright = '2026'
 author = 'Fabrizio\'s Guitar Space'
 
 release = '0.1'

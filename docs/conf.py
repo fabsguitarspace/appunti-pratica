@@ -15,6 +15,7 @@ html_static_path = ["_static"]
 html_title = "Appunti di Pratica per Chitarristi Curiosi"
 html_show_copyright = False
 html_show_sphinx = False
+html_logo = "logo.png"
 html_css_files = ["custom.css"]
 # Facoltativo: migliora la navigazione del tema
 html_theme_options = {

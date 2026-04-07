@@ -1,4 +1,6 @@
-* Prefazione
+Prefazione
+==========
+
 
 Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarristi Curios**i**”) nasce libero.
 Tutti i contenuti qui presenti possono essere:

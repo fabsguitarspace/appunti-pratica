@@ -1,4 +1,4 @@
-project = "Appunti di Pratica per Chitarristi Curiosi"
+project = "Appunti di Pratica per Chitarra Jazz"
 author = "Fabrizio's Guitar Space"
 copyright = ""
 release = "0.1"
@@ -12,7 +12,7 @@ language = "it"
 
 html_theme = "furo"
 html_static_path = ["_static"]
-html_title = "Appunti di Pratica per Chitarristi Curiosi"
+html_title = "Appunti di Pratica per Chitarra Jazz"
 html_show_copyright = False
 html_show_sphinx = False
 html_logo = "logo.png"

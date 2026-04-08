@@ -1,4 +1,4 @@
-Appunti di Pratica per Chitarristi Curiosi
+Appunti di Pratica per Chitarra Jazz
 ================
 
 Benvenuto nella documentazione del libro.

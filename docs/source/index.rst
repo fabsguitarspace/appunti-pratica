@@ -2,7 +2,7 @@ Prefazione
 ==========
 
 
-Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarristi Curiosi**”) nasce libero.
+Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarra Jazz**”) nasce libero.
 Tutti i contenuti qui presenti possono essere:
 
 - letti
@@ -41,7 +41,7 @@ Questi appunti nascono da una scena molto comune... che conosco bene.
 
 Hai guardato un video, hai capito un’idea, ti si è accesa una lampadina. Poi prendi la chitarra, metti le dita sulla tastiera e... niente. Non perché l’idea fosse sbagliata, ma perché tra la testa e le dita c’è un territorio enorme: tempo, coordinazione, micro tensioni, scelte minime, suono, controllo. E soprattutto una cosa che nei libri spesso non si dice: la pratica non è “applicare”. La pratica è trasformare.
 
-Gli **Appunti di Teoria e Armonia per Chitarristi Curiosi** erano una mappa. Questo libro è una palestra... ma una palestra gentile. Non quella dove si spinge fino a sfinirsi, ma quella dove si torna ogni giorno, si fa poco, si fa bene, e lentamente la musica prende corpo.
+Gli **Appunti di Teoria e Armonia per Chitarra Jazz** erano una mappa. Questo libro è una palestra... ma una palestra gentile. Non quella dove si spinge fino a sfinirsi, ma quella dove si torna ogni giorno, si fa poco, si fa bene, e lentamente la musica prende corpo.
 
 Qui dentro non troverai l’ennesimo manuale di esercizi da collezionare. Troverai piuttosto un modo di organizzare lo studio sullo strumento, e un certo tipo di attenzione: quella che trasforma la tecnica in libertà e non in ansia. L’obiettivo non è “diventare bravi”. L’obiettivo è creare condizioni per cui, quando suoni, succeda qualcosa di vero.
 

@@ -1,5 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+Appunti di Pratica per Chitarra Jazz
+==========================================
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.

@@ -1,6 +1,40 @@
 
 ## Introduzione
 ### Prefazione
+
+Questo materiale (e il suo gemello “**Appunti di Teoria e Armonia per Chitarra Jazz**”) nasce libero.
+Tutti i contenuti qui presenti possono essere:
+
+- letti
+- copiati
+- estratti
+- condivisi
+- adattati
+- utilizzati come base di studio o di insegnamento
+
+Non ci sono vincoli, licenze restrittive o condizioni nascoste.
+
+Ogni parte può vivere anche al di fuori di questi appunti, in qualunque forma e contesto.
+
+Detto questo, se vorrai:
+
+- condividere il materiale integralmente mediante link o in formato PDF
+- citare la fonte quando utilizzi parti del materiale
+- iscriverti al mio canale [YouTube](https://www.youtube.com/@fabsguitarspace) o condividerne il link
+- te ne sarò sinceramente riconoscente.
+
+Non è un obbligo.
+
+È un gesto di continuità.
+
+Questo progetto nasce per circolare, non per essere protetto.
+
+Se queste pagine ti saranno utili, falle viaggiare.
+
+La musica cresce solo così.
+
+> Fabrizio
+
 #### Perché questo libro esiste (e perché è separato dalla teoria)
 Questi appunti nascono da una scena molto comune... che conosco bene.
 
@@ -73,5 +107,82 @@ La domanda della performance non è “ho suonato perfetto?”
 
 Questi tre stati devono convivere. Ma non nello stesso minuto. Se sei in studio, stai in studio. Se stai suonando, suona. Se stai performando, non correggere. Cambia completamente il cervello che usi.
 
+#### Perché... per il cervello... “imparare in fretta” è spesso un inganno
+
+Questo libro funziona solo se accetti una cosa controintuitiva: **non stai cercando di imparare velocemente**. Stai cercando di imparare **in modo che resti**.
+
+Il cervello è bravissimo a darti l’illusione del progresso quando fai qualcosa in fretta. Ma spesso è solo una prestazione momentanea... una specie di “modalità demo”. Suona bene oggi... domani è sparita.
+
+> Velocità = performance... lentezza = apprendimento
+
+Quando corri, succedono tre cose:
+
+- il cervello delega al pilota automatico
+- gli errori piccoli si nascondono (timing, intonazione, attacco doppio, tensione)
+- tu “passi” l’esercizio... ma non lo assimili
+
+Quando vai lento (davvero lento), succede l’opposto:
+
+- senti i micro-errori
+- li correggi subito
+- costruisci un gesto ripetibile
+- e soprattutto... colleghi orecchio e dita
+
+Il risultato è che la musica va sotto le dita senza perdere l’orecchio.
+
+Il cervello è un ottimizzatore: cerca sempre il modo più economico per ottenere un risultato. Se gli dai roba troppo pronta:
+
+- copia la forma
+- spegne l’ascolto
+- e archivia tutto come “non importante”
+
+Ecco perché tanti esercizi imparati “in un pomeriggio” non restano: il cervello li ha catalogati come routine meccanica, non come abilità significativa.
+
+Lo sforzo giusto (quello che ti costringe a essere presente) è il segnale che dice al cervello: questa cosa vale la pena di essere conservata.
+
+> Il criterio giusto... non è “quanto veloce”
+> È “quanto stabile”.
+
+Hai imparato quando:
+
+- puoi farlo a tempo senza irrigidirti
+- il suono è uguale su ogni nota
+- la mano destra e sinistra attaccano insieme (una nota sola, non due)
+- puoi cantare quello che suoni (o almeno i gradi)
+
+Se non puoi cantarlo, spesso non lo possiedi davvero... lo stai solo eseguendo.
+
+Ogni pagina del libro va trattata così:
+
+- poco materiale
+- molto lento
+- ripetuto
+- registrato
+- e ripreso dopo giorni o settimane
+
+Questo è un libro “circolare”, non lineare. Tornare su un esercizio che pensavi di aver superato non è un passo indietro: è il modo naturale con cui il cervello consolida.
+
+Se riesci a farlo subito... probabilmente è troppo facile.
+
+Se ti costringe ad ascoltare e a rallentare... probabilmente è quello giusto.
+
+E quando lo fai così, la velocità arriva comunque... ma come conseguenza, non come obiettivo.
+
+#### Il metodo “a mattoncini”: 5 minuti che valgono più di 50
 
 
+
+
+
+#### Una promessa realistica: poco, spesso, bene
+
+Se ti capita di leggere una pagina e sentire subito il bisogno di prendere la chitarra, chiudi pure il libro. È l’unica “regola” che vale sempre. Questi appunti non vogliono trattenerti. Vogliono accompagnarti fino al bordo del foglio... e poi lasciarti andare dove conta davvero: nel suono.
+
+Non ti prometto risultati in trenta giorni. Non è quello il punto. Ti propongo un patto più realistico: tornare spesso, anche solo pochi minuti, con attenzione vera. Perché la pratica non è un atto eroico. È un’abitudine. E le abitudini, quando sono buone, cambiano una persona.
+Una regola finale, semplice, se ti senti perso, fai così:
+
+- scegli uno stato mentale (studiare, suonare, performare)
+- fai un mattoncino da 5 minuti
+- scrivi due righe sul quaderno
+
+E poi basta. Hai fatto pratica vera.

@@ -1,4 +1,0 @@
-Conclusione
-===========
-
-Considerazioni finali.

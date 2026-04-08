@@ -1,7 +1,4 @@
-Prefazione
-==========
-
-
+## Prefazione
 
 Perché questo libro esiste (e perché è separato dalla teoria)
 

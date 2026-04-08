@@ -13,13 +13,13 @@ Tutti i contenuti qui presenti possono essere:
 
 Non ci sono vincoli, licenze restrittive o condizioni nascoste.
 
-Ogni parte del testo può vivere anche fuori da questo libro, in qualunque forma e contesto.
+Ogni parte può vivere anche al di fuori di questi appunti, in qualunque forma e contesto.
 
 Detto questo, se vorrai:
 
-- condividere il libro integralmente mediante link o in formato PDF
+- condividere il materiale integralmente mediante link o in formato PDF
 - citare la fonte quando utilizzi parti del materiale
-- iscriverti al mio canale YouTube o condividerne il link
+- iscriverti al mio canale [YouTube](https://www.youtube.com/@fabsguitarspace) o condividerne il link
 - te ne sarò sinceramente riconoscente.
 
 Non è un obbligo.
@@ -37,9 +37,9 @@ La musica cresce solo così.
 
 ```{toctree}
 :maxdepth: 2
-:caption: Indice
+:caption: Sommario
 
-introduzione
+prefazione
 capitolo-1
 capitolo-2
 ```

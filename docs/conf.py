@@ -21,3 +21,4 @@ html_css_files = ["custom.css"]
 html_theme_options = {
     "sidebar_hide_name": False,
 }
+

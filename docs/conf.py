@@ -17,7 +17,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = "it"
 
-html_theme = "furo"
+html_theme = "shibuya"
 html_static_path = ["_static"]
 html_title = "Appunti di Pratica per Chitarra Jazz"
 html_show_copyright = False

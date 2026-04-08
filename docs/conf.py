@@ -22,7 +22,11 @@ html_static_path = ["_static"]
 html_title = "Appunti di Pratica per Chitarra Jazz"
 html_show_copyright = False
 html_show_sphinx = False
-html_logo = "logo.png"
+html_logo = "_static/logo.png"
+
+html_theme_options = {
+    "logo_target": "https://example.com",
+}
 html_css_files = ["custom.css"]
 # Facoltativo: migliora la navigazione del tema
 html_theme_options = {

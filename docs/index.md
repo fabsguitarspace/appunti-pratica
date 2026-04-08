@@ -32,18 +32,13 @@ Se queste pagine ti saranno utili, falle viaggiare.
 
 La musica cresce solo così.
 
-   Fabrizio
+> Fabrizio
+
 
 ```{toctree}
 :maxdepth: 2
 
 prefazione
-```
-
-```{toctree}
-:maxdepth: 2
-:numbered
-
 capitolo-1
 capitolo-2
 ```

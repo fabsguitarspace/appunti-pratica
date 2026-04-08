@@ -3,4 +3,4 @@
 
 ### La chitarra (il setup)
 
-![Scala](_static/notation/scale)
+![Scala](_static/notation/scale.*)

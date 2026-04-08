@@ -6,6 +6,7 @@ release = "0.1"
 extensions = [
     "myst_parser",
     "sphinxnotes.lilypond",
+    "sphinx.ext.imgconverter",
 ]
 
 source_suffix = {

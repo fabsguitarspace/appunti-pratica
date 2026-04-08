@@ -34,12 +34,16 @@ La musica cresce solo così.
 
    Fabrizio
 
+```{toctree}
+:maxdepth: 2
+
+prefazione
+```
 
 ```{toctree}
 :maxdepth: 2
-:caption: Sommario
+:numbered
 
-prefazione
 capitolo-1
 capitolo-2
 ```

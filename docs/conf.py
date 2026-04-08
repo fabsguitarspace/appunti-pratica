@@ -31,6 +31,5 @@ html_theme_options = {
 html_css_files = ["custom.css"]
 # Facoltativo: migliora la navigazione del tema
 html_theme_options = {
-    "extra_footer": '<a href="https://www.youtube.com/@fabsguitarspace" target="_blank"> Fabrizio\'s Guitar Space </a>"',
 }
 

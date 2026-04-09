@@ -3,7 +3,7 @@
 set -eu
 
 SRC_DIR="notation"
-OUT_DIR="_static/notation"
+OUT_DIR="docs/_static/notation"
 
 if ! command -v lilypond >/dev/null 2>&1; then
   echo "Errore: lilypond non trovato nel PATH." >&2

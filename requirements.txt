@@ -1,4 +1,4 @@
 sphinx>=8,<9
-sphinx-book-theme
+renku-sphinx-theme
 myst-parser
 sphinxnotes-lilypond

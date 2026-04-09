@@ -19,7 +19,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 language = "it"
 
-html_theme = "sphinx_book_theme"
+html_theme = "renku"
 html_static_path = ["_static"]
 html_title = "Appunti di Pratica per Chitarra Jazz"
 html_show_copyright = False

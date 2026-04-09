@@ -34,3 +34,6 @@ html_css_files = ["custom.css"]
 html_theme_options = {
 }
 
+latex_engine = 'lualatex'  # gestisce meglio i font Unicode se hai testo musicale
+
+

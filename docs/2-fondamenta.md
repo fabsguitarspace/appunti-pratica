@@ -10,3 +10,6 @@ Perché una chitarra che “risponde male” ti costringe a compensare... e quan
 L’obiettivo di questo materiale è costruire precisione, controllo, suono e timing. 
 
 Il setup può aiutarti... oppure sabotarti.
+
+### Il tempo prima delle note
+

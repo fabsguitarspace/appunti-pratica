@@ -55,12 +55,12 @@ Troverai routine brevi, esercizi essenziali, strategie per organizzare il tempo,
 
 C’è anche un altro motivo per cui questo materiale esiste come entità. La teoria ha bisogno di respiro, la pratica ha bisogno di concretezza. Mescolarle nello stesso contenitore spesso crea un cortocircuito: chi legge si sente in colpa perché non sta suonando, e chi suona si sente in colpa perché non sta capendo. Qui invece possiamo fare una cosa più sana: leggere quando è tempo di leggere, suonare quando è tempo di suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 
-#### Istruzioni per l’uso
+### Istruzioni per l’uso
 Questo materiale non è un programma militare e non è una lista di doveri. È un quaderno di lavoro, e come tutti i quaderni funziona quando lo usi spesso, anche poco, e soprattutto quando lo usi senza trasformarlo in un tribunale.
 
 Ci sono tre idee che, se le capisci subito, ti salvano anni di frustrazione: distinguere i tre stati mentali, costruire lo studio a mattoncini, e tenere un quaderno di bordo che ti aiuti invece di giudicarti.
 
-### Studio, suonare, performare: tre parole, tre stati mentali
+#### Studio, suonare, performare: tre parole, tre stati mentali
 Molti si incastrano perché chiamano tutto “pratica”. E poi succede che:
 
 - quando studiano si sentono in colpa perché non stanno “suonando”

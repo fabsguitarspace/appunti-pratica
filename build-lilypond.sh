@@ -15,7 +15,7 @@ if [ ! -d "$SRC_DIR" ]; then
   exit 1
 fi
 
-find "$SRC_DIR" -type f -name '*.ly' | while IFS= read -r src; do
+find "$SRC_DIR" -maxdepth 1 -type f -name '*.ly' | while IFS= read -r src; do
   rel="${src#$SRC_DIR/}"
   rel_dir=$(dirname "$rel")
   base=$(basename "$src" .ly)

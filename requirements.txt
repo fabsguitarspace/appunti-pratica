@@ -1,4 +1,4 @@
 sphinx
-sphinxawesome-theme
+shibuya
 myst-parser
 sphinxnotes-lilypond

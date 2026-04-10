@@ -28,9 +28,11 @@ html_logo = "_static/logo.png"
 
 html_theme_options = {
     "logo_target": "https://example.com",
-    "use_download_button": False,
-    "awesome_headerlinks": False
+    "use_download_button": False
 }
+
+html_permalinks_icon = "<span>¶</span>"
+
 html_css_files = ["custom.css"]
 # Facoltativo: migliora la navigazione del tema
 html_theme_options = {

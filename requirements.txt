@@ -1,4 +1,4 @@
-sphinx>=8,<9
+sphinx
 sphinx-typlog-theme
 myst-parser
 sphinxnotes-lilypond

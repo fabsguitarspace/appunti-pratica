@@ -4,7 +4,6 @@ copyright = "youtube.com/@fabsguitarspace"
 release = "0.1"
 
 extensions = [
-    "myst_parser",
     "sphinxnotes.lilypond",
     "sphinx.ext.imgconverter",
 ]

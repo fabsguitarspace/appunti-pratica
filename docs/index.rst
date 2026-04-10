@@ -1,10 +1,8 @@
-#  Appunti di Pratica per Chitarra Jazz
+Appunti di Pratica per Chitarra Jazz
+====================================
 
+.. toctree::
+  :maxdepth: 2
 
-
-```{toctree}
-:maxdepth: 2
-
-1-introduzione
-2-fondamenta
-```
+  1-introduzione
+  2-fondamenta

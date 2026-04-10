@@ -1,4 +1,3 @@
 sphinx
 shibuya
-myst-parser
 sphinxnotes-lilypond

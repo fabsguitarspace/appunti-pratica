@@ -80,7 +80,12 @@ Nello studio puoi e devi:
 - ascoltare i dettagli
 
 La domanda dello studio non è “suona bene?”
+
 È: “sta migliorando?”
+
+Suonare è una forma d'arte pensata per essere piacevole e divertente, tuttavia la pratica è qualcosa che è pensato per metterci volontariamente in difficoltà e in situazioni "scomode".
+
+In questa fase stiamo cercando di imparare **qualcosa di nuovo**, quindi il nostro obiettivo non è divertirci ma puntare su **focus e determinazione**.
 
 
 **Suonare** è un’altra cosa. Suonare è stare nella musica senza pretendere di ottimizzare tutto. È fare frasi, esplorare, improvvisare, compingare (esiste come verbo? 🤔), suonare un brano per piacere o per curiosità. Qui l’obiettivo non è correggere: è far scorrere.

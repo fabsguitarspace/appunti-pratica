@@ -127,15 +127,29 @@ La domanda dello studio non è “suona bene?”
 
 È: “sta migliorando?”
 
-Suonare è una forma d’arte pensata per essere piacevole e divertente,
-tuttavia la pratica è qualcosa che è pensato per metterci
-volontariamente in difficoltà e in situazioni “scomode”.
+Non è tutto divertimento. La musica è una forma d’arte da godere. Tuttavia, praticare la musica è una forma d’arte che dovrebbe farti sentire un po’ a disagio. 
+Stai cercando di imparare qualcosa di nuovo: come potresti sentirti come se ci fossi già passato?
 
-In questa fase stiamo cercando di imparare **qualcosa di nuovo**, quindi
-il nostro obiettivo non è divertirci ma puntare su **focus e
-determinazione**.
+Cerca il piacere nell’ascolto della musica, ma cerca **concentrazione, dedizione, determinazione ed efficacia** nelle tue sessioni di studio.
 
-**Suonare** è un’altra cosa. Suonare è stare nella musica senza
+Dedica un momento separato alla creatività, al suonare e all’improvvisare. Il piacere arriverà di conseguenza, come risultato del fatto che riuscirai a esprimerti con maggiore facilità. 
+
+È un sottoprodotto di una pratica costante e consapevole. 
+
+Prenditi sempre il tempo per celebrare i tuoi progressi... e continua a spingere.
+
+**Studia in modo consapevole.**
+
+Questo concetto copre molti aspetti, ma questi sono i punti chiave:
+
+- **Sii consapevole del suono che produci**. Dopotutto, siamo qui per produrre suono. Non si tratta solo dell’attrezzatura: mi riferisco al suono che produciamo anche senza amplificatore. Si tratta di rispettare il senso stesso dell’esperienza d’ascolto, della musica in quanto tale.
+- **Non limitarti a eseguire gli esercizi: analizzali**. Comprendi perché ogni nota funziona all’interno dell’accordo o della progressione e osservane la funzione intervallare.
+- **Fai attenzione alle tensioni nel corpo**. Potrebbe essere un argomento da masterclass, ma per ora basta dire che la maggior parte degli ostacoli tecnici che incontri nello studio deriva da tensioni corporee.
+- **Concentrati sul ritmo**. Considera ogni esercizio come un’opportunità per sviluppare un forte senso del tempo e del ritmo. L’esercizio da solo non lo farà per te. Anche quando qualcosa è facile, punta a eseguire tempo e ritmo in modo impeccabile. Il ritmo è probabilmente uno degli elementi fondamentali della musica: anche quando un passaggio è “rubato”, si percepisce comunque una qualità ritmica sottostante rispetto al rumore casuale.
+- **Sii creativo**. Per me è l’elemento più importante dello studio. Applica tutto ciò che impari nelle tue composizioni. Non è necessario scrivere brani completi: può essere un nuovo esercizio, un lick, oppure reinventare un esercizio esistente cambiando stile, ritmo, tonalità o tempo.
+- **Registrati**. Studiare può essere un processo impegnativo. Registrare le tue sessioni può essere molto utile: non solo ti permette di ascoltare i progressi e individuare le aree critiche, ma ti aiuta anche nei momenti in cui ti sembra di non migliorare. È un ottimo modo per metterti nei panni dell’ascoltatore e renderti conto dei passi avanti fatti.
+
+**Suonare** è una cosa diversa da studiare. Suonare è stare nella musica senza
 pretendere di ottimizzare tutto. È fare frasi, esplorare, improvvisare,
 compingare (esiste come verbo? 🤔), suonare un brano per piacere o per
 curiosità. Qui l’obiettivo non è correggere: è far scorrere.

@@ -287,3 +287,68 @@ Se lo vivi bene, succedono due cose:
 
 È come camminare: non è importante solo il passo che parte, ma l’alternanza dei passi.
 
+Un esercizio ridicolo ma potentissimo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Metronomo lento. Non suoni niente.
+
+1. Conta a voce: **1 2 3 4**
+2. Batti le mani solo su **2 e 4**
+3. Ora suona una sola nota su **2 e 4** (qualsiasi nota, non importa)
+4. Poi suona una nota su ogni battito... ma continua a “sentire” il backbeat come se le mani battessero ancora su 2 e 4
+
+Se quando inizi a suonare il backbeat sparisce, non è un fallimento: è l’esercizio che sta funzionando. Significa che hai trovato la cosa da allenare.
+
+Sulla chitarra il backbeat vive spesso in tre posti:
+
+- nella mano destra (come attacco e accento)
+- nel muting (le ghost notes fanno da “snare” invisibile)
+- nel comping (accordi corti su 2 e 4, o risposte che rispettano quel peso)
+
+Un comping semplice con accenti sul backbeat può far suonare “musicale” anche un giro banale. Senza backbeat, lo stesso giro può sembrare un esercizio scolastico.
+
+Una frase da tenere a mente:
+
+.. important::
+  Il tempo ti dice dove sei. Il backbeat ti dice come cammini.
+
+Se metti in piedi il backbeat, metà del groove è già lì... e tutto il resto, note comprese, smette di essere una lotta.
+
+Vediamo un modo pratico per imparare a fare del backbeat il nostro gesto quotidiano. 
+Il **count-in** è il “conteggio di partenza”: quei numeri (detti a voce o suonati) che servono a far entrare tutti **insieme**, allo **stesso tempo** e con lo **stesso feel**, prima che inizi davvero il brano.
+
+Dillo così:
+
+**“a ONE... a TWO... a one TWO three FOUR”**
+
+Cioè:
+
+- il primo “a one” e “a two” sono solo per mettere il bpm
+- poi fai sentire che **2 e 4 hanno un peso diverso**
+- poi parti sul successivo 1
+
+Non devi gridare. Basta cambiare micro-intenzione: “due” e “quattro” sono più “pesanti”.
+
+Dinamica: suonare piano è difficile
+-----------------------------------
+
+C’è una cosa che quasi nessuno ti dice subito: **suonare forte è facile, suonare piano no**.
+
+Suonare piano richiede **controllo, ascolto, precisione**. È come scrivere con una matita ben temperata invece che con un pennarello. Con il pennarello “esce” tutto comunque. Con la matita... ogni dettaglio conta.
+
+La dinamica non è solo volume. È **intenzione**. È decidere quanto spazio occupa ogni nota nella stanza.
+
+Volume come intenzione
+~~~~~~~~~~~~~~~~~~~~~~
+
+Molti alzano il volume per “sentirsi” e perché la chitarra, soprattutto elettrica, a basso volume sembra meno soddisfacente. Ma il volume non è una garanzia di musicalità: è solo energia grezza.
+
+Quando inizi a trattare il volume come intenzione, succede questo:
+
+- una nota può essere piccola ma importantissima
+- una frase può essere morbida ma chiarissima
+- un accento può dire più di dieci note veloci
+
+Nel mondo reale, la dinamica è anche un atto di rispetto: se suoni con altri, la tua dinamica decide se stai accompagnando o stai coprendo.
+
+E c’è un paradosso bellissimo: spesso, chi suona piano con controllo, viene percepito come più autorevole. Perché l’orecchio è costretto ad avvicinarsi.

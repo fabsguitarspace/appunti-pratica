@@ -602,3 +602,5 @@ Se riesci a fare questo, la tua musica cambia in un pomeriggio.
    Se non respiri, la frase non vive.
    Se non lasci silenzio, l’orecchio non capisce.
    E quando il respiro diventa tempo... smetti di contare e inizi a parlare.
+
+

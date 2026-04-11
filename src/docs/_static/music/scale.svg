@@ -28,7 +28,7 @@ tspan { white-space: pre; }
 <g transform="translate(5.6906, 10.6243)">
 <rect x="16.9098" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:2:3">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:2:3">
 <g transform="translate(22.9264, 10.6243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -46,7 +46,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(24.1656, 7.6243)">
 <rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:4:5">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:4:5">
 <g transform="translate(25.9286, 10.1243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -54,7 +54,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(27.1678, 7.6243)">
 <rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:6:7">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:6:7">
 <g transform="translate(28.9309, 9.6243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -62,7 +62,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(30.1701, 7.6243)">
 <rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:8:9">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:8:9">
 <g transform="translate(31.9331, 9.1243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -70,7 +70,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(33.1724, 7.6243)">
 <rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:10:11">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:10:11">
 <g transform="translate(36.2621, 8.6243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -78,7 +78,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(37.5013, 7.6243)">
 <rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:12:13">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:12:13">
 <g transform="translate(39.2644, 8.1243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -86,7 +86,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(40.5036, 7.6243)">
 <rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:14:15">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:14:15">
 <g transform="translate(42.2849, 7.6243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
@@ -94,7 +94,7 @@ c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="cur
 <g transform="translate(42.3499, 7.6243)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/notation/scale.ly:4:16:17">
+<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:4:16:17">
 <g transform="translate(45.2871, 7.1243)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>

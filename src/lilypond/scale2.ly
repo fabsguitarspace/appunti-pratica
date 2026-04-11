@@ -1,4 +1,4 @@
-\version "2.24.1"
+\version "2.24.4"
 
 \include "include/my-scales.ly"
 
@@ -27,7 +27,6 @@ scale = #'(
         (place-fret 1 5 "2")
         (place-fret 1 6 "m3"))
 
-
 \markup {
-  \my-scale \scale
+  \my-scale #scale
 }

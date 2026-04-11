@@ -1,22 +1,11 @@
 Scale
 =====
 
-.. lily::
+.. image:: _static/music/scale.*
 
-   \version "2.20.0"
-   \header {
-     title = "C Major Scale"
-   }
+.. raw:: html
 
-   \score {
-     <<
-       \new Staff {
-           \time 4/4
-           \tempo 4 = 70
-           c' d' e' f' g' a' b' c''
-     }
-     >>
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale.mp3" type="audio/mp3">
+   </audio>
 
-     \midi {}
-     \layout {}
-   }

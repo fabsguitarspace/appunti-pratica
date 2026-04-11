@@ -1,3 +1,7 @@
+\header {
+	tagline = ##f
+	indent = 0
+}
 
 #(define-markup-command (my-scale layout props scaleLst) (scheme?)
   "Draw a scale"

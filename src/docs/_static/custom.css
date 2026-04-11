@@ -1,3 +1,9 @@
 .sy-head-brand img {
-    height: 64px;
+    height: 60px;
+}
+
+.audio-controls {
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 5px;
 }

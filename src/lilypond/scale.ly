@@ -1,5 +1,12 @@
 \version "2.24.0"
 
-\relative c' {
-  c d e f g a b c
+\header {
+	tagline = ##f
+	indent = 0
+}
+
+\score {
+  \relative c' { c4 e g c }
+  \layout { }
+  \midi { }
 }

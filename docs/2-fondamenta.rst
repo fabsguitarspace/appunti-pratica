@@ -117,7 +117,7 @@ semiacustiche).
 Non è un dogma… è un punto di partenza intelligente se vuoi mani più
 solide e un suono più fermo.
 
-.. note::
+.. tip::
 	Se cambi scalatura e senti fastidio o tensioni strane, ridimensiona subito.
 	Qui stiamo costruendo controllo… non stiamo facendo prove di forza.
 
@@ -352,3 +352,253 @@ Quando inizi a trattare il volume come intenzione, succede questo:
 Nel mondo reale, la dinamica è anche un atto di rispetto: se suoni con altri, la tua dinamica decide se stai accompagnando o stai coprendo.
 
 E c’è un paradosso bellissimo: spesso, chi suona piano con controllo, viene percepito come più autorevole. Perché l’orecchio è costretto ad avvicinarsi.
+
+Accenti, ghost notes, controllo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La dinamica vive nei contrasti. Non nel “suonare tutto forte” o “tutto piano”, ma nel dare forma al tempo con:
+
+- accenti
+- note fantasma (*ghost notes*)
+- durata
+
+Un *accento* non è solo una nota più forte. È una nota che, per un istante, diventa il centro dell’attenzione.
+
+E può essere ottenuto in più modi:
+
+- più volume
+- attacco più netto
+- nota leggermente più lunga
+- timbro più brillante
+
+La cosa importante è che l’accenti
+
+- note fantasma (ghost notes)
+- durata
+
+l'accento deve essere intenzionale. 
+Se gli accenti capitano a caso, stai solo “inciampando”.
+
+Le ghost notes sono note quasi mute, percussive, che non hanno lo scopo di essere “sentite” come altezza, ma come ritmo. Sono il collante tra un evento e l’altro.
+
+Sulla chitarra spesso sono:
+
+- corde stoppate dalla mano sinistra
+- pennate leggere e secche
+- piccoli colpi che riempiono senza invadere
+
+Le ghost notes sono un segreto del groove perché permettono di:
+
+- mantenere la mano destra in movimento
+- creare pulsazione interna
+- dare l’illusione di una batteria dentro la chitarra
+
+Il controllo è la capacità di scegliere: questa nota sì, questa no. 
+Questa forte, questa appena sussurrata. 
+Questa lunga, questa corta. 
+E la scelta principale è sempre una: **non suonare tutto uguale**.
+
+Stessa frase... tre intensità diverse
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Uno dei modi più rapidi per diventare musicali è prendere una frase semplicissima e farla vivere in tre versioni.
+
+Prendi una frase di 4 note. Anche banale. E suonala così:
+
+#. **Sussurrata**
+   
+   Tutto piano, attacco morbido, note corte. Obiettivo: restare chiaro senza alzare la voce.
+
+#. **Neutra**
+   
+   Volume medio, tutto leggibile, accenti minimi. Obiettivo: stabilità.
+
+#. **Dichiarata**
+
+   Un accento preciso su un punto (spesso 2 o 4, o sul punto “forte” della frase). Obiettivo: far capire all’ascoltatore cosa vuoi dire.
+
+Questo esercizio sembra facile... ma ti costringe a scoprire che la musica non è “le note che suoni”. È come le pronunci.
+
+Suono: la mano destra come fonico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se la mano sinistra decide quali note suonare, la mano destra decide **chi sei**. Perché la mano destra governa la cosa più importante: il suono nel tempo.
+
+Pensala così: la mano destra è il tuo fonico personale. E un fonico bravo non cambia le note... cambia l’impatto.
+
+Ogni nota ha tre momenti, e ognuno di questi è musica:
+
+#. **Attacco**
+
+   Come parte la nota. Secco? Morbido? Aggressivo? Carezzato? L’attacco spesso comunica più della nota stessa.
+
+#. **Durata**
+
+   Quanto rimane. Una nota lunga dice “fermati qui”. Una nota corta dice “vai avanti”.
+
+#. **Rilascio**
+
+   Come finisce. Pulito? Tagliato? Soffocato? Lasciato evaporare? Il rilascio è spesso la differenza tra “suonare” e “parlare”.
+
+Molti chitarristi lavorano sull’attacco e ignorano il rilascio. Ma il rilascio è dove vive il groove: il ritmo non è solo quando suoni... è anche quando smetti.
+
+Dove pizzichi cambia la frase più delle note
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sulla chitarra, cambiare punto di pizzico cambia il timbro in modo drastico:
+
+- vicino al ponte: suono più brillante, più duro, più “pronunciato”
+- verso il manico: suono più rotondo, più morbido, più vocale
+
+La cosa sorprendente è che questo può cambiare la percezione di una frase più di una singola nota diversa. Perché modifica l’intenzione emotiva.
+
+È come dire la stessa frase con un tono diverso:
+
+- ironico
+- serio
+- sussurrato
+- dichiarato
+
+Stessa frase, significato diverso.
+
+Un esercizio semplice: prendi una frase e suonala identica, ma una volta vicino al ponte e una volta verso il manico. Ascolta come cambia il carattere. È teoria del suono, ma fatta con le mani.
+
+Pulizia: muting come parte del groove
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La pulizia non è “non fare rumore”. **La pulizia è decidere quali rumori fanno parte della musica e quali no**.
+
+Il *muting* (stoppare le corde) non è solo un sistema per evitare pasticci. È uno strumento ritmico. Due tipi fondamentali:
+
+- muting della mano sinistra: spegni le corde non suonate, controlli risonanze, crei ghost notes
+- muting della mano destra: *palm muting*, controllo della durata, attacco più percussivo
+
+Quando il muting è fatto bene:
+
+- il groove diventa più chiaro
+- gli accenti diventano più netti
+- la frase sembra “montata” meglio, come un film con tagli puliti
+
+E soprattutto: il silenzio diventa parte del suono. Non un vuoto... ma un evento.
+
+Respirare sullo strumento
+-------------------------
+
+Uno dei motivi per cui tanta gente “suona giusto” ma non comunica è che non respira. Non fisicamente... musicalmente. Le frasi partono, si affollano, si incastrano, e l’orecchio non trova mai un punto dove appoggiarsi.
+
+Respirare sullo strumento significa una cosa semplice: **dare alla musica il diritto di finire una frase prima di iniziarne un’altra. È far sentire che stai parlando, non che stai digitando**.
+
+E la cosa bella è che non serve suonare di più. **Spesso serve suonare di meno**.
+
+Frasi corte, frasi lunghe
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Una frase corta è una frase che dice una cosa sola e la dice bene. È come una battuta in una conversazione: chiara, netta, con un punto.
+
+Le frasi corte servono perché:
+
+- ti costringono a scegliere
+- ti obbligano a mettere intenzione in poche note
+- rendono il ritmo evidente
+- lasciano spazio a risposta e sviluppo
+
+E soprattutto... ti insegnano a non “riempire per ansia”.
+
+Una frase lunga, invece, è una frase che attraversa il tempo senza perdere il filo. Non è “tante note”. È continuità: un’idea che si estende, cambia leggermente, si trasforma, ma resta riconoscibile.
+
+Le frasi lunghe servono perché:
+
+- allenano la tenuta del tempo
+- allenano la direzione (dove sto andando?)
+- evitano il fraseggio a “pezzetti” che sembra una lista
+
+Il punto non è scegliere una volta per tutte. Il punto è avere entrambe le cose nel corpo, e alternarle come fanno i parlanti bravi:
+
+- frasi corte per essere chiari
+- frasi lunghe per raccontare
+
+Un segnale che sei sulla strada giusta: quando riesci a suonare una frase lunga senza accelerare e senza “scappare” dai punti vuoti.
+
+Silenzio attivo
+~~~~~~~~~~~~~~~
+
+Il silenzio non è un buco tra le note.
+
+Il silenzio è una nota che non hai suonato... ma che l’orecchio sente lo stesso.
+
+Silenzio attivo significa che quando non suoni:
+
+- il tempo continua
+- l’intenzione continua
+- la frase continua nella testa
+
+Non stai “aspettando”. Stai tenendo la tensione.
+
+Ci sono due tipi di silenzio che vale la pena riconoscere:
+
+#. Silenzio di punteggiatura
+
+   Serve a chiudere, respirare, far capire che una frase è finita. È il punto, la virgola, i due punti.
+
+#. Silenzio di attesa
+
+   Serve a creare domanda. È il “non detto” che rende interessante la frase successiva. Non è rilassamento... è sospensione.
+
+Molti silenzi sono passivi: molli il tempo, perdi l’idea, e quando rientri rientri a caso.
+
+Il silenzio attivo invece è pieno: rientri con precisione perché stavi contando con il corpo, non con la mente.
+
+.. admonition:: Test semplice
+
+   Riesci a rientrare dopo un silenzio esattamente sul punto giusto senza guardare nessuno e senza andare a tentativi? Se sì, il silenzio è attivo.
+
+
+Il respiro come metronomo interno
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Qui entriamo in una cosa molto concreta e molto sottovalutata: il respiro è un metronomo naturale. 
+Non perché sia perfettamente regolare come una macchina, ma perché ti dà frasi.
+
+Il metronomo esterno (click) ti dà battiti.
+
+Il respiro ti dà periodi musicali.
+
+E infatti tanti musicisti che “hanno tempo” non sembrano contare... sembrano respirare dentro la musica.
+
+Come usare questa cosa?
+
+- Inspira su una parte della frase, espira su un’altra.
+- Fai in modo che la frase abbia un inizio e una fine, come una frase parlata.
+- Se ti accorgi che trattieni il respiro quando suoni un passaggio difficile, quello è un campanello: stai entrando in modalità “controllo rigido”. Rilassa, rallenta, e respira.
+
+Una delle cose più potenti che puoi fare è allenare frasi che durano esattamente quanto un respiro comodo. Non un’apnea, non un fiatone... un respiro naturale.
+
+Perché? Perché ti costringe a:
+
+- distribuire le note nel tempo
+- dare direzione
+- non accelerare
+- non riempire tutto
+
+E se suoni con altri, il respiro ti collega a loro meglio di qualsiasi teoria: tutti respirano, anche se non se ne accorgono.
+
+Un piccolo esercizio: Scegli una frase corta (2 battute). Suonala. Poi fai 1 battuta di silenzio attivo. Poi suonala di nuovo.
+
+Poi prova:
+- frase lunga (4 battute)
+- 2 battute di silenzio attivo
+- rientro perfetto
+
+Non ti interessa quante note. Ti interessa:
+
+- che la frase abbia forma
+- che il silenzio tenga il tempo
+- che il rientro sia inevitabile
+
+Se riesci a fare questo, la tua musica cambia in un pomeriggio.
+
+.. admonition:: Una frase da tenere sul leggio
+  
+   Se non respiri, la frase non vive.
+   Se non lasci silenzio, l’orecchio non capisce.
+   E quando il respiro diventa tempo... smetti di contare e inizi a parlare.

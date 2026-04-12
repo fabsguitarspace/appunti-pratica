@@ -2,41 +2,65 @@
 
 \paper {
   indent = 0
-  ragged-last = ##f
-  ragged-bottom = ##f
   system-count = 3
+}
 
-  % Dimensioni pagina
-  paper-width  = 210\mm
-  paper-height = 160\mm
-  top-margin   = 10\mm
-  bottom-margin = 10\mm
-  left-margin  = 12\mm
-  right-margin = 12\mm
-  between-system-space = 8\mm
-  system-system-spacing.basic-distance = 18
+\header {
+  title = "Blues"
 }
 
 \layout {
   \context {
     \Score
+    \omit Staff.TimeSignature
     \remove "Bar_number_engraver"
-    defaultBarType = ""
+  }
+  \context {
+      \Staff
+      \override VerticalAxisGroup.default-staff-staff-spacing =
+        #'((basic-distance . 14)
+           (minimum-distance . 12)
+           (padding . 6)
+           (stretchability . 0))
+    }
+  \context {
+    \ChordNames
+    chordChanges = ##t
   }
 }
 
-music = \relative c' {
-  \time 4/4
-  \clef treble
-  \key a \major
+functions = {
+  % 12 battute, 3 righe da 4
+  s1^\markup "I7"
+  s1^\markup \bold "I7"
+  s1^\markup \bold "I7"
+  s1^\markup \bold "I7"
+  \break
 
-  % 12 battute vuote, distribuite in 3 righe da 4
-  \repeat unfold 12 { s1 \bar "|" }
+  s1^\markup \bold "IV7"
+  s1^\markup \bold "IV7"
+  s1^\markup \bold "I7"
+  s1^\markup \bold "I7"
+  \break
+
+  s1^\markup \bold "V7"
+  s1^\markup \bold "IV7"
+  s1^\markup \bold "I7"
+  s1^\markup \bold "V7"
+}
+
+staff = \relative c' {
+  \repeat unfold 12 { s1^\markup \vspace #2  \bar "|" }
   \bar "|."
 }
 
 \score {
-  \new Staff {
-    \music
-  }
+  <<
+    \new Staff {
+      <<
+        \new Voice { \functions }
+        \new Voice { \staff }
+      >>
+    }
+  >>
 }

@@ -6,7 +6,7 @@
 }
 
 \header {
-  title = "How Long Blues"
+  title = "Key to the Highway"
 }
 
 \include "include/my-chart.ly"
@@ -14,7 +14,7 @@
 functions = {
   % 12 battute, 3 righe da 4
   s1^\markup "I7"
-  s1
+  s1^\markup "V7"
   s1^\markup "IV7"
   s1
   \break

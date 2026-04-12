@@ -4,9 +4,10 @@ Introduzione
 Prefazione
 -------------
 
-Questo materiale (e il suo gemello “\ **Appunti di Teoria e Armonia per
-Chitarra Jazz**\ ”) nasce libero. Tutti i contenuti qui presenti possono
-essere:
+Questo materiale (e il suo gemello `Appunti di Teoria e Armonia per
+Chitarra Jazz <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io>`__) nasce libero.
+
+Tutti i contenuti qui presenti possono essere:
 
 - letti
 - copiati

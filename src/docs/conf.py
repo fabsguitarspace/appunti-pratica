@@ -31,7 +31,7 @@ html_theme_options = {
     		},
     		{
     			"title": "Appunti di Teoria",
-    			 "url": "https://docs.google.com/document/d/1PsSj1DAIIWZE3kTeEPlP5KFYDZARa8qKCm0nHit_XnM/edit?tab=t.0"
+    			 "url": "https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io"
     		},
         {
             "title": "Fabrizio's Guitar Space",

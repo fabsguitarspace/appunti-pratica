@@ -603,4 +603,49 @@ Se riesci a fare questo, la tua musica cambia in un pomeriggio.
    Se non lasci silenzio, l’orecchio non capisce.
    E quando il respiro diventa tempo... smetti di contare e inizi a parlare.
 
+Mano sinistra: stabilità senza forza
+------------------------------------
+
+La mano sinistra è piena di malintesi. Il più comune è questo: “se non suona bene, devo premere di più”. Quasi sempre è falso. Premere di più raramente risolve... spesso complica: irrigidisce, rallenta, sporca, stanca.
+
+L’obiettivo reale è un altro: **stabilità senza forza**.
+
+Stabilità significa che la nota esce chiara quando vuoi tu. Senza tremare. Senza rumori inutili. Senza che la mano diventi una morsa.
+
+E c’è una buona notizia: la stabilità non nasce dalla potenza. Nasce da micro scelte.
+
+Pressione minima utile
+~~~~~~~~~~~~~~~~~~~~~~
+
+La pressione minima utile è la quantità di forza necessaria perché la nota suoni pulita... e non un grammo di più.
+
+Tutto il resto è spreco. E lo spreco, sulla chitarra, si paga in:
+
+- stanchezza
+- rigidità
+- imprecisione
+- rumori
+- vibrato e bending più difficili
+- intonazione che sale (soprattutto sugli strumenti con action bassa o corde sottili)
+
+Un modo pratico per trovarla:
+
+- metti un dito su una nota e premi appena appena
+- pizzica: magari la nota frigge o non suona
+- aumenta la pressione di poco finché la nota diventa pulita
+- fermati lì
+
+Quello è il tuo “minimo utile” per quella nota, su quel tasto, su quella corda, con quella pressione della mano destra.
+
+La cosa importante è che non è una cifra fissa per sempre. Cambia con:
+
+- il setup dello strumento
+- la corda
+- la posizione
+- il tipo di attacco
+- la dinamica
+
+Ma il principio resta: non cercare la sicurezza nella forza. Cercala nella precisione.
+
+Un indizio che stai premendo troppo: quando lasci la nota e il dito “si stacca” come se fosse incollato, oppure senti tensione nell’avambraccio dopo pochi minuti.
 

@@ -41,18 +41,14 @@ find "$SRC_DIR" -maxdepth 1 -type f -name '*.ly' | while IFS= read -r src; do
 
     # PDF
     lilypond \
-      -o "$target_dir/temp" \
-      -dcrop \
+      -o "$target_dir/$base" \
       "$src"
-    mv "$target_dir/temp.cropped.pdf" "$target_dir/$base.pdf"
+
+    pdfcrop --margins 10 "$pdf_out" "$pdf_out"
 
     # SVG
-    lilypond \
-      --svg \
-      -o "$target_dir/temp" \
-      -dcrop \
-      "$src"
-    mv "$target_dir/temp.cropped.svg" "$target_dir/$base.svg"
+    pdf2svg "$pdf_out" "$svg_out"         
+    
   else
     echo "Salto: $src (già aggiornato)"
   fi

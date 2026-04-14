@@ -7,6 +7,8 @@
 
 \header {
   title = "Key to the Highway"
+  composer = " "
+  tagline = ##f
 }
 
 \include "include/my-chart.ly"
@@ -28,7 +30,7 @@ functions = {
 }
 
 staff = \relative c' {
-  \repeat unfold 8 { s1^\markup \vspace #2  \bar "|" }
+  \repeat unfold 8 { s1 \bar "|" }
   \bar "|."
 }
 

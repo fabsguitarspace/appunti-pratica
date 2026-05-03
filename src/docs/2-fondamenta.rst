@@ -910,7 +910,7 @@ e spesso una nota che non suona bene
 
 Con il roll, invece, resti “incollato” al tasto e fai un micro spostamento controllato.
 
-.. importan::
+.. important::
    
    Il finger roll non è per fare cose veloci. È per fare cose chiare.
 
@@ -1098,4 +1098,328 @@ Il legato bello non è quello che elimina la pennata. È quello che convive con 
    Se il legato ti fa perdere il tempo, stai usando il legato come fuga.
 
    Usalo invece come pronuncia: poche note, chiare, dentro la pulsazione.
+
+Mano destra: picking e controllo
+--------------------------------
+
+La mano destra è dove si decide se la chitarra parla o balbetta.
+
+La mano sinistra sceglie le note... ma la mano destra decide come esistono nel tempo: **attacco, volume, durata, accento, groove**. 
+
+È per questo che due chitarristi possono suonare le stesse identiche note e sembrare due mondi diversi.
+
+Quando la mano destra è instabile, tutto il resto diventa faticoso: anche le frasi più semplici suonano “insicure”. Quando è controllata, la musica sembra più facile... perché lo è.
+
+La pennata... la cosa più personale che hai
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tra tutte le aree “tecniche” da padroneggiare, la pennata è probabilmente la più personale e sottile... ed è uno dei fattori principali che rendono riconoscibile il suono di un chitarrista. 
+
+Non è solo questione di velocità o di pulizia: è proprio **identità**.
+
+La pennata che vedi (la punta del plettro che tocca la corda) è il risultato finale di una serie di movimenti coordinati. 
+
+Puoi pensarla come una catena di leve: muscoli e ossa lavorano insieme, e l’energia può partire da punti diversi del corpo.
+
+Ci sono cinque aree principali coinvolte:
+
+#. Spalla
+#. Gomito
+#. Polso
+#. Pollice e indice (come “pinza” che guida il plettro)
+#. Punta del plettro (il punto di contatto reale con la corda)
+
+E ognuna produce un tipo di movimento diverso:
+
+**Spalla**: movimenti ampi, larghi, “a braccio”
+
+**Gomito**: movimenti ancora ampi, ma più controllati e contenuti
+
+**Polso**: movimento più “a scatto”, elastico (in generale, gran parte del ritmo nasce qui... spalla, gomito e polso sono molto coinvolti nel rhythm playing)
+
+**Pollice e indice**: micro-movimenti più piccoli, spesso circolari, molto fini (spesso entrano di più nel single note playing, quando vuoi precisione e controllo del dettaglio)
+
+L’idea importante non è decidere che “si suona solo di polso” o “solo di gomito”. L’idea è avere più marce disponibili e saperle combinare senza irrigidirsi.
+
+L’attacco nasce dal punto di pressione creato dal pollice che spinge il plettro contro l’indice. E qui succede una cosa decisiva:
+
+- plettro tenuto rigido... attacco più rigido, più “duro”
+- plettro tenuto leggero... attacco più morbido, più “elastico”
+
+Questo non cambia la fisica di base (il plettro tocca la corda comunque)... ma cambia la qualità con cui quella corda viene messa in vibrazione.
+
+Due concetti da separare bene:
+
+- **chiarezza**: dipende soprattutto da quanto precisamente il plettro contatta la corda
+- **qualità dell’attacco**: dipende soprattutto da come tieni il plettro (tensione, angolo, profondità)
+
+E soprattutto... un buon attacco richiede una cosa non negoziabile: sincronizzazione con la mano sinistra. Se mano destra e mano sinistra non arrivano insieme, la nota raddoppia e perde definizione.
+
+Quando studi la pennata, prova a guardare il quadro completo: spalla, gomito, polso, dita, punta del plettro. Non ossessionarti su un solo pezzo del sistema.
+
+Poi però arriva la parte più importante (e più difficile da accettare): l’obiettivo finale è un atteggiamento mentale aperto, in cui la pennata non viene “controllata” in modo ansioso... ma viene guidata dall’orecchio e diventa sempre più automatica. Prima costruisci la meccanica... poi lasci che sia la musica a pilotarla.
+
+Con l’amplificazione e con i suoni moderni, la chitarra può produrre tantissimi colori diversi. Questo cambia le regole del gioco: non basta più conoscere bene una sola modalità di pennata (solo polso, solo gomito, ecc.). Serve sviluppare più elementi, perché situazioni diverse richiedono risposte diverse.
+
+Qui rientra anche la scelta del plettro: provare plettri di dimensioni, forme e spessori diversi è utile, perché il plettro è un “governatore” del suono. A parità di mano, un plettro diverso cambia resistenza, attacco, dinamica, rumore di contatto.
+
+Ultima cosa (che sorprende molti): anche la scelta delle diteggiature della mano sinistra influenza la pennata. Se cambi diteggiatura, spesso cambia anche come “cade” la mano destra sulle corde... e quindi cambia il suono. Per questo, all’inizio, ha senso essere rigorosi con le diteggiature: ti dà un laboratorio stabile in cui capire cosa stai facendo.
+
+Alternate, economy, sweep... ma prima il suono
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Alternate picking, economy, sweep: sono parole che fanno venire voglia di “imparare la tecnica giusta”. Ma la domanda che viene prima è un’altra:
+
+  Il mio suono è consistente? 
+
+Perché se il suono cambia a caso, qualsiasi tecnica scegli diventa solo un modo diverso di essere incoerente.
+
+Quindi l’ordine è questo:
+
+- suono chiaro e controllato
+- attacco stabile
+- dinamica sotto controllo
+- solo dopo... scegli la tecnica più efficiente per quel contesto
+
+L’**alternate picking** è la base più universale perché ti dà simmetria: giù-su-giù-su.
+
+È ottimo per:
+
+- precisione
+- groove regolare
+- chiarezza sulle suddivisioni
+
+Ma non è “obbligatorio”. È uno strumento.
+
+L’**economy picking** è la scelta naturale quando vuoi seguire il movimento: se stai andando verso il basso e cambi corda “in quella direzione”, continui a scendere. Risparmi movimento.
+
+Ottimo per:
+
+- linee veloci su più corde
+- frasi scalari che cambiano corda spesso
+
+.. attention::
+
+   Economy non significa “scivolare”. Significa essere economici senza perdere articolazione.
+
+Economy e sweep sembrano parenti (e lo sono), ma hanno scopi e “dimensioni” diverse.
+
+Economy picking è “alternate con buon senso” quando cambi corda.
+
+Su una corda vai spesso giù-su (alternate).
+
+Quando cambi corda nella stessa direzione della pennata, non “rompi” il movimento: fai due colpi uguali di fila (tipo giù-giù oppure su-su).
+
+Lo **sweep picking** un gesto “a rastrello” su più corde consecutive, come se la pennata fosse un movimento unico.
+
+Tipico negli arpeggi: scendi su 3-5 corde con una pennata continua verso il basso (o risali verso l’alto).
+
+Qui l’obiettivo è un solo gesto che attraversa corde diverse.
+
+Lo sweep vero e proprio è spesso su 3o più corde, con controllo di muting per evitare che le note si sovrappongano.
+
+Lo sweep picking è un gesto bellissimo, ma viene spesso usato come scorciatoia. In realtà è una disciplina: se lo sweep non è controllato, diventa un impasto.
+
+Ottimo per:
+
+- arpeggi “a cascata”
+- fraseggio arpeggiato fluido
+
+Ma prima deve essere pulito a velocità bassa. Sempre.
+
+Una regola che vale per tutte e tre:
+
+   se non suona bene lento, non suonerà bene veloce... suonerà solo più forte e più confuso.
+
+
+Gypsy picking
+~~~~~~~~~~~~~
+Dopo aver fatto una panoramica dei tipi di tecnica di plettro più diffusi su metodi e corsi, voglio fare qui un approfondimento sulla tecnica del plettro **che ti consiglio**.
+
+Non esiste un nome universalmente condiviso ma poiché è tipicamente associata ai chitarristi *manouche* o *gypsy jazz* la chiameremo **gypsy picking** (anche se questa tecnica caratterizza e accomuna virtuosi della chitarra come Yngwie Malmsteen, Joscho Stephan e Joe Pass).
+
+Caratteristiche chiave:
+
+- **Rest stroke** (*appoggio*): ogni colpo (soprattutto *downstroke*) si appoggia sulla corda sotto
+- **Downstroke dominante**: anche cambiando corda, spesso vai comunque in giù
+- **Cambio corda “verticale”**: non segui la direzione più comoda, ma mantieni la logica del suono
+- **Attacco forte e pieno**
+- Movimento dal polso + avambraccio, non micro-movimenti
+
+.. image:: 
+   _static/images/gypsy-picking.jpeg
+   :width: 100%
+
+
+Risultato:
+
+- suono grosso, proiettato, acustico
+- fraseggio molto articolato e “parlato”
+
+Questa tecnica non è “una variante”… è proprio un’altra filosofia:
+
+- ❌ Non cerca efficienza
+- ✅ Cerca suono e accento
+
+Ogni nota importante ha un colpo “vero”. Non è una sequenza meccanica ma è quasi una pronuncia.
+
+Gli altri sistemi ottimizzano il movimento, il gypsy picking ottimizza il **suono**.
+
+Joe Pass e Yngwie Malmsteen costruiscono le loro frasi per ottimizzare questo approccio e così facendo riescono a raggiungere pulizia, definizione e velocità impensabili con le altre tecniche.
+
+
+
+Downward pickslanting
+^^^^^^^^^^^^^^^^^^^^^
+L’orientamento del plettro rispetto al piano delle corde viene chiamato **pickslanting**, e si distinguono tre tipi principali:
+
+- downward pickslanting 
+- upward pickslanting
+- zero-degree pickslanting
+
+Il **downward pickslanting**, o **DWPS**, è un orientamento della pennata in cui il plettro è inclinato verso il basso (verso il pavimento). Il suo utilizzo principale è quello di garantire un attacco del plettro fluido durante il movimento **USX**.
+
+.. image:: 
+   _static/images/dwps.jpeg
+   :width: 100%
+
+Se immagini la punta del plettro collegata alla corda come una cerniera — come il flap di un’ala di un aereo — il downward pickslanting è l’orientamento in cui questo “flap” punta verso il basso.
+
+L’orientamento opposto è l’**upward pickslanting** (UWPS), in cui il plettro appare inclinato verso il soffitto.
+
+Lo scopo del pickslanting è garantire un attacco del plettro fluido quando si utilizza un movimento di escape diagonale.
+
+Nel caso più semplice, con il plettro verticale, il movimento diagonale crea un problema detto “**garage spikes**”, in cui una delle due direzioni della pennata (giù o su) tende a “impigliarsi” nella corda.
+
+**Escape** è il momento in cui il plettro **esce dal piano delle corde**.
+
+Cioè dopo una pennata, il plettro non resta incastrato tra le corde, ma si solleva sopra… ed è libero di muoversi.
+
+Pensa a due “zone”:
+
+- 🔒 tra le corde → sei “intrappolato”
+- ✈️ sopra le corde → sei “in escape”
+
+.. image:: 
+   _static/images/usx.jpeg
+   :width: 100%
+
+L'**upstroke escape** (**USX**) è il meccanismo in cui la pennata in su (*upstroke*) esce dal piano delle corde e la pennata in giù resta “dentro”.
+
+.. important::
+
+   Con l'upstroke escape (USX) puoi cambiare corda solo dopo l’upstroke.
+
+In un movimento di pennata USX, il plettro non si muove parallelamente alle corde, ma segue invece una traiettoria diagonale in cui le pennate in su (upstroke) entrano nella zona di uscita (escape zone). Per compensare questo movimento inclinato, il plettro deve inclinarsi nella direzione opposta — verso il basso — per ripristinare un attacco simmetrico di circa 90 gradi rispetto alla corda.
+
+.. attention::
+
+   USX non è alternate picking
+
+   Non è importante solo: giù / su
+
+   ma dove finisce il plettro dopo ogni colpo
+
+Esistono molti modi per eseguire un movimento USX, utilizzando diverse impugnature del plettro, posizioni del braccio e movimenti articolari. Sebbene abbiano tutti in comune il fatto di permettere alle upstroke di uscire dalle corde, questi movimenti possono apparire anche molto diversi tra loro. 
+
+La posizione del braccio supinata e il polso flesso sono molto comuni per il playing USX e genera un angolo di uscita (*escape angle*) di circa 35 gradi. 
+
+Mike Stern usa invece una tecnica USX che utilizza un braccio meno supinato e un movimento di pennata basato principalmente sul polso. Il suo angolo di uscita è di circa 10 gradi, e il corrispondente pickslant verso il basso, anch’esso di circa 10 gradi, appare visivamente molto più vicino alla perpendicolarità.
+
+In generale, i movimenti basati sul polso, come quello di Mike, tendono a essere più paralleli alle corde e producono angoli di uscita più piccoli rispetto a quelli che coinvolgono anche l’avambraccio e generano un’uscita più verticale. 
+
+Non esiste un “costo meccanico” nel pickslanting, e avere meno inclinazione non è meglio di averne di più. In un certo senso, non esiste nemmeno davvero un “più” o “meno” pickslant, perché l’obiettivo finale è sempre quello di ottenere un attacco del plettro esattamente a 90 gradi rispetto al movimento della pennata.
+
+Il gesto “girare una chiave” (rotazione)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nella plettrata “pulita” il movimento buono assomiglia al gesto di **girare una chiave nella serratura**... una piccola rotazione (tipo pronazione/supinazione) che fa muovere il plettro con pochissima fatica. Il movimento da evitare invece è la deviazione... cioè piegare il polso “di lato” (radiale/ulnare) come se stessi facendo “ciao ciao” con la mano.
+
+Immagina di avere una chiave tra pollice e indice e di fare un micro “clic” per aprire... non alzi e abbassi la mano, non la sposti a destra e sinistra... ruoti.
+
+Cosa succede sulla chitarra:
+
+- il plettro entra ed esce dalla corda con un percorso naturale
+- il movimento è piccolo, elastico, ripetibile
+- l’avambraccio e il polso lavorano senza “spigoli”
+- a parità di velocità... meno tensione e più controllo del suono
+
+Perché evitare la “deviazione”? La deviazione è quando il polso si piega lateralmente. Problemi tipici:
+
+- tende a irrigidire i tendini... e ti fa “spingere” invece di oscillare
+- la punta del plettro spesso scava di più nella corda... quindi più attrito e impuntamenti
+- il tempo si scompone: un colpo è più grande, l’altro più piccolo... e la pennata perde regolarità
+- quando aumenti la velocità, la deviazione “collassa” e compaiono scatti e rumori
+
+In pratica: per qualche bpm funziona... poi diventa una lotta.
+
+Due cure pratiche per sentirlo subito:
+
+1. Plettro che “galleggia”: se senti che il plettro resta vicino alla superficie della corda senza incastrarsi... sei nella zona giusta.
+2. Polso morbido, mano ferma: la mano non deve “viaggiare”... deve solo oscillare.
+
+Fingerpicking e Hybrid Picking: quando la mano destra diventa un’orchestra
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A un certo punto ti accorgi che il plettro è fantastico... ma non è tutto. Ci sono gesti, timbri e accenti che vengono naturali solo quando entrano in gioco le dita. E non è una scelta “di stile” (solo country, solo classica)... è una scelta di linguaggio.
+
+**Fingerpicking** e **hybrid picking** ti danno tre superpoteri pratici:
+
+- controllo indipendente tra bassi e voci alte
+- dinamica più fine (puoi sussurrare e dichiarare nella stessa battuta)
+- attacchi diversi nello stesso istante (una nota pennata e una pizzicata non sono la stessa parola)
+
+**Fingerpicking** significa suonare senza plettro, usando pollice e dita (di solito pollice + indice medio anulare). La cosa più importante non è “imparare mille pattern”... è imparare a far lavorare la mano destra come se avesse ruoli.
+
+- il pollice spesso diventa il “basso” (pulsazione, camminata, pedale)
+- le dita diventano le “voci” (accordi spezzati, melodie, risposte)
+
+Quando funziona, succede una magia semplice: la musica sembra avere più strumenti dentro.
+
+Errori tipici:
+
+- pollice che suona troppo forte e copre tutto
+- dita che tirano la corda verso l’alto in modo irregolare (volume instabile)
+- mano rigida, con dita che si aprono troppo
+
+Correzioni:
+
+- pensa al pollice come a un metronomo caldo: presente ma non invadente
+- dita vicine alle corde, movimenti piccoli
+- suona piano... se suoni piano e rimane chiaro, stai costruendo controllo vero
+
+**Hybrid picking** è una soluzione geniale... tieni il plettro tra pollice e indice, ma usi anche medio e anulare per pizzicare altre corde.
+
+È il ponte perfetto tra mondo “pennato” e mondo “a dita”. E ha un vantaggio enorme: puoi fare cose impossibili con il solo plettro, tipo:
+
+- suonare due corde non adiacenti nello stesso istante
+- fare double-stops precisi e percussivi
+- alternare attacco di plettro e attacco di dito per cambiare colore in una frase
+
+Dove si sente subito:
+
+- fraseggio blues e country (il famoso “snap”)
+- jazz comping leggero, con voci interne che emergono
+- arpeggi e accordi spezzati senza perdere la possibilità di pennare una linea
+
+Errori tipici:
+
+- dita che “strappano” troppo la corda e alzano il volume a caso
+- plettro che diventa timido perché tutta l’attenzione va alle dita
+- confusione sul muting: corde che risuonano quando pizzichi
+
+Correzioni:
+
+- dita: pizzico corto, come se stessi “accendendo” la corda, non tirandola via
+- plettro: resta il tuo binario ritmico, non sparire
+- muting: mano sinistra e palmo destro devono collaborare... soprattutto quando pizzichi corde non contigue
+
+Con plettro + dita hai attacchi diversi per natura. Il trucco non è renderli identici... è renderli coerenti.
+
+Domanda guida:
+
+- voglio che plettro e dita suonino come due strumenti diversi (contrasto)?
+- oppure voglio un suono più omogeneo (fusione)?
+
+Entrambe le strade sono valide... ma devi sceglierlo tu, non lasciarlo al caso.
 

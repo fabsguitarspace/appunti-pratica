@@ -12,7 +12,7 @@ Perché una chitarra che “risponde male” ti costringe a compensare… e
 quando compensi, non stai studiando musica: stai negoziando con lo
 strumento.
 
-L’obiettivo di questo materiale è costruire **precisione, controllo,
+L'obiettivo di questo materiale è costruire **precisione, controllo,
 suono e timing**.
 
 Il setup può aiutarti… oppure sabotarti.
@@ -30,7 +30,7 @@ Se hai:
 - un manico troppo curvo o troppo dritto
 
 allora il tuo cervello non capisce più cosa sta succedendo: non sai se
-l’errore è tuo o dello strumento.
+l'errore è tuo o dello strumento.
 
 Quindi, se puoi, fai controllare:
 
@@ -48,7 +48,7 @@ Qui stiamo parlando di tecnica nel senso più concreto possibile: non
 condizioni di funzionare bene. Puoi fare ore e ore di esercizi, ma se la
 posizione di base lavora contro di te, stai remando con un freno tirato.
 
-L’obiettivo è semplice: **togliere attrito inutile**, così quello che
+L'obiettivo è semplice: **togliere attrito inutile**, così quello che
 studi resta… e si trasferisce davvero nel suonare.
 
 **Indossa sempre la tracolla anche da seduto**. Non è una questione di
@@ -56,11 +56,11 @@ stile… è una questione di libertà.
 
 - Le mani non devono “tenere su” la chitarra… quello è il lavoro della
   tracolla.
-- Regola la tracolla in modo che l’altezza e la posizione dello
+- Regola la tracolla in modo che l'altezza e la posizione dello
   strumento siano le stesse da seduto e in piedi.
 - La coerenza conta: se studi seduto con la chitarra alta e poi suoni in
   piedi con la chitarra bassa, gran parte di ciò che hai “programmato”
-  nel corpo cambia all’improvviso.
+  nel corpo cambia all'improvviso.
 
 In pratica… fai in modo che il tuo corpo impari sempre lo stesso gesto,
 nello stesso assetto.
@@ -75,7 +75,7 @@ Evita queste abitudini:
 - non “collassare” in avanti con le spalle
 - non appoggiare la chitarra completamente piatta sulla coscia (un
   leggero angolo va bene)
-- non scaricare il peso dell’avambraccio sinistro sulla coscia sinistra
+- non scaricare il peso dell'avambraccio sinistro sulla coscia sinistra
   (se diventa abitudine, blocca movimenti e libertà)
 - non spingere il manico troppo in avanti, come se dovessi “raggiungere”
   le note
@@ -102,7 +102,7 @@ prevedibile e una mano sinistra stabile.
 
 Per questo la corda deve offrirti **resistenza** e soprattutto un buon
 **ritorno**: deve tornare al suo centro in modo consistente dopo
-l’attacco.
+l'attacco.
 
 Corde troppo leggere spesso:
 
@@ -121,13 +121,13 @@ solide e un suono più fermo.
 	Se cambi scalatura e senti fastidio o tensioni strane, ridimensiona subito.
 	Qui stiamo costruendo controllo… non stiamo facendo prove di forza.
 
-Un’action medio-alta (senza esagerare) aiuta perché:
+Un'action medio-alta (senza esagerare) aiuta perché:
 
 - riduce i buzz
 - rende più educativa la mano sinistra (pressione e rilassamento reali)
 - costringe la mano destra a essere più accurata
 
-Nel tempo, se vuoi, puoi tornare a un’action più bassa... ma partire “troppo facile” spesso impigrisce.
+Nel tempo, se vuoi, puoi tornare a un'action più bassa... ma partire “troppo facile” spesso impigrisce.
 
 Nella vita reale molti suonano con:
 
@@ -137,7 +137,7 @@ Nella vita reale molti suonano con:
 
 per esigenze di stile, comfort, live, repertorio. È normale.
 
-Se però puoi permettertelo, un’idea furba è avere:
+Se però puoi permettertelo, un'idea furba è avere:
 
 - una chitarra “da suonare”
 - una chitarra “da studiare”
@@ -146,7 +146,7 @@ Non è obbligatorio, ma è un modo semplice per non dover cambiare setup ogni se
 
 Se lo strumento è regolato bene, ogni esercizio diventa più onesto: senti subito se il problema è nel suono, nel tempo o nel gesto.
 
-E quando lo studio è onesto... i progressi non sono un’opinione: si sentono.
+E quando lo studio è onesto... i progressi non sono un'opinione: si sentono.
 
 
 Il tempo prima delle note
@@ -156,26 +156,26 @@ Se vuoi una verità semplice ma scomoda: la musica non è fatta di note. Le note
 
 Puoi suonare le note giuste e non suonare musica. Puoi suonare due note soltanto e far succedere qualcosa di enorme, se il tempo è vivo.
 
-Per questo il lavoro più importante, soprattutto all’inizio, non è “quale scala”, “quale accordo”, “quale diteggiatura”. È mettere a posto la cosa che regge tutto: la **pulsazione**.
+Per questo il lavoro più importante, soprattutto all'inizio, non è “quale scala”, “quale accordo”, “quale diteggiatura”. È mettere a posto la cosa che regge tutto: la **pulsazione**.
 
 Pulsazione, non griglia
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Molti studiano il tempo come se fosse un foglio quadrettato: una griglia che devi riempire correttamente. È comprensibile... ma è un’immagine che ti porta fuori strada.
+Molti studiano il tempo come se fosse un foglio quadrettato: una griglia che devi riempire correttamente. È comprensibile... ma è un'immagine che ti porta fuori strada.
 
 La pulsazione non è un reticolo. È più vicina a:
 
 - una camminata
 - un respiro
 - un dondolio
-- un peso che passa da un piede all’altro
+- un peso che passa da un piede all'altro
 
 Quando il tempo è griglia, suoni “corretto”. Quando il tempo è pulsazione, suoni “vivo”. La differenza si sente subito:
 
 - nella griglia, conti
 - nella pulsazione, ti muovi
 
-E non è una cosa poetica. È fisica: se la pulsazione è nel corpo, le mani smettono di inseguire. Se la pulsazione non c’è, le mani corrono, frenano, si irrigidiscono, anticipano, ritardano a caso.
+E non è una cosa poetica. È fisica: se la pulsazione è nel corpo, le mani smettono di inseguire. Se la pulsazione non c'è, le mani corrono, frenano, si irrigidiscono, anticipano, ritardano a caso.
 
 Un modo semplice per capire se stai vivendo la pulsazione:
 
@@ -210,7 +210,7 @@ Se un esercizio a 60 bpm ti fa irrigidire, è troppo veloce. Se a 40 bpm ti anno
 Cose intelligenti da fare col metronomo:
 
 - suonare pochissimo (anche una sola nota) ma perfettamente dentro
-- curare attacco e durata, non solo l’istante in cui “parti”
+- curare attacco e durata, non solo l'istante in cui “parti”
 - tenere il click come “batterista minimale”, non come poliziotto
 
 E soprattutto: il metronomo non serve a dimostrare che sei preciso. Serve a costruire una sensazione interna che poi resta anche quando lui sparisce.
@@ -220,14 +220,14 @@ Un segno che lo stai usando bene è quando, dopo averlo spento, continui a senti
 Dove cade davvero il “due” e perché cambia tutto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Questa è una delle cose più semplici da dire e più difficili da fare: molti non perdono il tempo sull’“uno”. Lo perdono sul “due”.
+Questa è una delle cose più semplici da dire e più difficili da fare: molti non perdono il tempo sull'“uno”. Lo perdono sul “due”.
 
-Perché? Perché l’“uno” è un faro: è l’inizio, è evidente, è l’appoggio naturale. Il “due” invece è il posto in cui si capisce se stai camminando davvero o se stai solo saltellando.
+Perché? Perché l'“uno” è un faro: è l'inizio, è evidente, è l'appoggio naturale. Il “due” invece è il posto in cui si capisce se stai camminando davvero o se stai solo saltellando.
 
 Pensa a una camminata:
 
-- un piede è l’uno
-- l’altro piede è il due
+- un piede è l'uno
+- l'altro piede è il due
 
 Se uno dei due piedi arriva incerto, tutto il passo diventa instabile.
 
@@ -237,7 +237,7 @@ Quando il “due” è debole o spostato male, succede questo:
 
 - la frase sembra inciampare
 - acceleri senza accorgertene
-- l’accento finisce in posti strani
+- l'accento finisce in posti strani
 - perdi il backbeat, quindi perdi il linguaggio
 
 E qui arriva la cosa potente: se metti a posto il “due”, metti a posto mezzo mondo.
@@ -255,14 +255,14 @@ Non devi essere bravo. Devi essere stabile.
 
 Ora prendi la chitarra. Quando senti che il “due” è solido, prova a suonare una nota sola su “2”. Poi due note. Poi una frase (se ci riesci). Ma sempre con quel “due” ben piantato.
 
-Il motivo per cui cambia tutto è che il “due” è un punto di verità: ti obbliga a distribuire il tempo, non a puntare solo sul faro dell’“uno”.
+Il motivo per cui cambia tutto è che il “due” è un punto di verità: ti obbliga a distribuire il tempo, non a puntare solo sul faro dell'“uno”.
 
 Il backbeat: la spina dorsale del groove
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se c’è una cosa che separa “sto contando” da “sto suonando”, spesso è questa: **il backbeat**.
+Se c'è una cosa che separa “sto contando” da “sto suonando”, spesso è questa: **il backbeat**.
 
-Il backbeat è l’accento su **2 e 4** dentro una misura in 4/4.
+Il backbeat è l'accento su **2 e 4** dentro una misura in 4/4.
 
 È la sensazione di battere le mani sul “due” e sul “quattro”, come fanno i cori, come fa il pubblico ai concerti, come fa la batteria con lo snare in buona parte della musica moderna.
 
@@ -278,14 +278,14 @@ Quando il backbeat è presente, anche un fraseggio semplice sembra “giusto”.
 
 Quando manca (o è debole), puoi suonare mille note e sembrare fuori posto, anche se sei a tempo.
 
-Il backbeat non è solo “accentare”. Qui c’è il punto: non è solo mettere più volume su 2 e 4. È sentire che 2 e 4 sono **il posto dove il corpo si appoggia**.
+Il backbeat non è solo “accentare”. Qui c'è il punto: non è solo mettere più volume su 2 e 4. È sentire che 2 e 4 sono **il posto dove il corpo si appoggia**.
 
 Se lo vivi bene, succedono due cose:
 
-- smetti di correre sull’*uno*
+- smetti di correre sull'*uno*
 - inizi a distribuire il tempo con equilibrio
 
-È come camminare: non è importante solo il passo che parte, ma l’alternanza dei passi.
+È come camminare: non è importante solo il passo che parte, ma l'alternanza dei passi.
 
 Un esercizio ridicolo ma potentissimo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -297,7 +297,7 @@ Metronomo lento. Non suoni niente.
 3. Ora suona una sola nota su **2 e 4** (qualsiasi nota, non importa)
 4. Poi suona una nota su ogni battito... ma continua a “sentire” il backbeat come se le mani battessero ancora su 2 e 4
 
-Se quando inizi a suonare il backbeat sparisce, non è un fallimento: è l’esercizio che sta funzionando. Significa che hai trovato la cosa da allenare.
+Se quando inizi a suonare il backbeat sparisce, non è un fallimento: è l'esercizio che sta funzionando. Significa che hai trovato la cosa da allenare.
 
 Sulla chitarra il backbeat vive spesso in tre posti:
 
@@ -332,7 +332,7 @@ Non devi gridare. Basta cambiare micro-intenzione: “due” e “quattro” son
 Dinamica: suonare piano è difficile
 -----------------------------------
 
-C’è una cosa che quasi nessuno ti dice subito: **suonare forte è facile, suonare piano no**.
+C'è una cosa che quasi nessuno ti dice subito: **suonare forte è facile, suonare piano no**.
 
 Suonare piano richiede **controllo, ascolto, precisione**. È come scrivere con una matita ben temperata invece che con un pennarello. Con il pennarello “esce” tutto comunque. Con la matita... ogni dettaglio conta.
 
@@ -351,7 +351,7 @@ Quando inizi a trattare il volume come intenzione, succede questo:
 
 Nel mondo reale, la dinamica è anche un atto di rispetto: se suoni con altri, la tua dinamica decide se stai accompagnando o stai coprendo.
 
-E c’è un paradosso bellissimo: spesso, chi suona piano con controllo, viene percepito come più autorevole. Perché l’orecchio è costretto ad avvicinarsi.
+E c'è un paradosso bellissimo: spesso, chi suona piano con controllo, viene percepito come più autorevole. Perché l'orecchio è costretto ad avvicinarsi.
 
 Accenti, ghost notes, controllo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -362,7 +362,7 @@ La dinamica vive nei contrasti. Non nel “suonare tutto forte” o “tutto pia
 - note fantasma (*ghost notes*)
 - durata
 
-Un *accento* non è solo una nota più forte. È una nota che, per un istante, diventa il centro dell’attenzione.
+Un *accento* non è solo una nota più forte. È una nota che, per un istante, diventa il centro dell'attenzione.
 
 E può essere ottenuto in più modi:
 
@@ -371,7 +371,7 @@ E può essere ottenuto in più modi:
 - nota leggermente più lunga
 - timbro più brillante
 
-La cosa importante è che l’accenti
+La cosa importante è che l'accenti
 
 - note fantasma (ghost notes)
 - durata
@@ -379,7 +379,7 @@ La cosa importante è che l’accenti
 l'accento deve essere intenzionale. 
 Se gli accenti capitano a caso, stai solo “inciampando”.
 
-Le ghost notes sono note quasi mute, percussive, che non hanno lo scopo di essere “sentite” come altezza, ma come ritmo. Sono il collante tra un evento e l’altro.
+Le ghost notes sono note quasi mute, percussive, che non hanno lo scopo di essere “sentite” come altezza, ma come ritmo. Sono il collante tra un evento e l'altro.
 
 Sulla chitarra spesso sono:
 
@@ -391,7 +391,7 @@ Le ghost notes sono un segreto del groove perché permettono di:
 
 - mantenere la mano destra in movimento
 - creare pulsazione interna
-- dare l’illusione di una batteria dentro la chitarra
+- dare l'illusione di una batteria dentro la chitarra
 
 Il controllo è la capacità di scegliere: questa nota sì, questa no. 
 Questa forte, questa appena sussurrata. 
@@ -415,7 +415,7 @@ Prendi una frase di 4 note. Anche banale. E suonala così:
 
 #. **Dichiarata**
 
-   Un accento preciso su un punto (spesso 2 o 4, o sul punto “forte” della frase). Obiettivo: far capire all’ascoltatore cosa vuoi dire.
+   Un accento preciso su un punto (spesso 2 o 4, o sul punto “forte” della frase). Obiettivo: far capire all'ascoltatore cosa vuoi dire.
 
 Questo esercizio sembra facile... ma ti costringe a scoprire che la musica non è “le note che suoni”. È come le pronunci.
 
@@ -424,13 +424,13 @@ Suono: la mano destra come fonico
 
 Se la mano sinistra decide quali note suonare, la mano destra decide **chi sei**. Perché la mano destra governa la cosa più importante: il suono nel tempo.
 
-Pensala così: la mano destra è il tuo fonico personale. E un fonico bravo non cambia le note... cambia l’impatto.
+Pensala così: la mano destra è il tuo fonico personale. E un fonico bravo non cambia le note... cambia l'impatto.
 
 Ogni nota ha tre momenti, e ognuno di questi è musica:
 
 #. **Attacco**
 
-   Come parte la nota. Secco? Morbido? Aggressivo? Carezzato? L’attacco spesso comunica più della nota stessa.
+   Come parte la nota. Secco? Morbido? Aggressivo? Carezzato? L'attacco spesso comunica più della nota stessa.
 
 #. **Durata**
 
@@ -440,7 +440,7 @@ Ogni nota ha tre momenti, e ognuno di questi è musica:
 
    Come finisce. Pulito? Tagliato? Soffocato? Lasciato evaporare? Il rilascio è spesso la differenza tra “suonare” e “parlare”.
 
-Molti chitarristi lavorano sull’attacco e ignorano il rilascio. Ma il rilascio è dove vive il groove: il ritmo non è solo quando suoni... è anche quando smetti.
+Molti chitarristi lavorano sull'attacco e ignorano il rilascio. Ma il rilascio è dove vive il groove: il ritmo non è solo quando suoni... è anche quando smetti.
 
 Dove pizzichi cambia la frase più delle note
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -450,7 +450,7 @@ Sulla chitarra, cambiare punto di pizzico cambia il timbro in modo drastico:
 - vicino al ponte: suono più brillante, più duro, più “pronunciato”
 - verso il manico: suono più rotondo, più morbido, più vocale
 
-La cosa sorprendente è che questo può cambiare la percezione di una frase più di una singola nota diversa. Perché modifica l’intenzione emotiva.
+La cosa sorprendente è che questo può cambiare la percezione di una frase più di una singola nota diversa. Perché modifica l'intenzione emotiva.
 
 È come dire la stessa frase con un tono diverso:
 
@@ -484,9 +484,9 @@ E soprattutto: il silenzio diventa parte del suono. Non un vuoto... ma un evento
 Respirare sullo strumento
 -------------------------
 
-Uno dei motivi per cui tanta gente “suona giusto” ma non comunica è che non respira. Non fisicamente... musicalmente. Le frasi partono, si affollano, si incastrano, e l’orecchio non trova mai un punto dove appoggiarsi.
+Uno dei motivi per cui tanta gente “suona giusto” ma non comunica è che non respira. Non fisicamente... musicalmente. Le frasi partono, si affollano, si incastrano, e l'orecchio non trova mai un punto dove appoggiarsi.
 
-Respirare sullo strumento significa una cosa semplice: **dare alla musica il diritto di finire una frase prima di iniziarne un’altra. È far sentire che stai parlando, non che stai digitando**.
+Respirare sullo strumento significa una cosa semplice: **dare alla musica il diritto di finire una frase prima di iniziarne un'altra. È far sentire che stai parlando, non che stai digitando**.
 
 E la cosa bella è che non serve suonare di più. **Spesso serve suonare di meno**.
 
@@ -504,7 +504,7 @@ Le frasi corte servono perché:
 
 E soprattutto... ti insegnano a non “riempire per ansia”.
 
-Una frase lunga, invece, è una frase che attraversa il tempo senza perdere il filo. Non è “tante note”. È continuità: un’idea che si estende, cambia leggermente, si trasforma, ma resta riconoscibile.
+Una frase lunga, invece, è una frase che attraversa il tempo senza perdere il filo. Non è “tante note”. È continuità: un'idea che si estende, cambia leggermente, si trasforma, ma resta riconoscibile.
 
 Le frasi lunghe servono perché:
 
@@ -524,12 +524,12 @@ Silenzio attivo
 
 Il silenzio non è un buco tra le note.
 
-Il silenzio è una nota che non hai suonato... ma che l’orecchio sente lo stesso.
+Il silenzio è una nota che non hai suonato... ma che l'orecchio sente lo stesso.
 
 Silenzio attivo significa che quando non suoni:
 
 - il tempo continua
-- l’intenzione continua
+- l'intenzione continua
 - la frase continua nella testa
 
 Non stai “aspettando”. Stai tenendo la tensione.
@@ -544,7 +544,7 @@ Ci sono due tipi di silenzio che vale la pena riconoscere:
 
    Serve a creare domanda. È il “non detto” che rende interessante la frase successiva. Non è rilassamento... è sospensione.
 
-Molti silenzi sono passivi: molli il tempo, perdi l’idea, e quando rientri rientri a caso.
+Molti silenzi sono passivi: molli il tempo, perdi l'idea, e quando rientri rientri a caso.
 
 Il silenzio attivo invece è pieno: rientri con precisione perché stavi contando con il corpo, non con la mente.
 
@@ -567,11 +567,11 @@ E infatti tanti musicisti che “hanno tempo” non sembrano contare... sembrano
 
 Come usare questa cosa?
 
-- Inspira su una parte della frase, espira su un’altra.
+- Inspira su una parte della frase, espira su un'altra.
 - Fai in modo che la frase abbia un inizio e una fine, come una frase parlata.
 - Se ti accorgi che trattieni il respiro quando suoni un passaggio difficile, quello è un campanello: stai entrando in modalità “controllo rigido”. Rilassa, rallenta, e respira.
 
-Una delle cose più potenti che puoi fare è allenare frasi che durano esattamente quanto un respiro comodo. Non un’apnea, non un fiatone... un respiro naturale.
+Una delle cose più potenti che puoi fare è allenare frasi che durano esattamente quanto un respiro comodo. Non un'apnea, non un fiatone... un respiro naturale.
 
 Perché? Perché ti costringe a:
 
@@ -600,7 +600,7 @@ Se riesci a fare questo, la tua musica cambia in un pomeriggio.
 .. admonition:: Una frase da tenere sul leggio
   
    Se non respiri, la frase non vive.
-   Se non lasci silenzio, l’orecchio non capisce.
+   Se non lasci silenzio, l'orecchio non capisce.
    E quando il respiro diventa tempo... smetti di contare e inizi a parlare.
 
 Mano sinistra: stabilità senza forza
@@ -608,11 +608,11 @@ Mano sinistra: stabilità senza forza
 
 La mano sinistra è piena di malintesi. Il più comune è questo: “se non suona bene, devo premere di più”. Quasi sempre è falso. Premere di più raramente risolve... spesso complica: irrigidisce, rallenta, sporca, stanca.
 
-L’obiettivo reale è un altro: **stabilità senza forza**.
+L'obiettivo reale è un altro: **stabilità senza forza**.
 
 Stabilità significa che la nota esce chiara quando vuoi tu. Senza tremare. Senza rumori inutili. Senza che la mano diventi una morsa.
 
-E c’è una buona notizia: la stabilità non nasce dalla potenza. Nasce da micro scelte.
+E c'è una buona notizia: la stabilità non nasce dalla potenza. Nasce da micro scelte.
 
 Pressione minima utile
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -647,7 +647,7 @@ La cosa importante è che non è una cifra fissa per sempre. Cambia con:
 
 Ma il principio resta: non cercare la sicurezza nella forza. Cercala nella precisione.
 
-Un indizio che stai premendo troppo: quando lasci la nota e il dito “si stacca” come se fosse incollato, oppure senti tensione nell’avambraccio dopo pochi minuti.
+Un indizio che stai premendo troppo: quando lasci la nota e il dito “si stacca” come se fosse incollato, oppure senti tensione nell'avambraccio dopo pochi minuti.
 
 Micro movimenti, macro risultati
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -742,23 +742,23 @@ Supportive Fingering
 
 Il **supportive singering** è una di quelle cose che, quando la scopri, ti chiedi come hai fatto a non farla prima. Perché non è una “tecnica speciale”... è buon senso applicato alla mano sinistra.
 
-L’idea è semplice: le dita non sono quattro entità separate. Sono un sistema. E un sistema funziona meglio quando le parti si aiutano.
+L'idea è semplice: le dita non sono quattro entità separate. Sono un sistema. E un sistema funziona meglio quando le parti si aiutano.
 
 Supportive fingering significa proprio questo: quando un dito sta facendo un lavoro difficile (tenere una nota, piegare una corda, fare vibrato, sostenere un legato), le altre dita possono supportarlo aggiungendo stabilità e togliendo tensione.
 
-Il risultato non è solo “più forza”. È l’opposto: meno fatica, più controllo, più intonazione, più suono.
+Il risultato non è solo “più forza”. È l'opposto: meno fatica, più controllo, più intonazione, più suono.
 
 Dita che si aiutano... e la mano si rilassa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Molti suonano come se ogni dito dovesse dimostrare di essere indipendente. È un mito da palestra. Nella musica reale, l’indipendenza totale non è un valore... lo è l’efficacia.
+Molti suonano come se ogni dito dovesse dimostrare di essere indipendente. È un mito da palestra. Nella musica reale, l'indipendenza totale non è un valore... lo è l'efficacia.
 
 Quando fai Supportive Fingering succede questo:
 
 - il dito principale smette di “lottare”
 - la mano si compatta senza irrigidirsi
 - il pollice dietro al manico non deve stringere
-- l’intonazione diventa più stabile
+- l'intonazione diventa più stabile
 
 E soprattutto: le dita “di supporto” non servono a schiacciare. Servono a condividere il carico.
 
@@ -793,7 +793,7 @@ Il **vibrato**, per essere bello, deve essere:
 
 - regolare
 - controllato
-- coerente con l’intonazione (non un tremolio nervoso)
+- coerente con l'intonazione (non un tremolio nervoso)
 
 Con un dito solo spesso diventa un micro panico. Con supporto, invece, il vibrato nasce da un movimento più stabile della mano e il dito principale può concentrarsi sulla finezza, non sulla sopravvivenza.
 
@@ -828,7 +828,7 @@ Le dita di supporto devono dare appoggio, non stritolare la corda.
 
 **Errore 2: pollice che stringe come una morsa**
 
-È l’errore classico: per compensare un bending o una nota tenuta, il pollice dietro al manico stringe. Risultato: avambraccio duro, mano lenta.
+È l'errore classico: per compensare un bending o una nota tenuta, il pollice dietro al manico stringe. Risultato: avambraccio duro, mano lenta.
 
 Correzione: lascia che il supporto venga dalle dita e dal movimento della mano, non dalla pinza pollice-indice. Il pollice è un punto di riferimento, non un gancio.
 
@@ -840,7 +840,7 @@ Correzione: tienile vicine, pronte. Non devono essere tese, devono essere dispon
 
 **Errore 4: perdere intonazione nei bending**
 
-Senza supporto, l’intonazione va e viene. Con troppo supporto e troppa forza, l’intonazione sale troppo.
+Senza supporto, l'intonazione va e viene. Con troppo supporto e troppa forza, l'intonazione sale troppo.
 
 Correzione: fai bending lenti, ascolta il punto di arrivo, e usa il supporto per stabilizzare, non per superare il target.
 
@@ -864,14 +864,14 @@ Finger Roll
 
 Il **finger roll** è una tecnica minuscola, quasi invisibile... ma ti apre porte enormi. È uno di quei gesti che fanno sembrare la chitarra più “fluida”, più legata, più naturale, senza che tu debba correre o fare acrobazie.
 
-L’idea è semplice: suoni due (o più) note su corde adiacenti usando lo stesso dito, ma non come un barré fisso. Le suoni una dopo l’altra, “rotolando” il dito. Da qui il nome: roll.
+L'idea è semplice: suoni due (o più) note su corde adiacenti usando lo stesso dito, ma non come un barré fisso. Le suoni una dopo l'altra, “rotolando” il dito. Da qui il nome: roll.
 
 Il punto non è schiacciare due corde insieme. Il punto è farle parlare in sequenza, con controllo e pulizia.
 
-Una nota dopo l’altra con lo stesso dito
+Una nota dopo l'altra con lo stesso dito
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Immagina il dito come una piccola ruota che si appoggia prima su una corda e poi sull’altra. Non è un movimento grande. È un micro cambio di pressione e di angolo.
+Immagina il dito come una piccola ruota che si appoggia prima su una corda e poi sull'altra. Non è un movimento grande. È un micro cambio di pressione e di angolo.
 
 Cosa succede se provi a farlo “di forza”?
 
@@ -935,7 +935,7 @@ Il finger roll è ovunque, anche quando non lo sai.
 
 1. Linee melodiche su corde adiacenti
 
-   Ogni volta che una frase passa da una corda all’altra mantenendo lo stesso dito (tipico su chitarra), il roll rende tutto più fluido.
+   Ogni volta che una frase passa da una corda all'altra mantenendo lo stesso dito (tipico su chitarra), il roll rende tutto più fluido.
 
    Esempio di situazione (senza entrare in tab):
 
@@ -1037,7 +1037,7 @@ Il legato lento è la base di tutto... ed è quello che quasi nessuno fa. Perch�
 Nel legato lento puoi ascoltare:
 
 - se la seconda nota ha lo stesso peso della prima
-- se l’attacco è pulito
+- se l'attacco è pulito
 - se la corda vibra bene
 - se il cambio di dito crea rumore
 - se la mano sinistra sta schiacciando troppo
@@ -1056,14 +1056,14 @@ Il segreto del legato veloce non è “fare le dita più rapide”, è:
 - mantenere la pressione minima utile
 - far sì che gli accenti restino leggibili
 
-In pratica: anche nel legato veloce, deve esistere una gerarchia. Ci sono note che contano di più e note che sono passaggio. Se per te contano tutte uguali, per l’ascoltatore non conta nessuna.
+In pratica: anche nel legato veloce, deve esistere una gerarchia. Ci sono note che contano di più e note che sono passaggio. Se per te contano tutte uguali, per l'ascoltatore non conta nessuna.
 
 Perché il legato non sostituisce il ritmo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questa è la frase che salva la vita: il legato non è ritmo.
 
-Il legato è un’articolazione. Il ritmo è un’organizzazione del tempo.
+Il legato è un'articolazione. Il ritmo è un'organizzazione del tempo.
 
 Puoi fare legato perfetto e suonare fuori tempo.
 
@@ -1085,11 +1085,11 @@ Ci sono due soluzioni semplici, potentissime:
 
 - **Pennata come ancora**
 
-  Anche se fai legato, tieni alcune pennate fisse su punti forti (per esempio sui battiti o su 2 e 4). La pennata diventa l’ancora che mantiene la frase “a terra”.
+  Anche se fai legato, tieni alcune pennate fisse su punti forti (per esempio sui battiti o su 2 e 4). La pennata diventa l'ancora che mantiene la frase “a terra”.
 
 - **Accenti intenzionali**
 
-  Decidi dove cade l’accento nella frase e fallo uscire, anche se stai facendo solo legato. L’accento ricrea la metrica interna.
+  Decidi dove cade l'accento nella frase e fallo uscire, anche se stai facendo solo legato. L'accento ricrea la metrica interna.
 
 Il legato bello non è quello che elimina la pennata. È quello che convive con il tempo.
 
@@ -1119,7 +1119,7 @@ Non è solo questione di velocità o di pulizia: è proprio **identità**.
 
 La pennata che vedi (la punta del plettro che tocca la corda) è il risultato finale di una serie di movimenti coordinati. 
 
-Puoi pensarla come una catena di leve: muscoli e ossa lavorano insieme, e l’energia può partire da punti diversi del corpo.
+Puoi pensarla come una catena di leve: muscoli e ossa lavorano insieme, e l'energia può partire da punti diversi del corpo.
 
 Ci sono cinque aree principali coinvolte:
 
@@ -1139,9 +1139,9 @@ E ognuna produce un tipo di movimento diverso:
 
 **Pollice e indice**: micro-movimenti più piccoli, spesso circolari, molto fini (spesso entrano di più nel single note playing, quando vuoi precisione e controllo del dettaglio)
 
-L’idea importante non è decidere che “si suona solo di polso” o “solo di gomito”. L’idea è avere più marce disponibili e saperle combinare senza irrigidirsi.
+L'idea importante non è decidere che “si suona solo di polso” o “solo di gomito”. L'idea è avere più marce disponibili e saperle combinare senza irrigidirsi.
 
-L’attacco nasce dal punto di pressione creato dal pollice che spinge il plettro contro l’indice. E qui succede una cosa decisiva:
+L'attacco nasce dal punto di pressione creato dal pollice che spinge il plettro contro l'indice. E qui succede una cosa decisiva:
 
 - plettro tenuto rigido... attacco più rigido, più “duro”
 - plettro tenuto leggero... attacco più morbido, più “elastico”
@@ -1151,37 +1151,37 @@ Questo non cambia la fisica di base (il plettro tocca la corda comunque)... ma c
 Due concetti da separare bene:
 
 - **chiarezza**: dipende soprattutto da quanto precisamente il plettro contatta la corda
-- **qualità dell’attacco**: dipende soprattutto da come tieni il plettro (tensione, angolo, profondità)
+- **qualità dell'attacco**: dipende soprattutto da come tieni il plettro (tensione, angolo, profondità)
 
 E soprattutto... un buon attacco richiede una cosa non negoziabile: sincronizzazione con la mano sinistra. Se mano destra e mano sinistra non arrivano insieme, la nota raddoppia e perde definizione.
 
 Quando studi la pennata, prova a guardare il quadro completo: spalla, gomito, polso, dita, punta del plettro. Non ossessionarti su un solo pezzo del sistema.
 
-Poi però arriva la parte più importante (e più difficile da accettare): l’obiettivo finale è un atteggiamento mentale aperto, in cui la pennata non viene “controllata” in modo ansioso... ma viene guidata dall’orecchio e diventa sempre più automatica. Prima costruisci la meccanica... poi lasci che sia la musica a pilotarla.
+Poi però arriva la parte più importante (e più difficile da accettare): l'obiettivo finale è un atteggiamento mentale aperto, in cui la pennata non viene “controllata” in modo ansioso... ma viene guidata dall'orecchio e diventa sempre più automatica. Prima costruisci la meccanica... poi lasci che sia la musica a pilotarla.
 
-Con l’amplificazione e con i suoni moderni, la chitarra può produrre tantissimi colori diversi. Questo cambia le regole del gioco: non basta più conoscere bene una sola modalità di pennata (solo polso, solo gomito, ecc.). Serve sviluppare più elementi, perché situazioni diverse richiedono risposte diverse.
+Con l'amplificazione e con i suoni moderni, la chitarra può produrre tantissimi colori diversi. Questo cambia le regole del gioco: non basta più conoscere bene una sola modalità di pennata (solo polso, solo gomito, ecc.). Serve sviluppare più elementi, perché situazioni diverse richiedono risposte diverse.
 
 Qui rientra anche la scelta del plettro: provare plettri di dimensioni, forme e spessori diversi è utile, perché il plettro è un “governatore” del suono. A parità di mano, un plettro diverso cambia resistenza, attacco, dinamica, rumore di contatto.
 
-Ultima cosa (che sorprende molti): anche la scelta delle diteggiature della mano sinistra influenza la pennata. Se cambi diteggiatura, spesso cambia anche come “cade” la mano destra sulle corde... e quindi cambia il suono. Per questo, all’inizio, ha senso essere rigorosi con le diteggiature: ti dà un laboratorio stabile in cui capire cosa stai facendo.
+Ultima cosa (che sorprende molti): anche la scelta delle diteggiature della mano sinistra influenza la pennata. Se cambi diteggiatura, spesso cambia anche come “cade” la mano destra sulle corde... e quindi cambia il suono. Per questo, all'inizio, ha senso essere rigorosi con le diteggiature: ti dà un laboratorio stabile in cui capire cosa stai facendo.
 
 Alternate, economy, sweep... ma prima il suono
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Alternate picking, economy, sweep: sono parole che fanno venire voglia di “imparare la tecnica giusta”. Ma la domanda che viene prima è un’altra:
+Alternate picking, economy, sweep: sono parole che fanno venire voglia di “imparare la tecnica giusta”. Ma la domanda che viene prima è un'altra:
 
   Il mio suono è consistente? 
 
 Perché se il suono cambia a caso, qualsiasi tecnica scegli diventa solo un modo diverso di essere incoerente.
 
-Quindi l’ordine è questo:
+Quindi l'ordine è questo:
 
 - suono chiaro e controllato
 - attacco stabile
 - dinamica sotto controllo
 - solo dopo... scegli la tecnica più efficiente per quel contesto
 
-L’**alternate picking** è la base più universale perché ti dà simmetria: giù-su-giù-su.
+L'**alternate picking** è la base più universale perché ti dà simmetria: giù-su-giù-su.
 
 È ottimo per:
 
@@ -1191,7 +1191,7 @@ L’**alternate picking** è la base più universale perché ti dà simmetria: g
 
 Ma non è “obbligatorio”. È uno strumento.
 
-L’**economy picking** è la scelta naturale quando vuoi seguire il movimento: se stai andando verso il basso e cambi corda “in quella direzione”, continui a scendere. Risparmi movimento.
+L'**economy picking** è la scelta naturale quando vuoi seguire il movimento: se stai andando verso il basso e cambi corda “in quella direzione”, continui a scendere. Risparmi movimento.
 
 Ottimo per:
 
@@ -1212,9 +1212,9 @@ Quando cambi corda nella stessa direzione della pennata, non “rompi” il movi
 
 Lo **sweep picking** un gesto “a rastrello” su più corde consecutive, come se la pennata fosse un movimento unico.
 
-Tipico negli arpeggi: scendi su 3-5 corde con una pennata continua verso il basso (o risali verso l’alto).
+Tipico negli arpeggi: scendi su 3-5 corde con una pennata continua verso il basso (o risali verso l'alto).
 
-Qui l’obiettivo è un solo gesto che attraversa corde diverse.
+Qui l'obiettivo è un solo gesto che attraversa corde diverse.
 
 Lo sweep vero e proprio è spesso su 3o più corde, con controllo di muting per evitare che le note si sovrappongano.
 
@@ -1256,7 +1256,7 @@ Risultato:
 - suono grosso, proiettato, acustico
 - fraseggio molto articolato e “parlato”
 
-Questa tecnica non è “una variante”… è proprio un’altra filosofia:
+Questa tecnica non è “una variante”… è proprio un'altra filosofia:
 
 - ❌ Non cerca efficienza
 - ✅ Cerca suono e accento
@@ -1271,7 +1271,7 @@ Joe Pass e Yngwie Malmsteen costruiscono le loro frasi per ottimizzare questo ap
 
 Downward pickslanting
 ^^^^^^^^^^^^^^^^^^^^^
-L’orientamento del plettro rispetto al piano delle corde viene chiamato **pickslanting**, e si distinguono tre tipi principali:
+L'orientamento del plettro rispetto al piano delle corde viene chiamato **pickslanting**, e si distinguono tre tipi principali:
 
 - downward pickslanting 
 - upward pickslanting
@@ -1283,9 +1283,9 @@ Il **downward pickslanting**, o **DWPS**, è un orientamento della pennata in cu
    _static/images/dwps.jpeg
    :width: 100%
 
-Se immagini la punta del plettro collegata alla corda come una cerniera — come il flap di un’ala di un aereo — il downward pickslanting è l’orientamento in cui questo “flap” punta verso il basso.
+Se immagini la punta del plettro collegata alla corda come una cerniera — come il flap di un'ala di un aereo — il downward pickslanting è l'orientamento in cui questo “flap” punta verso il basso.
 
-L’orientamento opposto è l’**upward pickslanting** (UWPS), in cui il plettro appare inclinato verso il soffitto.
+L'orientamento opposto è l'**upward pickslanting** (UWPS), in cui il plettro appare inclinato verso il soffitto.
 
 Lo scopo del pickslanting è garantire un attacco del plettro fluido quando si utilizza un movimento di escape diagonale.
 
@@ -1308,7 +1308,7 @@ L'**upstroke escape** (**USX**) è il meccanismo in cui la pennata in su (*upstr
 
 .. important::
 
-   Con l'upstroke escape (USX) puoi cambiare corda solo dopo l’upstroke.
+   Con l'upstroke escape (USX) puoi cambiare corda solo dopo l'upstroke.
 
 In un movimento di pennata USX, il plettro non si muove parallelamente alle corde, ma segue invece una traiettoria diagonale in cui le pennate in su (upstroke) entrano nella zona di uscita (escape zone). Per compensare questo movimento inclinato, il plettro deve inclinarsi nella direzione opposta — verso il basso — per ripristinare un attacco simmetrico di circa 90 gradi rispetto alla corda.
 
@@ -1324,11 +1324,11 @@ Esistono molti modi per eseguire un movimento USX, utilizzando diverse impugnatu
 
 La posizione del braccio supinata e il polso flesso sono molto comuni per il playing USX e genera un angolo di uscita (*escape angle*) di circa 35 gradi. 
 
-Mike Stern usa invece una tecnica USX che utilizza un braccio meno supinato e un movimento di pennata basato principalmente sul polso. Il suo angolo di uscita è di circa 10 gradi, e il corrispondente pickslant verso il basso, anch’esso di circa 10 gradi, appare visivamente molto più vicino alla perpendicolarità.
+Mike Stern usa invece una tecnica USX che utilizza un braccio meno supinato e un movimento di pennata basato principalmente sul polso. Il suo angolo di uscita è di circa 10 gradi, e il corrispondente pickslant verso il basso, anch'esso di circa 10 gradi, appare visivamente molto più vicino alla perpendicolarità.
 
-In generale, i movimenti basati sul polso, come quello di Mike, tendono a essere più paralleli alle corde e producono angoli di uscita più piccoli rispetto a quelli che coinvolgono anche l’avambraccio e generano un’uscita più verticale. 
+In generale, i movimenti basati sul polso, come quello di Mike, tendono a essere più paralleli alle corde e producono angoli di uscita più piccoli rispetto a quelli che coinvolgono anche l'avambraccio e generano un'uscita più verticale. 
 
-Non esiste un “costo meccanico” nel pickslanting, e avere meno inclinazione non è meglio di averne di più. In un certo senso, non esiste nemmeno davvero un “più” o “meno” pickslant, perché l’obiettivo finale è sempre quello di ottenere un attacco del plettro esattamente a 90 gradi rispetto al movimento della pennata.
+Non esiste un “costo meccanico” nel pickslanting, e avere meno inclinazione non è meglio di averne di più. In un certo senso, non esiste nemmeno davvero un “più” o “meno” pickslant, perché l'obiettivo finale è sempre quello di ottenere un attacco del plettro esattamente a 90 gradi rispetto al movimento della pennata.
 
 Il gesto “girare una chiave” (rotazione)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1341,14 +1341,14 @@ Cosa succede sulla chitarra:
 
 - il plettro entra ed esce dalla corda con un percorso naturale
 - il movimento è piccolo, elastico, ripetibile
-- l’avambraccio e il polso lavorano senza “spigoli”
+- l'avambraccio e il polso lavorano senza “spigoli”
 - a parità di velocità... meno tensione e più controllo del suono
 
 Perché evitare la “deviazione”? La deviazione è quando il polso si piega lateralmente. Problemi tipici:
 
 - tende a irrigidire i tendini... e ti fa “spingere” invece di oscillare
 - la punta del plettro spesso scava di più nella corda... quindi più attrito e impuntamenti
-- il tempo si scompone: un colpo è più grande, l’altro più piccolo... e la pennata perde regolarità
+- il tempo si scompone: un colpo è più grande, l'altro più piccolo... e la pennata perde regolarità
 - quando aumenti la velocità, la deviazione “collassa” e compaiono scatti e rumori
 
 In pratica: per qualche bpm funziona... poi diventa una lotta.
@@ -1358,7 +1358,7 @@ Due cure pratiche per sentirlo subito:
 1. Plettro che “galleggia”: se senti che il plettro resta vicino alla superficie della corda senza incastrarsi... sei nella zona giusta.
 2. Polso morbido, mano ferma: la mano non deve “viaggiare”... deve solo oscillare.
 
-Fingerpicking e Hybrid Picking: quando la mano destra diventa un’orchestra
+Fingerpicking e Hybrid Picking: quando la mano destra diventa un'orchestra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un certo punto ti accorgi che il plettro è fantastico... ma non è tutto. Ci sono gesti, timbri e accenti che vengono naturali solo quando entrano in gioco le dita. E non è una scelta “di stile” (solo country, solo classica)... è una scelta di linguaggio.
@@ -1379,7 +1379,7 @@ Quando funziona, succede una magia semplice: la musica sembra avere più strumen
 Errori tipici:
 
 - pollice che suona troppo forte e copre tutto
-- dita che tirano la corda verso l’alto in modo irregolare (volume instabile)
+- dita che tirano la corda verso l'alto in modo irregolare (volume instabile)
 - mano rigida, con dita che si aprono troppo
 
 Correzioni:
@@ -1405,7 +1405,7 @@ Dove si sente subito:
 Errori tipici:
 
 - dita che “strappano” troppo la corda e alzano il volume a caso
-- plettro che diventa timido perché tutta l’attenzione va alle dita
+- plettro che diventa timido perché tutta l'attenzione va alle dita
 - confusione sul muting: corde che risuonano quando pizzichi
 
 Correzioni:

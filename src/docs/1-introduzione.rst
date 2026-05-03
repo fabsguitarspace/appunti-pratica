@@ -47,9 +47,9 @@ Perché questi appunti esisto (e perché sono separati dalla teoria)
 
 Questi appunti nascono da una scena molto comune… che conosco bene.
 
-Hai guardato un video, hai capito un’idea, ti si è accesa una lampadina.
+Hai guardato un video, hai capito un'idea, ti si è accesa una lampadina.
 Poi prendi la chitarra, metti le dita sulla tastiera e… niente. Non
-perché l’idea fosse sbagliata, ma perché tra la testa e le dita c’è un
+perché l'idea fosse sbagliata, ma perché tra la testa e le dita c'è un
 territorio enorme: tempo, coordinazione, micro tensioni, scelte minime,
 suono, controllo. E soprattutto una cosa che nei libri spesso non si
 dice: la pratica non è “applicare”. La pratica è trasformare.
@@ -59,10 +59,10 @@ Questo materiale è una palestra… ma una palestra gentile. Non quella
 dove si spinge fino a sfinirsi, ma quella dove si torna ogni giorno, si
 fa poco, si fa bene, e lentamente la musica prende corpo.
 
-Qui dentro non troverai l’ennesimo manuale di esercizi da collezionare.
+Qui dentro non troverai l'ennesimo manuale di esercizi da collezionare.
 Troverai piuttosto un modo di organizzare lo studio sullo strumento, e
 un certo tipo di attenzione: quella che trasforma la tecnica in libertà
-e non in ansia. L’obiettivo non è “diventare bravi”. L’obiettivo è
+e non in ansia. L'obiettivo non è “diventare bravi”. L'obiettivo è
 creare condizioni per cui, quando suoni, succeda qualcosa di vero.
 
 In questo materiale useremo spesso un approccio diverso: partire dal
@@ -78,7 +78,7 @@ tutto. Non perché siano segreti, ma perché sono le cose che funzionano
 davvero quando hai una vita piena, poco tempo, e vuoi comunque crescere
 senza perdere la gioia.
 
-C’è anche un altro motivo per cui questo materiale esiste come entità.
+C'è anche un altro motivo per cui questo materiale esiste come entità.
 La teoria ha bisogno di respiro, la pratica ha bisogno di concretezza.
 Mescolarle nello stesso contenitore spesso crea un cortocircuito: chi
 legge si sente in colpa perché non sta suonando, e chi suona si sente in
@@ -86,7 +86,7 @@ colpa perché non sta capendo. Qui invece possiamo fare una cosa più
 sana: leggere quando è tempo di leggere, suonare quando è tempo di
 suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 
-Istruzioni per l’uso
+Istruzioni per l'uso
 --------------------
 
 Questo materiale non è un programma militare e non è una lista di
@@ -113,7 +113,7 @@ Sono tre mondi diversi. Se li confondi, **ti fai male**.
 
 Lo **studio** è il laboratorio. Qui puoi fare cose brutte, lente,
 ripetute. Qui è normale fermarsi, isolare un passaggio, smontare un
-gesto, ripetere una battuta cento volte. Qui l’obiettivo non è la musica
+gesto, ripetere una battuta cento volte. Qui l'obiettivo non è la musica
 “bella”. È la costruzione.
 
 Nello studio puoi e devi:
@@ -128,12 +128,12 @@ La domanda dello studio non è “suona bene?”
 
 È: “sta migliorando?”
 
-Non è tutto divertimento. La musica è una forma d’arte da godere. Tuttavia, praticare la musica è una forma d’arte che dovrebbe farti sentire un po’ a disagio. 
+Non è tutto divertimento. La musica è una forma d'arte da godere. Tuttavia, praticare la musica è una forma d'arte che dovrebbe farti sentire un po' a disagio. 
 Stai cercando di imparare qualcosa di nuovo: come potresti sentirti come se ci fossi già passato?
 
-Cerca il piacere nell’ascolto della musica, ma cerca **concentrazione, dedizione, determinazione ed efficacia** nelle tue sessioni di studio.
+Cerca il piacere nell'ascolto della musica, ma cerca **concentrazione, dedizione, determinazione ed efficacia** nelle tue sessioni di studio.
 
-Dedica un momento separato alla creatività, al suonare e all’improvvisare. Il piacere arriverà di conseguenza, come risultato del fatto che riuscirai a esprimerti con maggiore facilità. 
+Dedica un momento separato alla creatività, al suonare e all'improvvisare. Il piacere arriverà di conseguenza, come risultato del fatto che riuscirai a esprimerti con maggiore facilità. 
 
 È un sottoprodotto di una pratica costante e consapevole. 
 
@@ -143,17 +143,17 @@ Prenditi sempre il tempo per celebrare i tuoi progressi... e continua a spingere
 
 Questo concetto copre molti aspetti, ma questi sono i punti chiave:
 
-- **Sii consapevole del suono che produci**. Dopotutto, siamo qui per produrre suono. Non si tratta solo dell’attrezzatura: mi riferisco al suono che produciamo anche senza amplificatore. Si tratta di rispettare il senso stesso dell’esperienza d’ascolto, della musica in quanto tale.
-- **Non limitarti a eseguire gli esercizi: analizzali**. Comprendi perché ogni nota funziona all’interno dell’accordo o della progressione e osservane la funzione intervallare.
+- **Sii consapevole del suono che produci**. Dopotutto, siamo qui per produrre suono. Non si tratta solo dell'attrezzatura: mi riferisco al suono che produciamo anche senza amplificatore. Si tratta di rispettare il senso stesso dell'esperienza d'ascolto, della musica in quanto tale.
+- **Non limitarti a eseguire gli esercizi: analizzali**. Comprendi perché ogni nota funziona all'interno dell'accordo o della progressione e osservane la funzione intervallare.
 - **Fai attenzione alle tensioni nel corpo**. Potrebbe essere un argomento da masterclass, ma per ora basta dire che la maggior parte degli ostacoli tecnici che incontri nello studio deriva da tensioni corporee.
-- **Concentrati sul ritmo**. Considera ogni esercizio come un’opportunità per sviluppare un forte senso del tempo e del ritmo. L’esercizio da solo non lo farà per te. Anche quando qualcosa è facile, punta a eseguire tempo e ritmo in modo impeccabile. Il ritmo è probabilmente uno degli elementi fondamentali della musica: anche quando un passaggio è “rubato”, si percepisce comunque una qualità ritmica sottostante rispetto al rumore casuale.
-- **Sii creativo**. Per me è l’elemento più importante dello studio. Applica tutto ciò che impari nelle tue composizioni. Non è necessario scrivere brani completi: può essere un nuovo esercizio, un lick, oppure reinventare un esercizio esistente cambiando stile, ritmo, tonalità o tempo.
-- **Registrati**. Studiare può essere un processo impegnativo. Registrare le tue sessioni può essere molto utile: non solo ti permette di ascoltare i progressi e individuare le aree critiche, ma ti aiuta anche nei momenti in cui ti sembra di non migliorare. È un ottimo modo per metterti nei panni dell’ascoltatore e renderti conto dei passi avanti fatti.
+- **Concentrati sul ritmo**. Considera ogni esercizio come un'opportunità per sviluppare un forte senso del tempo e del ritmo. L'esercizio da solo non lo farà per te. Anche quando qualcosa è facile, punta a eseguire tempo e ritmo in modo impeccabile. Il ritmo è probabilmente uno degli elementi fondamentali della musica: anche quando un passaggio è “rubato”, si percepisce comunque una qualità ritmica sottostante rispetto al rumore casuale.
+- **Sii creativo**. Per me è l'elemento più importante dello studio. Applica tutto ciò che impari nelle tue composizioni. Non è necessario scrivere brani completi: può essere un nuovo esercizio, un lick, oppure reinventare un esercizio esistente cambiando stile, ritmo, tonalità o tempo.
+- **Registrati**. Studiare può essere un processo impegnativo. Registrare le tue sessioni può essere molto utile: non solo ti permette di ascoltare i progressi e individuare le aree critiche, ma ti aiuta anche nei momenti in cui ti sembra di non migliorare. È un ottimo modo per metterti nei panni dell'ascoltatore e renderti conto dei passi avanti fatti.
 
 **Suonare** è una cosa diversa da studiare. Suonare è stare nella musica senza
 pretendere di ottimizzare tutto. È fare frasi, esplorare, improvvisare,
 compingare (esiste come verbo? 🤔), suonare un brano per piacere o per
-curiosità. Qui l’obiettivo non è correggere: è far scorrere.
+curiosità. Qui l'obiettivo non è correggere: è far scorrere.
 
 Quando suoni, il gesto si deve muovere anche se non è perfetto. Ed è qui
 che succede una cosa importantissima: **il cervello collega**. Le cose
@@ -163,8 +163,8 @@ La domanda del suonare non è “posso farlo meglio?” È: “riesco a restare
 dentro?”
 
 **Performare** è suonare “come se contasse”. Anche se sei a casa. Anche
-se non ti ascolta nessuno. È mettere una cornice di realtà: dall’inizio
-alla fine, senza fermarsi, con un tempo vero, con un’intenzione chiara.
+se non ti ascolta nessuno. È mettere una cornice di realtà: dall'inizio
+alla fine, senza fermarsi, con un tempo vero, con un'intenzione chiara.
 È “simulare” in tutto e per tutto un concerto dal vivo o una
 registrazione per un vero album.
 
@@ -193,7 +193,7 @@ Questo materiale funziona solo se accetti una cosa controintuitiva:
 **non stai cercando di imparare velocemente**. Stai cercando di imparare
 **in modo che resti**.
 
-Il cervello è bravissimo a darti l’illusione del progresso quando fai
+Il cervello è bravissimo a darti l'illusione del progresso quando fai
 qualcosa in fretta. Ma spesso è solo una prestazione momentanea… una
 specie di “modalità demo”. Suona bene oggi… domani è sparita.
 
@@ -204,22 +204,22 @@ Quando corri, succedono tre cose:
 - il cervello delega al pilota automatico
 - gli errori piccoli si nascondono (timing, intonazione, attacco doppio,
   tensione)
-- tu “passi” l’esercizio… ma non lo assimili
+- tu “passi” l'esercizio… ma non lo assimili
 
-Quando vai lento (davvero lento), succede l’opposto:
+Quando vai lento (davvero lento), succede l'opposto:
 
 - senti i micro-errori
 - li correggi subito
 - costruisci un gesto ripetibile
 - e soprattutto… colleghi orecchio e dita
 
-Il risultato è che la musica va sotto le dita senza perdere l’orecchio.
+Il risultato è che la musica va sotto le dita senza perdere l'orecchio.
 
 Il cervello è un ottimizzatore: cerca sempre il modo più economico per
 ottenere un risultato. Se gli dai roba troppo pronta:
 
 - copia la forma
-- spegne l’ascolto
+- spegne l'ascolto
 - e archivia tutto come “non importante”
 
 Ecco perché tanti esercizi imparati “in un pomeriggio” non restano: il
@@ -333,7 +333,7 @@ Cosa segnare? Poche cose, ma buone:
 4. **Una cosa che è migliorata**
 
    Anche minima. Anche “oggi il suono è più uniforme”. Il quaderno ti
-   allena a vedere il progresso reale, non solo l’ideale.
+   allena a vedere il progresso reale, non solo l'ideale.
 
 5. **Prossimo mattoncino**
 
@@ -365,7 +365,7 @@ Funziona lì per lì… ma spesso non costruisce nulla che resti davvero. È
 come passare col dito su una strada già segnata: arrivi, sì, ma non
 impari la mappa.
 
-Lo sforzo giusto invece è un’altra cosa: è quello che ti costringe a:
+Lo sforzo giusto invece è un'altra cosa: è quello che ti costringe a:
 
 - scegliere una nota con intenzione
 - sentire dove stai andando
@@ -378,9 +378,9 @@ In queste pagine cerco di evitare, intenzionalmente, tutto ciò che rende
 lo studio “troppo pronto”. Il cervello ama le scorciatoie: se può
 limitarsi a copiare una forma, lo farà… e nel breve periodo sembra anche
 efficace. Ma spesso quel tipo di apprendimento non lascia traccia:
-finito l’esercizio, svanisce.
+finito l'esercizio, svanisce.
 
-I risultati veri arrivano quando c’è un minimo di attrito: lo sforzo di
+I risultati veri arrivano quando c'è un minimo di attrito: lo sforzo di
 capire, ricordare, ascoltare, collegare. È quello sforzo che crea
 competenza, non la ripetizione ipnotica. Vorrei che imparassi a
 costruire le forme e non a ricordarle.
@@ -389,7 +389,7 @@ Una promessa realistica: poco, spesso, bene
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se ti capita di leggere una pagina e sentire subito il bisogno di
-prendere la chitarra, chiudi pure gli appunti. È l’unica “regola” che
+prendere la chitarra, chiudi pure gli appunti. È l'unica “regola” che
 vale sempre. Questi appunti non vogliono trattenerti. Vogliono
 accompagnarti fino al bordo del foglio… e poi lasciarti andare dove
 conta davvero: nel suono.
@@ -397,7 +397,7 @@ conta davvero: nel suono.
 Non ti prometto risultati in trenta giorni. Non è quello il punto. Ti
 propongo un patto più realistico: tornare spesso, anche solo pochi
 minuti, con attenzione vera. Perché la pratica non è un atto eroico. È
-un’abitudine. E le abitudini, quando sono buone, cambiano una persona.
+un'abitudine. E le abitudini, quando sono buone, cambiano una persona.
 Una regola finale, semplice, se ti senti perso, fai così:
 
 - scegli uno stato mentale (studiare, suonare, performare)
@@ -406,5 +406,5 @@ Una regola finale, semplice, se ti senti perso, fai così:
 
 E poi basta. Hai fatto pratica vera.
 
-Il resto è solo l’ego che vuole un piano perfetto. La musica non chiede
+Il resto è solo l'ego che vuole un piano perfetto. La musica non chiede
 perfezione. Chiede presenza… e ritorno.

@@ -103,3 +103,34 @@ Quella piccola “8” sotto la chiave di violino significa: tutto ciò che legg
 La chitarra è uno strumento traspositore all'ottava, ovvero scrivi le note in chiave di violino “normale” ma lo strumento suona più grave. Senza quella “8”, la musica risulterebbe piena di tagli addizionali sotto il pentagramma e molto più difficile da leggere.
 
 
+.. image:: 
+   _static/music/scala-cromatica-orizzontale2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-orizzontale2.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/scala-cromatica-orizzontale3.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-orizzontale3.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/scala-cromatica-orizzontale4.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-orizzontale4.mp3" type="audio/mp3">
+   </audio>

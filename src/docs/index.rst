@@ -9,10 +9,10 @@ Appunti di Pratica per Chitarra Jazz
   1-introduzione
   2-fondamenta
   3-conoscere-la-tastiera
-  4-intervalli
-  5-triadi
-  6-arpeggi
-  7-voicing
-  8-drop
-  9-scale
-  10-II-V-I
+  4-scala-maggiore
+  5-scale-minori
+  6-scale-dominanti
+  7-armonizzazione
+  8-vocabolario-accordi
+  9-progressioni-accordi
+  10-vocabolario-melodico

@@ -26,14 +26,31 @@ Inizia con un tempo lento, cercando un suono pulito e uniforme.
 
 Continua a praticare questo esercizio come riscaldamento veloce, concentrandoti ogni volta su 1 o 2 tonalità.
 
+Scala maggiore orizzontale di C
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: 
-   _static/music/scala-maggiore-orizzontale1.*
+   _static/music/scala-maggiore-orizzontale-c.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-maggiore-orizzontale1.mp3" type="audio/mp3">
+      <source src="_static/music/scala-maggiore-orizzontale-c.mp3" type="audio/mp3">
+   </audio>
+
+
+Scala maggiore orizzontale di F
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-f.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-f.mp3" type="audio/mp3">
    </audio>
 
 Scala maggiore verticale

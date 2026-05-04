@@ -7,11 +7,23 @@
 
 
 musica = \relative c {       
-  f,4\6-1 fs4-2 g4-3 gs4-4 a4\6-4 
-  as4\5-1 b4-2 c4-3 cs4-4 d4\5-4 
-  ds4\4-1 e4-2 f4-3 fs4-4 g4\4-4 
-  gs4\3-1 a4-2 as4-3 b4\3-4 
-  c4\2-1 cs4-2 d4-3 ds4-4 e4\2-4 
+    \set TabStaff.restrainOpenStrings = ##t
+
+  f,4\6-1 fs4-2 g4-3 gs4-4 
+   \set TabStaff.minimumFret = #3
+  a4-4 
+   \set TabStaff.minimumFret = #1
+  as4\5-1 b4-2 c4-3 cs4-4 
+  \set TabStaff.minimumFret = #3
+
+  d4-4 
+  \set TabStaff.minimumFret = #1
+  ds4\4-1 e4-2 f4-3 fs4-4 
+  \set TabStaff.minimumFret = #3
+  g4-4 
+  \set TabStaff.minimumFret = #1
+  gs4\3-1 a4-2 as4-3 b4-4 
+  c4\2-1 cs4-2 d4-3 ds4-4 e4-4 
   f4\1-1 fs4-2 g4-3 gs4-4 a4-4
   af4-4 g4-3 gf4-2 f4-1 
   e4\2-4 ef4-4 d4-3 df4-2 c4-1 

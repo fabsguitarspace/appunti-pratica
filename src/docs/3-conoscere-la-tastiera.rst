@@ -195,7 +195,6 @@ Variazione 1 (mezzo tono sopra)
 Variazione 2 
 ^^^^^^^^^^^^
 
-
 .. image:: 
    _static/music/scala-cromatica-verticale3.*
    :width: 100%
@@ -204,4 +203,38 @@ Variazione 2
 
    <audio controls class="audio-controls">
       <source src="_static/music/scala-cromatica-verticale3.mp3" type="audio/mp3">
+   </audio>
+
+Variazione 3 (obliqua)
+^^^^^^^^^^^^^^^^^^^^^^
+
+Parti dal La al 5° tasto della corda di Mi basso e suona 4 note ascendenti. Quando passi alla 5ª corda, sposta la mano indietro per suonare la nota successiva al 4° tasto.
+
+Quando passi alla 4ª corda, sposta la mano indietro per suonare la nota successiva al 3° tasto.
+
+Quando passi alla 3ª corda, sposta la mano indietro per suonare la nota successiva al 2° tasto.
+
+Ricorda che quando passi dalla 3ª alla 2ª corda devi adattarti al diverso intervallo tra queste due corde, quindi non spostare la mano: suona la nota successiva al 2° tasto.
+
+Quando passi alla 1ª corda, sposta la mano indietro per suonare la nota successiva al 1° tasto.
+
+Prosegui fino al La sulla prima corda, poi scendi spostandoti in avanti di un tasto ogni volta che cambi corda, ad eccezione del passaggio dalla corda di Si a quella di Sol.
+
+Scendi fino al La basso, scivolando sull’ultima nota con il primo dito.
+Lavora per aumentare gradualmente il tempo.
+
+Infine, aumenta la velocità mentre esegui la scala su due ottave.
+
+La cosa più importante è cercare di ottenere un suono pulito e uniforme, con lo stesso timbro su ogni nota.
+
+Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però che in generale quando passi da una corda all’altra, usa sempre **la pennata verso il basso**, indipendentemente dal fatto che ti sposti verso corde più gravi o più acute.
+
+.. image:: 
+   _static/music/scala-cromatica-verticale4.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-verticale4.mp3" type="audio/mp3">
    </audio>

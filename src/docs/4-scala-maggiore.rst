@@ -53,5 +53,20 @@ Scala maggiore orizzontale di F
       <source src="_static/music/scala-maggiore-orizzontale-f.mp3" type="audio/mp3">
    </audio>
 
+Scala maggiore orizzontale di B♭
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-bf.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-bf.mp3" type="audio/mp3">
+   </audio>
+
+
+
 Scala maggiore verticale
 ~~~~~~~~~~~~~~~~~~~~~~~~

@@ -134,3 +134,74 @@ La chitarra è uno strumento traspositore all'ottava, ovvero scrivi le note in c
    <audio controls class="audio-controls">
       <source src="_static/music/scala-cromatica-orizzontale4.mp3" type="audio/mp3">
    </audio>
+
+.. image:: 
+   _static/music/scala-cromatica-orizzontale5.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-orizzontale5.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/scala-cromatica-orizzontale6.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-orizzontale6.mp3" type="audio/mp3">
+   </audio>
+
+Scala cromatica verticale
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Parti dal Mi basso a vuoto e suona ogni nota fino al 4° tasto, poi passa alla corda di La a vuoto, suona ogni nota fino al 4° tasto e poi passa alla corda di Re a vuoto, e così via.
+
+Esegui tutti i colpi verso il basso con la mano destra. Attraversa la corda con il plettro e lascia che si appoggi sulla corda sottostante (*rest stroke*).
+
+Fai attenzione che quando arrivi alla corda di Sol devi suonare solo fino al 3° tasto prima di passare alla corda di Si a vuoto. Questo è dovuto all'anomalia nell'accordatura della chitarra: l'intervallo tra le corde a vuoto è sempre una quarta, tranne tra Sol e Si, dove è una terza.
+
+Una volta arrivato alla corda di Mi cantino, scendi eseguendo la stessa scala cromatica al contrario.
+
+Successivamente, mettiti alla prova scegliendo note a caso e trovandole in tutte le loro posizioni sulla tastiera.
+
+
+.. image:: 
+   _static/music/scala-cromatica-verticale1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-verticale1.mp3" type="audio/mp3">
+   </audio>
+
+Variazione 1 (mezzo tono sopra)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-cromatica-verticale2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-verticale3.mp3" type="audio/mp3">
+   </audio>
+
+Variazione 2 
+^^^^^^^^^^^^
+
+
+.. image:: 
+   _static/music/scala-cromatica-verticale2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-cromatica-verticale3.mp3" type="audio/mp3">
+   </audio>

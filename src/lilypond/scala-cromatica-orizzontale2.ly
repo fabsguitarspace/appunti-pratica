@@ -10,8 +10,12 @@ musica = \relative c' {
        \omit Staff.TimeSignature
        \cadenzaOn
        
-  b4\downbow c4\downbow cs4\downbow d4\downbow ds4 e4 f4 fs4 g4 gs4 a4 as4 b4
-  b4 bf4 a4 af4 g4 gf4 f4 e4 ef4 d4 df4 c4 b4
+  b4\downbow-0 c4\downbow-1 cs4\downbow-2 d4\downbow-3 ds4-4 
+  e4-1 f4-2 fs4-3 g4-4 
+  gs4-1 a4-2 as4-3 b4-4
+  b4-4 bf4-3 a4-2 af4-1 
+  g4-4 gf4-3 f4-2 e4-1 
+  ef4-4 d4-3 df4-2 c4-1 b4-0
   
 }
 

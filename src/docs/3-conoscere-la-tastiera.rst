@@ -197,7 +197,7 @@ Variazione 2
 
 
 .. image:: 
-   _static/music/scala-cromatica-verticale2.*
+   _static/music/scala-cromatica-verticale3.*
    :width: 100%
 
 .. raw:: html

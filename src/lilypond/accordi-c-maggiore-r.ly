@@ -7,6 +7,7 @@
 
 
 diagA    = \markup \center-column { "R" 
+                       \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
@@ -14,31 +15,34 @@ diagA    = \markup \center-column { "R"
                           (place-fret 2 1)
                         )
 }
-diagB    = \markup \fret-diagram-verbose #'(
+
+diagB    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                           (place-fret 3 2)
                           (place-fret 2 1)
                         )
-diagC    = \markup \fret-diagram-verbose #'(
+}
+diagC    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
                           (place-fret 6 3)
                           (place-fret 4 2)
                           (place-fret 3 2)
                           (place-fret 2 1)
                         )
-diagD    = \markup \fret-diagram-verbose #'(
-                          (open 5)
+}
+diagD    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
+                          (place-fret 6 3)
                           (place-fret 4 2)
-                          (open 3)
+                          (place-fret 3 4)
                           (place-fret 2 1)
                         )
-
+                      }
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
   <c e g c>1^\diagA
   <c e a c>1^\diagB 
   <g e' a c>1^\diagC 
-  <a e' g c>1^\diagD 
+  <g e' b' c>1^\diagD
 }
 
 \score {
@@ -65,8 +69,12 @@ music = \relative c {
 
     \context {
       \Score
+       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/25)
        \omit Staff.TimeSignature
       \remove "Bar_number_engraver"
+       \override FretBoard.fret-diagram-details = #'(
+      (finger-code . in-dot)
+    )
     }
   }
  \midi {}

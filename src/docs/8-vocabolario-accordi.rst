@@ -16,11 +16,19 @@ Non mi interessa catalogare l’accordo “completo” ma solo rispetto alla not
 
 Non mi interessa costruire tutti gli accordi *teoricamente possibili* ma solo quelli che stanno sotto le dita e **suonano bene**.
 
+È quindi estremamente importante pratica e ascoltare molto, per capire quali sono i suoni che ci piacciono di più e che vogliamo usare e non soffermarci troppo ad analizzare ogni singola voce, ma piuttosto cercare di capire il suono complessivo dell'accordo e come si relaziona alla nota al canto.
+
 Per semplicità e per coprire in modo ascendente tutta la tastiera vedremo gli esempi sempre con C con nota al canto sulla seconda corda e F con nota al canto sulla prima corda.
 Queste due note iniziano la sequenza nel punto più basso e da lì a salire. Sarà molto facile trasporre le forme su altre toniche.
 
 Accordi maggiori
 ----------------
+
+Nota al canto sulla 2a corda
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fondamentale sulla 2a corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: 
    _static/music/accordi-c-maggiore-r.*

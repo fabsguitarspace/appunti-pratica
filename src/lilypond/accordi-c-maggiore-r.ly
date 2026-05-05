@@ -25,6 +25,7 @@ diagB    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose 
 }
 diagC    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
                           (place-fret 6 3)
+                          (mute 5)
                           (place-fret 4 2)
                           (place-fret 3 2)
                           (place-fret 2 1)
@@ -32,6 +33,7 @@ diagC    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose 
 }
 diagD    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
                           (place-fret 6 3)
+                           (mute 5)
                           (place-fret 4 2)
                           (place-fret 3 4)
                           (place-fret 2 1)
@@ -72,9 +74,6 @@ music = \relative c {
        \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/25)
        \omit Staff.TimeSignature
       \remove "Bar_number_engraver"
-       \override FretBoard.fret-diagram-details = #'(
-      (finger-code . in-dot)
-    )
     }
   }
  \midi {}

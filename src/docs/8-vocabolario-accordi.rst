@@ -23,11 +23,11 @@ Accordi maggiori
 ----------------
 
 .. image:: 
-   _static/music/accordi-c-maggiore.*
+   _static/music/accordi-c-maggiore-r.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-c-maggiore-r.mp3" type="audio/mp3">
    </audio>

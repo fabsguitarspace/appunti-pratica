@@ -167,6 +167,19 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
 
 
 
+.. image:: 
+   _static/music/scala-maggiore-verticale-6V2-tab.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-verticale-6V2-tab.mp3" type="audio/mp3">
+   </audio>
+
+
+
+
 5V2
 ^^^
 

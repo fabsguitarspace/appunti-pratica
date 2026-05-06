@@ -69,6 +69,21 @@ Scala maggiore orizzontale di B♭
    </audio>
 
 
+Scala maggiore orizzontale di E♭
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-ef.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-ef.mp3" type="audio/mp3">
+   </audio>
+
+
 
 Scala maggiore verticale
 ------------------------

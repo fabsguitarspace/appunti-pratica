@@ -40,7 +40,6 @@ In sostanza abbiamo cinque accordi minori di riferimento (più due shell).
    
    Non è necessario suonare sempre la nota di basso quando suoni accordi. Quando si accompagna le due corde più importanti sono le **corde centrali**, queste sono le uniche che dobbiamo far sentire.
 
-
 .. image:: 
    _static/music/accordi-essenziali-minori.*
    :width: 100%
@@ -80,8 +79,8 @@ Queste due note iniziano la sequenza nel punto più basso e da lì a salire. Sar
 Accordi maggiori
 ~~~~~~~~~~~~~~~~
 
-Fondamentale sulla 2ª corda
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+R sulla 2ª corda
+^^^^^^^^^^^^^^^^
 
 .. image:: 
    _static/music/accordi-c-maggiore-r.*
@@ -91,4 +90,30 @@ Fondamentale sulla 2ª corda
 
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-c-maggiore-r.mp3" type="audio/mp3">
+   </audio>
+
+9 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-9.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-9.mp3" type="audio/mp3">
+   </audio>
+
+3 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-3.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-3.mp3" type="audio/mp3">
    </audio>

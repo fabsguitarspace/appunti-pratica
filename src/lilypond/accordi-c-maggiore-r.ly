@@ -6,45 +6,57 @@
 }
 
 
-diagA    = \markup \center-column { "R" 
-                       \scale #'(1.5 . 1.5)
+diagA    = \markup  \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                           (open 3)
                           (place-fret 2 1)
                         )
-}
 
-diagB    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
+
+diagB    = \markup \scale #'(1.5 . 1.5)
+                       \fret-diagram-verbose #'(
+                         (open 5)
+                          (place-fret 4 2)
+                          (open 3)
+                          (place-fret 2 1)
+                        )
+
+
+diagC    = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                           (place-fret 3 2)
                           (place-fret 2 1)
                         )
-}
-diagC    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
+
+diagD    = \markup \scale #'(1.5 . 1.5) 
+        \fret-diagram-verbose #'(
                           (place-fret 6 3)
                           (mute 5)
                           (place-fret 4 2)
                           (place-fret 3 2)
                           (place-fret 2 1)
                         )
-}
-diagD    = \markup \center-column  { \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
+
+diagE    = \markup \scale #'(1.5 . 1.5) 
+      \fret-diagram-verbose #'(
                           (place-fret 6 3)
                            (mute 5)
                           (place-fret 4 2)
                           (place-fret 3 4)
                           (place-fret 2 1)
                         )
-                      }
+
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
   <c e g c>1^\diagA
-  <c e a c>1^\diagB 
-  <g e' a c>1^\diagC 
-  <g e' b' c>1^\diagD
+  <a e' g c>1^\diagB
+  <c e a c>1^\diagC 
+  <g e' a c>1^\diagD 
+  <g e' b' c>1^\diagE
 }
 
 \score {

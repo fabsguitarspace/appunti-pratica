@@ -12,7 +12,6 @@ Appunti di Pratica per Chitarra Jazz
   4-scala-maggiore
   5-scale-minori
   6-scale-dominanti
-  7-armonizzazione
-  8-vocabolario-accordi
-  9-progressioni-accordi
-  10-vocabolario-melodico
+  7-vocabolario-accordi
+  8-progressioni-accordi
+  9-vocabolario-melodico

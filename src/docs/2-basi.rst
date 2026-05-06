@@ -1,5 +1,5 @@
-Le fondamenta che nessuno vede
-==============================
+Le basi che nessuno vede
+========================
 
 La chitarra (il setup)
 ----------------------

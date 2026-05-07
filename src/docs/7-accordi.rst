@@ -1,8 +1,8 @@
-Vocabolario di accordi
-======================
+Accordi
+=======
 
-Vocabolario essenziale
-----------------------
+Accordi essenziali
+------------------
 
 Questi sono gli accordi che useremo per imparare tutti gli standard possibili. Sono le **forme fondamentali** “di riferimento” quando guardiamo un *lead sheet* per la prima volta.  Sono esattamente gli accordi che usino per la maggior parte del tempo quando si registra o si suona dal vivo. 
 

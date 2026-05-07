@@ -1,3 +1,0 @@
-Progressioni di accordi
-=======================
-

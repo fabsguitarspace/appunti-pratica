@@ -85,6 +85,19 @@ Scala maggiore di E♭
       <source src="_static/music/scala-maggiore-orizzontale-ef.mp3" type="audio/mp3">
    </audio>
 
+Scala maggiore di A♭
+^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-af.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-af.mp3" type="audio/mp3">
+   </audio>
+
 
 
 Diteggiature essenziali
@@ -152,14 +165,22 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
    </audio>
 
 
-
-
 5V2
 ^^^
 
 .. image:: 
    _static/music/scala-maggiore-verticale-5V2.*
    :width: 300px
+
+.. image:: 
+   _static/music/scala-maggiore-verticale-5V2-tab.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-verticale-5V2-tab.mp3" type="audio/mp3">
+   </audio>
 
 
 
@@ -235,6 +256,15 @@ Esempio:
    _static/music/scala-maggiore-verticale-6V4.*
    :width: 300px
 
+.. image:: 
+   _static/music/scala-maggiore-verticale-6V4-tab.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-verticale-6V4-tab.mp3" type="audio/mp3">
+   </audio>
 
 5V4
 ^^^
@@ -243,6 +273,16 @@ Esempio:
 .. image:: 
    _static/music/scala-maggiore-verticale-5V4.*
    :width: 300px
+
+.. image:: 
+   _static/music/scala-maggiore-verticale-5V4-tab.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-verticale-5V4-tab.mp3" type="audio/mp3">
+   </audio>
 
 
 Ecco la stessa cosa con le diteggiature 6V4 e 5V4:
@@ -404,3 +444,34 @@ Impara 2 diteggiature a settimana e la tua conoscenza della tastiera aumenterà 
 
 Non preoccuparti di memorizzare tutte le varianti. Il punto è capire come apportare piccole modifiche alle diteggiature per ottenere molte variazioni.
 
+Scala dorica
+------------
+
+La scala dorica è la seconda delle scale diatoniche, associata al secondo grado (IIm7) di ogni scala maggiore.
+
+Per creare una scala Dorica, inizia una scala Maggiore dalla seconda nota e mantieni la stessa diteggiatura.
+
+Si tratta una scala **minore**, quindi con **terza minore** e con una **settima minore**, e con una **sesta maggiore** (che è la caratteristica più importante della scala dorica).
+
+Diteggiature essenziali
+~~~~~~~~~~~~~~~~~~~~~~~
+
+L’esempio qui sotto è tratto dalla diteggiatura 6V2 della scala maggiore (“C” maggiore in questo esempio), ma la prima nota viene omessa. 
+
+Non useremo quindi una nomenclatura con riferimento alla *tonica della scala dorica* (che ci farebbe chiamare questa diteggiatura come 6V4), ma ci riferiamo alla diteggiatura 6V2, quindi con riferimento alla scala maggiore da cui deriva.
+
+Questo perché tipicamente suoneremo la scala dorica in un contesto II–V–I, quindi con riferimento alla scala maggiore da cui deriva.
+
+Da 6V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-verticale-6V2.*
+   :width: 300px
+
+Da 5V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-verticale-5V2.*
+   :width: 300px

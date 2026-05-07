@@ -8,7 +8,7 @@
 
 musica = \relative c {      
   \set TabStaff.restrainOpenStrings = ##t
-  \set TabStaff.minimumFret = #7
+  \set TabStaff.minimumFret = #2
   c8\downbow d\upbow 
   e\downbow f\upbow g\downbow 
   a\downbow b\upbow c\downbow 

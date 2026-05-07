@@ -7,3 +7,9 @@
     margin-top: 5px;
     border-radius: 5px;
 }
+
+.yt-video {
+    width: 100%;
+    height: auto;
+    margin: 5px 0;
+}

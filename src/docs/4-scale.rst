@@ -118,7 +118,7 @@ Un pianista, per esempio, può vedere ogni scala e tutte le sue note. L’immagi
 Questo è ciò che dobbiamo vedere quando guardiamo la tastiera a partire da una determinata scala. Non è una griglia di accordi ma la tastiera organizzata nel modo seguente:
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-6V2.*
+   _static/music/scala-maggiore-6V2.*
    :width: 300px
 
 
@@ -149,19 +149,19 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
 ^^^
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-6V2.*
+   _static/music/scala-maggiore-6V2.*
    :width: 300px
 
 
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-6V2-tab.*
+   _static/music/scala-maggiore-6V2-tab.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-maggiore-verticale-6V2-tab.mp3" type="audio/mp3">
+      <source src="_static/music/scala-maggiore-6V2-tab.mp3" type="audio/mp3">
    </audio>
 
 
@@ -169,17 +169,17 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
 ^^^
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-5V2.*
+   _static/music/scala-maggiore-5V2.*
    :width: 300px
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-5V2-tab.*
+   _static/music/scala-maggiore-5V2-tab.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-maggiore-verticale-5V2-tab.mp3" type="audio/mp3">
+      <source src="_static/music/scala-maggiore-5V2-tab.mp3" type="audio/mp3">
    </audio>
 
 
@@ -253,17 +253,17 @@ Esempio:
 
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-6V4.*
+   _static/music/scala-maggiore-6V4.*
    :width: 300px
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-6V4-tab.*
+   _static/music/scala-maggiore-6V4-tab.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-maggiore-verticale-6V4-tab.mp3" type="audio/mp3">
+      <source src="_static/music/scala-maggiore-6V4-tab.mp3" type="audio/mp3">
    </audio>
 
 5V4
@@ -271,17 +271,17 @@ Esempio:
 
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-5V4.*
+   _static/music/scala-maggiore-5V4.*
    :width: 300px
 
 .. image:: 
-   _static/music/scala-maggiore-verticale-5V4-tab.*
+   _static/music/scala-maggiore-5V4-tab.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-maggiore-verticale-5V4-tab.mp3" type="audio/mp3">
+      <source src="_static/music/scala-maggiore-5V4-tab.mp3" type="audio/mp3">
    </audio>
 
 
@@ -349,14 +349,14 @@ Le prossime due diteggiature sono concepite per creare un movimento longitudinal
 ^^^
 
 .. image:: 
-   _static/music/scala-maggiore-orizzontale-6H2.*
+   _static/music/scala-maggiore-6H2.*
    :width: 300px
 
 5H2
 ^^^
 
 .. image:: 
-   _static/music/scala-maggiore-orizzontale-5H2.*
+   _static/music/scala-maggiore-5H2.*
    :width: 300px
 
 
@@ -456,9 +456,9 @@ Si tratta una scala **minore**, quindi con **terza minore** e con una **settima 
 Diteggiature essenziali
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-L’esempio qui sotto è tratto dalla diteggiatura 6V2 della scala maggiore (“C” maggiore in questo esempio), ma la prima nota viene omessa. 
+Le diteggiature qui sotto sono tratte da quelle della scala maggiore (“C” maggiore in questo esempio), ma la prima nota viene omessa. 
 
-Non useremo quindi una nomenclatura con riferimento alla *tonica della scala dorica* (che ci farebbe chiamare questa diteggiatura come 6V4), ma ci riferiamo alla diteggiatura 6V2, quindi con riferimento alla scala maggiore da cui deriva.
+Non useremo quindi una nomenclatura con riferimento alla *tonica della scala dorica*, ma ci riferiamo alla diteggiatura della scala maggiore da cui deriva.
 
 Questo perché tipicamente suoneremo la scala dorica in un contesto II–V–I, quindi con riferimento alla scala maggiore da cui deriva.
 
@@ -466,12 +466,30 @@ Da 6V2
 ^^^^^^
 
 .. image:: 
-   _static/music/scala-dorica-verticale-6V2.*
+   _static/music/scala-dorica-6V2.*
    :width: 300px
 
 Da 5V2
 ^^^^^^
 
 .. image:: 
-   _static/music/scala-dorica-verticale-5V2.*
+   _static/music/scala-dorica-5V2.*
+   :width: 300px
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-6V4.*
+   :width: 300px
+
+Da 6V4, partendo dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Per mantenere intatto il pattern tra sesta e quinta corda, prendi la diteggiatura precedente e inizia dalla sesta corda.
+
+Non abbiamo quindi una diteggiatura specifica che ricalchi 5V4, ma usiamo la stessa diteggiatura 6V4 iniziando dalla sesta corda.
+
+.. image:: 
+   _static/music/scala-dorica-6V4-bis.*
    :width: 300px

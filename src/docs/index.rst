@@ -10,6 +10,6 @@ Appunti di Pratica per Chitarra Jazz
   2-basi
   3-conoscere-la-tastiera
   4-scale
-  6-vocabolario-accordi
+  5-vocabolario-accordi
   6-progressioni-accordi
   7-vocabolario-melodico

@@ -43,6 +43,9 @@ La logica della tastiera
 
 Ti consiglio un paio di video pubblicati da Frank Vignola sul suo canale YouTube per capire meglio la "*logica della tastiera*" con un sacco di esempi:
 
+* https://www.youtube.com/watch?v=N6t7ic-QnBY
+* https://www.youtube.com/watch?v=MzxWJvn39VA
+
 .. raw:: html
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/N6t7ic-QnBY?si=jh0tF5GpUFWl55F6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

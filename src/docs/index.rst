@@ -9,9 +9,7 @@ Appunti di Pratica per Chitarra Jazz
   1-introduzione
   2-basi
   3-conoscere-la-tastiera
-  4-scala-maggiore
-  5-scale-minori
-  6-scale-dominanti
-  7-vocabolario-accordi
-  8-progressioni-accordi
-  9-vocabolario-melodico
+  4-scale
+  6-vocabolario-accordi
+  6-progressioni-accordi
+  7-vocabolario-melodico

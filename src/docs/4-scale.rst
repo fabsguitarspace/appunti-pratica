@@ -1,5 +1,8 @@
+Scale
+=====
+
 Scala maggiore
-==============
+--------------
 
 La scala maggiore è la prima delle scale diatoniche ed è il fondamento della musica occidentale. 
 
@@ -12,7 +15,7 @@ In questo capitolo affronteremo la scala maggiore sia verticalmente sia orizzont
 Suoneremo in tutte le tonalità seguendo il **circolo delle quarte**.
 
 Suonare su una corda sola
--------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Suona le note della scala di Do maggiore, ascendendo e discendendo su ciascuna delle 6 corde, una alla volta, partendo dalla corda a vuoto. Nel nostro esempio arriviamo fino al 15° tasto: tu arriva il più in alto possibile sulla tua chitarra.
 
@@ -27,7 +30,7 @@ Inizia con un tempo lento, cercando un suono pulito e uniforme.
 Continua a praticare questo esercizio come riscaldamento veloce, concentrandoti ogni volta su 1 o 2 tonalità.
 
 Scala maggiore di C
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-c.*
@@ -41,7 +44,7 @@ Scala maggiore di C
 
 
 Scala maggiore di F
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
 
 .. image:: 
@@ -55,7 +58,7 @@ Scala maggiore di F
    </audio>
 
 Scala maggiore di B♭
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
 
 .. image:: 
@@ -70,7 +73,7 @@ Scala maggiore di B♭
 
 
 Scala maggiore di E♭
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-ef.*
@@ -84,16 +87,16 @@ Scala maggiore di E♭
 
 
 
-Diteggiature verticali
-----------------------
+Diteggiature essenziali
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Il principale ostacolo che ogni chitarrista si trova ad affrontare è l’**enorme quantità di possibilità di diteggiatura**. 
 
 La chitarra è l’unico strumento che offre così tante possibilità per suonare una semplice scala di Do; ed è anche il motivo per cui la lettura a prima vista sulla chitarra è così difficile.
 
-Il lavoro precedente ha sicuramente una prospettiva sul medio-lungo periodo. Intanto che la tua conoscenza della tastiera non diventa sempre più approfondita e confidente è necessario tuttavia **imparare subito** le **quattro diteggiature più efficienti**. 
+Essere in grado di padroneggiare le *diteggiature libere* ha sicuramente una prospettiva sul medio-lungo periodo. Intanto che la tua conoscenza della tastiera non diventa sempre più approfondita e confidente è necessario **imparare subito** le **diteggiature essenziali e più efficienti**. 
 
-Da queste quattro diteggiature derivano tutte le altre scale. Come chitarristi ci troviamo davanti a troppe scelte su dove suonare una determinata nota o frase. È proprio questa caratteristica dello strumento che ostacola la capacità di creare associazioni tra suono e mano. 
+Da queste diteggiature derivano tutte le altre scale. Come chitarristi ci troviamo davanti a troppe scelte su dove suonare una determinata nota o frase. È proprio questa caratteristica dello strumento che ostacola la capacità di creare associazioni tra suono e mano. 
 
 La chitarra è uno strumento molto visivo. Credo sia fondamentale visualizzare ogni diteggiatura fino al punto in cui possa essere praticata mentalmente anche senza lo strumento. Dopo alcuni mesi, dovresti essere in grado di associare i suoni alle immagini mentali.
 
@@ -106,29 +109,31 @@ Questo è ciò che dobbiamo vedere quando guardiamo la tastiera a partire da una
    :width: 300px
 
 
-Denominiamo le 4 diteggiature come segue:
+Vedremo **6 diteggiature** indicate come segue:
 
 * 6V2, 5V2
 * 6V4, 5V4
+* 6H2, 6H4
 
 Il cui significato è:
 
 * **6** = inizia sulla **6ª corda**
 * **V** = attraversa il manico in direzione **verticale**
 * **2** = inizia con il **2° dito**
+* **H** = attraversa il manico in direzione **orizzontale** (*horizontal*)
 
 Per esempio: **5V2** significa che la diteggiatura inizia sulla 5ª corda, attraversa il manico verticalmente e parte con il 2° dito. 
 
-Il termine *orizzontale* è usato in senso diverso dalla sezione precedente, dove lo abbiamo usato in senso stretto per indicare *una corda per volta*. Nel caso di queste diteggiature indica uno sviluppo che non segue una rigida disposizione verticale ma consente alla diteggiatura di spostarsi anche in senso orizzontale.
+Il termine *orizzontale* indica uno sviluppo che non segue una rigida disposizione verticale ma consente alla diteggiatura di spostarsi anche in senso orizzontale.
 
-Non sottolineerò mai abbastanza l’importanza di padroneggiare a fondo le quattro diteggiature di base prima di passare alle altre. È necessaria un’immagine mentale completa prima di provare a collegare tra loro queste immagini. 
+Non sottolineerò mai abbastanza l’importanza di padroneggiare a fondo queste diteggiature di base prima di passare alle altre. È necessaria un’immagine mentale completa prima di provare a collegare tra loro queste immagini. 
 
 Lo scopo non è quello di usare queste diteggiature come "box" ma come mappe iniziali. Ad un livello avanzato l'intera tastiera risulterà un'unica grande mappa, ma prima di allora è meglio partire con poche, semplici ed efficaci diteggiature.
 
-Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti altri), in quanto oltre a queste la cosa migliore sono direttamente le **diteggiature libere** e la capacità di vedere qualunque diteggiatura **in tempo reale** senza nessuno vincolo, gabbia o formula.
+Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti altri come il CAGED, il 3NPS *3-Notes-Per-String*, il Berklee, ecc.), in quanto oltre a queste la cosa migliore sono direttamente le **diteggiature libere** e la capacità di vedere qualunque diteggiatura **in tempo reale** senza nessuno vincolo, gabbia o formula.
 
 6V2
-~~~
+^^^
 
 .. image:: 
    _static/music/scala-maggiore-verticale-6V2.*
@@ -150,7 +155,7 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
 
 
 5V2
-~~~
+^^^
 
 .. image:: 
    _static/music/scala-maggiore-verticale-5V2.*
@@ -223,7 +228,7 @@ Esempio:
 
 
 6V4
-~~~
+^^^
 
 
 .. image:: 
@@ -232,7 +237,7 @@ Esempio:
 
 
 5V4
-~~~
+^^^
 
 
 .. image:: 
@@ -297,31 +302,18 @@ Esempio:
 * Gm7 C7 FΔ → usa la diteggiatura 5V4
 * Cm7 F7 B♭Δ → usa la diteggiatura 6V4, ecc.
 
-Diteggiature orizzontali
-------------------------
 
 Le prossime due diteggiature sono concepite per creare un movimento longitudinale sulla tastiera: non come una serie di box verticali chiusi, ma come una continuità che attraversa il manico. 
 
-Chiameremo queste nomenclature in modo coerente con quelle verticali:
-
-* 6H2
-* 5H2
-
-Il cui significato è:
-
-* **6** = inizia sulla **6ª corda**
-* **H** = attraversa il manico in direzione **orizzontale** (*horizontal*)
-* **2** = inizia con il **2° dito**
-
 6H2
-~~~
+^^^
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-6H2.*
    :width: 300px
 
 5H2
-~~~
+^^^
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-5H2.*
@@ -387,9 +379,9 @@ Esempio:
 * Cm7 F7 B♭Δ → usa la diteggiatura 6H2, ecc.
 
 Diteggiature libere
--------------------
+~~~~~~~~~~~~~~~~~~~
 
-Il seguente metodo ti consente di trovare in autonomia un'enorme quantità di diteggiature *in tempo reale*. 
+Il seguente metodo ti consente di trovare in autonomia un'enorme quantità di diteggiature *in tempo reale*. Assicurati tuttavia di padroneggiare a fondo le diteggiature essenziali prima di passare a questo approccio più libero. Puoi quindi proseguire con gli altri tipi di scale in diteggiatura essenziale per poi tornare a questa sezione più avanti nel tuo studio.
 
 #. Posiziona il **primo dito** sullo stesso Do.
 #. Suona una scala di Do di un’ottava partendo dal primo dito, andando a cercare le note che compongono la scala di Do.

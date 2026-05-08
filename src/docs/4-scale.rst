@@ -371,8 +371,8 @@ Da 6V4
    _static/music/scala-dorica-6V4.*
    :width: 300px
 
-Da 6V4, partendo dalla sesta corda
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Da 6V4 dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per mantenere intatto il pattern tra sesta e quinta corda, prendi la diteggiatura precedente e inizia dalla sesta corda.
 
@@ -382,8 +382,70 @@ Non abbiamo quindi una diteggiatura specifica che ricalchi 5V4, ma usiamo la ste
    _static/music/scala-dorica-6V4-bis.*
    :width: 300px
 
-Scala dominante
+Da 6H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-6H2.*
+   :width: 300px
+
+Da 5H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-5H2.*
+   :width: 300px
+
+Scala misolidia
 ~~~~~~~~~~~~~~~
+
+Il modo più semplice per creare una scala Misolidia è aggiungere le tre note diatoniche sotto la fondamentale della scala maggiore madre.
+
+In questo caso voglio creare il “G” Misolidio, quinto modo della scala di Do maggiore; quindi aggiungerò le tre note “B”, “A” e “G” sotto la scala di Do maggiore.
+
+Quando arrivo alla nota “C” utilizzo la diteggiatura 5V2 (Do maggiore) e mi fermo sulla nota “G”.
+
+Da 5V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-5V2.*
+   :width: 300px
+  
+Da 6H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-6H2.*
+   :width: 300px
+   
+Da 5V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-5V4.*
+   :width: 300px
+   
+Da 6V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-6V2.*
+   :width: 300px
+   
+Da 5H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-5H2.*
+   :width: 300px
+
+Da 5H2, dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-5H2-bis.*
+   :width: 300px
 
 
 Diteggiature libere

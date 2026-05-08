@@ -364,5 +364,19 @@ Scala maggiore di D♭
    </audio>
 
 
+Scala maggiore di G♭
+^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-gf.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-gf.mp3" type="audio/mp3">
+   </audio>
+
+
 
 

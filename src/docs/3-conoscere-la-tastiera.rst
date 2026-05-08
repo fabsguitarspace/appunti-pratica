@@ -377,6 +377,84 @@ Scala maggiore di G♭
       <source src="_static/music/scala-maggiore-orizzontale-gf.mp3" type="audio/mp3">
    </audio>
 
+Scala maggiore di B
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-b.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-b.mp3" type="audio/mp3">
+   </audio>
+
+
+Scala maggiore di E
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-e.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-e.mp3" type="audio/mp3">
+   </audio>
+
+
+Scala maggiore di A
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-a.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-a.mp3" type="audio/mp3">
+   </audio>
+
+
+
+
+Scala maggiore di D
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-d.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-d.mp3" type="audio/mp3">
+   </audio>
+
+
+
+Scala maggiore di G
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-g.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-g.mp3" type="audio/mp3">
+   </audio>
+
+
+
+
+
+
+
 
 
 

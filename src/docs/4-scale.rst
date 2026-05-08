@@ -23,6 +23,14 @@ Questo è ciò che dobbiamo vedere quando guardiamo la tastiera a partire da una
    _static/music/scala-maggiore-6V2.*
    :width: 300px
 
+Il seguente sistema l'ho appreso dal grande **Jimmy Bruno** e lo troviamo descritto nel suo libro "*Six Essential Fingerings for the Jazz Guitarist*"" oltre che nel video didattico "*No Nonsense Jazz Guitar*":
+
+* https://www.youtube.com/watch?v=WXy-0U0-3z0
+
+.. raw:: html
+
+   <iframe class="yt-video" src="https://www.youtube.com/embed/WXy-0U0-3z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Vedremo **6 diteggiature** indicate come segue:
 
@@ -373,6 +381,10 @@ Non abbiamo quindi una diteggiatura specifica che ricalchi 5V4, ma usiamo la ste
 .. image:: 
    _static/music/scala-dorica-6V4-bis.*
    :width: 300px
+
+Scala dominante
+~~~~~~~~~~~~~~~
+
 
 Diteggiature libere
 -------------------

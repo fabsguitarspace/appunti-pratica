@@ -350,5 +350,19 @@ Scala maggiore di A♭
       <source src="_static/music/scala-maggiore-orizzontale-af.mp3" type="audio/mp3">
    </audio>
 
+Scala maggiore di D♭
+^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-maggiore-orizzontale-df.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-maggiore-orizzontale-df.mp3" type="audio/mp3">
+   </audio>
+
+
 
 

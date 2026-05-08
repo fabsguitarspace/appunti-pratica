@@ -43,7 +43,7 @@ La musica cresce solo così.
 *Fabrizio*
 
 Perché questi appunti esistono (e perché sono separati dalla teoria)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Questi appunti nascono da una scena molto comune… che conosco bene.
 

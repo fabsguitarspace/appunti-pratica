@@ -282,7 +282,7 @@ Inizia con un tempo lento, cercando un suono pulito e uniforme.
 Continua a praticare questo esercizio come riscaldamento veloce, concentrandoti ogni volta su 1 o 2 tonalità.
 
 Scala maggiore di C
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-c.*
@@ -296,7 +296,7 @@ Scala maggiore di C
 
 
 Scala maggiore di F
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -310,7 +310,7 @@ Scala maggiore di F
    </audio>
 
 Scala maggiore di B♭
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~ 
 
 
 .. image:: 
@@ -325,7 +325,8 @@ Scala maggiore di B♭
 
 
 Scala maggiore di E♭
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~ 
+
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-ef.*
@@ -338,7 +339,8 @@ Scala maggiore di E♭
    </audio>
 
 Scala maggiore di A♭
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~ 
+
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-af.*
@@ -351,7 +353,8 @@ Scala maggiore di A♭
    </audio>
 
 Scala maggiore di D♭
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~ 
+
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-df.*
@@ -365,7 +368,8 @@ Scala maggiore di D♭
 
 
 Scala maggiore di G♭
-^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~ 
+
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-gf.*
@@ -378,7 +382,7 @@ Scala maggiore di G♭
    </audio>
 
 Scala maggiore di B
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-b.*
@@ -392,7 +396,7 @@ Scala maggiore di B
 
 
 Scala maggiore di E
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-e.*
@@ -406,7 +410,7 @@ Scala maggiore di E
 
 
 Scala maggiore di A
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-a.*
@@ -422,7 +426,7 @@ Scala maggiore di A
 
 
 Scala maggiore di D
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-d.*
@@ -437,7 +441,7 @@ Scala maggiore di D
 
 
 Scala maggiore di G
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-g.*
@@ -448,6 +452,57 @@ Scala maggiore di G
    <audio controls class="audio-controls">
       <source src="_static/music/scala-maggiore-orizzontale-g.mp3" type="audio/mp3">
    </audio>
+
+
+
+
+Triade maggiore
+---------------
+
+Un arpeggio è composto dalle stesse note usate per costruire l’accordo con lo stesso nome. La differenza è che, quando esegui un accordo, suoni tutte le note simultaneamente; quando esegui un arpeggio, plettri ogni nota una alla volta. 
+
+L’accordo più basilare è la **triade**. Come suggerisce il nome, è composta da 3 note.
+
+Gli arpeggi e gli accordi si costruiscono selezionando una nota sì e una no della scala, cioè usando intervalli chiamati terze. Puoi identificare qualsiasi intervallo contando inclusivamente i nomi delle note nella scala. 
+
+Quindi, per costruire una triade di Do maggiore, contiamo tre nomi di note: C-D-E; sappiamo quindi che E si trova a una terza da C. Da E contiamo ancora tre note: E-F-G, e sappiamo che G si trova a una terza da E. 
+
+Perciò, la triade di Do maggiore è costruita con il 1°, 3° e 5° grado, ovvero con una nota sì e una no della scala maggiore: C-E-G.
+
+Dato che accordi e arpeggi sono composti dalle stesse note, un arpeggio maggiore contiene il 1°, 3° e 5° grado della scala maggiore, cioè C... la tonica, E... la terza, e G... la quinta. 
+
+Gli arpeggi sono i mattoni fondamentali per costruire le linee melodiche ed è importante padroneggiarli.
+
+Triade maggiore verticale
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Trova un Do sulla tastiera della chitarra.
+2. Posiziona il primo dito sul Do.
+3. Cerca le note dell’arpeggio di Do iniziando con il primo dito.
+4. Successivamente, premi lo stesso Do con il secondo dito e ripeti l’esercizio. Usare un dito diverso ti costringe a trovare una diteggiatura alternativa.
+5. Poi inizia con il terzo dito e suona un arpeggio di Do.
+6. Infine, inizia con il quarto dito e suona un arpeggio di Do.
+7. Usa questo stesso approccio prendendo come punto di partenza ogni Do presente sulla chitarra.
+8. Il passo successivo consiste nel collegare questi arpeggi per costruire arpeggi di due ottave usando lo stesso approccio.
+9. Successivamente, suona questi arpeggi nelle altre tonalità seguendo il ciclo delle quarte.
+
+
+.. image:: 
+   _static/music/triade-c-maggiore-verticale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-c-maggiore-verticale.mp3" type="audio/mp3">
+   </audio>
+
+
+Scala minore
+------------
+
+Triade minore
+-------------
 
 
 

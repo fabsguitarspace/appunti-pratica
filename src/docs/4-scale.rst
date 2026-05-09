@@ -633,6 +633,17 @@ Diteggiatura orizzontale dalla quinta corda
    :width: 300px
 
 
+Scala Misolidia ♭2♭6
+~~~~~~~~~~~~~~~~~~~~
+
+Scala Alterata
+~~~~~~~~~~~~~~
+
+Scala Toni-Interi
+~~~~~~~~~~~~~~~~~
+
+Scala Diminuita
+~~~~~~~~~~~~~~~
 
 
 Diteggiature libere

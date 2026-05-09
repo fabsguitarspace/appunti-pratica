@@ -576,6 +576,62 @@ Scala minore melodica
 
 Alza il settimo grado della *scala dorica* di un semitono per ottenere la **scala minore melodica**.
 
+Da 6V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-6V2.*
+   :width: 300px
+
+Da 5V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-5V2.*
+   :width: 300px
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-6V4.*
+   :width: 300px
+
+Da 6V4 dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-6V4-bis.*
+   :width: 300px
+
+Da 6H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-6H2.*
+   :width: 300px
+
+Da 5H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-5H2.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-6H.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-melodica-5H.*
+   :width: 300px
+
 
 
 

@@ -731,9 +731,50 @@ Diteggiatura orizzontale dalla quinta corda
 Scala Toni-Interi
 ~~~~~~~~~~~~~~~~~
 
+La scala esatonale o toni-interi è una scala composta da soli toni interi, senza semitoni. Si tratta di una scala simmetrica che divide l'ottava in sei intervalli uguali.
+
+Le sue diteggiature riflettono questa simmetria, e sono spesso utilizzate per creare effetti sonori particolari o per improvvisare su accordi alterati. Per questo motivo le diteggiature non derivano da quelle della scala maggiore, ma sono costruite appositamente per questa scala.
+
+
+.. image:: 
+   _static/music/scala-toni-interi-1.*
+   :width: 300px
+
+.. image:: 
+   _static/music/scala-toni-interi-2.*
+   :width: 300px
+
+.. image:: 
+   _static/music/scala-toni-interi-3.*
+   :width: 300px
+
+.. image:: 
+   _static/music/scala-toni-interi-4.*
+   :width: 300px
+
+
 Scala Diminuita
 ~~~~~~~~~~~~~~~
 
+La **scala diminuita** è una scala simmetrica composta da intervalli di tono e semitono alternati. Esistono due tipi di scale diminute: la scala diminuita semitono-tono (o "half-whole") e la scala diminuita tono-semitono (o "whole-half").
+
+Le diteggiature della scala diminuita sono costruite appositamente per questa scala, e non derivano da quelle della scala maggiore. Sono spesso utilizzate per improvvisare su accordi diminuiti o per creare effetti sonori particolari.
+
+La scala diminuita semitono-tono (*half-whole*) è usata su accordi di settima dominante alterati, mettendo in evidenza le tensioni ♭9, ♯9, ♯11 e **13**.
+
+In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semitono**, considerando come tonica uno dei toni cordali dell’accordo di settima dominante tra ♭9, 3, 5 e ♭7.
+
+Per questa diteggiature non ha molto senso indicare gli intervalli di ogni nota ma piuttosto quali sono parte dell'arpeggio di settima diminuita su cui si trovano i toni cordali ♭9, 3, 5 e ♭7.
+
+
+
+.. image:: 
+   _static/music/scala-diminuita-1.*
+   :width: 300px
+
+.. image:: 
+   _static/music/scala-diminuita-2.*
+   :width: 300px
 
 Diteggiature libere
 -------------------

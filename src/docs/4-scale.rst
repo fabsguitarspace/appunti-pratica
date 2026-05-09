@@ -447,6 +447,88 @@ Da 5H2, dalla quinta corda
    _static/music/scala-misolidia-5H2-bis.*
    :width: 300px
 
+Scala minore naturale
+~~~~~~~~~~~~~~~~~~~~~
+
+Per creare una scala minore naturale, aggiungi i due suoni diatonici sotto la tonica della relativa scala maggiore.
+
+Questa è il 6° modo di Do maggiore; quindi aggiungerò le due note “B” e “A” sotto la scala di Do maggiore. 
+
+Quando arrivo alla nota “C” utilizzo la diteggiatura 6V4 (“C” maggiore) e mi fermo sulla nota “A”.
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-naturale-6V4.*
+   :width: 300px
+
+Da 5V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-naturale-5V4.*
+   :width: 300px
+
+
+Da 5V2
+^^^^^^
+
+
+.. image:: 
+   _static/music/scala-minore-naturale-5V2.*
+   :width: 300px
+
+
+Da 6H2
+^^^^^^
+
+
+.. image:: 
+   _static/music/scala-minore-naturale-6H2.*
+   :width: 300px
+
+
+
+Scala minore armonica
+~~~~~~~~~~~~~~~~~~~~~
+
+Alza il settimo grado della scala minore naturale di un semitono per ottenere la **scala minore armonica**.
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-armonica-6V4.*
+   :width: 300px
+
+Da 5V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-armonica-5V4.*
+   :width: 300px
+
+
+Da 5V2
+^^^^^^
+
+
+.. image:: 
+   _static/music/scala-minore-armonica-5V2.*
+   :width: 300px
+
+
+Da 6H2
+^^^^^^
+
+
+.. image:: 
+   _static/music/scala-minore-armonica-6H2.*
+   :width: 300px
+
+
+
 
 Diteggiature libere
 -------------------

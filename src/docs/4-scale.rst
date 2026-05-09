@@ -513,7 +513,7 @@ Diteggiatura orizzontale dalla sesta corda
 Diteggiatura orizzontale dalla quinta corda
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-. image:: 
+.. image:: 
    _static/music/scala-minore-naturale-5H.*
    :width: 300px
 

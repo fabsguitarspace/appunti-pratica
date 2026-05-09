@@ -483,11 +483,23 @@ Da 5V2
 Da 6H2
 ^^^^^^
 
-
 .. image:: 
    _static/music/scala-minore-naturale-6H2.*
    :width: 300px
 
+Diteggiatura orizzontale dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-naturale-6H.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. image:: 
+   _static/music/scala-minore-naturale-5H.*
+   :width: 300px
 
 
 Scala minore armonica
@@ -528,7 +540,19 @@ Da 6H2
    :width: 300px
 
 
+Diteggiatura orizzontale dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: 
+   _static/music/scala-minore-armonica-6H.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-minore-armonica-5H.*
+   :width: 300px
 
 Diteggiature libere
 -------------------

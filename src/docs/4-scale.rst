@@ -636,8 +636,47 @@ Diteggiatura orizzontale dalla quinta corda
 Scala Misolidia ♭9♭13
 ~~~~~~~~~~~~~~~~~~~~~
 
-Scala Alterata
-~~~~~~~~~~~~~~
+Vediamo ora la prima delle scale *alterate*, la scala **Misolidia ♭9♭13**. Deriviamo le diteggiature da quelle della scala minore armonica, ma partendo dal V grado.
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-b9b13-6V4.*
+   :width: 300px
+
+Da 5V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-b9b13-5V4.*
+   :width: 300px
+
+
+Da 6H2
+^^^^^^
+
+
+.. image:: 
+   _static/music/scala-misolidia-b9b13-6H2.*
+   :width: 300px
+
+
+Diteggiatura orizzontale
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-misolidia-b9b13-5H.*
+   :width: 300px
+
+
+
+Scala Superlocria
+~~~~~~~~~~~~~~~~~
+
+Deriviamo le diteggiature della **scala superlocria** da quelle della scala minore melodica, ma partendo dal VII grado, ovvero mezzotono sotto la tonica della minore melodica.
+
+
 
 Scala Toni-Interi
 ~~~~~~~~~~~~~~~~~

@@ -633,8 +633,8 @@ Diteggiatura orizzontale dalla quinta corda
    :width: 300px
 
 
-Scala Misolidia ♭2♭6
-~~~~~~~~~~~~~~~~~~~~
+Scala Misolidia ♭9♭13
+~~~~~~~~~~~~~~~~~~~~~
 
 Scala Alterata
 ~~~~~~~~~~~~~~

@@ -676,6 +676,56 @@ Scala Superlocria
 
 Deriviamo le diteggiature della **scala superlocria** da quelle della scala minore melodica, ma partendo dal VII grado, ovvero mezzotono sotto la tonica della minore melodica.
 
+Da 6V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-6V2.*
+   :width: 300px
+
+Da 5V2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-5V2.*
+   :width: 300px
+
+Da 6V4
+^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-6V4.*
+   :width: 300px
+
+
+Da 6H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-6H2.*
+   :width: 300px
+
+Da 5H2
+^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-5H2.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-6H.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-superlocria-5H.*
+   :width: 300px
+
 
 
 Scala Toni-Interi

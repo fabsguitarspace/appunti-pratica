@@ -396,6 +396,22 @@ Da 5H2
    _static/music/scala-dorica-5H2.*
    :width: 300px
 
+Diteggiatura orizzontale dalla sesta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-6H.*
+   :width: 300px
+
+Diteggiatura orizzontale dalla quinta corda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scala-dorica-5H.*
+   :width: 300px
+
+
+
 Scala misolidia
 ~~~~~~~~~~~~~~~
 
@@ -505,7 +521,7 @@ Diteggiatura orizzontale dalla quinta corda
 Scala minore armonica
 ~~~~~~~~~~~~~~~~~~~~~
 
-Alza il settimo grado della scala minore naturale di un semitono per ottenere la **scala minore armonica**.
+Alza il settimo grado della *scala minore naturale* di un semitono per ottenere la **scala minore armonica**.
 
 Da 6V4
 ^^^^^^
@@ -553,6 +569,15 @@ Diteggiatura orizzontale dalla quinta corda
 .. image:: 
    _static/music/scala-minore-armonica-5H.*
    :width: 300px
+
+
+Scala minore melodica
+~~~~~~~~~~~~~~~~~~~~~
+
+Alza il settimo grado della *scala dorica* di un semitono per ottenere la **scala minore melodica**.
+
+
+
 
 Diteggiature libere
 -------------------

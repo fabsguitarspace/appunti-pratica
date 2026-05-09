@@ -13,7 +13,7 @@ scale = #'(
         (place-fret 5 10 "4")
         (place-fret 5 12 "5")
         (place-fret 5 14 "6")
-        (place-fret 4 13 "7")
+        (place-fret 4 11 "7")
         (place-fret 4 12 "1" red)
         (place-fret 4 14 "2")
         (place-fret 4 15 "b3")

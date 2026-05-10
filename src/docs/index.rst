@@ -10,8 +10,7 @@ Appunti di Pratica per Chitarra Jazz
   2-basi
   3-conoscere-la-tastiera
   4-scale
-  5-triadi
-  6-arpeggi
-  7-accordi
-  8-progressioni
-  9-licks
+  5-arpeggi
+  6-accordi
+  7-progressioni
+  8-licks

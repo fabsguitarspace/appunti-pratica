@@ -515,6 +515,37 @@ In questo esercizio siamo rimasti sulle prime posizioni della tastiera, ma puoi 
       <source src="_static/music/triade-maggiore-verticale-12.mp3" type="audio/mp3">
    </audio>
 
+Triade maggiore orizzontale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In questo esercizio suoneremo la triade maggiore **orizzontale** (una corda per volta) in tutte e 12 le tonalità seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore.
+
+Comincia dalla tonica di ciascun arpeggio e suona l’arpeggio avanti e indietro lungo la tastiera iniziando dalla corda di Mi, completando il ciclo prima di passare alla corda successiva.
+
+.. attention::
+   
+   Sta a te estendere questo esercizio alle altre 5 corde.
+
+Un buon modo per iniziare questo esercizio è partire suonando soltanto le toniche di ogni tonalità su ciascuna corda:
+
+C, F, B♭, E♭, A♭, D♭, G♭, B, E, A, D, G
+
+Un altro approccio consiste nel suonare ogni tonalità su tutte e 6 le corde prima di passare alla tonalità successiva. 
+
+.. important::
+   
+   Variare gli esercizi è importante per evitare di cadere in schemi fissi e per sviluppare una conoscenza più profonda della tastiera.      
+
+.. image:: 
+   _static/music/triade-maggiore-orizzontale-12.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-maggiore-orizzontale-12.mp3" type="audio/mp3">
+   </audio>
+
 
 Scala minore
 ------------

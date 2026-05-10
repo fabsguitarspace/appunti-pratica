@@ -547,6 +547,21 @@ Un altro approccio consiste nel suonare ogni tonalità su tutte e 6 le corde pri
    </audio>
 
 
+Nel prossimo esercizio suoneremo la triade maggiore orizzontale **in tutte e 12 le tonalità** seguendo il ciclo delle quarte, ma questa volta iniziando dalla nota più bassa della triade, invece che dalla tonica.
+
+Vedremo solo la prima corda, anche in questo caso sta a te estendere questo esercizio alle altre 5 corde.
+
+
+.. image:: 
+   _static/music/triade-maggiore-orizzontale-12-bis.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-maggiore-orizzontale-12-bis.mp3" type="audio/mp3">
+   </audio>
+
 Scala minore
 ------------
 

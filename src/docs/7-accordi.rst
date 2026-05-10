@@ -69,7 +69,11 @@ Anche per gli **accordi dominanti** abbiamo cinque accordi di riferimento (più 
 Accordi semidiminuiti
 ~~~~~~~~~~~~~~~~~~~~~
 
-Per gli accordi semidiminuiti (o m7♭5) abbiamo solo 2 forme essenziali, più due shell. L'ultima forma shell è senza fondamentale, perché in questo caso è più importante far sentire la 3ª e la 7ª, che sono le note che definiscono il suono semidiminuito oltre alla quinta bemolle, che a quel punto rimane al basso.
+Per gli accordi semidiminuiti (o m7♭5) abbiamo solo 2 forme essenziali, più due shell. 
+
+La prima forma shell è identica al m7 perché abbiamo omesso la quinta bemolle, che è la nota più debole dell’accordo, e quindi non è così importante farla sentire. In questo modo possiamo far sentire la tonica, la 3ª e la 7ª, che sono le note più importanti.
+
+L'ultima forma shell è senza fondamentale, perché in questo caso è più importante far sentire la 3ª e la 7ª, che sono le note che definiscono il suono semidiminuito oltre alla quinta bemolle, che a quel punto rimane al basso.
 
 .. image:: 
    _static/music/accordi-essenziali-semidiminuiti.*

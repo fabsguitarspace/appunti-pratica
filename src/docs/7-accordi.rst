@@ -50,6 +50,23 @@ In sostanza abbiamo cinque accordi minori di riferimento (più due shell).
       <source src="_static/music/accordi-essenziali-minori.mp3" type="audio/mp3">
    </audio>
 
+Accordi dominanti
+~~~~~~~~~~~~~~~~~
+
+Anche per gli **accordi dominanti** abbiamo cinque accordi di riferimento (più due shell). 
+
+
+.. image:: 
+   _static/music/accordi-essenziali-dominanti.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-essenziali-dominanti.mp3" type="audio/mp3">
+   </audio>
+
+
 
 Vocabolario avanzato
 --------------------

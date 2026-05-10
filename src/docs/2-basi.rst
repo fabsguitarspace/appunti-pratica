@@ -117,7 +117,7 @@ semiacustiche).
 Non è un dogma… è un punto di partenza intelligente se vuoi mani più
 solide e un suono più fermo.
 
-.. tip::
+.. hint::
 	Se cambi scalatura e senti fastidio o tensioni strane, ridimensiona subito.
 	Qui stiamo costruendo controllo… non stiamo facendo prove di forza.
 
@@ -679,7 +679,7 @@ Tre micro movimenti che cambiano tutto:
 
   È come camminare: non salti a ogni passo, appoggi e trasferisci peso.
 
-.. tip::
+.. hint::
 
   La velocità non si costruisce accelerando... si costruisce accorciando il movimento.
 
@@ -725,7 +725,7 @@ Quando scivoli lungo la tastiera, il rumore di scivolata è normale. Ma puoi sce
 
 Differenza? Intenzione e volume. Se suoni piano e controlli il rilascio, la scivolata sparisce. Se premi come una morsa, la scivolata diventa un effetto involontario.
 
-.. tip::
+.. hint::
 
    Se vuoi più pulizia, cerca prima di tutto:
 
@@ -764,7 +764,7 @@ E soprattutto: le dita “di supporto” non servono a schiacciare. Servono a co
 
 Esempio tipico (senza entrare in diteggiature specifiche): se stai suonando una nota col terzo dito e ti serve stabilità, puoi appoggiare il secondo dietro o accanto al terzo. Non stai barando. Stai suonando bene.
 
-.. tip::
+.. hint::
    
    Se una nota richiede energia (bending, vibrato, tenuta lunga), chiedi aiuto alle dita vicine.
 
@@ -986,7 +986,7 @@ Premi troppo, il gesto diventa duro, la mano si stanca.
 
 Correzione: torna alla pressione minima utile. Il roll deve essere facile, non faticoso.
 
-.. tip::
+.. hint::
 
    Il finger roll è un modo per cambiare corda senza “cambiare mano”.
 
@@ -1093,7 +1093,7 @@ Ci sono due soluzioni semplici, potentissime:
 
 Il legato bello non è quello che elimina la pennata. È quello che convive con il tempo.
 
-.. tip::
+.. hint::
 
    Se il legato ti fa perdere il tempo, stai usando il legato come fuga.
 

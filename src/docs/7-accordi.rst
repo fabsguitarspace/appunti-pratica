@@ -36,7 +36,7 @@ Accordi minori
 
 In sostanza abbiamo cinque accordi minori di riferimento (più due shell). 
 
-.. tip::
+.. hint::
    
    Non è necessario suonare sempre la nota di basso quando suoni accordi. Quando si accompagna le due corde più importanti sono le **corde centrali**, queste sono le uniche che dobbiamo far sentire.
 
@@ -66,7 +66,39 @@ Anche per gli **accordi dominanti** abbiamo cinque accordi di riferimento (più 
       <source src="_static/music/accordi-essenziali-dominanti.mp3" type="audio/mp3">
    </audio>
 
+Accordi semidiminuiti
+~~~~~~~~~~~~~~~~~~~~~
 
+Per gli accordi semidiminuiti (o m7♭5) abbiamo solo 2 forme essenziali, più due shell. L'ultima forma shell è senza fondamentale, perché in questo caso è più importante far sentire la 3ª e la 7ª, che sono le note che definiscono il suono semidiminuito oltre alla quinta bemolle, che a quel punto rimane al basso.
+
+.. image:: 
+   _static/music/accordi-essenziali-semidiminuiti.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-essenziali-semidiminuiti.mp3" type="audio/mp3">
+   </audio>
+
+Accordi diminuiti
+~~~~~~~~~~~~~~~~~
+
+Per gli accordi diminuiti abbiamo solo 3 forme essenziali:
+
+.. hint::
+
+   Ricorda che gli accordi diminuiti sono simmetrici, quindi se impari una forma, tutte le sue inversioni e trasposizioni sono identiche, inoltre ogni nota dell'accordo può essere considerata come la tonica, quindi è sufficiente imparare una forma per avere accesso a tutte le possibili posizioni di quell'accordo.
+
+.. image:: 
+   _static/music/accordi-essenziali-diminuiti.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-essenziali-diminuiti.mp3" type="audio/mp3">
+   </audio>
 
 Vocabolario avanzato
 --------------------

@@ -497,6 +497,24 @@ Triade maggiore verticale
       <source src="_static/music/triade-c-maggiore-verticale.mp3" type="audio/mp3">
    </audio>
 
+Nel prossimo esercizio suoniamo la triade maggiore verticale **in tutte e 12 le tonalità** seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore. L’obiettivo è riuscire a passare attraverso tutte e 12 le tonalità a un tempo lento senza fermarsi.
+
+Usa la nota lunga per pensare in anticipo alla tonalità successiva.
+
+In questo esercizio siamo rimasti sulle prime posizioni della tastiera, ma puoi spostarti più in alto per suonare le triadi maggiori in tutte le posizioni della chitarra.
+
+
+
+.. image:: 
+   _static/music/triade-maggiore-verticale-12.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-maggiore-verticale-12.mp3" type="audio/mp3">
+   </audio>
+
 
 Scala minore
 ------------

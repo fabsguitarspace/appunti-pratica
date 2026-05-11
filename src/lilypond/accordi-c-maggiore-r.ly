@@ -1,4 +1,4 @@
-\version "2.24.4"
+\version "2.26.0"
 \language "english"
 \header {
 	tagline = ##f
@@ -9,54 +9,59 @@
 diagA    = \markup  \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
                           (place-fret 5 3)
-                          (place-fret 4 2)
-                          (open 3)
-                          (place-fret 2 1)
+                          (place-fret 4 7)
+                         (place-fret 3 7)
+                          (place-fret 2 7)
                         )
 
 
-diagB    = \markup \scale #'(1.5 . 1.5)
+diagB    = \markup  \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
-                         (open 5)
-                          (place-fret 4 2)
-                          (open 3)
-                          (place-fret 2 1)
+                          (place-fret 6 8)
+                          (place-fret 5 7)
+                          (place-fret 4 7)
+                         (place-fret 3 7)
+                          (place-fret 2 7)
                         )
-
 
 diagC    = \markup \scale #'(1.5 . 1.5) 
             \fret-diagram-verbose #'(
-                          (place-fret 5 3)
-                          (place-fret 4 2)
-                          (place-fret 3 2)
-                          (place-fret 2 1)
+                         (place-fret 6 8)
+                          (place-fret 5 7)
+                          (place-fret 4 9)
+                         (place-fret 3 7)
+                          (place-fret 2 7)
                         )
 
-diagD    = \markup \scale #'(1.5 . 1.5) 
-        \fret-diagram-verbose #'(
-                          (place-fret 6 3)
-                          (mute 5)
-                          (place-fret 4 2)
-                          (place-fret 3 2)
-                          (place-fret 2 1)
+
+diagD   = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                        (place-fret 6 8)
+            
+                          (place-fret 4 9)
+                         (place-fret 3 9)
+                          (place-fret 2 7)
                         )
 
-diagE    = \markup \scale #'(1.5 . 1.5) 
-      \fret-diagram-verbose #'(
-                          (place-fret 6 3)
-                           (mute 5)
-                          (place-fret 4 2)
-                          (place-fret 3 4)
-                          (place-fret 2 1)
+
+diagE   = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                             (place-fret 5 7)
+            
+                          (place-fret 4 9)
+                         (place-fret 3 7)
+                          (place-fret 2 7)
                         )
 
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
-  <c e g c>1^\diagA
-  <a e' g c>1^\diagB
-  <c e a c>1^\diagC 
-  <g e' a c>1^\diagD 
-  <g e' b' c>1^\diagE
+    \set TabStaff.minimumFret = #3
+  <c a' d fs>1^\diagA
+      \set TabStaff.minimumFret = #7
+  <c e a d fs>1^\diagB
+  <c e b' d fs>1^\diagC 
+  <c b' e fs>1^\diagD 
+  <e b' d fs>1^\diagE 
 }
 
 \score {
@@ -83,7 +88,7 @@ music = \relative c {
 
     \context {
       \Score
-       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/25)
+       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/40)
        \omit Staff.TimeSignature
       \remove "Bar_number_engraver"
     }

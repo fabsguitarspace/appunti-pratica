@@ -130,19 +130,17 @@ L'inizio della creazione di uno stile personale avviene quando si sceglie **che 
 
 In ogni caso sarai *tu* a dover prendere le decisioni importanti. Tutto quello che possono fare le innumerevoli fonti, libri, corsi e insegnanti è  di offrirti le loro idee ed un metodo da applicare al tuo studio *ma* la responsabilità di riunire le idee, i libri, i metodi e le esperienze musicali in uno stile personale e coeso **sarà solamente tua**. Non fare affidamento su una sola sorgente. La musica è aperta quanto la gente: bisogna percorrere più di una strada.
 
+Studia ed impara **tanti brani**. Assicurati di saperli a memoria! Trascrivi i temi e se ci riesci anche gli assoli dei tuoi musicisti preferiti (anche solo piccole porzioni): è un’ottima tecnica per sviluppare orecchio e competenza teorica.
 
-Istruzioni per l'uso
---------------------
+Suona in jam session. Organizza con gli amici sessioni in cui suonare e studiare insieme. E soprattutto, appena possibile inizia a suonare in una band. Divertiti. Lo scopo non è quello di arrivare in fondo al cammino il più presto possibile, ma quello di godere di ogni esperienza compiuta durante il viaggio. Il fine ultimo è lo stesso del fare musica: non correre per arrivare alla fine, ma donare bellezza e significato al momento presente.
 
-Questo materiale non è un programma militare e non è una lista di
-doveri. È un quaderno di lavoro, e come tutti i quaderni funziona quando
-lo usi spesso, anche poco, e soprattutto quando lo usi senza
-trasformarlo in un tribunale.
+Ti auguro buona fortuna per la tua avventura musicale! La bellezza della musica è che più si vive, più essa si approfondisce. **Non c’è un traguardo**. Non stai inquinando il pianeta con qualche tipo di scoria e non stai danneggiando nessuno cercando di accumulare beni materiali.
 
-Ci sono tre idee che, se le capisci subito, ti salvano anni di
-frustrazione: distinguere i tre stati mentali, costruire lo studio a
-mattoncini, e tenere un quaderno di bordo che ti aiuti invece di
-giudicarti.
+A prescindere dal tuo livello, la musica ti permette di essere creativo. Stai esprimendo la tua esistenza in quanto **spirito unico**, comunicando con altri in maniera squisitamente umana. Che cosa sia la musica e da dove essa provenga sono domande che si pongono i filosofi, ma il fatto che questo sia un *mistero* non ci impedisce di goderne i benefici.
+
+
+Cosa siginifica “praticare”?
+----------------------------
 
 Studio, suonare, performare: tre parole, tre stati mentali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

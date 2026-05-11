@@ -428,26 +428,4 @@ capire, ricordare, ascoltare, collegare. È quello sforzo che crea
 competenza, non la ripetizione ipnotica. Vorrei che imparassi a
 costruire le forme e non a ricordarle.
 
-Una promessa realistica: poco, spesso, bene
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se ti capita di leggere una pagina e sentire subito il bisogno di
-prendere la chitarra, chiudi pure gli appunti. È l'unica “regola” che
-vale sempre. Questi appunti non vogliono trattenerti. Vogliono
-accompagnarti fino al bordo del foglio… e poi lasciarti andare dove
-conta davvero: nel suono.
-
-Non ti prometto risultati in trenta giorni. Non è quello il punto. Ti
-propongo un patto più realistico: tornare spesso, anche solo pochi
-minuti, con attenzione vera. Perché la pratica non è un atto eroico. È
-un'abitudine. E le abitudini, quando sono buone, cambiano una persona.
-Una regola finale, semplice, se ti senti perso, fai così:
-
-- scegli uno stato mentale (studiare, suonare, performare)
-- fai un mattoncino da 5 minuti
-- scrivi due righe sul quaderno
-
-E poi basta. Hai fatto pratica vera.
-
-Il resto è solo l'ego che vuole un piano perfetto. La musica non chiede
-perfezione. Chiede presenza… e ritorno.

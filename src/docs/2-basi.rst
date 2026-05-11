@@ -1,6 +1,7 @@
 Le basi che nessuno vede
 ========================
 
+
 La chitarra (il setup)
 ----------------------
 

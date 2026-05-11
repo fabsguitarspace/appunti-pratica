@@ -86,6 +86,51 @@ colpa perché non sta capendo. Qui invece possiamo fare una cosa più
 sana: leggere quando è tempo di leggere, suonare quando è tempo di
 suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 
+
+Iniziamo bene: un patto con te stesso
+-------------------------------------
+
+Complimenti, è ora di mettersi all'opera! Come vedrai, ci sarà abbastanza materiale da tenerti occupati per i prossimi vent'anni. Ma poiché così suona decisamente opprimente, cerchiamo di vedere le cose in prospettiva!
+
+Imparare a suonare e a improvvisare è qualcosa che richiede tempo, un'esperienza che non si esaurisce mai e che ti accompagnerà per tutta la vita. Dovrai essere flessibile e riuscire ad addattarti a tutti i tuoi futuri cambiamenti a livello musicale e di gusto musicale, perché più conoscerai e più il tuo orecchio si svilupperà e avrai nuovi orizzonti che oggi non immagini neppure.
+
+Ma la cosa buona è che puoi iniziare subito a suonare e a improvvisare, ovviamente in modo molto semplice, e poi costruire da lì. Non è necessario aspettare di essere “pronti” o di aver studiato “tutto” per iniziare a suonare. Anzi, è proprio suonando che diventerai pronto e che imparerai tutto.
+
+Non è importante che tu faccia sempre tutti gli esercizi (il che oltretutto sarebbe davvero opprimente): ciò che conta davvero è studiare in maniera mirata ed efficace e sfidarsi ad imparare cose nuove ed a correggere le cattive abitudini. Col tempo, vedrai che semplicemente il suonare più che puoi, in una tonalità nuova ogni settimana, una canzone nuova ogni settimana, ti darà una grande padronanza ed una solida base musicale costruita a partire dall'orecchio. 
+
+L'acquisizione delle tecniche più complicate ed avanzate, di per sé, non basterà a fare di te un grande musicista. La conoscenza e l'informazione sono solo alcuni dettagli, nel quadro generale della musica. Lo sviluppo e l'approfondimento delle abilità musicali legate alla performance sono invece le cose più importanti: la capacità di suonare correttamente, sviluppare lo swing, la capacità di udire e di riconoscere le relazioni musicali, l'abilità di “tracciare” le proprie idee durante un'improvvisazione. Queste capacità si acquisiscono soltanto studiando regolarmente ed in maniera efficace.
+
+Tieni sempre a mente le tre T: 
+
+- *Tone* (il Suono) 
+- *Timing* (quadratura ritmica)
+- e *Tunes* (brani)
+
+Sviluppa un bel Suono (qualità emotiva) costruendo un suono espressivo, forte ed intonato, dotato di una ricca tavolozza di dinamiche; sviluppa il Tempo, (qualità fisica) cioè la capacità di mantenere costanti diversi tempi metronomici, di eseguire correttamente svariati stili ritmici e di generare un senso di “groove” o di pulsazione. I Brani (qualità intellettuale) rappresentano la profonda comprensione della struttura e dello stile musicale che suoni. 
+
+Riuscire a comunicare attraverso l'integrazione di queste qualità è molto più importante che non bombardare l'ascoltatore con milioni di note.
+
+I musicisti più maturano e meno note suonano. Imparano a rendere i propri soli raffinati e a dire più cose con meno parole. Sono più interessati alla qualità delle note che scelgono, piuttosto che alla quantità, e costruiscono le proprie improvvisazioni con cura, suonando con coerenza.
+
+In altre parole, sviluppano uno **stile**! Uno stile esprime il gusto di un musicista, raffinato e presentato con chiarezza. 
+
+Ancora: **sviluppano un suono**! La maggior parte dei grandi musicisti è riconoscibile dalle prime due o tre note. La priorità assoluta dovrebbe essere lo sviluppo del proprio suono. E questa cosa non ha nulla a che vedere con l'attrezzatura: è una questione di controllo, di espressività, di dinamica, di intonazione, di vibrazione, di attacco e assolutamente non di pedali o amplificatori o dal tipo di chitarra che usi.
+
+**Datti tempo**
+
+Per sviluppare tutti questi aspetti ci vuole tempo: **goditi il viaggio**. Stai scoprendo la tua voce, unica e particolare. La musica non è uno sport competitivo, ma un linguaggio per comunicare le tue emozioni. 
+
+Non devi né battere tutti né sentirti sconfitto perché non suoni come Joe Pass e Pat Metheny. La musica improvvisata è un veicolo incredibile per connettersi con la propria interiorità e per poterla comunicare agli altri.
+
+Ad un certo punto, durante il viaggio, ti accorgerai **che non c'è abbastanza tempo per fare tutto**. Le possibilità di esprimersi creativamente attraverso la musica **sono infinite**. 
+
+Invece di provare ad impadronirti di tutto, **dovrai decidere su cosa investire il tuo tempo**. 
+
+L'inizio della creazione di uno stile personale avviene quando si sceglie **che cosa studiare e come**.
+
+In ogni caso sarai *tu* a dover prendere le decisioni importanti. Tutto quello che possono fare le innumerevoli fonti, libri, corsi e insegnanti è  di offrirti le loro idee ed un metodo da applicare al tuo studio *ma* la responsabilità di riunire le idee, i libri, i metodi e le esperienze musicali in uno stile personale e coeso **sarà solamente tua**. Non fare affidamento su una sola sorgente. La musica è aperta quanto la gente: bisogna percorrere più di una strada.
+
+
 Istruzioni per l'uso
 --------------------
 

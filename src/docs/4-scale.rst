@@ -5,9 +5,9 @@ Scale
 6 diteggiature essenziali
 -------------------------
 
-Il principale ostacolo che ogni chitarrista si trova ad affrontare è l’**enorme quantità di possibilità di diteggiatura**. 
+Il principale ostacolo che ogni chitarrista si trova ad affrontare è l'**enorme quantità di possibilità di diteggiatura**. 
 
-La chitarra è l’unico strumento che offre così tante possibilità per suonare una semplice scala di Do; ed è anche il motivo per cui la lettura a prima vista sulla chitarra è così difficile.
+La chitarra è l'unico strumento che offre così tante possibilità per suonare una semplice scala di Do; ed è anche il motivo per cui la lettura a prima vista sulla chitarra è così difficile.
 
 Essere in grado di padroneggiare le *diteggiature libere* ha sicuramente una prospettiva sul medio-lungo periodo. Intanto che la tua conoscenza della tastiera non diventa sempre più approfondita e confidente è necessario **imparare subito** le **diteggiature essenziali e più efficienti**. 
 
@@ -15,7 +15,7 @@ Da queste diteggiature derivano tutte le altre scale. Come chitarristi ci trovia
 
 La chitarra è uno strumento molto visivo. Credo sia fondamentale visualizzare ogni diteggiatura fino al punto in cui possa essere praticata mentalmente anche senza lo strumento. Dopo alcuni mesi, dovresti essere in grado di associare i suoni alle immagini mentali.
 
-Un pianista, per esempio, può vedere ogni scala e tutte le sue note. L’immagine per lui non cambia mai; si ripete circa 7 volte. Sotto ogni scala ho inserito una “*immagine mentale*” o **mappa degli intervalli**. 
+Un pianista, per esempio, può vedere ogni scala e tutte le sue note. L'immagine per lui non cambia mai; si ripete circa 7 volte. Sotto ogni scala ho inserito una “*immagine mentale*” o **mappa degli intervalli**. 
 
 Questo è ciò che dobbiamo vedere quando guardiamo la tastiera a partire da una determinata scala. Non è una griglia di accordi ma la tastiera organizzata nel modo seguente:
 
@@ -49,7 +49,7 @@ Per esempio: **5V2** significa che la diteggiatura inizia sulla 5ª corda, attra
 
 Il termine *orizzontale* indica uno sviluppo che non segue una rigida disposizione verticale ma consente alla diteggiatura di spostarsi anche in senso orizzontale.
 
-Non sottolineerò mai abbastanza l’importanza di padroneggiare a fondo queste diteggiature di base prima di passare alle altre. È necessaria un’immagine mentale completa prima di provare a collegare tra loro queste immagini. 
+Non sottolineerò mai abbastanza l'importanza di padroneggiare a fondo queste diteggiature di base prima di passare alle altre. È necessaria un'immagine mentale completa prima di provare a collegare tra loro queste immagini. 
 
 Lo scopo non è quello di usare queste diteggiature come "box" ma come mappe iniziali. Ad un livello avanzato l'intera tastiera risulterà un'unica grande mappa, ma prima di allora è meglio partire con poche, semplici ed efficaci diteggiature.
 
@@ -762,7 +762,7 @@ Le diteggiature della scala diminuita sono costruite appositamente per questa sc
 
 La scala diminuita semitono-tono (*half-whole*) è usata su accordi di settima dominante alterati, mettendo in evidenza le tensioni ♭9, ♯9, ♯11 e **13**.
 
-In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semitono**, considerando come tonica uno dei toni cordali dell’accordo di settima dominante tra ♭9, 3, 5 e ♭7.
+In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semitono**, considerando come tonica uno dei toni cordali dell'accordo di settima dominante tra ♭9, 3, 5 e ♭7.
 
 Per questa diteggiature non ha molto senso indicare gli intervalli di ogni nota ma piuttosto quali sono parte dell'arpeggio di settima diminuita su cui si trovano i toni cordali ♭9, 3, 5 e ♭7.
 
@@ -782,22 +782,22 @@ Diteggiature libere
 Il seguente metodo ti consente di trovare in autonomia un'enorme quantità di diteggiature *in tempo reale*. Assicurati tuttavia di padroneggiare a fondo le diteggiature essenziali prima di passare a questo approccio più libero. Puoi quindi proseguire con gli altri tipi di scale in diteggiatura essenziale per poi tornare a questa sezione più avanti nel tuo studio.
 
 #. Posiziona il **primo dito** sullo stesso Do.
-#. Suona una scala di Do di un’ottava partendo dal primo dito, andando a cercare le note che compongono la scala di Do.
+#. Suona una scala di Do di un'ottava partendo dal primo dito, andando a cercare le note che compongono la scala di Do.
 #. Dopo ogni nota hai due opzioni per andare alla nota successiva:
    * continuare sulla corda
    * continuare sulla corda successiva
-#. Successivamente, suona lo stesso Do con il **secondo dito** e ripeti l’esercizio. Usare un dito diverso per iniziare la scala ti costringe a trovare una diteggiatura alternativa.
+#. Successivamente, suona lo stesso Do con il **secondo dito** e ripeti l'esercizio. Usare un dito diverso per iniziare la scala ti costringe a trovare una diteggiatura alternativa.
 #. Poi inizia con il **terzo dito** e suona una scala di Do.
 #. Infine, inizia con il quarto dito e suona una scala di Do.
 
 Applica questo stesso approccio **su ogni Do** presente sulla chitarra. In questo modo troverai oltre **100 diteggiature** diverse solo per la scala di Do maggiore su una singola ottava.
 
-Dopo aver lavorato sulle scale di un’ottava, collegale per costruire scale di **due ottave**.
+Dopo aver lavorato sulle scale di un'ottava, collegale per costruire scale di **due ottave**.
 
 Poi passa alle scale di **tre ottave**.
 
-Dopo aver lavorato in tonalità di Do, porta la scala maggiore lungo il ciclo delle quarte, con l’obiettivo di suonare in tutte e 12 le tonalità.
+Dopo aver lavorato in tonalità di Do, porta la scala maggiore lungo il ciclo delle quarte, con l'obiettivo di suonare in tutte e 12 le tonalità.
 
-Impara 2 diteggiature a settimana e la tua conoscenza della tastiera aumenterà enormemente nei primi mesi. Questo è un ottimo eservizio per collegare le dita e il cervello all’orecchio, e riuscire a suonare ciò che senti.
+Impara 2 diteggiature a settimana e la tua conoscenza della tastiera aumenterà enormemente nei primi mesi. Questo è un ottimo eservizio per collegare le dita e il cervello all'orecchio, e riuscire a suonare ciò che senti.
 
 Non preoccuparti di memorizzare tutte le varianti. Il punto è capire come apportare piccole modifiche alle diteggiature per ottenere molte variazioni.

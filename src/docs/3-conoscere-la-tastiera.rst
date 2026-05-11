@@ -234,14 +234,14 @@ Quando passi alla 1ª corda, sposta la mano indietro per suonare la nota success
 
 Prosegui fino al La sulla prima corda, poi scendi spostandoti in avanti di un tasto ogni volta che cambi corda, ad eccezione del passaggio dalla corda di Si a quella di Sol.
 
-Scendi fino al La basso, scivolando sull’ultima nota con il primo dito.
+Scendi fino al La basso, scivolando sull'ultima nota con il primo dito.
 Lavora per aumentare gradualmente il tempo.
 
 Infine, aumenta la velocità mentre esegui la scala su due ottave.
 
 La cosa più importante è cercare di ottenere un suono pulito e uniforme, con lo stesso timbro su ogni nota.
 
-Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però che in generale quando passi da una corda all’altra, usa sempre **la pennata verso il basso**, indipendentemente dal fatto che ti sposti verso corde più gravi o più acute.
+Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però che in generale quando passi da una corda all'altra, usa sempre **la pennata verso il basso**, indipendentemente dal fatto che ti sposti verso corde più gravi o più acute.
 
 .. image:: 
    _static/music/scala-cromatica-verticale4.*
@@ -459,9 +459,9 @@ Scala maggiore di G
 Triade maggiore
 ---------------
 
-Un arpeggio è composto dalle stesse note usate per costruire l’accordo con lo stesso nome. La differenza è che, quando esegui un accordo, suoni tutte le note simultaneamente; quando esegui un arpeggio, plettri ogni nota una alla volta. 
+Un arpeggio è composto dalle stesse note usate per costruire l'accordo con lo stesso nome. La differenza è che, quando esegui un accordo, suoni tutte le note simultaneamente; quando esegui un arpeggio, plettri ogni nota una alla volta. 
 
-L’accordo più basilare è la **triade**. Come suggerisce il nome, è composta da 3 note.
+L'accordo più basilare è la **triade**. Come suggerisce il nome, è composta da 3 note.
 
 Gli arpeggi e gli accordi si costruiscono selezionando una nota sì e una no della scala, cioè usando intervalli chiamati terze. Puoi identificare qualsiasi intervallo contando inclusivamente i nomi delle note nella scala. 
 
@@ -478,8 +478,8 @@ Triade maggiore verticale
 
 1. Trova un Do sulla tastiera della chitarra.
 2. Posiziona il primo dito sul Do.
-3. Cerca le note dell’arpeggio di Do iniziando con il primo dito.
-4. Successivamente, premi lo stesso Do con il secondo dito e ripeti l’esercizio. Usare un dito diverso ti costringe a trovare una diteggiatura alternativa.
+3. Cerca le note dell'arpeggio di Do iniziando con il primo dito.
+4. Successivamente, premi lo stesso Do con il secondo dito e ripeti l'esercizio. Usare un dito diverso ti costringe a trovare una diteggiatura alternativa.
 5. Poi inizia con il terzo dito e suona un arpeggio di Do.
 6. Infine, inizia con il quarto dito e suona un arpeggio di Do.
 7. Usa questo stesso approccio prendendo come punto di partenza ogni Do presente sulla chitarra.
@@ -497,7 +497,7 @@ Triade maggiore verticale
       <source src="_static/music/triade-c-maggiore-verticale.mp3" type="audio/mp3">
    </audio>
 
-Nel prossimo esercizio suoniamo la triade maggiore verticale **in tutte e 12 le tonalità** seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore. L’obiettivo è riuscire a passare attraverso tutte e 12 le tonalità a un tempo lento senza fermarsi.
+Nel prossimo esercizio suoniamo la triade maggiore verticale **in tutte e 12 le tonalità** seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore. L'obiettivo è riuscire a passare attraverso tutte e 12 le tonalità a un tempo lento senza fermarsi.
 
 Usa la nota lunga per pensare in anticipo alla tonalità successiva.
 
@@ -520,7 +520,7 @@ Triade maggiore orizzontale
 
 In questo esercizio suoneremo la triade maggiore **orizzontale** (una corda per volta) in tutte e 12 le tonalità seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore.
 
-Comincia dalla tonica di ciascun arpeggio e suona l’arpeggio avanti e indietro lungo la tastiera iniziando dalla corda di Mi, completando il ciclo prima di passare alla corda successiva.
+Comincia dalla tonica di ciascun arpeggio e suona l'arpeggio avanti e indietro lungo la tastiera iniziando dalla corda di Mi, completando il ciclo prima di passare alla corda successiva.
 
 .. attention::
    

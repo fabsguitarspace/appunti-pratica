@@ -726,7 +726,29 @@ Diteggiatura orizzontale dalla quinta corda
    _static/music/scala-superlocria-5H.*
    :width: 300px
 
+Tabellone riepilogativo
+~~~~~~~~~~~~~~~~~~~~~~~
 
+5V2
+^^^
+
+.. image:: 
+   _static/music/scale-riepilogo-6V2.*
+   :width: 100%
+
+
+.. image:: 
+   _static/music/scale-riepilogo-5V2.*
+   :width: 100%
+
+.. image:: 
+   _static/music/scale-riepilogo-6V4.*
+   :width: 100%
+
+
+.. image:: 
+   _static/music/scale-riepilogo-5V4.*
+   :width: 100%
 
 Scala Toni-Interi
 ~~~~~~~~~~~~~~~~~

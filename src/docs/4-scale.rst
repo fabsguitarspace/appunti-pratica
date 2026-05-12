@@ -5,7 +5,7 @@ Scale
 6 diteggiature essenziali
 -------------------------
 
-Il principale ostacolo che ogni chitarrista si trova ad affrontare è l'**enorme quantità di possibilità di diteggiatura**. 
+Il principale ostacolo che ogni chitarrista si trova ad affrontare è l'enorme **quantità** di possibili diteggiature dovuta alla struttura intrinseca della chitarra. 
 
 La chitarra è l'unico strumento che offre così tante possibilità per suonare una semplice scala di Do; ed è anche il motivo per cui la lettura a prima vista sulla chitarra è così difficile.
 

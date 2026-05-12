@@ -729,7 +729,7 @@ Diteggiatura orizzontale dalla quinta corda
 Tabellone riepilogativo
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-5V2
+6V2
 ^^^
 
 .. image:: 
@@ -737,14 +737,23 @@ Tabellone riepilogativo
    :width: 100%
 
 
+5V2
+^^^
+
 .. image:: 
    _static/music/scale-riepilogo-5V2.*
    :width: 100%
+
+6V4
+^^^
 
 .. image:: 
    _static/music/scale-riepilogo-6V4.*
    :width: 100%
 
+
+5V4
+^^^
 
 .. image:: 
    _static/music/scale-riepilogo-5V4.*

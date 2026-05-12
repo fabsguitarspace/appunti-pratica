@@ -759,6 +759,23 @@ Tabellone riepilogativo
    _static/music/scale-riepilogo-5V4.*
    :width: 100%
 
+6H2
+^^^
+
+.. image:: 
+   _static/music/scale-riepilogo-6H2.*
+   :width: 100%
+
+5H2
+^^^
+
+.. image:: 
+   _static/music/scale-riepilogo-5H2.*
+   :width: 100%
+
+
+
+
 Scala Toni-Interi
 ~~~~~~~~~~~~~~~~~
 

@@ -253,23 +253,18 @@ Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però ch
       <source src="_static/music/scala-cromatica-verticale4.mp3" type="audio/mp3">
    </audio>
 
-Scala maggiore
---------------
+Scale su una corda sola
+-----------------------
 
 La scala maggiore è la prima delle scale diatoniche ed è il fondamento della musica occidentale. 
 
-Costruisci la scala maggiore partendo da una nota fondamentale e applicando la seguente formula: 
+Suonare la scala maggiore su una corda sola ci aiuta a sviluppare una conoscenza più profonda della tastiera e a migliorare la nostra capacità di visualizzare le note e gli intervalli lungo il manico della chitarra. Soprattutto ci costringe sia a pensare alla scala come a una sequenza di intervalli, sia alle note stesse che la compongono, oltre a sviluppare un suono pulito e uniforme su tutta la corda, senza appoggiarsi a posizioni familiari o a schemi di diteggiatura.
 
-**tono – tono – semitono – tono – tono – tono – semitono**
-
-In questo capitolo affronteremo la scala maggiore orizzontalmente, una corda alla volta.
+Il mio consiglio è quello di imparare e memorizzare le note di ciascuna scala e pensare ogni nota nel momento in cui la suoni, invece di affidarti a schemi di diteggiatura. È questa la grande differenza tra questo capitolo e i successivi: qui siamo interessat a **conoscere la tastiera**, averne piena e profonda consapevolezza, mentre nei capitoli successivi ci concentreremo su **imparare a muoverci sulla tastiera** e a costruire tecnica e connessione tra **dita, cervello e orecchio**. In quel momento potremmo anche non pensare più a ogni singola nota, ma in questo capitolo **è fondamentale farlo**.
 
 Suoneremo in tutte le tonalità seguendo il **circolo delle quarte**.
 
-Suonare su una corda sola
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Suona le note della scala di Do maggiore, ascendendo e discendendo su ciascuna delle 6 corde, una alla volta, partendo dalla corda a vuoto. Nel nostro esempio arriviamo fino al 15° tasto: tu arriva il più in alto possibile sulla tua chitarra.
+Partiamo ovviamente dalla scala di Do maggiore. Suona le note della scala, ascendendo e discendendo su ciascuna delle 6 corde, una alla volta, partendo dalla corda a vuoto. Nel nostro esempio arriviamo fino al 15° tasto: tu arriva il più in alto possibile sulla tua chitarra.
 
 Fai attenzione al punto di partenza quando suoni la nota più bassa della scala su ogni corda. Per esempio, nella tonalità di Do: la prima corda (Mi cantino) è il 3° grado della scala, la corda di Si è la settima maggiore, la corda di Sol a vuoto è il 5° grado, la corda di La è il 6° grado e il Mi basso è di nuovo il 3° grado.
 
@@ -281,8 +276,10 @@ Inizia con un tempo lento, cercando un suono pulito e uniforme.
 
 Continua a praticare questo esercizio come riscaldamento veloce, concentrandoti ogni volta su 1 o 2 tonalità.
 
-Scala maggiore di C
-~~~~~~~~~~~~~~~~~~~
+Nel seguito elencherò ciascuna scala maggiore insieme alla sua relativa scala minore naturale, ma ti consiglio di suonare prima tutte le scale maggiori e poi tutte le minori, invece di alternarle. In questo modo potrai concentrarti meglio su ogni scala e sviluppare una conoscenza più profonda di ciascuna tonalità e consolidare l'associazione tra le due scale relative.
+
+Scala di C maggiore / A minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-c.*
@@ -295,8 +292,8 @@ Scala maggiore di C
    </audio>
 
 
-Scala maggiore di F
-~~~~~~~~~~~~~~~~~~~
+Scala di F maggiore / D minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -309,8 +306,8 @@ Scala maggiore di F
       <source src="_static/music/scala-maggiore-orizzontale-f.mp3" type="audio/mp3">
    </audio>
 
-Scala maggiore di B♭
-~~~~~~~~~~~~~~~~~~~~ 
+Scala di B♭ maggiore / G minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -324,8 +321,8 @@ Scala maggiore di B♭
    </audio>
 
 
-Scala maggiore di E♭
-~~~~~~~~~~~~~~~~~~~~ 
+Scala di E♭ maggiore / C minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -338,8 +335,8 @@ Scala maggiore di E♭
       <source src="_static/music/scala-maggiore-orizzontale-ef.mp3" type="audio/mp3">
    </audio>
 
-Scala maggiore di A♭
-~~~~~~~~~~~~~~~~~~~~ 
+Scala di A♭ maggiore / F minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -352,8 +349,8 @@ Scala maggiore di A♭
       <source src="_static/music/scala-maggiore-orizzontale-af.mp3" type="audio/mp3">
    </audio>
 
-Scala maggiore di D♭
-~~~~~~~~~~~~~~~~~~~~ 
+Scala di D♭ maggiore / B♭ minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -367,8 +364,8 @@ Scala maggiore di D♭
    </audio>
 
 
-Scala maggiore di G♭
-~~~~~~~~~~~~~~~~~~~~ 
+Scala di G♭ maggiore / E♭ minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 
@@ -381,8 +378,8 @@ Scala maggiore di G♭
       <source src="_static/music/scala-maggiore-orizzontale-gf.mp3" type="audio/mp3">
    </audio>
 
-Scala maggiore di B
-~~~~~~~~~~~~~~~~~~~
+Scala di B maggiore / G♯ minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-b.*
@@ -395,8 +392,8 @@ Scala maggiore di B
    </audio>
 
 
-Scala maggiore di E
-~~~~~~~~~~~~~~~~~~~
+Scala di E maggiore / C♯ minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-e.*
@@ -409,8 +406,8 @@ Scala maggiore di E
    </audio>
 
 
-Scala maggiore di A
-~~~~~~~~~~~~~~~~~~~
+Scala di A maggiore / F♯ minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-a.*
@@ -423,10 +420,8 @@ Scala maggiore di A
    </audio>
 
 
-
-
-Scala maggiore di D
-~~~~~~~~~~~~~~~~~~~
+Scala di D maggiore / B minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-d.*
@@ -440,8 +435,8 @@ Scala maggiore di D
 
 
 
-Scala maggiore di G
-~~~~~~~~~~~~~~~~~~~
+Scala di G maggiore / E minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: 
    _static/music/scala-maggiore-orizzontale-g.*
@@ -456,14 +451,17 @@ Scala maggiore di G
 
 
 
-Triade maggiore
----------------
+Triadi
+------
 
 Un arpeggio è composto dalle stesse note usate per costruire l'accordo con lo stesso nome. La differenza è che, quando esegui un accordo, suoni tutte le note simultaneamente; quando esegui un arpeggio, plettri ogni nota una alla volta. 
 
 L'accordo più basilare è la **triade**. Come suggerisce il nome, è composta da 3 note.
 
 Gli arpeggi e gli accordi si costruiscono selezionando una nota sì e una no della scala, cioè usando intervalli chiamati terze. Puoi identificare qualsiasi intervallo contando inclusivamente i nomi delle note nella scala. 
+
+Triade maggiore 
+~~~~~~~~~~~~~~~
 
 Quindi, per costruire una triade di Do maggiore, contiamo tre nomi di note: C-D-E; sappiamo quindi che E si trova a una terza da C. Da E contiamo ancora tre note: E-F-G, e sappiamo che G si trova a una terza da E. 
 
@@ -474,7 +472,7 @@ Dato che accordi e arpeggi sono composti dalle stesse note, un arpeggio maggiore
 Gli arpeggi sono i mattoni fondamentali per costruire le linee melodiche ed è importante padroneggiarli.
 
 Triade maggiore verticale
-~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Trova un Do sulla tastiera della chitarra.
 2. Posiziona il primo dito sul Do.
@@ -516,7 +514,7 @@ In questo esercizio siamo rimasti sulle prime posizioni della tastiera, ma puoi 
    </audio>
 
 Triade maggiore orizzontale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In questo esercizio suoneremo la triade maggiore **orizzontale** (una corda per volta) in tutte e 12 le tonalità seguendo il ciclo delle quarte, proprio come abbiamo fatto con la scala maggiore.
 
@@ -562,15 +560,9 @@ Vedremo solo la prima corda, anche in questo caso sta a te estendere questo eser
       <source src="_static/music/triade-maggiore-orizzontale-12-bis.mp3" type="audio/mp3">
    </audio>
 
-Scala minore
-------------
 
-Triade minore
--------------
-
-
-
-
+Triade minore 
+~~~~~~~~~~~~~
 
 
 

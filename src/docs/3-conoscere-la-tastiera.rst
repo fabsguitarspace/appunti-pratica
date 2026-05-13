@@ -561,8 +561,48 @@ Vedremo solo la prima corda, anche in questo caso sta a te estendere questo eser
    </audio>
 
 
+Triade maggiore armonica
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Negli esercizi precedenti abbiamo suonato le cosiddette triadi "melodiche", ora invece suoneremo le triadi "armoniche", cioè suonando tutte le note dell'arpeggio simultaneamente, ovvero come un accordo.
+
+Se dividiamo le corde in gruppi di tre abbiamo 4 set di corde:
+
+- Mi basso, La, Re ( 6 - 5 - 4 )
+- La, Re, Sol ( 5 - 4 - 3 )
+- Re, Sol, Si ( 4 - 3 - 2 )
+- Sol, Si, Mi cantino ( 3 - 2 - 1 ) 
+
+Cercheremo le triadi maggiori su ciascuno di questi set di corde costruendo l'accordo con le note della triad a "parti strette", cioè con le note più vicine tra loro, senza saltare nessuna nota della triade.
+
+
+.. image:: 
+   _static/music/triade-armonica-c-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-armonica-c-1.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/triade-armonica-c-2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-armonica-c-2.mp3" type="audio/mp3">
+   </audio>
+
 Triade minore 
 ~~~~~~~~~~~~~
+
+Ripetiamo gli esercizi di triade maggiore, ma questa volta con la triade minore. La differenza tra una triade maggiore e una minore è che nella triade minore la terza è abbassata di un semitono.
+
+Triade minore verticale
+^^^^^^^^^^^^^^^^^^^^^^^
 
 
 

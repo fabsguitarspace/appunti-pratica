@@ -108,7 +108,7 @@ accordi = \chordmode {
     \context {
       \Score
       
-       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/25)
+       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/30)
 \omit Staff.TimeSignature
       \remove "Bar_number_engraver"
     }

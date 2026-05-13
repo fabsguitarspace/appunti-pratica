@@ -365,7 +365,7 @@ Scala di D♭ maggiore / B♭ minore
 
 
 Scala di G♭ maggiore / E♭ minore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: 

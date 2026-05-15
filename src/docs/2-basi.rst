@@ -1366,6 +1366,10 @@ La tecnica chiamata *backward picking*, spesso associata a **George Benson**, è
 
 Viene anche chiamata: *Reverse Grip*, *Trailing Edge Picking* oppure semplicemente “la tecnica di Benson” perché Benson la usa in modo estremamente personale e riconoscibile.
 
+.. image:: 
+   _static/images/George-Benson-1024x678.jpg
+   :width: 100%
+
 Nel picking “tradizionale” il plettro colpisce la corda usando il lato “frontale” della punta, cioè quello che incontra naturalmente la corda nel movimento.
 
 Nel backward picking, invece, il plettro è inclinato al contrario:
@@ -1375,6 +1379,10 @@ Nel backward picking, invece, il plettro è inclinato al contrario:
 - il movimento sembra quasi “tirare” la corda più che attraversarla frontalmente
 
 È una sensazione molto diversa sotto le dita.
+
+.. image:: 
+   _static/images/Benson-Picking-1024x768.jpg
+   :width: 100%
 
 La caratteristica più evidente della tecnica di Benson è che:
 

@@ -1359,6 +1359,101 @@ Due cure pratiche per sentirlo subito:
 1. Plettro che “galleggia”: se senti che il plettro resta vicino alla superficie della corda senza incastrarsi... sei nella zona giusta.
 2. Polso morbido, mano ferma: la mano non deve “viaggiare”... deve solo oscillare.
 
+Backward picking
+~~~~~~~~~~~~~~~~
+
+La tecnica chiamata *backward picking*, spesso associata a **George Benson**, è uno di quei dettagli che sembrano “strani” a prima vista ma che, una volta capiti, spiegano immediatamente un certo tipo di attacco, fluidità e swing.
+
+Viene anche chiamata: *Reverse Grip*, *Trailing Edge Picking* oppure semplicemente “la tecnica di Benson” perché Benson la usa in modo estremamente personale e riconoscibile.
+
+Nel picking “tradizionale” il plettro colpisce la corda usando il lato “frontale” della punta, cioè quello che incontra naturalmente la corda nel movimento.
+
+Nel backward picking, invece, il plettro è inclinato al contrario:
+
+- la mano è ruotata in modo differente
+- il plettro attacca la corda con il bordo posteriore (*trailing edge*)
+- il movimento sembra quasi “tirare” la corda più che attraversarla frontalmente
+
+È una sensazione molto diversa sotto le dita.
+
+La caratteristica più evidente della tecnica di Benson è che:
+
+- il polso è più supinato
+- il palmo tende a guardare maggiormente verso l’alto
+- il plettro viene impugnato quasi “al contrario” rispetto alla scuola moderna fusion/shred
+
+Molti chitarristi moderni tengono il plettro inclinato verso il basso (pick slanting classico). Benson invece inclina la punta in direzione opposta.
+
+Il risultato è che la corda “scivola” sul bordo del plettro in maniera molto morbida.
+
+Questa tecnica crea:
+
+- un attacco molto rotondo
+- pochissimo attrito percepito
+- grande fluidità nelle linee veloci
+- un accento swing naturale
+- un timbro meno aggressivo e meno “metallico”
+
+È uno dei motivi per cui le frasi di Benson sembrano quasi cantate o “soffiate”.
+
+Non è soltanto questione di note. È proprio la fisica del contatto con la corda che cambia.
+
+Il *trailing edge* riduce molto la resistenza della corda contro il plettro.
+
+Per questo motivo:
+
+- molte linee bebop veloci diventano più facili
+- il fraseggio può restare rilassato anche ad alta velocità
+- la mano destra tende a “galleggiare”
+
+Molti chitarristi che provano questa tecnica riferiscono immediatamente una sensazione di minore attrito.
+
+Ma allora perché non la usano tutti? Perché ha anche controindicazioni, inoltre molte scuole moderne di tecnica chitarristica sono costruite su meccaniche completamente differenti.
+
+Benson stesso non è arrivato a quella tecnica partendo da uno studio biomeccanico “scientifico”. È qualcosa che gli è venuto naturalmente sviluppando il suo linguaggio.
+
+.. important::
+
+   Ed è importante capire questo: spesso grandi musicisti sviluppano tecniche come conseguenza del suono che cercano, non viceversa.
+
+Il backward picking non genera automaticamente swing, ovviamente. Però facilita:
+
+- certi accenti
+- certe micro-dinamiche
+- un certo rimbalzo ritmico
+
+La pennata sembra meno “martellata” e più elastica.
+
+
+Curiosamente molti chitarristi scoprono accidentalmente questa tecnica quando:
+
+- rilassano troppo la mano
+- abbassano il polso
+- cercano maggiore morbidezza nel jazz
+- iniziano a fraseggiare più “cantando” che “colpendo”
+
+Per questo motivo il backward picking spesso emerge in contesti jazzistici o bluesy (è diffusissimo tra i chitarristi *gospel*) più che nel rock tecnico moderno.
+
+Un modo semplice per provarlo è questo:
+
+- prendi una sola corda
+- suona alternate picking lentamente
+- ruota leggermente il plettro “all’indietro”
+- lascia che sia il bordo posteriore a toccare la corda
+- cerca la sensazione di scivolamento
+
+Non cercare velocità subito.
+
+La sensazione giusta è quasi quella di “spazzolare” la corda più che colpirla.
+
+* https://www.youtube.com/watch?v=Y-vi0Aq32LY
+
+.. raw:: html
+
+   <iframe class="yt-video" src="https://www.youtube.com/embed/Y-vi0Aq32LY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 Fingerpicking e Hybrid Picking: quando la mano destra diventa un'orchestra
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

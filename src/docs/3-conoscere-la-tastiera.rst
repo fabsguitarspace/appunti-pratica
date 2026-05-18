@@ -629,3 +629,16 @@ Triade minore orizzontale
    </audio>
 
 
+.. image:: 
+   _static/music/triade-minore-orizzontale-12-bis.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-minore-orizzontale-12-bis.mp3" type="audio/mp3">
+   </audio>
+
+Triade minore armonica
+^^^^^^^^^^^^^^^^^^^^^^
+

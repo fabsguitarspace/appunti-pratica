@@ -619,13 +619,13 @@ Triade minore orizzontale
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/triade-c-minore-orizzontale-12.*
+   _static/music/triade-minore-orizzontale-12.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/triade-c-minore-orizzontale-12.mp3" type="audio/mp3">
+      <source src="_static/music/triade-minore-orizzontale-12.mp3" type="audio/mp3">
    </audio>
 
 

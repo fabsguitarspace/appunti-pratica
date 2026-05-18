@@ -604,8 +604,28 @@ Ripetiamo gli esercizi di triade maggiore, ma questa volta con la triade minore.
 Triade minore verticale
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: 
+   _static/music/triade-c-minore-verticale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-c-minore-verticale.mp3" type="audio/mp3">
+   </audio>
 
 
+Triade minore orizzontale
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: 
+   _static/music/triade-c-minore-orizzontale-12.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-c-minore-orizzontale-12.mp3" type="audio/mp3">
+   </audio>
 
 

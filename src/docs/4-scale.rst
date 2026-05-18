@@ -1,6 +1,23 @@
 Scale
 =====
 
+Piuttosto che inseguire decine di diteggiature, varianti, “forme” e modi trattati come mondi separati, in questo percorso lavoreremo su un **insieme essenziale** di sonorità davvero centrali nella pratica musicale moderna. 
+
+L’idea non è accumulare materiale, ma costruire familiarità profonda con poche strutture fondamentali, osservandole da diverse prospettive melodiche, armoniche e intervallari. 
+
+Le mappe che utilizzeremo saranno quindi quelle di **8 scale**:
+
+1. Scala Maggiore
+2. Scala Dorica
+3. Scala Dominante (Misolidia)
+4. Scala Minore Naturale
+5. Scala Minore Armonica
+6. Scala Minore Melodica
+7. Scala a Toni Interi
+8. Scala Diminuita
+
+Tutto il resto, molto spesso, non è altro che una diversa angolazione, una porzione o una trasformazione di questi stessi materiali.
+
 
 6 diteggiature essenziali
 -------------------------
@@ -57,7 +74,7 @@ Non trovo necessario introdurre altri sistemi di diteggiature (ne esistono molti
 
 
 
-Scala maggiore
+Scala Maggiore
 ~~~~~~~~~~~~~~
 
 
@@ -335,7 +352,7 @@ Esempio:
 * Cm7 F7 B♭Δ → usa la diteggiatura 6H2, ecc.
 
 
-Scala dorica
+Scala Dorica
 ~~~~~~~~~~~~
 
 La scala dorica è la seconda delle scale diatoniche, associata al secondo grado (IIm7) di ogni scala maggiore.
@@ -412,10 +429,10 @@ Diteggiatura orizzontale dalla quinta corda
 
 
 
-Scala misolidia
-~~~~~~~~~~~~~~~
+Scala Dominante (Misolidia)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il modo più semplice per creare una scala Misolidia è aggiungere le tre note diatoniche sotto la fondamentale della scala maggiore madre.
+Il modo più semplice per creare una scala Dominante (o Misolidia) è aggiungere le tre note diatoniche sotto la fondamentale della scala maggiore madre.
 
 In questo caso voglio creare il “G” Misolidio, quinto modo della scala di Do maggiore; quindi aggiungerò le tre note “B”, “A” e “G” sotto la scala di Do maggiore.
 
@@ -463,7 +480,7 @@ Da 5H2, dalla quinta corda
    _static/music/scala-misolidia-5H2-bis.*
    :width: 300px
 
-Scala minore naturale
+Scala Minore Naturale
 ~~~~~~~~~~~~~~~~~~~~~
 
 Per creare una scala minore naturale, aggiungi i due suoni diatonici sotto la tonica della relativa scala maggiore.
@@ -518,7 +535,7 @@ Diteggiatura orizzontale dalla quinta corda
    :width: 300px
 
 
-Scala minore armonica
+Scala Minore Armonica
 ~~~~~~~~~~~~~~~~~~~~~
 
 Alza il settimo grado della *scala minore naturale* di un semitono per ottenere la **scala minore armonica**.
@@ -571,7 +588,7 @@ Diteggiatura orizzontale dalla quinta corda
    :width: 300px
 
 
-Scala minore melodica
+Scala Minore Melodica
 ~~~~~~~~~~~~~~~~~~~~~
 
 Alza il settimo grado della *scala dorica* di un semitono per ottenere la **scala minore melodica**.
@@ -632,152 +649,29 @@ Diteggiatura orizzontale dalla quinta corda
    _static/music/scala-melodica-5H.*
    :width: 300px
 
+Le linee melodiche derivate dalla scala minore melodica tendono a essere tra le preferite dei musicisti jazz e fusion.
 
-Scala Misolidia ♭9♭13
-~~~~~~~~~~~~~~~~~~~~~
+La scala minore melodica può essere associata a qualsiasi accordo derivato dalla sua famiglia armonica.
 
-Vediamo ora la prima delle scale *alterate*, la scala **Misolidia ♭9♭13**. Deriviamo le diteggiature da quelle della scala minore armonica, ma partendo dal V grado.
+Per esempio la scala minore melodica di A la possiamo associare ai seguenti accordi:
 
-Da 6V4
-^^^^^^
+1. Am6
+2. B7sus♭9
+3. Cmaj7♯5
+4. D13♯11
+5. E9♭13
+6. F♯∅
+7. G♯7alt
 
-.. image:: 
-   _static/music/scala-misolidia-b9b13-6V4.*
-   :width: 300px
+Sebbene nella famiglia armonica della minore melodica possiamo trovare tre accordi di settima dominante (IV, V e VII grado), utilizzeremo soltanto l’accordo costruito sul VII grado all’interno di una cadenza che risolve su un accordo maggiore o minore.
 
-Da 5V4
-^^^^^^
+Esempio: nella cadenza G#7 C#m7 possiamo suonare la scala minore melodica di A sopra il G#7, ottenendo così un suono alterato. 
 
-.. image:: 
-   _static/music/scala-misolidia-b9b13-5V4.*
-   :width: 300px
-
-
-Da 6H2
-^^^^^^
+Riassumendo: per far suonare alterato un accordo di settima dominante, possiamo suonare una scala minore melodica posta un semitono sopra l’accordo stesso.
 
 
-.. image:: 
-   _static/music/scala-misolidia-b9b13-6H2.*
-   :width: 300px
-
-
-Diteggiatura orizzontale
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: 
-   _static/music/scala-misolidia-b9b13-5H.*
-   :width: 300px
-
-
-
-Scala Superlocria
-~~~~~~~~~~~~~~~~~
-
-Deriviamo le diteggiature della **scala superlocria** da quelle della scala minore melodica, ma partendo dal VII grado, ovvero mezzotono sotto la tonica della minore melodica.
-
-Da 6V2
-^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-6V2.*
-   :width: 300px
-
-Da 5V2
-^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-5V2.*
-   :width: 300px
-
-Da 6V4
-^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-6V4.*
-   :width: 300px
-
-
-Da 6H2
-^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-6H2.*
-   :width: 300px
-
-Da 5H2
-^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-5H2.*
-   :width: 300px
-
-Diteggiatura orizzontale dalla sesta corda
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-6H.*
-   :width: 300px
-
-Diteggiatura orizzontale dalla quinta corda
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: 
-   _static/music/scala-superlocria-5H.*
-   :width: 300px
-
-Tabellone riepilogativo
-~~~~~~~~~~~~~~~~~~~~~~~
-
-6V2
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-6V2.*
-   :width: 100%
-
-
-5V2
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-5V2.*
-   :width: 100%
-
-6V4
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-6V4.*
-   :width: 100%
-
-
-5V4
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-5V4.*
-   :width: 100%
-
-6H2
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-6H2.*
-   :width: 100%
-
-5H2
-^^^
-
-.. image:: 
-   _static/music/scale-riepilogo-5H2.*
-   :width: 100%
-
-
-
-
-Scala Toni-Interi
-~~~~~~~~~~~~~~~~~
+Scala a Toni-Interi
+~~~~~~~~~~~~~~~~~~~
 
 La scala esatonale o toni-interi è una scala composta da soli toni interi, senza semitoni. Si tratta di una scala simmetrica che divide l'ottava in sei intervalli uguali.
 

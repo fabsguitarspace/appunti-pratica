@@ -642,3 +642,22 @@ Triade minore orizzontale
 Triade minore armonica
 ^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: 
+   _static/music/triade-armonica-minore-c-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-armonica-minore-c-1.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/triade-armonica-minore-c-2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triade-armonica-c-2.mp3" type="audio/mp3">
+   </audio>

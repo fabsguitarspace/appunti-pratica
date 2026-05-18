@@ -1,4 +1,4 @@
-\version "2.26.0"
+\version "2.24.4"
 \language "english"
 \header {
 	tagline = ##f

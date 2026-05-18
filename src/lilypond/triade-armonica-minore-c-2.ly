@@ -8,60 +8,63 @@
 
 diagA    = \markup  \scale #'(1.5 . 1.5)
 \fret-diagram-verbose #'(
+    (place-fret 5 6)
+    (place-fret 4 5)
     (place-fret 3 5)
-    (place-fret 2 5)
-    (place-fret 1 3)
 )
 
 
 diagB    = \markup  \scale #'(1.5 . 1.5)
 \fret-diagram-verbose #'(
-    (place-fret 3 9)
-    (place-fret 2 8)
-    (place-fret 1 8)
+    (place-fret 5 10)
+    (place-fret 4 10)
+    (place-fret 3 8)
 )
 
 diagC    = \markup \scale #'(1.5 . 1.5) 
 \fret-diagram-verbose #'(
+    (place-fret 5 15)
+    (place-fret 4 13)
     (place-fret 3 12)
-    (place-fret 2 13)
-    (place-fret 1 12)
 )
 
 
 diagD   = \markup \scale #'(1.5 . 1.5) 
 \fret-diagram-verbose #'(
-    (place-fret 4 5)
-    (place-fret 3 5)
-    (place-fret 2 5)
+    (place-fret 6 3)
+    (place-fret 5 3)
+    (place-fret 4 1)
 )
 
 
 diagE   = \markup \scale #'(1.5 . 1.5) 
 \fret-diagram-verbose #'(
-    (place-fret 4 10)
-    (place-fret 3 9)
-    (place-fret 2 8)
+    (place-fret 6 8)
+    (place-fret 5 6)
+    (place-fret 4 5)
 )
 
 diagF   = \markup \scale #'(1.5 . 1.5) 
 \fret-diagram-verbose #'(
-    (place-fret 4 14)
-    (place-fret 3 12)
-    (place-fret 2 13)
+    (place-fret 6 11)
+    (place-fret 5 10)
+    (place-fret 4 10)
 )
 
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
     \set TabStaff.minimumFret = #2
-  <c' e g>1^\diagA
-  <e g c>1^\diagB
-  <g c e>1^\diagC 
-  <g, c e>1^\diagD 
-      \set TabStaff.minimumFret = #8
-  <c e g>1^\diagE 
-       \set TabStaff.minimumFret = #12
-  <e g c>1^\diagF
+  <ef g c>1^\diagA
+        \set TabStaff.minimumFret = #8
+  <g c ef>1^\diagB
+         \set TabStaff.minimumFret = #12
+  <c ef g>1^\diagC 
+          \set TabStaff.minimumFret = #1
+  <g, c ef>1^\diagD 
+
+  <c ef g>1^\diagE 
+      \set TabStaff.minimumFret = #10
+  <ef g c>1^\diagF
 }
 
 \score {

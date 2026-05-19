@@ -24,8 +24,10 @@ Il seguente metodo ti consente di trovare in autonomia un'enorme quantità di di
 #. Posiziona il **primo dito** sulla nota Do.
 #. Suona una scala di Do di un'ottava partendo dal primo dito, andando a cercare le note che compongono la scala di Do.
 #. Dopo ogni nota hai due opzioni per andare alla nota successiva:
+
    * continuare sulla corda
    * continuare sulla corda successiva
+
 #. Successivamente, suona lo stesso Do con il **secondo dito** e ripeti l'esercizio. Usare un dito diverso per iniziare la scala ti costringe a trovare una diteggiatura alternativa.
 #. Poi inizia con il **terzo dito** e suona una scala di Do.
 #. Infine, inizia con il quarto dito e suona una scala di Do.

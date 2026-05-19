@@ -378,7 +378,28 @@ Comincia a suonare la **scala maggiore** (ascendendo e discendendo dal centro to
 
 Una volta che ti senti a tuo agio con la scala maggiore, passa alla **scala minore melodica** e ripeti lo stesso processo. Poi continua con la **scala misolidia**, la **scala dorica**, la **scala minore naturale**, la **scala minore armonica**, la **scala a toni interi** e infine la **scala diminuita**.
 
+I pattern che trovi qui sono soltanto una essenziale selezione tra i tanti possibili, ma il mio
+suggerimento è di utilizzarne anche altri (tra libri e fonti vari, c'è tanto da
+cui attingere). Creane anche di nuovi.
 
+Ogni esercizio è in realtà solo un piccolo esempio del tipo di pattern.
+
+Quando usi questi esercizi, determina il tipo di movimento o salto utilizzato,
+applicalo in modo che funzioni con la scala ed estendilo all'intera tessitura
+del tuo strumento. Inizia con note da un quarto, poi passa agli ottavi ed
+infine ai sedicesimi. I pattern sono svolti sulla scala maggiore, ma possono
+essere applicati a qualunque tipo di scala o accordo. Una volta individuata
+la sequenza, suonala a memoria!
+
+Un approccio che raccomando è quello di lavorare su uno o due pattern
+per volta, applicandoli a sezioni di riscaldamento diverse. Fallo in diverse
+tonalità, finchè non sei sufficientemente sciolto sui sedicesimi in tutte le
+sezioni. Questo tipo di esercizio ti permette di utilizzare un pattern all'interno
+di molte situazioni musicali, senza doverne memorizzare i lick. 
+
+Padroneggiare un buon numero di pattern equivale ad un progresso tecnico notevole sullo
+strumento e ad un incremento di possibilità e interesse per le linee melodiche
+che creerai.
 
 
 Esercizi di base
@@ -432,8 +453,6 @@ L’aumento di complessità degli esercizi ti porterà presto l’abilità di cr
 
 Gruppi di 4 note discendente
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
 
 .. image:: 
    _static/music/scale-esercizio04.*

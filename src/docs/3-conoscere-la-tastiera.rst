@@ -253,6 +253,79 @@ Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però ch
       <source src="_static/music/scala-cromatica-verticale4.mp3" type="audio/mp3">
    </audio>
 
+Pattern applicati alla scala cromatica
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I seguenti pattern vanno applicati usando tutte le forme e la varianti che abbiamo visto finora per la scala cromatica, sia orizzontale che verticale.
+
+Gli esercizi sulla scala cromatica sono fondamentali per sviluppare una conoscenza profonda della tastiera, migliorare la tecnica e costruire un solido senso del tempo e del ritmo.
+
+Nel caso della chitarra jazz, la scala cromatica è particolarmente importante perché è la base per costruire linee melodiche, arpeggi e fraseggi che si adattano a qualsiasi contesto armonico. La capacità di muoversi fluidamente attraverso la scala cromatica ti permette di creare linee melodiche più interessanti e complesse, oltre a facilitare l'improvvisazione superando l'idea di scale e note giuste. Questo perché è la scala cromatica il vero alfabeto musicale, e padroneggiarla ti dà la libertà di esprimerti senza limitazioni.
+
+
+.. image:: 
+   _static/music/pattern-cromatici-01.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-01.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/pattern-cromatici-02.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-02.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/pattern-cromatici-03.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-03.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/pattern-cromatici-04.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-04.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/pattern-cromatici-05.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-05.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/pattern-cromatici-06.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/pattern-cromatici-06.mp3" type="audio/mp3">
+   </audio>
+
 Scale su una corda sola
 -----------------------
 

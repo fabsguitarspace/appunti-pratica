@@ -71,7 +71,7 @@ Scala maggiore
    </audio>
 
 Come esercitarsi in tutte le tonalità
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 È importante esercitare queste diteggiature in tutte e dodici le tonalità.
 
@@ -365,4 +365,82 @@ In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semiton
 
    <audio controls class="audio-controls">
       <source src="_static/music/scala-diminuita-verticale-c2.mp3" type="audio/mp3">
+   </audio>
+
+
+
+Esercizi
+--------
+
+In questa sezione troverai una serie di esercizi per lavorare sulle scale. L'obiettivo è sviluppare familiarità con le diteggiature, migliorare la tecnica e allenare l'orecchio a riconoscere le sonorità delle scale.
+
+Comincia a suonare la **scala maggiore** (ascendendo e discendendo dal centro tonale). Suonala dapprima in quarti, poi in ottavi e quindi in sedicesimi. Adattala a tutta l’estensione dello strumento. Risolvi gli eventuali problemi di diteggiatura o qualunque altro ostacolo fisico si presenti. Assegna i numeri 1, 2, 3, 4, 5, 6, e 7 ai gradi e ascoltane il suono: sviluppa così l’orecchio relativo. Trasportando questo modello di tonalità in tonalità, ti accorgerai ben presto di come sta migliorando l’orecchio.
+
+Una volta che ti senti a tuo agio con la scala maggiore, passa alla **scala minore melodica** e ripeti lo stesso processo. Poi continua con la **scala misolidia**, la **scala dorica**, la **scala minore naturale**, la **scala minore armonica**, la **scala a toni interi** e infine la **scala diminuita**.
+
+
+
+
+Esercizi di base
+~~~~~~~~~~~~~~~~
+
+Questi esercizi sono assolutamente fondamentali per sviluppare una conoscenza profonda delle scale. Non sono esercizi da fare una volta e poi dimenticare, ma strumenti da utilizzare regolarmente per mantenere e approfondire la tua familiarità con le sonorità e le diteggiature delle scale.
+
+Scala ascendente e discendente partendo e tornando al centro tonale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scale-esercizio01.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio01.mp3" type="audio/mp3">
+   </audio>
+
+Scala discendente e ascendente partendo e tornando al centro tonale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/scale-esercizio02.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio02.mp3" type="audio/mp3">
+   </audio>
+
+Gruppi di 4 note ascendente
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Il primo pattern scalare che vedremo è formato da un **gruppo di quattro note**. L’idea è di suonare le prime quattro note di una scala, poi le successive quattro partendo dal secondo grado, quindi dal terzo e così via. Man mano che li studierai, capirai l’importanza che hanno i pattern a quattro note come unità melodica. Anche in questo caso, comincia con ritmi in quarti, poi in ottavi ed infine in sedicesimi. 
+
+L’aumento di complessità degli esercizi ti porterà presto l’abilità di creare linee melodiche interessanti.
+
+
+.. image:: 
+   _static/music/scale-esercizio03.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio03.mp3" type="audio/mp3">
+   </audio>
+
+Gruppi di 4 note discendente
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+.. image:: 
+   _static/music/scale-esercizio04.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio04.mp3" type="audio/mp3">
    </audio>

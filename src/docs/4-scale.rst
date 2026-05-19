@@ -313,6 +313,26 @@ La scala esatonale o toni-interi è una scala composta da soli toni interi, senz
 
 Le sue diteggiature riflettono questa simmetria, e sono spesso utilizzate per creare effetti sonori particolari o per improvvisare su accordi alterati. Per questo motivo le diteggiature non derivano da quelle della scala maggiore, ma sono costruite appositamente per questa scala.
 
+.. image:: 
+   _static/music/scala-toni-interi-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-toni-interi-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/scala-toni-interi-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-toni-interi-verticale-c2.mp3" type="audio/mp3">
+   </audio>
 
 
 Scala Diminuita
@@ -325,3 +345,24 @@ Le diteggiature della scala diminuita sono costruite appositamente per questa sc
 La scala diminuita semitono-tono (*half-whole*) è usata su accordi di settima dominante alterati, mettendo in evidenza le tensioni ♭9, ♯9, ♯11 e **13**.
 
 In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semitono**, considerando come tonica uno dei toni cordali dell'accordo di settima dominante tra ♭9, 3, 5 e ♭7.
+
+.. image:: 
+   _static/music/scala-diminuita-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-diminuita-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/scala-diminuita-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-diminuita-verticale-c2.mp3" type="audio/mp3">
+   </audio>

@@ -634,7 +634,7 @@ Vedremo solo la prima corda, anche in questo caso sta a te estendere questo eser
    </audio>
 
 
-Triade maggiore armonica
+Triade armonica maggiore
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 Negli esercizi precedenti abbiamo suonato le cosiddette triadi "melodiche", ora invece suoneremo le triadi "armoniche", cioè suonando tutte le note dell'arpeggio simultaneamente, ovvero come un accordo.
@@ -668,6 +668,38 @@ Cercheremo le triadi maggiori su ciascuno di questi set di corde costruendo l'ac
    <audio controls class="audio-controls">
       <source src="_static/music/triade-armonica-c-2.mp3" type="audio/mp3">
    </audio>
+
+Triadi a parti late maggiori
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Le triadi a "parti late" sono costruite con le stesse note delle triadi a "parti strette", ma con le note più distanti tra loro. Si costruiscono a partire dalla triade a parti strette, spostando una delle note un'ottava sopra o un'ottava sotto.
+
+Per esempio, invece di suonare C-E-G, suoneremo C-G-E. 
+
+È possibile costruire triadi a parti late spostando la tonica, la terza o la quinta un'ottava sopra o un'ottava sotto e questo porta ad un elevato numero di combinazioni e diteggiature possibili. Nei prossimi esempi vedremo alcune soluzioni ma ti consiglio di esplorare tutte le possibilità su tutte le corde.
+
+.. image:: 
+   _static/music/triadi-a-parti-late-maggiori-c-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triadi-a-parti-late-maggiori-c-1.mp3" type="audio/mp3">
+   </audio>
+
+
+.. image:: 
+   _static/music/triadi-a-parti-late-maggiori-c-2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/triadi-a-parti-late-maggiori-c-2.mp3" type="audio/mp3">
+   </audio>
+
+
 
 Triade minore 
 ~~~~~~~~~~~~~
@@ -712,7 +744,7 @@ Triade minore orizzontale
       <source src="_static/music/triade-minore-orizzontale-12-bis.mp3" type="audio/mp3">
    </audio>
 
-Triade minore armonica
+Triade armonica minore
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: 

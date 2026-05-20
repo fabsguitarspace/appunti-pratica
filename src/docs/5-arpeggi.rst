@@ -5,8 +5,10 @@ Arpeggi
 Arpeggi a 4 note
 ----------------
 
-CΔ
-~~
+In questa sezione vedremo come costruire arpeggi a 4 note su accordi di settima, estendendo quelli a 3 note (triadi) visti in precedenza. 
+
+Lavoreremo su 8 accordi di settima la cui sequenza è pensata per aggiungere una quarta nota alla triade di base (maggiore e minore) nell'ordine 6, ♭7, Δ7. In questo modo la costruzione segue un processo logico e graduale. Questo insieme si conclude con l'arpeggio simmetrico di settima diminuita, che è un caso particolare e molto interessante.
+
 
 C6
 ~~
@@ -14,35 +16,21 @@ C6
 C7
 ~~
 
-Cm7
-~~~
+CΔ
+~~
 
 Cm6
 ~~~
 
-C∅
-~~
-
-C°7
+Cm7
 ~~~
-
-
-C7sus4
-~~~~~~
-
 
 CmΔ
 ~~~
 
+C°7
+~~~
 
-CΔ♯5
-~~~~
-
-C7♯5
-~~~~
-
-C7♭5
-~~~~
 
 Arpeggi estesi
 ~~~~~~~~~~~~~~

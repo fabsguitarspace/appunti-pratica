@@ -197,3 +197,15 @@ R sulla 2ª corda
       <source src="_static/music/accordi-c-maggiore-5.mp3" type="audio/mp3">
    </audio>
 
+13 sulla 2ª corda
+^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-13.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-13.mp3" type="audio/mp3">
+   </audio>

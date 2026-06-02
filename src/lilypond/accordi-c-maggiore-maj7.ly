@@ -17,6 +17,7 @@ diagA    = \markup  \scale #'(1.5 . 1.5)
 diagB    = \markup  \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
                           (place-fret 6 12)
+                          (mute 5)
                           (place-fret 4 10)
                           (place-fret 3 12)
                           (place-fret 2 12)
@@ -26,12 +27,22 @@ diagB    = \markup  \scale #'(1.5 . 1.5)
 diagC    = \markup  \scale #'(1.5 . 1.5)
                        \fret-diagram-verbose #'(
                          (place-fret 6 12)
+                          (mute 5)
                           (place-fret 4 12)
                           (place-fret 3 12)
                           (place-fret 2 12)
                         )
 
-diagD    = \markup \scale #'(1.5 . 1.5) 
+diagD    = \markup  \scale #'(1.5 . 1.5)
+                       \fret-diagram-verbose #'(
+                         (place-fret 6 12)
+                          (place-fret 5 15)
+                          (place-fret 4 12)
+                          (place-fret 3 12)
+                          (place-fret 2 12)
+                        )
+                       
+diagE    = \markup \scale #'(1.5 . 1.5) 
             \fret-diagram-verbose #'(
                          (place-fret 5 15)
                           (place-fret 4 14)
@@ -39,6 +50,13 @@ diagD    = \markup \scale #'(1.5 . 1.5)
                           (place-fret 2 12)
                         )
 
+diagG    = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                         (place-fret 5 15)
+                          (place-fret 4 14)
+                          (place-fret 3 14)
+                          (place-fret 2 12)
+                        )
 
 
 
@@ -51,7 +69,9 @@ music = \relative c {
     \set TabStaff.minimumFret = #10
   <e d' g b>1^\diagC 
     \set TabStaff.minimumFret = #11
-  <c' e g b>1^\diagD 
+  <e c' d g b>1^\diagD 
+  <c' e g b>1^\diagE 
+  <c e a b>1^\diagG
 }
 
 \score {

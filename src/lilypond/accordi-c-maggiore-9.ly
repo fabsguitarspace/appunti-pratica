@@ -57,6 +57,16 @@ diagF    = \markup \scale #'(1.5 . 1.5)
                           (place-fret 3 4)
                           (place-fret 2 3)
                         )
+      
+diagG    = \markup \scale #'(1.5 . 1.5) 
+      \fret-diagram-verbose #'(
+                          (place-fret 5 3)
+                          (place-fret 4 5)
+                          (place-fret 3 4)
+                          (place-fret 2 3)
+                        )
+
+
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
   <c e g d'>1^\diagA
@@ -65,6 +75,7 @@ music = \relative c {
   <g e' a d>1^\diagD 
   <c e b' d>1^\diagE
   <g e' b' d>1^\diagF
+  <c g' b d>1^\diagG
 }
 
 \score {

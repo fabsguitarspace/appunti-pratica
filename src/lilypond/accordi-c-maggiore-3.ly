@@ -57,6 +57,25 @@ diagF   = \markup \scale #'(1.5 . 1.5)
                           (place-fret 3 5)
                           (place-fret 2 5)
                         )
+            
+diagG   = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                          (place-fret 6 8)
+                          (mute 5)
+                          (place-fret 4 5)
+                          (place-fret 3 7)
+                          (place-fret 2 5)
+                        )
+
+diagH   = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                          (place-fret 6 8)
+                          (mute 5)
+                          (place-fret 4 7)
+                          (place-fret 3 5)
+                          (place-fret 2 5)
+                        )
+     
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
     \set TabStaff.minimumFret = #2
@@ -66,6 +85,9 @@ music = \relative c {
   <c g' b e>1^\diagD 
   <c g' c e>1^\diagE 
   <a g' c e>1^\diagF
+    \set TabStaff.minimumFret = #5
+  <c g' d' e>1^\diagG
+  <c a' c e>1^\diagH
 }
 
 \score {

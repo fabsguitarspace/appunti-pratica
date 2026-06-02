@@ -62,6 +62,13 @@ diagF   = \markup \scale #'(1.5 . 1.5)
                           (place-fret 2 10)
                         )
 
+diagG   = \markup \scale #'(1.5 . 1.5) 
+            \fret-diagram-verbose #'(
+                        (place-fret 6 12)
+                          (place-fret 4 10)
+                          (place-fret 3 12)
+                          (place-fret 2 10)
+                        )
 
 
 music = \relative c { 
@@ -75,6 +82,8 @@ music = \relative c {
   <c a' d a'>1^\diagD 
   < e a d a'>1^\diagE 
   <e b' d a'>1^\diagF 
+    \set TabStaff.minimumFret = #10
+  <e c' g' a>1^\diagG
 }
 
 \score {

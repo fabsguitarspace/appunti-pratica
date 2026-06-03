@@ -222,3 +222,16 @@ R sulla 2ª corda
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-c-maggiore-maj7.mp3" type="audio/mp3">
    </audio>
+
+R sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-r-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-r-1.mp3" type="audio/mp3">
+   </audio>

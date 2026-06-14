@@ -248,3 +248,17 @@ R sulla 1ª corda
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-c-maggiore-9-1.mp3" type="audio/mp3">
    </audio>
+
+3 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-3-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-3-1.mp3" type="audio/mp3">
+   </audio>
+

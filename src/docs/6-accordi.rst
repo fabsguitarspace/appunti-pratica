@@ -262,3 +262,22 @@ R sulla 1ª corda
       <source src="_static/music/accordi-c-maggiore-3-1.mp3" type="audio/mp3">
    </audio>
 
+♯11 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-11-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-11-1.mp3" type="audio/mp3">
+   </audio>
+
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-c-maggiore-11.mp3" type="audio/mp3">
+   </audio>

@@ -227,26 +227,26 @@ R sulla 1ª corda
 ^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/accordi-c-maggiore-r-1.*
+   _static/music/accordi-f-maggiore-r-1.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore-r-1.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-f-maggiore-r-1.mp3" type="audio/mp3">
    </audio>
 
 9 sulla 1ª corda
 ^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/accordi-c-maggiore-9-1.*
+   _static/music/accordi-f-maggiore-9-1.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore-9-1.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-f-maggiore-9-1.mp3" type="audio/mp3">
    </audio>
 
 3 sulla 1ª corda
@@ -259,7 +259,7 @@ R sulla 1ª corda
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore-3-1.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-f-maggiore-3-1.mp3" type="audio/mp3">
    </audio>
 
 ♯11 sulla 1ª corda
@@ -272,12 +272,27 @@ R sulla 1ª corda
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore-11-1.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-f-maggiore-11-1.mp3" type="audio/mp3">
+   </audio>
+
+
+
+5 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^
+
+.. image:: 
+   _static/music/accordi-c-maggiore-5-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-f-maggiore-5-1.mp3" type="audio/mp3">
    </audio>
 
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/accordi-c-maggiore-11.mp3" type="audio/mp3">
+      <source src="_static/music/accordi-f-maggiore-5.mp3" type="audio/mp3">
    </audio>

@@ -253,7 +253,7 @@ R sulla 1ª corda
 ^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/accordi-c-maggiore-3-1.*
+   _static/music/accordi-f-maggiore-3-1.*
    :width: 100%
 
 .. raw:: html
@@ -266,7 +266,7 @@ R sulla 1ª corda
 ^^^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/accordi-c-maggiore-11-1.*
+   _static/music/accordi-f-maggiore-11-1.*
    :width: 100%
 
 .. raw:: html
@@ -281,7 +281,7 @@ R sulla 1ª corda
 ^^^^^^^^^^^^^^^^^^
 
 .. image:: 
-   _static/music/accordi-c-maggiore-5-1.*
+   _static/music/accordi-f-maggiore-5-1.*
    :width: 100%
 
 .. raw:: html
@@ -290,9 +290,3 @@ R sulla 1ª corda
       <source src="_static/music/accordi-f-maggiore-5-1.mp3" type="audio/mp3">
    </audio>
 
-
-.. raw:: html
-
-   <audio controls class="audio-controls">
-      <source src="_static/music/accordi-f-maggiore-5.mp3" type="audio/mp3">
-   </audio>

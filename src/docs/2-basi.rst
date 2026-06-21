@@ -1233,42 +1233,6 @@ Una regola che vale per tutte e tre:
    se non suona bene lento, non suonerà bene veloce... suonerà solo più forte e più confuso.
 
 
-Gypsy picking
-~~~~~~~~~~~~~
-Dopo aver fatto una panoramica dei tipi di tecnica di plettro più diffusi su metodi e corsi, voglio fare qui un approfondimento sulla tecnica del plettro **che ti consiglio**.
-
-Non esiste un nome universalmente condiviso ma poiché è tipicamente associata ai chitarristi *manouche* o *gypsy jazz* la chiameremo **gypsy picking** (anche se questa tecnica caratterizza e accomuna virtuosi della chitarra come Yngwie Malmsteen, Joscho Stephan e Joe Pass).
-
-Caratteristiche chiave:
-
-- **Rest stroke** (*appoggio*): ogni colpo (soprattutto *downstroke*) si appoggia sulla corda sotto
-- **Downstroke dominante**: anche cambiando corda, spesso vai comunque in giù
-- **Cambio corda “verticale”**: non segui la direzione più comoda, ma mantieni la logica del suono
-- **Attacco forte e pieno**
-- Movimento dal polso + avambraccio, non micro-movimenti
-
-.. image:: 
-   _static/images/gypsy-picking.jpeg
-   :width: 100%
-
-
-Risultato:
-
-- suono grosso, proiettato, acustico
-- fraseggio molto articolato e “parlato”
-
-Questa tecnica non è “una variante”… è proprio un'altra filosofia:
-
-- ❌ Non cerca efficienza
-- ✅ Cerca suono e accento
-
-Ogni nota importante ha un colpo “vero”. Non è una sequenza meccanica ma è quasi una pronuncia.
-
-Gli altri sistemi ottimizzano il movimento, il gypsy picking ottimizza il **suono**.
-
-Joe Pass e Yngwie Malmsteen costruiscono le loro frasi per ottimizzare questo approccio e così facendo riescono a raggiungere pulizia, definizione e velocità impensabili con le altre tecniche.
-
-
 
 Downward pickslanting
 ^^^^^^^^^^^^^^^^^^^^^

@@ -524,6 +524,91 @@ Scala di G maggiore / E minore
 
 
 
+Scale 3 note per corda
+----------------------
+
+Dopo aver seguito la scala lungo una corda sola, possiamo collegare le corde mantenendo un vincolo semplice: **suonare tre note consecutive della scala su ogni corda**, poi proseguire sulla corda successiva.
+
+Questo modo di distribuire le note ti aiuta a riconoscere gli intervalli dentro un piccolo gruppo e a ritrovare la continuità della scala quando cambi corda. Il punto è sapere quale nota stai suonando e quale viene dopo, anche quando la mano si sposta.
+
+Tre note sulla corda non significa tre note per battito: **la distribuzione sulla tastiera e il ritmo sono due scelte diverse**. Per cominciare, suona una nota per pulsazione e lascia che i cambi di corda cadano dove devono cadere, senza aggiungere un accento ogni tre note.
+
+Come costruire il percorso
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Parti da una nota della scala sulla 6ª corda. Suona quella nota e le due successive, poi cerca la nota seguente sulla 5ª corda. Ripeti il procedimento fino alla 1ª corda, controllando ogni volta i nomi delle note.
+
+Nella scala maggiore incontrerai tre disposizioni fondamentali dentro ciascun gruppo:
+
+* **tono–tono**: per esempio Do–Re–Mi, con due tasti di distanza fra una nota e la successiva;
+* **tono–semitono**: per esempio Re–Mi–Fa, con distanze di due tasti e poi uno;
+* **semitono–tono**: per esempio Mi–Fa–Sol, con distanze di un tasto e poi due.
+
+Cerca queste distanze sulla corda prima di memorizzare una diteggiatura. Le forme tono–tono occupano cinque tasti contando anche i due estremi: scegli una zona comoda del manico e accompagna il movimento senza irrigidire o forzare l'apertura della mano. Se necessario, studia prima soltanto due corde.
+
+Ricorda inoltre che l'intervallo fra 3ª e 2ª corda è una terza maggiore, mentre fra le altre corde adiacenti è una quarta giusta. Quando passi dalla corda di Sol a quella di Si, verifica le note: una forma trasferita meccanicamente può portarti fuori dalla scala.
+
+Un esempio in Do maggiore
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In accordatura standard, parti dal **Do all'8° tasto della 6ª corda** e segui questo percorso dal grave all'acuto. Le corde nella tabella sono elencate nello stesso ordine in cui le suonerai; ogni riga contiene tre note successive, non un accordo.
+
+.. list-table:: Do maggiore: tre note per corda
+   :header-rows: 1
+   :widths: 25 25 25 25
+
+   * - Corda
+     - Tasti
+     - Note
+     - Distanze
+   * - 6ª — Mi basso
+     - 8 – 10 – 12
+     - Do – Re – Mi
+     - tono–tono
+   * - 5ª — La
+     - 8 – 10 – 12
+     - Fa – Sol – La
+     - tono–tono
+   * - 4ª — Re
+     - 9 – 10 – 12
+     - Si – Do – Re
+     - semitono–tono
+   * - 3ª — Sol
+     - 9 – 10 – 12
+     - Mi – Fa – Sol
+     - semitono–tono
+   * - 2ª — Si
+     - 10 – 12 – 13
+     - La – Si – Do
+     - tono–semitono
+   * - 1ª — Mi cantino
+     - 10 – 12 – 13
+     - Re – Mi – Fa
+     - tono–semitono
+
+Leggi ad alta voce i nomi delle note mentre procedi lentamente. Nota che la mano cambia zona: il vincolo delle tre note per corda non ti obbliga a restare in una posizione fissa.
+
+Questo percorso **parte dal Do ma termina sul Fa**. È una conseguenza della distribuzione di diciotto note su sei corde, non un cambio di tonalità. Puoi eseguire tutto il percorso e ridiscendere al Do iniziale; se vuoi prima ascoltare una conclusione sulla tonica acuta, fermati al Do della 2ª corda e torna indietro.
+
+Quando scendi, ripercorri le stesse note al contrario. Evita di aggiungerne una quarta per ritrovare una forma più familiare: in questa fase il vincolo serve a rendere visibili le scelte.
+
+Dalla forma alla conoscenza
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lavora su un passaggio alla volta:
+
+#. Suona soltanto 6ª e 5ª corda. Riconosci il collegamento Mi–Fa nel cambio di corda e confrontalo con lo stesso passaggio su una corda sola.
+#. Aggiungi una corda quando riesci a nominare le note senza ricominciare ogni volta dal Do basso.
+#. Fermati su una nota scelta e identifica il suo nome e il suo grado: per esempio, i Si sono il settimo grado di Do maggiore, anche se si trovano su corde diverse.
+#. Canta un gruppo di tre note e poi suonalo. Se non riesci a cantarlo, ascoltalo prima e riduci il tempo.
+#. Cerca un altro Do sulla 6ª corda e ricostruisci il percorso dove l'estensione dello strumento lo consente. In seguito cambia tonalità, conservando il criterio delle tre note consecutive per corda.
+
+Non è necessario studiare subito tutte le possibili partenze. La verifica più utile è questa: **se interrompi la scala a metà, sai quale nota viene dopo e dove trovarla?** Se devi tornare sempre all'inizio, riduci il percorso e ricostruisci il collegamento fra due corde.
+
+Nel capitolo sulle scale potrai applicare a queste distribuzioni gli esercizi ritmici e melodici. Qui mantieni il lavoro essenziale: nomi, intervalli, ascolto e continuità fra le corde.
+
+
+
 Triadi
 ------
 

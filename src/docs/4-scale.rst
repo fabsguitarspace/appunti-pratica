@@ -372,46 +372,44 @@ In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semiton
 Esercizi
 --------
 
-In questa sezione troverai una serie di esercizi per lavorare sulle scale. L'obiettivo è sviluppare familiarità con le diteggiature, migliorare la tecnica e allenare l'orecchio a riconoscere le sonorità delle scale.
+Una scala diventa familiare quando riesci a riconoscerne i suoni, a muoverti sulla tastiera e a cambiare direzione senza perdere il tempo. Gli esercizi che seguono lavorano su questi aspetti uno alla volta, fino a trasformare una piccola sequenza in una frase.
 
-Comincia a suonare la **scala maggiore** (ascendendo e discendendo dal centro tonale). Suonala dapprima in quarti, poi in ottavi e quindi in sedicesimi. Adattala a tutta l’estensione dello strumento. Risolvi gli eventuali problemi di diteggiatura o qualunque altro ostacolo fisico si presenti. Assegna i numeri 1, 2, 3, 4, 5, 6, e 7 ai gradi e ascoltane il suono: sviluppa così l’orecchio relativo. Trasportando questo modello di tonalità in tonalità, ti accorgerai ben presto di come sta migliorando l’orecchio.
+Gli esempi sono in **Do maggiore**. Parti da una diteggiatura che conosci e da un'estensione comoda: non serve occupare subito tutta la tastiera. Il pentagramma lascia volutamente aperta la scelta delle corde. Suonare le stesse note in un altro punto della chitarra sarà una variante successiva.
 
-Una volta che ti senti a tuo agio con la scala maggiore, passa alla **scala minore melodica** e ripeti lo stesso processo. Poi continua con la **scala misolidia**, la **scala dorica**, la **scala minore naturale**, la **scala minore armonica**, la **scala a toni interi** e infine la **scala diminuita**.
+Come lavorare
+~~~~~~~~~~~~~
 
-I pattern che trovi qui sono soltanto una essenziale selezione tra i tanti possibili, ma il mio
-suggerimento è di utilizzarne anche altri (tra libri e fonti vari, c'è tanto da
-cui attingere). Creane anche di nuovi.
+Scegli **un esercizio e una variante** per la sessione. Prima riconosci le note e il movimento; poi cerca continuità, suono e ascolto. Puoi usare questa breve routine:
 
-Ogni esercizio è in realtà solo un piccolo esempio del tipo di pattern.
+#. Ascolta l'esempio e descrivi il movimento, anche soltanto dicendo «sale», «scende», «salta» o «si ferma».
+#. Suona lentamente una porzione breve. Se un passaggio ti interrompe, isolalo e ricollegalo alle note vicine.
+#. Ripeti con il metronomo a una velocità che ti permetta di respirare e ascoltare ogni nota.
+#. Cambia una sola cosa: la direzione, il ritmo, la zona della tastiera oppure la tonalità.
+#. Chiudi con una breve frase libera usando una parte del materiale studiato.
 
-Quando usi questi esercizi, determina il tipo di movimento o salto utilizzato,
-applicalo in modo che funzioni con la scala ed estendilo all'intera tessitura
-del tuo strumento. Inizia con note da un quarto, poi passa agli ottavi ed
-infine ai sedicesimi. I pattern sono svolti sulla scala maggiore, ma possono
-essere applicati a qualunque tipo di scala o accordo. Una volta individuata
-la sequenza, suonala a memoria!
+Negli esempi audio nuovi il riferimento è **72 battiti al minuto**, con il quarto come pulsazione. È un punto di partenza per l'ascolto, non una velocità da raggiungere. Abbassa il tempo quando il suono o il gesto diventano incerti. Gli esempi sono suonati con suddivisioni regolari; lo swing può essere un lavoro successivo.
 
-Un approccio che raccomando è quello di lavorare su uno o due pattern
-per volta, applicandoli a sezioni di riscaldamento diverse. Fallo in diverse
-tonalità, finchè non sei sufficientemente sciolto sui sedicesimi in tutte le
-sezioni. Questo tipo di esercizio ti permette di utilizzare un pattern all'interno
-di molte situazioni musicali, senza doverne memorizzare i lick. 
-
-Padroneggiare un buon numero di pattern equivale ad un progresso tecnico notevole sullo
-strumento e ad un incremento di possibilità e interesse per le linee melodiche
-che creerai.
-
+Per ogni esercizio trovi un criterio di verifica: usalo per decidere se proseguire o semplificare. Non è necessario esaurire tutte le varianti prima di fare musica con poche note.
 
 Esercizi di base
 ~~~~~~~~~~~~~~~~
 
-Questi esercizi sono assolutamente fondamentali per sviluppare una conoscenza profonda delle scale. Non sono esercizi da fare una volta e poi dimenticare, ma strumenti da utilizzare regolarmente per mantenere e approfondire la tua familiarità con le sonorità e le diteggiature delle scale.
+Nei primi due esempi la scala supera di un grado la tonica d'arrivo prima di invertire la direzione. Questo piccolo prolungamento serve a esercitare il cambio di direzione: **non è un obbligo da applicare a ogni frase**. Puoi prima fermarti alla tonica e aggiungere la nota oltre il confine in un secondo momento.
 
-Scala ascendente e discendente partendo e tornando al centro tonale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Scala ascendente e discendente: ritorno alla tonica
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: 
-   _static/music/scale-esercizio01.*
+**Scopo.** Percorrere la scala mantenendo un suono uniforme e riconoscere il ritorno al centro tonale.
+
+**Procedura.** Parti dal Do, sali fino al Do dell'ottava superiore, prosegui al Re e ridiscendi fino al Do iniziale. Lascia risuonare l'ultima nota. L'esempio è scritto in ottavi; se il movimento non è ancora chiaro, suona una nota per battito.
+
+**Ascolto.** Prima di cominciare, canta o suona il Do. Durante la discesa prova ad anticipare con l'orecchio la nota conclusiva. Osserva se il passaggio fra le corde cambia involontariamente volume o durata delle note.
+
+**Varianti.** Inverti la direzione direttamente sul Do superiore. Poi ripeti le stesse altezze con un'altra diteggiatura; solo dopo amplia l'estensione.
+
+**Verifica.** Riesci a ripetere il percorso tre volte senza fermarti nel cambio di direzione, mantenendo il tempo e una conclusione chiaramente riconoscibile sul Do? Se no, accorcia il percorso.
+
+.. image:: _static/music/scale-esercizio01.*
    :width: 100%
 
 .. raw:: html
@@ -420,11 +418,20 @@ Scala ascendente e discendente partendo e tornando al centro tonale
       <source src="_static/music/scale-esercizio01.mp3" type="audio/mp3">
    </audio>
 
-Scala discendente e ascendente partendo e tornando al centro tonale
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Scala discendente e ascendente: ritorno alla tonica
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: 
-   _static/music/scale-esercizio02.*
+**Scopo.** Rendere la discesa sicura quanto la salita, senza affidarti sempre allo stesso gesto iniziale.
+
+**Procedura.** Parti dal Do superiore, scendi fino al Do inferiore e prosegui al Si sottostante. Risali quindi fino al Do di partenza. Prima di eseguire tutta la sequenza, controlla separatamente il passaggio Do–Si–Do nel registro grave.
+
+**Ascolto.** La discesa non deve diventare una caduta accelerata. Ascolta il Si sotto il Do come una nota dalla quale tornare, senza schiacciarla o accorciarla per la fretta di risalire.
+
+**Varianti.** Fermati sul Do inferiore prima di tornare in alto. In seguito parti da un altro Do sulla tastiera, scegliendo un'estensione che rimanga comoda.
+
+**Verifica.** Il metronomo rimane un riferimento anche durante la discesa? Riesci a ripartire dopo una pausa senza dover ricominciare dalla scala ascendente?
+
+.. image:: _static/music/scale-esercizio02.*
    :width: 100%
 
 .. raw:: html
@@ -433,16 +440,22 @@ Scala discendente e ascendente partendo e tornando al centro tonale
       <source src="_static/music/scale-esercizio02.mp3" type="audio/mp3">
    </audio>
 
-Gruppi di 4 note ascendente
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gruppi di quattro note ascendenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il primo pattern scalare che vedremo è formato da un **gruppo di quattro note**. L’idea è di suonare le prime quattro note di una scala, poi le successive quattro partendo dal secondo grado, quindi dal terzo e così via. Man mano che li studierai, capirai l’importanza che hanno i pattern a quattro note come unità melodica. Anche in questo caso, comincia con ritmi in quarti, poi in ottavi ed infine in sedicesimi. 
+**Scopo.** Seguire una regola melodica invece di memorizzare soltanto una lunga successione di movimenti.
 
-L’aumento di complessità degli esercizi ti porterà presto l’abilità di creare linee melodiche interessanti.
+**Procedura.** Suona quattro gradi consecutivi, poi sposta l'inizio del gruppo al grado successivo: **Do–Re–Mi–Fa, Re–Mi–Fa–Sol, Mi–Fa–Sol–La**. Continua con lo stesso criterio. Dopo il gruppo che parte dal Si, l'esempio si chiude sul Do.
 
+Prima studia due gruppi, con una pausa fra loro. Quando senti dove ricomincia la cellula, collegali. I gruppi sono di quattro note anche quando la scala cambia numero di suoni.
 
-.. image:: 
-   _static/music/scale-esercizio03.*
+**Ascolto.** Riconosci la prima nota di ciascun gruppo e la sua relazione con il precedente. Puoi darle un accento leggero durante lo studio; poi cerca la stessa chiarezza senza accentare automaticamente ogni inizio.
+
+**Varianti.** Suona ogni gruppo in quarti, poi in ottavi mantenendo la stessa pulsazione. Parti da un grado intermedio senza ricostruire tutta la sequenza dal Do.
+
+**Verifica.** Sai dire da quale nota comincia il gruppo successivo e ripartire da lì dopo un'interruzione? Se riesci soltanto a eseguire tutta la sequenza dall'inizio, lavora ancora su due gruppi alla volta.
+
+.. image:: _static/music/scale-esercizio03.*
    :width: 100%
 
 .. raw:: html
@@ -451,11 +464,20 @@ L’aumento di complessità degli esercizi ti porterà presto l’abilità di cr
       <source src="_static/music/scale-esercizio03.mp3" type="audio/mp3">
    </audio>
 
-Gruppi di 4 note discendente
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gruppi di quattro note discendenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: 
-   _static/music/scale-esercizio04.*
+**Scopo.** Mantenere riconoscibile la cellula quando sia il suo movimento interno sia le partenze dei gruppi procedono verso il grave.
+
+**Procedura.** Parti dal Do superiore: **Do–Si–La–Sol, Si–La–Sol–Fa, La–Sol–Fa–Mi**. Ogni nuovo gruppo parte un grado più in basso. L'esempio conclude con un Do tenuto dopo il gruppo Re–Do–Si–La.
+
+**Ascolto.** Segui le partenze dei gruppi e controlla che le ultime note non vengano accorciate. La chiusura sul Do interrompe volutamente la sequenza: distingui la regola dell'esercizio dalla sua conclusione.
+
+**Varianti.** Alterna due gruppi ascendenti e due discendenti, fermandoti prima di cambiare direzione. Elimina la pausa quando sai già quale gruppo suonare.
+
+**Verifica.** Riesci a cantare lentamente un gruppo e poi ritrovarlo sulla chitarra? Riesci a spiegare il movimento senza riferirti ai numeri dei tasti?
+
+.. image:: _static/music/scale-esercizio04.*
    :width: 100%
 
 .. raw:: html
@@ -463,3 +485,93 @@ Gruppi di 4 note discendente
    <audio controls class="audio-controls">
       <source src="_static/music/scale-esercizio04.mp3" type="audio/mp3">
    </audio>
+
+Terze diatoniche: ascoltare il salto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Muoversi dentro la scala senza passare sempre per tutte le note intermedie.
+
+**Procedura.** Abbina ogni grado a quello che si trova una terza diatonica sopra: **Do–Mi, Re–Fa, Mi–Sol, Fa–La, Sol–Si, La–Do, Si–Re, Do–Mi**. Le prime due battute mostrano queste coppie; le ultime due propongono una breve discesa per terze e una chiusura sul Do.
+
+«Diatoniche» significa che le note rimangono nella scala. Non tutte le coppie hanno la stessa distanza in semitoni: evita di trasportare un'identica forma sulla tastiera senza controllare quali note stai suonando.
+
+**Ascolto.** Suona la prima nota di una coppia, immagina o canta la seconda e poi cercala sulla chitarra. Se il salto non è chiaro, passa temporaneamente per la nota intermedia e poi omettila.
+
+**Varianti.** Inverti ciascuna coppia: Mi–Do, Fa–Re, Sol–Mi. In un'altra sessione fai scendere anche le partenze delle coppie. Introduci quarte e seste soltanto dopo aver reso riconoscibili questi salti.
+
+**Verifica.** Sai costruire una coppia partendo da un grado scelto al momento, senza ripercorrere la sequenza dal Do? Controlla sia i nomi delle note sia il salto che senti.
+
+.. image:: _static/music/scale-esercizio05.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio05.mp3" type="audio/mp3">
+   </audio>
+
+Stesse note, ritmo diverso
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Dare alle note una forma ritmica, mantenendo la pulsazione durante i silenzi.
+
+**Procedura.** Usa soltanto **Do–Re–Mi–Fa–Sol**. Nella prima battuta suona quattro ottavi, un quarto e una pausa di un quarto. Nella seconda mantieni il ritmo e aggiungi gli accenti indicati. Nella terza sposta la pausa prima del Sol. Nell'ultima suona un Do breve e lascia passare il resto della battuta in silenzio.
+
+Conta quattro pulsazioni per battuta. Prima batti o pronuncia il ritmo senza chitarra; poi aggiungi le altezze. L'accento è una differenza di intenzione e intensità: non deve anticipare la nota.
+
+**Ascolto.** La pausa ha una durata precisa. Senti se riesci ad aspettare il Sol della terza battuta e se il Do finale arriva sulla pulsazione prevista, senza recuperare o perdere tempo.
+
+**Varianti.** Inventa un altro ritmo con le stesse cinque note. In seguito trasferisci il ritmo a un gruppo di quattro note già studiato. Lavora sulle terzine in una sessione separata, senza aumentare contemporaneamente la difficoltà delle altezze.
+
+**Verifica.** Sai battere il ritmo e suonarlo sulla stessa pulsazione? Riesci a mantenere il conteggio per tutta l'ultima battuta anche dopo aver smesso di suonare?
+
+.. image:: _static/music/scale-esercizio06.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio06.mp3" type="audio/mp3">
+   </audio>
+
+Dal pattern a una frase
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Scegliere una porzione del materiale e darle un inizio, uno sviluppo e una conclusione.
+
+**Procedura.** L'esempio confronta due idee. La prima battuta percorre la scala per un'ottava; la seconda introduce una pausa e risponde con Mi–Re–Do. La terza riparte dal Sol, sale e cambia direzione; l'ultima conclude con Mi–Re–Do, lasciando più spazio alle note finali.
+
+Suona prima ciò che è scritto. Poi conserva soltanto tre o quattro note della prima idea e costruisci una risposta. Puoi ripetere una nota, cambiare il ritmo o inserire silenzio: non devi continuare a salire soltanto perché la scala offre altre note.
+
+**Ascolto.** Canta la risposta prima di cercarla sulla tastiera. Ascolta come il registro, la durata e la pausa cambiano il carattere delle stesse note. Il Do finale offre un riferimento stabile in questo esempio in Do maggiore; non è una regola che impone di concludere ogni frase sulla tonica.
+
+**Varianti.** Mantieni le altezze e cambia il ritmo della risposta. Poi mantieni il ritmo e cambia una o due note. Puoi provare Mi o Sol come note d'arrivo, ascoltando il diverso effetto rispetto al Do; su un accompagnamento futuro andranno valutate anche in relazione all'accordo presente.
+
+**Verifica.** Riesci a ripetere la tua frase, lasciarla respirare e produrne una seconda versione riconoscibile? Se ogni tentativo diventa una corsa diversa lungo tutta la scala, riduci il materiale a tre note.
+
+.. image:: _static/music/scale-esercizio07.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scale-esercizio07.mp3" type="audio/mp3">
+   </audio>
+
+Trasportare e cambiare scala
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quando un esercizio diventa chiaro, trasferiscilo in una seconda tonalità. Puoi seguire il ciclo delle quarte nelle sessioni successive, senza dover attraversare tutte le tonalità nello stesso giorno. Mantieni inizialmente ritmo ed estensione simili: il trasporto deve farti riconoscere le relazioni, non aggiungere ogni volta un esercizio diverso.
+
+Passa poi a un'altra delle sonorità del capitolo. Nella scala minore melodica, per questi esercizi, usa la stessa forma con sesta e settima maggiori sia salendo sia scendendo. Confrontala con la scala maggiore partendo dalla stessa tonica e ascolta il cambiamento della terza. Affronta le altre scale una alla volta.
+
+Per le scale di sette suoni puoi numerare i gradi da 1 a 7. La scala a toni interi ha **sei suoni**, quella diminuita **otto**: per seguire un pattern usa rispettivamente sei o otto posizioni prima di ripetere il ciclo all'ottava. Questa numerazione conta gli elementi della sequenza e non sostituisce i nomi degli intervalli rispetto alla tonica.
+
+Un gruppo di quattro note resta un gruppo di quattro note anche su queste scale. Per i salti, invece, distingui la regola «prendo una nota e salto la successiva» dall'intervallo che ottieni: su una scala a sei o otto suoni non puoi dare per scontato che il risultato siano le terze diatoniche appena studiate nella maggiore. Nella diminuita scegli e mantieni esplicita l'alternanza iniziale di tono e semitono.
+
+Una sessione breve
+~~~~~~~~~~~~~~~~~~
+
+Con dieci minuti a disposizione, puoi dedicare due minuti a cantare e suonare una porzione di scala, tre a una sequenza o a un salto, tre a una variazione ritmica e due a inventare e ripetere una breve frase. Adatta i tempi a ciò che incontri: se un passaggio richiede attenzione, riduci il resto.
+
+Nel quaderno di bordo annota la scala, la tonalità, il vincolo scelto e una sola osservazione concreta: «accelero quando scendo», «non sento ancora il salto», «riesco a ripetere la frase». La sessione successiva può partire da quella osservazione.

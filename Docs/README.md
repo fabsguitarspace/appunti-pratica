@@ -50,3 +50,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Correzioni pipeline musicale e ritaglio PDF](analisi/005-correzioni-pipeline-musicale.md) — implementazione, uso e verifiche.
 
 - [Audit dei file musicali non referenziati](analisi/006-file-non-referenziati.md) — elenchi MP3, PDF e LilyPond con evidenze.
+
+- [Scale: primo blocco di esercizi](analisi/007-esercizi-scale-primo-blocco.md) — stesura e verifiche.

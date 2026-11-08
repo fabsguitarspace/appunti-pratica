@@ -9,7 +9,6 @@ extensions = [
 
 source_suffix = {
     ".rst": "restructuredtext",
-    ".md": "markdown",
 }
 
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]

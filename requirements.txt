@@ -1,3 +1,2 @@
-sphinx
-shibuya
-
+sphinx==8.2.3
+shibuya==2026.1.9

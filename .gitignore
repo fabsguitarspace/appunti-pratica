@@ -371,3 +371,6 @@ vite.config.ts.timestamp-*
 .vite/
 
 *.iml
+
+# Local music build manifests and logs
+.music-build/

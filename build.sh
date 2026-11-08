@@ -1,1 +1,10 @@
-sphinx-build -b html src/docs out
+#!/bin/sh
+set -eu
+PROJECT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+cd "$PROJECT_DIR"
+if [ -x .venv/bin/python ]; then
+    PYTHON=.venv/bin/python
+else
+    PYTHON=python3
+fi
+exec "$PYTHON" -m sphinx -b html -W --keep-going src/docs out "$@"

@@ -1,0 +1,2 @@
+# Optional local music pipeline; not needed by Sphinx hosting.
+pdfCropMargins==2.2.1

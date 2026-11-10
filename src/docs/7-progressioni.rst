@@ -52,6 +52,8 @@ Una procedura per ogni progressione
 
 Se perdi il punto della forma, continua il conteggio e rientra alla battuta successiva riconoscibile. Fermarti e ricominciare sempre da capo allena soltanto l’inizio.
 
+.. _progressioni-ii-v-i:
+
 II–V–I maggiore: il primo collegamento
 ----------------------------------------
 
@@ -113,6 +115,8 @@ Prima di riempire ogni battuta con un arpeggio, scegli una nota riconoscibile pe
 
 **Verifica.** Riesci a sentire il cambio anche quando ripeti Fa? La frase continua ad avere una direzione se togli metà delle note?
 
+.. _progressioni-minore:
+
 II–V–I minore: rendere udibili le differenze
 ----------------------------------------------
 
@@ -135,6 +139,8 @@ Qui il La♭ del semidiminuito e della dominante è esplicito. Il voicing di G7�
 **Compito.** Confronta il percorso maggiore con quello minore. Individua La♭ nel II e Mi♭ nella tonica. Suona prima il II senza quinta, poi rimetti La♭: ascolta quanta informazione stavi lasciando al contesto.
 
 Nell’improvvisazione non uniformare tutte le battute a una scala minore naturale: la dominante contiene Si naturale e il Cm6 scelto contiene La naturale. Parti dalle note dei singoli accordi, poi collega le destinazioni con poche note delle scale già studiate.
+
+.. _progressioni-turnaround:
 
 Turnaround: preparare il giro successivo
 ------------------------------------------
@@ -160,6 +166,8 @@ Nel primo giro: I–vi–ii–V. Nel secondo A7 è V7/ii, dominante di Dm7. La n
 
 **Variante.** Dopo aver mantenuto una battuta per sigla, comprimi il percorso in due battute: Cmaj7–A7 nella prima, Dm7–G7 nella seconda, con due pulsazioni per accordo. Riduci gli attacchi se il cambio diventa incerto.
 
+.. _progressioni-dominanti:
+
 Dominanti secondarie: ascoltare la destinazione
 -------------------------------------------------
 
@@ -180,6 +188,8 @@ E7 prepara Am7, A7 prepara Dm7 e G7 conduce a Cmaj7. Nell’analisi rispetto a D
 **Compito.** Prima suona soltanto E7–Am7, poi A7–Dm7. Individua **Sol♯–La** e **Do♯–Re** come relazioni da ascoltare; puoi cantarle anche se non coincidono entrambe con le voci più alte del voicing scritto. Infine rimetti le coppie nel percorso di otto battute.
 
 **Verifica.** Quando incontri una sigla 7 sai indicare l’accordo che sta preparando? Riesci a ripartire dalla quinta battuta senza dover suonare l’inizio?
+
+.. _progressioni-tritono:
 
 Sostituzione di tritono: confrontare due bassi
 ------------------------------------------------
@@ -203,6 +213,8 @@ Nella seconda metà D♭7 prende il posto di G7. Il basso Re–Re♭–Do scende
 
 La sostituzione va controllata rispetto alla melodia e agli altri strumenti. Non basta condividere due note per rendere ogni sostituto adatto a qualsiasi passaggio. Comincia dagli esempi scritti e prova una modifica per volta su una frase che conosci.
 
+.. _progressioni-backdoor:
+
 Interscambio modale: un ritorno attraverso il minore
 ------------------------------------------------------
 
@@ -221,6 +233,8 @@ Fm7 introduce La♭ e Mi♭, colori del minore parallelo di Do; B♭7 conduce al
 
 
 **Compito.** Confronta G7–Cmaj7 con Fm7–B♭7–Cmaj7. Prima ascolta il ritorno, poi cerca una voce che si muova poco tra gli accordi. Canta La♭–Sol e Re–Mi come due possibili collegamenti nell’arrivo, senza obbligare ogni disposizione a contenerli entrambi nello stesso registro.
+
+.. _progressioni-diminuito:
 
 Un diminuito di passaggio
 ---------------------------
@@ -242,6 +256,8 @@ Tra Cmaj7 e Dm7 inseriamo C♯°7, composto da **Do♯–Mi–Sol–Si♭**. Il 
 **Compito.** Suona il primo e il terzo accordo senza il passaggio intermedio; poi reinseriscilo. Ascolta Do♯ che tende a Re e Si♭ che può scendere a La. Cerca questi movimenti prima con note singole, poi dentro un collegamento di voicing comodo.
 
 Non inserire un diminuito a ogni semitono del basso: prima scegli la destinazione, poi controlla le note che la rendono convincente.
+
+.. _progressioni-blues:
 
 Blues: tenere dodici battute
 ------------------------------
@@ -270,6 +286,8 @@ Per un finale, al posto del G7 dell’ultima battuta puoi mantenere C7 e chiuder
 
 **Improvvisazione.** Inizia con Do, Mi♭ e Sol, già presenti nel lavoro sulla pentatonica minore. Mantieni una frase breve e ripetila con una variazione ritmica nel secondo gruppo di quattro battute. Ascolta la relazione fra Mi♭ melodico e Mi naturale dell’accordo C7: l’inflessione blues va sviluppata attraverso ascolto e articolazione, non come sostituzione meccanica della terza del voicing.
 
+.. _progressioni-blues-jazz:
+
 Una variante jazz del blues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -294,6 +312,8 @@ Nelle ultime due battute ogni sigla dura **due pulsazioni**. Gli shell restano r
 **Compito.** Impara prima le battute 9–12. Conta esplicitamente «uno, due» per il primo accordo e «tre, quattro» per il secondo quando il ritmo armonico accelera. Inserisci poi il quick change e, per ultimo, il diminuito della sesta battuta.
 
 È una variante di studio, non uno schema unico valido per tutti i blues jazz. Se una griglia del repertorio presenta altri accordi, segui quella forma prima di sperimentare sostituzioni.
+
+.. _progressioni-blues-minore:
 
 Blues minore: una forma da confrontare
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -339,6 +359,8 @@ In questa disposizione a quattro note ascoltiamo il pedale e il colore, senza fo
 **Compito.** Prima suona il solo Re, poi alterna i voicing senza interrompere il basso. Con una frase breve cerca Fa, La e Si naturale e torna su Re. Se la frase continua a chiudere su Do, modifica gli arrivi prima di aggiungere altre note.
 
 **Verifica.** Riesci a mantenere il centro anche quando l’accordo superiore cambia? Sai sentire il Si naturale come colore del dorico rispetto al Si♭ del minore naturale?
+
+.. _progressioni-centri:
 
 Cambiare centro: riconoscere due II–V–I
 -----------------------------------------
@@ -513,7 +535,20 @@ Prima di passare oltre, controlla se riesci a:
 - ripartire da un punto interno alla forma;
 - trasportare un percorso breve in una seconda tonalità.
 
-Se perdi la forma quando aggiungi note, riduci la linea. Se il ritmo si irrigidisce cambiando voicing, riduci gli attacchi. Il lavoro successivo sul vocabolario in :doc:`8-licks` potrà partire da questi contesti: una frase acquisisce significato anche da dove entra, da ciò che attraversa e da come finisce.
+Se perdi la forma quando aggiungi note, riduci la linea. Se il ritmo si irrigidisce cambiando voicing, riduci gli attacchi. Il vocabolario in :doc:`8-licks` parte da questi contesti: una frase acquisisce significato anche da dove entra, da ciò che attraversa e da come finisce.
+
+Dal giro alle frasi del capitolo Licks
+--------------------------------------
+
+La raccolta di :doc:`8-licks` contiene cinquanta frasi con spartito, TAB e audio, collegate alle griglie di questo capitolo. Per iniziare:
+
+- Sul II–V–I maggiore usa :ref:`lick-p01` o :ref:`lick-p02`; nelle due battute di Cmaj7 prova :ref:`lick-m01` o :ref:`lick-m02`.
+- Nel minore parti da :ref:`lick-p03`. Per :ref:`lick-n03` prolunga Cm6 per due battute; :ref:`lick-n04` richiede invece Cm(maj7).
+- Sulla dominante prova una cellula di :ref:`lick-d02` o :ref:`lick-d03`: il lick completo dura due battute di G7, mentre nel primo II–V–I il V dura una sola battuta.
+- Nel blues di base :ref:`lick-b01`, :ref:`lick-b03` e :ref:`lick-b04` corrispondono alle finestre 1–4, 5–8 e 9–12.
+- Per turnaround, tritono e backdoor confronta :ref:`lick-p04`, :ref:`lick-p07` e :ref:`lick-p08` con le rispettive griglie scritte nel capitolo Licks.
+
+Scegli una frase, verifica sigle e durate, poi prova a entrare e uscire mantenendo il conteggio. Se un lick occupa più battute dell’accordo disponibile, estrai una cellula oppure modifica consapevolmente l’esercizio.
 
 Riferimenti per approfondire
 ------------------------------

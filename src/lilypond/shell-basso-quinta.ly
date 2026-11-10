@@ -4,11 +4,11 @@
 \header { title = "Quinta al basso sulla sesta e quinta corda" tagline = ##f }
 \paper { page-breaking = #ly:one-page-breaking line-width = 160\mm ragged-right = ##f }
 diagA = \markup \center-column { \small "Cmaj7/G"
-  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (mute 4) (place-fret 3 4) (place-fret 2 5) (mute 1)) }
+  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (place-fret 4 2) (place-fret 3 4) (mute 2) (mute 1)) }
 diagB = \markup \center-column { \small "Cm7/G"
-  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (mute 4) (place-fret 3 3) (place-fret 2 4) (mute 1)) }
+  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (place-fret 4 1) (place-fret 3 3) (mute 2) (mute 1)) }
 diagC = \markup \center-column { \small "C7/G"
-  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (mute 4) (place-fret 3 3) (place-fret 2 5) (mute 1)) }
+  \fret-diagram-verbose #'((place-fret 6 3) (mute 5) (place-fret 4 2) (place-fret 3 3) (mute 2) (mute 1)) }
 diagD = \markup \center-column { \small "Cmaj7/G"
   \fret-diagram-verbose #'((mute 6) (place-fret 5 10) (place-fret 4 9) (place-fret 3 9) (mute 2) (mute 1)) }
 diagE = \markup \center-column { \small "Cm7/G"
@@ -16,7 +16,7 @@ diagE = \markup \center-column { \small "Cm7/G"
 diagF = \markup \center-column { \small "C7/G"
   \fret-diagram-verbose #'((mute 6) (place-fret 5 10) (place-fret 4 8) (place-fret 3 9) (mute 2) (mute 1)) }
 melody = \absolute { \time 4/4 \key c \major
- <g,\6 b\3 e'\2>1^\diagA | <g,\6 bf\3 ef'\2>1^\diagB | <g,\6 bf\3 e'\2>1^\diagC | <g\5 b\4 e'\3>1^\diagD | <g\5 bf\4 ef'\3>1^\diagE | <g\5 bf\4 e'\3>1^\diagF \bar "|." }
+ <g,\6 e\4 b\3>1^\diagA | <g,\6 ef\4 bf\3>1^\diagB | <g,\6 e\4 bf\3>1^\diagC | <g\5 b\4 e'\3>1^\diagD | <g\5 bf\4 ef'\3>1^\diagE | <g\5 bf\4 e'\3>1^\diagF \bar "|." }
 \score {
  \new StaffGroup <<
   \new Staff { \clef "treble_8" \tempo 4 = 60 \melody }

@@ -8,9 +8,9 @@ diagA = \markup \center-column { \small "Dm7"
 diagB = \markup \center-column { \small "Dm7(b5,no5)"
   \fret-diagram-verbose #'((mute 6) (place-fret 5 5) (place-fret 4 3) (place-fret 3 5) (mute 2) (mute 1)) }
 diagC = \markup \center-column { \small "Dm7(b5), senza R"
-  \fret-diagram-verbose #'((mute 6) (mute 5) (place-fret 4 6) (place-fret 3 5) (place-fret 2 6) (mute 1)) }
+  \fret-diagram-verbose #'((place-fret 6 4) (mute 5) (place-fret 4 3) (place-fret 3 5) (mute 2) (mute 1)) }
 melody = \absolute { \time 4/4 \key c \major
- <d\5 f\4 c'\3>1^\diagA | <d\5 f\4 c'\3>1^\diagB | <af\4 c'\3 f'\2>1^\diagC \bar "|." }
+ <d\5 f\4 c'\3>1^\diagA | <d\5 f\4 c'\3>1^\diagB | <af,\6 f\4 c'\3>1^\diagC \bar "|." }
 \score {
  \new StaffGroup <<
   \new Staff { \clef "treble_8" \tempo 4 = 60 \melody }

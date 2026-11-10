@@ -115,7 +115,7 @@ Il numero di note non rende uno shell una triade: una triade maggiore o minore u
 
 Le forme sono particolarmente utili per accompagnare: permettono di seguire le voci interne e lasciano spazio alla melodia. Qui sviluppiamo sempre **tre voci**, con basso di **tonica, terza o quinta**. Per mettere la quinta al basso conservando terza e settima omettiamo la fondamentale: il contesto deve rendere chiaro l’accordo di riferimento. Le voci interne che seguono terza e settima sono dette note guida.
 
-Partiamo dalle tre corde centrali **quarta–terza–seconda**, poi vediamo varianti con una nota sulla **sesta o quinta corda**. Gli esempi hanno diagramma, pentagramma e tablatura nello stesso stile del capitolo. Le corde con «x» restano mute; i numeri indicano tasti, non dita. Tutte le forme proposte sono trasportabili e non usano corde a vuoto. Nona, undicesima e tredicesima non compaiono al basso.
+In questa sezione chiamiamo shell soltanto le forme a tre note sulle corde **6–4–3** oppure **5–4–3**. Le voci superiori sono quindi sempre sulle corde quarta e terza; il basso è sulla sesta oppure sulla quinta. La prima e la seconda corda restano mute. Gli esempi hanno diagramma, pentagramma e tablatura nello stesso stile del capitolo. Le corde con «x» restano mute; i numeri indicano tasti, non dita. Tutte le forme proposte sono trasportabili e non usano corde a vuoto. Nona, undicesima e tredicesima non compaiono al basso.
 
 Negli audio, **quattro impulsi sul Do acuto** precedono lo spartito. Ogni accordo dura quattro pulsazioni a **60 BPM**, con timbro sintetizzato e senza accompagnamento. Negli esempi con sigle ripetute, riarticola l’accordo all’inizio della battuta successiva.
 
@@ -152,52 +152,6 @@ Nel riferimento su Do:
 
 Prima di memorizzare una forma, canta la fondamentale e nomina le altre due note. Quando cambi qualità, individua la nota che cambia: fra Cmaj7 e C7 cambia la settima; fra C7 e Cm7 cambia la terza.
 
-Tre corde centrali: tonica al basso
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Sulle corde **quarta–terza–seconda**, disponiamo fondamentale, terza e settima. Da sinistra trovi Cmaj7, Cm7 e C7. La fondamentale è sempre il Do sulla quarta corda, decimo tasto; cambiano le note necessarie a distinguere le tre qualità.
-
-.. image:: _static/music/shell-centrali-tonica.*
-   :width: 100%
-
-.. raw:: html
-
-   <audio controls class="audio-controls" preload="none">
-      <source src="_static/music/shell-centrali-tonica.mp3" type="audio/mpeg">
-   </audio>
-
-Tre corde centrali: terza al basso
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Manteniamo le stesse tre corde e portiamo la **terza al basso**: Mi per Cmaj7 e C7, Mi♭ per Cm7. Le altre voci sono settima e fondamentale. Il Do rimane sulla seconda corda, primo tasto.
-
-Queste sono disposizioni in **primo rivolto**: la fondamentale è ancora presente, ma non è la nota più grave. La sigla dopo la barra indica il basso, per esempio Cmaj7/E. Il rivolto si riconosce dal basso rispetto all’accordo, non dal dito usato per cominciare la forma.
-
-.. image:: _static/music/shell-centrali-terza.*
-   :width: 100%
-
-.. raw:: html
-
-   <audio controls class="audio-controls" preload="none">
-      <source src="_static/music/shell-centrali-terza.mp3" type="audio/mpeg">
-   </audio>
-
-Tre corde centrali: quinta al basso
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Il basso è ora **Sol**, quinta di Do, sulla quarta corda al quinto tasto. Le altre due voci sono settima e terza: Sol–Si–Mi per Cmaj7, Sol–Si♭–Mi♭ per Cm7, Sol–Si♭–Mi per C7.
-
-Per restare a **tre note** abbiamo omesso la fondamentale. La sigla Cmaj7/G indica qui un voicing di Cmaj7 con Sol al basso nel contesto dato, anche se il Do non è suonato. Le tre note isolate possono suggerire anche altri accordi: canta o suona il Do separatamente e poi ascolta la forma. Non è una nuova triade da sostituire automaticamente a ogni accordo della famiglia.
-
-.. image:: _static/music/shell-centrali-quinta.*
-   :width: 100%
-
-.. raw:: html
-
-   <audio controls class="audio-controls" preload="none">
-      <source src="_static/music/shell-centrali-quinta.mp3" type="audio/mpeg">
-   </audio>
-
 Fondamentale sulla sesta e sulla quinta corda
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -221,9 +175,9 @@ Da sinistra trovi **Cmaj7, Cm7, C7**, prima con fondamentale sulla sesta corda e
 Terza al basso sulla quinta corda
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Porta il basso di terza sulla quinta corda: Mi al settimo tasto per Cmaj7/E e C7/E, Mi♭ al sesto per Cm7/E♭. Le voci superiori restano settima e fondamentale, sulle corde quarta e terza. Confronta queste forme con quelle in primo rivolto sulle corde quarta–terza–seconda.
+Porta il basso di terza sulla quinta corda: Mi al settimo tasto per Cmaj7/E e C7/E, Mi♭ al sesto per Cm7/E♭. Le voci superiori restano settima e fondamentale, sulle corde quarta e terza. Sono forme in primo rivolto: la terza è la nota più grave, mentre la fondamentale rimane presente nelle voci superiori. La nota dopo la barra indica il basso, per esempio Cmaj7/E.
 
-La prima disposizione richiede una maggiore apertura della mano. Provala lentamente e scegli la versione sulle corde centrali se lo spostamento risulta scomodo: la funzione del basso resta la stessa.
+La prima disposizione richiede una maggiore apertura della mano. Provala lentamente e rallenta e interrompi se senti tensione nella mano. Per semplificare puoi tornare alla forma con tonica al basso sullo stesso gruppo di corde.
 
 .. image:: _static/music/shell-basso-terza.*
    :width: 100%
@@ -237,7 +191,7 @@ La prima disposizione richiede una maggiore apertura della mano. Provala lentame
 Quinta al basso sulla sesta e sulla quinta corda
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I primi tre voicing hanno **Sol sulla sesta corda, terzo tasto**, con settima e terza sulle corde terza e seconda. Gli altri tre hanno **Sol sulla quinta corda, decimo tasto**, con settima e terza sulle corde quarta e terza. L’ordine delle sigle è sempre Cmaj7/G, Cm7/G, C7/G.
+I primi tre voicing hanno **Sol sulla sesta corda, terzo tasto**, con terza e settima sulle corde quarta e terza. Gli altri tre hanno **Sol sulla quinta corda, decimo tasto**, con settima e terza sulle corde quarta e terza. L’ordine delle sigle è sempre Cmaj7/G, Cm7/G, C7/G.
 
 Sono tutte riduzioni **senza fondamentale**: non aggiungere un Do, perché lo studio confronta intenzionalmente disposizioni a tre voci. Il basso rimane una quinta, mentre le due voci superiori chiariscono terza e settima. Se accompagni un basso che sta già suonando Do, ascolta come queste forme completano l’armonia.
 
@@ -296,7 +250,7 @@ Semidiminuiti e diminuiti: quando la quinta conta
 
 Per **Dm7**, fondamentale, terza minore e settima minore sono Re–Fa–Do. Le stesse tre note appartengono a **Dm7♭5**: omettendo la quinta non distinguiamo più La naturale da La♭.
 
-Le prime due forme dell’esempio sono quindi identiche, pur avendo sigle di riferimento diverse. La terza resta a tre voci ma conserva La♭, Do e Fa, omettendo Re: quinta diminuita, settima minore e terza minore. Il La♭ al basso è una quinta diminuita, non un’estensione. La sigla «no5» ricorda che nella riduzione precedente la quinta non è suonata.
+Le prime due forme dell’esempio sono quindi identiche, pur avendo sigle di riferimento diverse. La terza resta a tre voci sulle corde 6–4–3 e conserva La♭, Fa e Do, omettendo Re: quinta diminuita, terza minore e settima minore. Il La♭ al basso è una quinta diminuita, non un’estensione. La sigla «no5» ricorda che nella riduzione precedente la quinta non è suonata.
 
 .. image:: _static/music/shell-semidiminuito.*
    :width: 100%

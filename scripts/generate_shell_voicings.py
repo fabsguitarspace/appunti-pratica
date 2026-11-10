@@ -9,6 +9,7 @@ OPEN={6:40,5:45,4:50,3:55,2:59,1:64}
 NAMES={0:'c',1:'df',2:'d',3:'ef',4:'e',5:'f',6:'gf',7:'g',8:'af',9:'a',10:'bf',11:'b'}
 
 def chord(label,frets):
+ assert tuple(s for s,f in frets) in ((6,4,3),(5,4,3)), 'Shell strings must be 6-4-3 or 5-4-3'
  voices=tuple((s,f,OPEN[s]+f) for s,f in frets)
  assert [p for s,f,p in voices]==sorted(p for s,f,p in voices)
  assert max(f for s,f,p in voices)-min(f for s,f,p in voices)<=4
@@ -33,26 +34,16 @@ SHEETS=[
  ('shell-ii-v-i-maggiore','Shell: II-V-I in Do maggiore',[DM,GS,CMAJ5,CMAJ5]),
  ('shell-semidiminuito','Shell e semidiminuito: il ruolo della quinta',[
   DM,chord('Dm7(b5,no5)',[(5,5),(4,3),(3,5)]),
-  chord('Dm7(b5), senza R',[(4,6),(3,5),(2,6)])]),
+  chord('Dm7(b5), senza R',[(6,4),(4,3),(3,5)])]),
  ('shell-ii-v-i-minore','Shell: II-V-I in Do minore',[
   chord('Dm7(b5,no5)',[(5,5),(4,3),(3,5)]),GS,CSIX,CMMAJ]),
 
 ]
 
 SHEETS[:0]=[
- ('shell-centrali-tonica','Shell sulle corde centrali: tonica al basso',[
-  chord('Cmaj7',[(4,10),(3,9),(2,12)]),chord('Cm7',[(4,10),(3,8),(2,11)]),
-  chord('C7',[(4,10),(3,9),(2,11)])]),
- ('shell-centrali-terza','Shell sulle corde centrali: terza al basso',[
-  chord('Cmaj7/E',[(4,2),(3,4),(2,1)]),chord('Cm7/Eb',[(4,1),(3,3),(2,1)]),
-  chord('C7/E',[(4,2),(3,3),(2,1)])]),
- ('shell-centrali-quinta','Shell sulle corde centrali: quinta al basso',[
-  chord('Cmaj7/G, senza R',[(4,5),(3,4),(2,5)]),
-  chord('Cm7/G, senza R',[(4,5),(3,3),(2,4)]),
-  chord('C7/G, senza R',[(4,5),(3,3),(2,5)])]),
  ('shell-basso-quinta','Quinta al basso sulla sesta e quinta corda',[
-  chord('Cmaj7/G',[(6,3),(3,4),(2,5)]),chord('Cm7/G',[(6,3),(3,3),(2,4)]),
-  chord('C7/G',[(6,3),(3,3),(2,5)]),chord('Cmaj7/G',[(5,10),(4,9),(3,9)]),
+  chord('Cmaj7/G',[(6,3),(4,2),(3,4)]),chord('Cm7/G',[(6,3),(4,1),(3,3)]),
+  chord('C7/G',[(6,3),(4,2),(3,3)]),chord('Cmaj7/G',[(5,10),(4,9),(3,9)]),
   chord('Cm7/G',[(5,10),(4,8),(3,8)]),chord('C7/G',[(5,10),(4,8),(3,9)])]),
  ('shell-basso-terza','Terza al basso sulla quinta corda',[
   chord('Cmaj7/E',[(5,7),(4,9),(3,5)]),chord('Cm7/Eb',[(5,6),(4,8),(3,5)]),

@@ -8,7 +8,7 @@ shells=importlib.util.module_from_spec(spec);spec.loader.exec_module(shells)
 
 class ShellVoicingsTest(unittest.TestCase):
  def test_three_voices_and_chord_tone_basses(self):
-  self.assertEqual(len(shells.SHEETS),10)
+  self.assertEqual(len(shells.SHEETS),7)
   for stem,title,chords in shells.SHEETS:
    for chord in chords:
     voices=chord['voices'];label=chord['label']
@@ -22,19 +22,12 @@ class ShellVoicingsTest(unittest.TestCase):
     if 'b5' in label:allowed={0,3,6}
     self.assertIn(bass,allowed,(stem,label))
 
- def test_central_shapes_and_inversions(self):
-  expected={'shell-centrali-tonica':0,'shell-centrali-terza':None,'shell-centrali-quinta':7}
+ def test_only_the_two_requested_string_sets(self):
   for stem,title,chords in shells.SHEETS:
-   if stem not in expected:continue
-   for index,chord in enumerate(chords):
-    self.assertEqual([s for s,f,p in chord['voices']],[4,3,2])
-    pcs={p%12 for s,f,p in chord['voices']}
-    bass=chord['voices'][0][2]%12
-    self.assertEqual(bass,(3 if index==1 else 4) if expected[stem] is None else expected[stem])
-    if stem=='shell-centrali-quinta':
-     self.assertNotIn(0,pcs)
-     self.assertIn(11 if index==0 else 10,pcs)
-    else:self.assertIn(0,pcs)
+   for chord in chords:
+    self.assertIn(tuple(s for s,f,p in chord['voices']),((6,4,3),(5,4,3)),(stem,chord))
+  for frets in [[(4,2),(3,4),(2,1)],[(6,3),(3,4),(2,5)]]:
+   with self.assertRaises(AssertionError):shells.chord('invalid',frets)
 
  def test_guide_tones_in_major_cadence(self):
   chords=next(c for stem,title,c in shells.SHEETS if stem=='shell-ii-v-i-maggiore')

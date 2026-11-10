@@ -61,4 +61,6 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [Stile degli spartiti di Accordi e preferenza sul basso](analisi/011-stile-spartiti-accordi.md) — uniformati 17 spartiti preesistenti; aggiornati i nuovi voicing senza tensioni al basso, 10 novembre 2026.
 
-- [Shell voicings](analisi/012-shell-voicings.md) — dieci esempi a tre voci con bassi di tonica, terza e quinta, corde centrali e varianti sulla sesta/quinta, 10 novembre 2026.
+- [Shell voicings](analisi/012-shell-voicings.md) — sette esempi a tre voci esclusivamente sulle corde 6–4–3 e 5–4–3, con bassi di tonica, terza e quinta, 10 novembre 2026.
+
+- [Capitolo Progressioni](analisi/013-capitolo-progressioni.md) — percorso completo con diciassette esempi, tre basi e studio AABA, 10 novembre 2026.

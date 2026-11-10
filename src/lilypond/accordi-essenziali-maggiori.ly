@@ -1,15 +1,12 @@
 \version "2.24.4"
 \language "english"
-\header {
-	tagline = ##f
-	indent = 0
-}
+\header { title = "Accordi essenziali maggiori" tagline = ##f }
+\paper { page-breaking = #ly:one-page-breaking
+  line-width = 160\mm ragged-right = ##f }
 
 
 diagA    = \markup  { 
- 
-                       \scale #'(1.5 . 1.5)
-                     
+
                        \fret-diagram-verbose #'(
                           (place-fret 6 3)
                           (place-fret 5 5)
@@ -22,20 +19,18 @@ diagA    = \markup  {
 
 diagB    = \markup  {
 
-  \scale #'(1.5 . 1.5) 
-  
   \fret-diagram-verbose #'(
                           (place-fret 6 3)
                       (mute 5)
                           (place-fret 4 4)
                           (place-fret 3 4)
                            (place-fret 2 3)
-                    
+
                         )
 }
 diagC    = \markup  { 
 
-  \scale #'(1.5 . 1.5) \fret-diagram-verbose #'(
+  \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 5)
                           (place-fret 3 4)
@@ -44,25 +39,22 @@ diagC    = \markup  {
 }
 diagD    = \markup { 
 
-  \scale #'(1.5 . 1.5) 
-   
   \fret-diagram-verbose #'(
                           (place-fret 6 3)
                       (mute 5)
                           (place-fret 4 4)
                           (place-fret 3 4)
-                        
+
                         )
                       }
-                      
+
 diagE    = \markup  { 
 
-  \scale #'(1.5 . 1.5) 
   \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                           (place-fret 3 4)
-                 
+
                         )
 }
 music = \relative c { 
@@ -88,36 +80,21 @@ accordi = \chordmode {
 
 \score {
   <<
-
-   \new ChordNames {
-      \accordi
-    }
-
-    % ── Notazione standard ───────────────────────────────────────────
-    \new Staff {
-    \clef "treble_8"
-      \key c \major
-      \time 4/4
-      \music
-    }
-
-    % ── Tablatura ────────────────────────────────────────────────────
-    \new TabStaff {
-      \set TabStaff.stringTunings = #guitar-tuning
-      \music
-    }
+    \new ChordNames { \accordi }
+    \new StaffGroup <<
+      \new Staff {
+        \clef "treble_8" \tempo 4 = 60
+        \key c \major \time 4/4 \music
+      }
+      \new TabStaff {
+        \set TabStaff.stringTunings = #guitar-tuning
+        \omit TextScript \music
+      }
+    >>
   >>
-
-  \layout {
-    indent = 0
-
-    \context {
-      \Score
-      
-       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/30)
-\omit Staff.TimeSignature
-      \remove "Bar_number_engraver"
-    }
+  \layout { indent = 0 system-count = #2
+    \context { \Voice \override TextScript.staff-padding = #4 }
+    \context { \Score \omit StringNumber }
   }
- \midi {}
+  \midi { }
 }

@@ -1,13 +1,11 @@
 \version "2.24.4"
 \language "english"
-\header {
-	tagline = ##f
-	indent = 0
-}
+\header { title = "C maggiore: 3 sulla 2a corda" tagline = ##f }
+\paper { page-breaking = #ly:one-page-breaking
+  line-width = 160\mm ragged-right = ##f }
 
 
-diagA    = \markup  \scale #'(1.5 . 1.5)
-                       \fret-diagram-verbose #'(
+diagA    = \markup  \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                          (place-fret 3 2)
@@ -15,16 +13,14 @@ diagA    = \markup  \scale #'(1.5 . 1.5)
                         )
 
 
-diagB    = \markup  \scale #'(1.5 . 1.5)
-                       \fret-diagram-verbose #'(
+diagB    = \markup  \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 2)
                          (place-fret 3 4)
                           (place-fret 2 5)
                         )
 
-diagC    = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+diagC    = \markup \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 5)
                           (place-fret 3 2)
@@ -32,8 +28,7 @@ diagC    = \markup \scale #'(1.5 . 1.5)
                         )
 
 
-diagD   = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+diagD   = \markup \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 5)
                           (place-fret 3 4)
@@ -41,25 +36,22 @@ diagD   = \markup \scale #'(1.5 . 1.5)
                         )
 
 
-diagE   = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+diagE   = \markup \fret-diagram-verbose #'(
                           (place-fret 5 3)
                           (place-fret 4 5)
                           (place-fret 3 5)
                           (place-fret 2 5)
                         )
 
-diagF   = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+diagF   = \markup \fret-diagram-verbose #'(
                           (place-fret 6 5)
                           (mute 5)
                           (place-fret 4 5)
                           (place-fret 3 5)
                           (place-fret 2 5)
                         )
-            
-diagG   = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+
+diagG   = \markup \fret-diagram-verbose #'(
                           (place-fret 6 8)
                           (mute 5)
                           (place-fret 4 5)
@@ -67,15 +59,14 @@ diagG   = \markup \scale #'(1.5 . 1.5)
                           (place-fret 2 5)
                         )
 
-diagH   = \markup \scale #'(1.5 . 1.5) 
-            \fret-diagram-verbose #'(
+diagH   = \markup \fret-diagram-verbose #'(
                           (place-fret 6 8)
                           (mute 5)
                           (place-fret 4 7)
                           (place-fret 3 5)
                           (place-fret 2 5)
                         )
-     
+
 music = \relative c { 
   \set TabStaff.restrainOpenStrings = ##t
     \set TabStaff.minimumFret = #2
@@ -92,32 +83,20 @@ music = \relative c {
 
 \score {
   <<
-
-
-    % ── Notazione standard ───────────────────────────────────────────
-    \new Staff {
-    \clef "treble_8"
-      \key c \major
-      \time 4/4
-      \music
-    }
-
-    % ── Tablatura ────────────────────────────────────────────────────
-    \new TabStaff {
-      \set TabStaff.stringTunings = #guitar-tuning
-      \music
-    }
+    \new StaffGroup <<
+      \new Staff {
+        \clef "treble_8" \tempo 4 = 60
+        \key c \major \time 4/4 \music
+      }
+      \new TabStaff {
+        \set TabStaff.stringTunings = #guitar-tuning
+        \omit TextScript \music
+      }
+    >>
   >>
-
-  \layout {
-    indent = 0
-
-    \context {
-      \Score
-       \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/30)
-       \omit Staff.TimeSignature
-      \remove "Bar_number_engraver"
-    }
+  \layout { indent = 0 system-count = #2
+    \context { \Voice \override TextScript.staff-padding = #4 }
+    \context { \Score \omit StringNumber }
   }
- \midi {}
+  \midi { }
 }

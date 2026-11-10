@@ -56,3 +56,9 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Scale: esercizi avanzati](analisi/008-esercizi-scale-avanzati.md) — otto studi con pentagramma, tablatura e audio a due velocità, 10 novembre 2026.
 
 - [Arpeggi: sezione Esercizi](analisi/009-esercizi-arpeggi.md) — dieci studi con pentagramma, tablatura e audio a due velocità, 10 novembre 2026.
+
+- [Vocabolario avanzato: minori e dominanti](analisi/010-vocabolario-minori-dominanti.md) — 38 gruppi con nota al canto fissa, 114 voicing, diagrammi, spartiti, TAB e audio, 10 novembre 2026.
+
+- [Stile degli spartiti di Accordi e preferenza sul basso](analisi/011-stile-spartiti-accordi.md) — uniformati 17 spartiti preesistenti; aggiornati i nuovi voicing senza tensioni al basso, 10 novembre 2026.
+
+- [Shell voicings](analisi/012-shell-voicings.md) — dieci esempi a tre voci con bassi di tonica, terza e quinta, corde centrali e varianti sulla sesta/quinta, 10 novembre 2026.

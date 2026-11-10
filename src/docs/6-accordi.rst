@@ -14,7 +14,7 @@ Accordi maggiori
 In sostanza ci sono 3 forme base quando incontriamo un accordo maggiore.
 Due di queste forme hanno la tonica sulla 6ª corda. L'altra ha la tonica sulla 5ª corda. La scelta dipende dalla tonalità in cui ci troviamo.
 
-A queste forme aggiungiamo 2 forme cosiddette *shell*. Gli **shell voicing** sono voicing super essenziali (**root, 3ª e 7ª**), accordi ridotti alla struttura base. 
+A queste forme aggiungiamo 2 forme cosiddette *shell*. Gli **shell voicing** sono voicing super essenziali (**root, 3ª e 7ª**), accordi ridotti alla struttura base. La sezione :ref:`shell-voicings` raccoglie forme, collegamenti ed esercizi dedicati.
 
 Dentro gli shell voicing c'è già tutto quello che serve per far *funzionare* la musica. Il resto è colore… ma se manca la struttura, il colore non regge.
 Gli shell ti costringono e ti aiutao a vedere le linee interne: la 7ª del V che scende alla 3ª del I, la 3ª del II che diventa 7ª del V. Questo è il linguaggio… non la forma dell'accordo.
@@ -71,9 +71,9 @@ Accordi semidiminuiti
 
 Per gli accordi semidiminuiti (o m7♭5) abbiamo solo 2 forme essenziali, più due shell. 
 
-La prima forma shell è identica al m7 perché abbiamo omesso la quinta bemolle, che è la nota più debole dell'accordo, e quindi non è così importante farla sentire. In questo modo possiamo far sentire la tonica, la 3ª e la 7ª, che sono le note più importanti.
+La prima forma shell contiene fondamentale, terza minore e settima minore ed è identica alla riduzione del m7 senza quinta. Omettendo la quinta non si distingue da sola la qualità semidiminuita: la quinta bemolle va fatta sentire quando il contesto non la chiarisce già. La sezione :ref:`shell-voicings` approfondisce questo confronto.
 
-L'ultima forma shell è senza fondamentale, perché in questo caso è più importante far sentire la 3ª e la 7ª, che sono le note che definiscono il suono semidiminuito oltre alla quinta bemolle, che a quel punto rimane al basso.
+L’ultima forma è una riduzione senza fondamentale che conserva terza minore, settima minore e quinta bemolle, con quest’ultima al basso. Qui la quinta diminuita rimane quindi esplicita.
 
 .. image:: 
    _static/music/accordi-essenziali-semidiminuiti.*
@@ -103,6 +103,245 @@ Per gli accordi diminuiti abbiamo solo 3 forme essenziali:
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-essenziali-diminuiti.mp3" type="audio/mp3">
    </audio>
+
+.. _shell-voicings:
+
+Shell voicings
+----------------
+
+Uno **shell voicing** riduce un accordo alle note necessarie a delinearne la struttura. Per gli accordi di settima partiamo da **fondamentale, terza e settima**, omettendo la quinta. Tre note bastano per distinguere maggiore settima, minore settima e dominante, ma non descrivono da sole ogni possibile qualità o alterazione dell’accordo. Con basso di terza riordiniamo le stesse tre note; con basso di quinta usiamo quinta, terza e settima, senza fondamentale.
+
+Il numero di note non rende uno shell una triade: una triade maggiore o minore usa fondamentale, terza e quinta; lo shell di settima qui studiato usa invece fondamentale, terza e settima. È la scelta degli intervalli a definirne il ruolo.
+
+Le forme sono particolarmente utili per accompagnare: permettono di seguire le voci interne e lasciano spazio alla melodia. Qui sviluppiamo sempre **tre voci**, con basso di **tonica, terza o quinta**. Per mettere la quinta al basso conservando terza e settima omettiamo la fondamentale: il contesto deve rendere chiaro l’accordo di riferimento. Le voci interne che seguono terza e settima sono dette note guida.
+
+Partiamo dalle tre corde centrali **quarta–terza–seconda**, poi vediamo varianti con una nota sulla **sesta o quinta corda**. Gli esempi hanno diagramma, pentagramma e tablatura nello stesso stile del capitolo. Le corde con «x» restano mute; i numeri indicano tasti, non dita. Tutte le forme proposte sono trasportabili e non usano corde a vuoto. Nona, undicesima e tredicesima non compaiono al basso.
+
+Negli audio, **quattro impulsi sul Do acuto** precedono lo spartito. Ogni accordo dura quattro pulsazioni a **60 BPM**, con timbro sintetizzato e senza accompagnamento. Negli esempi con sigle ripetute, riarticola l’accordo all’inizio della battuta successiva.
+
+Le note che definiscono la sonorità
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel riferimento su Do:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 22 28 50
+
+   * - Sigla
+     - Struttura ridotta
+     - Note dello shell
+   * - Cmaj7 / CΔ
+     - 1–3–7
+     - Do–Mi–Si
+   * - Cm7
+     - 1–♭3–♭7
+     - Do–Mi♭–Si♭
+   * - C7
+     - 1–3–♭7
+     - Do–Mi–Si♭
+   * - C6
+     - 1–3–6
+     - Do–Mi–La
+   * - Cm6
+     - 1–♭3–6
+     - Do–Mi♭–La
+   * - Cm(maj7) / CmΔ
+     - 1–♭3–7
+     - Do–Mi♭–Si
+
+Prima di memorizzare una forma, canta la fondamentale e nomina le altre due note. Quando cambi qualità, individua la nota che cambia: fra Cmaj7 e C7 cambia la settima; fra C7 e Cm7 cambia la terza.
+
+Tre corde centrali: tonica al basso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sulle corde **quarta–terza–seconda**, disponiamo fondamentale, terza e settima. Da sinistra trovi Cmaj7, Cm7 e C7. La fondamentale è sempre il Do sulla quarta corda, decimo tasto; cambiano le note necessarie a distinguere le tre qualità.
+
+.. image:: _static/music/shell-centrali-tonica.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-centrali-tonica.mp3" type="audio/mpeg">
+   </audio>
+
+Tre corde centrali: terza al basso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Manteniamo le stesse tre corde e portiamo la **terza al basso**: Mi per Cmaj7 e C7, Mi♭ per Cm7. Le altre voci sono settima e fondamentale. Il Do rimane sulla seconda corda, primo tasto.
+
+Queste sono disposizioni in **primo rivolto**: la fondamentale è ancora presente, ma non è la nota più grave. La sigla dopo la barra indica il basso, per esempio Cmaj7/E. Il rivolto si riconosce dal basso rispetto all’accordo, non dal dito usato per cominciare la forma.
+
+.. image:: _static/music/shell-centrali-terza.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-centrali-terza.mp3" type="audio/mpeg">
+   </audio>
+
+Tre corde centrali: quinta al basso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il basso è ora **Sol**, quinta di Do, sulla quarta corda al quinto tasto. Le altre due voci sono settima e terza: Sol–Si–Mi per Cmaj7, Sol–Si♭–Mi♭ per Cm7, Sol–Si♭–Mi per C7.
+
+Per restare a **tre note** abbiamo omesso la fondamentale. La sigla Cmaj7/G indica qui un voicing di Cmaj7 con Sol al basso nel contesto dato, anche se il Do non è suonato. Le tre note isolate possono suggerire anche altri accordi: canta o suona il Do separatamente e poi ascolta la forma. Non è una nuova triade da sostituire automaticamente a ogni accordo della famiglia.
+
+.. image:: _static/music/shell-centrali-quinta.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-centrali-quinta.mp3" type="audio/mpeg">
+   </audio>
+
+Fondamentale sulla sesta e sulla quinta corda
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le prime tre forme hanno il Do sulla **sesta corda, ottavo tasto** e dispongono le voci dal basso come fondamentale–settima–terza. Le altre tre hanno il Do sulla **quinta corda, terzo tasto** e dispongono fondamentale–terza–settima. In entrambi i casi la fondamentale è la nota più bassa.
+
+Da sinistra trovi **Cmaj7, Cm7, C7**, prima con fondamentale sulla sesta corda e poi sulla quinta. La nota più alta non è necessariamente la stessa nelle due disposizioni: confronta le funzioni delle voci, non soltanto il disegno delle dita.
+
+.. image:: _static/music/shell-forme-base.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-forme-base.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Alterna due qualità sulla stessa fondamentale. Mantieni ferme le note comuni e muovi soltanto quella che cambia. Poi scegli una seconda fondamentale e ricostruisci le tre note prima di trasportare la forma.
+
+**Verifica.** Sai indicare dove sono terza e settima in ciascuna disposizione e cambiare da maggiore a minore senza ricominciare da un accordo completo?
+
+Terza al basso sulla quinta corda
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Porta il basso di terza sulla quinta corda: Mi al settimo tasto per Cmaj7/E e C7/E, Mi♭ al sesto per Cm7/E♭. Le voci superiori restano settima e fondamentale, sulle corde quarta e terza. Confronta queste forme con quelle in primo rivolto sulle corde quarta–terza–seconda.
+
+La prima disposizione richiede una maggiore apertura della mano. Provala lentamente e scegli la versione sulle corde centrali se lo spostamento risulta scomodo: la funzione del basso resta la stessa.
+
+.. image:: _static/music/shell-basso-terza.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-basso-terza.mp3" type="audio/mpeg">
+   </audio>
+
+Quinta al basso sulla sesta e sulla quinta corda
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I primi tre voicing hanno **Sol sulla sesta corda, terzo tasto**, con settima e terza sulle corde terza e seconda. Gli altri tre hanno **Sol sulla quinta corda, decimo tasto**, con settima e terza sulle corde quarta e terza. L’ordine delle sigle è sempre Cmaj7/G, Cm7/G, C7/G.
+
+Sono tutte riduzioni **senza fondamentale**: non aggiungere un Do, perché lo studio confronta intenzionalmente disposizioni a tre voci. Il basso rimane una quinta, mentre le due voci superiori chiariscono terza e settima. Se accompagni un basso che sta già suonando Do, ascolta come queste forme completano l’armonia.
+
+.. image:: _static/music/shell-basso-quinta.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-basso-quinta.mp3" type="audio/mpeg">
+   </audio>
+
+Sesta e settima maggiore nel minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Negli accordi di sesta sostituiamo la settima con la sesta: **C6** usa Do–Mi–La, **Cm6** usa Do–Mi♭–La. Non sono versioni di Cmaj7 o Cm7 con una nota in più: nella riduzione proposta la settima manca.
+
+Confronta anche **Cm(maj7)**, che conserva Mi♭ ma usa Si naturale. Nell’esempio trovi C6, Cm6 e Cm(maj7) con fondamentale sulla sesta corda, poi sulla quinta. La sesta rimane sopra la fondamentale, rispettando il criterio sul basso usato nel vocabolario avanzato.
+
+.. image:: _static/music/shell-seste-settime.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-seste-settime.mp3" type="audio/mpeg">
+   </audio>
+
+**Ascolto.** Fra C6 e Cm6 cambia soltanto la terza. Fra Cm6 e Cm(maj7) cambia invece La in Si. Canta la nota modificata e ascoltala dentro lo shell.
+
+Collegare un II–V–I maggiore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La progressione è **Dm7 | G7 | Cmaj7 | Cmaj7**. Il Dm7 parte con fondamentale sulla quinta corda; G7 passa alla sesta; Cmaj7 torna alla quinta.
+
+Le due voci superiori disegnano:
+
+- **Fa–Fa–Mi**: la terza di Dm7 diventa la settima di G7, poi scende alla terza di Cmaj7;
+- **Do–Si–Si**: la settima di Dm7 scende alla terza di G7, poi rimane come settima maggiore di Cmaj7.
+
+Il basso cambia, ma ogni voce superiore rimane ferma oppure si muove di un semitono. È questo collegamento che conviene riconoscere, prima di cercare forme più ricche.
+
+.. image:: _static/music/shell-ii-v-i-maggiore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-ii-v-i-maggiore.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Suona prima soltanto le due voci superiori, cantandone una alla volta. Aggiungi poi le fondamentali. Mantieni gli accordi lunghi come nello spartito; in una sessione successiva prova due attacchi brevi sul secondo e quarto movimento, continuando a contare quattro pulsazioni per battuta.
+
+Semidiminuiti e diminuiti: quando la quinta conta
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Per **Dm7**, fondamentale, terza minore e settima minore sono Re–Fa–Do. Le stesse tre note appartengono a **Dm7♭5**: omettendo la quinta non distinguiamo più La naturale da La♭.
+
+Le prime due forme dell’esempio sono quindi identiche, pur avendo sigle di riferimento diverse. La terza resta a tre voci ma conserva La♭, Do e Fa, omettendo Re: quinta diminuita, settima minore e terza minore. Il La♭ al basso è una quinta diminuita, non un’estensione. La sigla «no5» ricorda che nella riduzione precedente la quinta non è suonata.
+
+.. image:: _static/music/shell-semidiminuito.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-semidiminuito.mp3" type="audio/mpeg">
+   </audio>
+
+La riduzione senza quinta può funzionare se melodia e contesto rendono già chiara la qualità; se vuoi far sentire il carattere semidiminuito, conserva o aggiungi la quinta diminuita. Non considerarla una nota secondaria per definizione.
+
+Anche per i diminuiti completi evita di applicare automaticamente la regola «togli la quinta»: la struttura simmetrica e la possibile ambiguità della riduzione richiedono di ascoltare il contesto. Le forme complete sono già illustrate negli accordi essenziali.
+
+Collegare un II–V–I minore
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lo studio usa **Dm7♭5 | G7 | Cm6 | Cm(maj7)**. Il primo accordo è ridotto a Re–Fa–Do, con la quinta omessa come appena discusso. G7 usa Sol–Fa–Si. Sulla tonica minore confrontiamo poi Do–Mi♭–La e Do–Mi♭–Si.
+
+.. image:: _static/music/shell-ii-v-i-minore.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/shell-ii-v-i-minore.mp3" type="audio/mpeg">
+   </audio>
+
+Nel passaggio II–V ritrovi Fa fermo e Do che scende a Si. Nell’arrivo a Cm6 le voci superiori scendono da Fa a Mi♭ e da Si a La; nell’ultima battuta il La sale a Si mentre Do e Mi♭ restano fermi. Cm6 e Cm(maj7) sono qui due colori scelti per la tonica minore: non sono sostituzioni automatiche per ogni Cm7.
+
+Studia separatamente la versione a tre note e quella con la riduzione del semidiminuito che conserva la quinta diminuita. Ascolta che cosa aggiunge il La♭ prima della dominante.
+
+Una routine breve
+~~~~~~~~~~~~~~~~~~~
+
+#. Scegli una sigla e costruisci le tre note, prima a voce e poi sulla chitarra.
+#. Suonala con fondamentale sulla quinta e sulla sesta corda, senza accelerare il cambio di posizione.
+#. Collega II–V–I lentamente, seguendo una voce superiore alla volta.
+#. Alterna basso di tonica, terza e quinta, mantenendo sempre tre note; per il basso di quinta controlla che la fondamentale sia omessa.
+#. Trasporta il percorso in un’altra tonalità e annota una difficoltà concreta nel quaderno di bordo.
+
+Quando il collegamento è chiaro, aggiungi una sola nota al canto dalle famiglie del Vocabolario avanzato. Conserva il controllo delle voci interne: l’estensione deve entrare in una struttura che sai già ascoltare e muovere.
+
+Per un confronto sul metodo a tre note: `Tom Lippincott, Shell Voicings
+<https://tomlippincott.com/shell-voicings>`__.
 
 Vocabolario avanzato
 --------------------
@@ -289,4 +528,655 @@ R sulla 1ª corda
    <audio controls class="audio-controls">
       <source src="_static/music/accordi-f-maggiore-5-1.mp3" type="audio/mp3">
    </audio>
+
+.. _vocabolario-accordi-minori:
+
+Accordi minori
+~~~~~~~~~~~~~~
+
+Riprendiamo il criterio degli accordi maggiori: **una nota al canto ferma e più voicing sotto quella nota**. Usiamo Do sulla seconda corda e Fa sulla prima, risalendo le note dell’accordo e alcune estensioni. Ogni esempio propone tre possibilità, non tre passaggi obbligati di una progressione.
+
+La famiglia minore comprende sonorità diverse. **m7** contiene terza minore e settima minore; **m6** contiene terza minore e sesta maggiore, senza settima; **m(maj7)** contiene terza minore e settima maggiore. Le relative estensioni mantengono queste differenze. Le sigle m(maj7) e m(maj9) corrispondono a mΔ e mΔ9.
+
+Nona e undicesima sono colori utili da confrontare; sesta naturale e settima maggiore richiedono una scelta più precisa del contesto. Qui non rappresentano un’unica scala minore da applicare a tutti gli accordi. In particolare, una melodia con sesta minore richiede una scelta diversa da quelle con sesta naturale illustrate sotto.
+
+**Come leggere gli esempi.** Diagramma, pentagramma e tablatura descrivono le stesse quattro note. Le corde segnate con «x» non vanno suonate: usa dita o plettro e dita per selezionare quelle indicate. I numeri della tablatura sono tasti, non dita. Nei nuovi voicing il basso è una fondamentale, una terza, una quinta o una settima; nona, undicesima e tredicesima restano nelle voci superiori. Le forme non usano corde a vuoto e possono essere trasportate; scegli comunque una posizione comoda per la tua mano.
+
+La sigla indica l’accordo di riferimento, anche quando il basso del voicing non è la fondamentale. Accanto alle sigle nel testo trovi «senza R» quando la fondamentale è omessa. Può mancare anche la quinta o un’estensione non essenziale: una sigla di tredicesima non richiede che tutte le note fino alla tredicesima siano presenti. Canta o suona la fondamentale separatamente prima di confrontare i voicing senza R.
+
+**Audio.** Quattro impulsi sul Do acuto precedono ciascun esempio. Ogni voicing dura quattro pulsazioni a **60 BPM**, senza accompagnamento: ascolta il canto che rimane fermo e il colore che cambia sotto. Il timbro è sintetizzato. Parti anche più lentamente se una disposizione richiede attenzione.
+
+R sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Do, 1° tasto. **Voicing da sinistra:** Cm7, Cm6, Cm(maj7).
+
+Con la fondamentale al canto confronta la settima minore, la sesta e la settima maggiore nelle voci inferiori. Il Do o il Fa superiore rimane fermo: cambia il colore sotto la melodia.
+
+.. image:: _static/music/accordi-c-minore-r.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-r.mp3" type="audio/mpeg">
+   </audio>
+
+9 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 3° tasto. **Voicing da sinistra:** Cm9, Cm6/9, Cm(maj9).
+
+La nona naturale rimane al canto. Confronta il sostegno della settima minore, della sesta e della settima maggiore: le tre sigle descrivono scelte diverse per le voci interne.
+
+.. image:: _static/music/accordi-c-minore-9.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-9.mp3" type="audio/mpeg">
+   </audio>
+
+♭3 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi♭, 4° tasto. **Voicing da sinistra:** Cm7, Cm6, Cm(maj7).
+
+La terza minore rende immediatamente udibile la qualità dell’accordo. Conserva quella nota e ascolta come sesta e settime modificano il carattere della stessa melodia.
+
+.. image:: _static/music/accordi-c-minore-b3.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-b3.mp3" type="audio/mpeg">
+   </audio>
+
+11 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa, 6° tasto. **Voicing da sinistra:** Cm11, Cm11, Cm(maj11).
+
+L’undicesima naturale viene sostenuta prima da due disposizioni di minore settima, poi da una sonorità con settima maggiore. I primi due voicing hanno la stessa sigla ma distribuiscono diversamente le voci.
+
+.. image:: _static/music/accordi-c-minore-11.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-11.mp3" type="audio/mpeg">
+   </audio>
+
+5 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol, 8° tasto. **Voicing da sinistra:** Cm7, Cm6, Cm(maj7).
+
+La quinta al canto lascia alle voci interne il compito di distinguere minore settima, minore sesta e minore con settima maggiore. Ascolta ogni voce separatamente prima di unirle.
+
+.. image:: _static/music/accordi-c-minore-5.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-5.mp3" type="audio/mpeg">
+   </audio>
+
+6 / 13 sulla 2ª corda
+^^^^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La, 10° tasto. **Voicing da sinistra:** Cm6, Cm13, Cm(maj13).
+
+La stessa altezza può essere sesta in un accordo m6 oppure tredicesima quando è presente anche una settima. Confronta le tre sigle: la sesta naturale non implica che tutte le sonorità minori siano intercambiabili.
+
+.. image:: _static/music/accordi-c-minore-13.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-13.mp3" type="audio/mpeg">
+   </audio>
+
+♭7 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si♭, 11° tasto. **Voicing da sinistra:** Cm7, Cm9 (senza R), Cm11.
+
+La settima minore rimane al canto mentre nona o undicesima entrano nelle voci interne. Scegli il colore in relazione alla melodia e agli altri strumenti, evitando di aggiungere tutte le estensioni insieme.
+
+.. image:: _static/music/accordi-c-minore-b7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-b7.mp3" type="audio/mpeg">
+   </audio>
+
+Δ7 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si, 12° tasto. **Voicing da sinistra:** Cm(maj7), Cm(maj9) (senza R), Cm(maj11).
+
+La settima maggiore al canto identifica una scelta diversa dal minore settima. Le varianti con nona e undicesima conservano quella settima: non sostituirle automaticamente a un accordo m7.
+
+.. image:: _static/music/accordi-c-minore-maj7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-minore-maj7.mp3" type="audio/mpeg">
+   </audio>
+
+R sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa, 1° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
+
+Con la fondamentale al canto confronta la settima minore, la sesta e la settima maggiore nelle voci inferiori. Il Do o il Fa superiore rimane fermo: cambia il colore sotto la melodia.
+
+.. image:: _static/music/accordi-f-minore-r-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-r-1.mp3" type="audio/mpeg">
+   </audio>
+
+9 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol, 3° tasto. **Voicing da sinistra:** Fm9, Fm6/9, Fm(maj9) (senza R).
+
+La nona naturale rimane al canto. Confronta il sostegno della settima minore, della sesta e della settima maggiore: le tre sigle descrivono scelte diverse per le voci interne.
+
+.. image:: _static/music/accordi-f-minore-9-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-9-1.mp3" type="audio/mpeg">
+   </audio>
+
+♭3 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La♭, 4° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
+
+La terza minore rende immediatamente udibile la qualità dell’accordo. Conserva quella nota e ascolta come sesta e settime modificano il carattere della stessa melodia.
+
+.. image:: _static/music/accordi-f-minore-b3-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-b3-1.mp3" type="audio/mpeg">
+   </audio>
+
+11 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si♭, 6° tasto. **Voicing da sinistra:** Fm11, Fm11, Fm(maj11).
+
+L’undicesima naturale viene sostenuta prima da due disposizioni di minore settima, poi da una sonorità con settima maggiore. I primi due voicing hanno la stessa sigla ma distribuiscono diversamente le voci.
+
+.. image:: _static/music/accordi-f-minore-11-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-11-1.mp3" type="audio/mpeg">
+   </audio>
+
+5 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Do, 8° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
+
+La quinta al canto lascia alle voci interne il compito di distinguere minore settima, minore sesta e minore con settima maggiore. Ascolta ogni voce separatamente prima di unirle.
+
+.. image:: _static/music/accordi-f-minore-5-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-5-1.mp3" type="audio/mpeg">
+   </audio>
+
+6 / 13 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 10° tasto. **Voicing da sinistra:** Fm6, Fm13, Fm(maj13) (senza R).
+
+La stessa altezza può essere sesta in un accordo m6 oppure tredicesima quando è presente anche una settima. Confronta le tre sigle: la sesta naturale non implica che tutte le sonorità minori siano intercambiabili.
+
+.. image:: _static/music/accordi-f-minore-13-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-13-1.mp3" type="audio/mpeg">
+   </audio>
+
+♭7 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi♭, 11° tasto. **Voicing da sinistra:** Fm7, Fm9, Fm11.
+
+La settima minore rimane al canto mentre nona o undicesima entrano nelle voci interne. Scegli il colore in relazione alla melodia e agli altri strumenti, evitando di aggiungere tutte le estensioni insieme.
+
+.. image:: _static/music/accordi-f-minore-b7-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-b7-1.mp3" type="audio/mpeg">
+   </audio>
+
+Δ7 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi, 12° tasto. **Voicing da sinistra:** Fm(maj7), Fm(maj9), Fm(maj11).
+
+La settima maggiore al canto identifica una scelta diversa dal minore settima. Le varianti con nona e undicesima conservano quella settima: non sostituirle automaticamente a un accordo m7.
+
+.. image:: _static/music/accordi-f-minore-maj7-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-minore-maj7-1.mp3" type="audio/mpeg">
+   </audio>
+
+.. _vocabolario-accordi-dominanti:
+
+Accordi dominanti
+~~~~~~~~~~~~~~~~~
+
+Manteniamo Do sulla seconda corda e Fa sulla prima. Le note al canto comprendono toni dell’accordo, tensioni naturali e tensioni alterate. Ogni gruppo presenta tre voicing da confrontare sulla stessa nota superiore, con diagramma, pentagramma, tablatura e audio nello stesso formato usato per i minori.
+
+Nei voicing di dominante non sospesi sono presenti **terza maggiore e settima minore**. Le altre voci sostengono il canto attraverso nona, tredicesima e relative alterazioni. La qualità di dominante non impone da sola una funzione: ascolta se l’accordo prepara una risoluzione oppure è una sonorità stabile del passaggio.
+
+La **11 naturale** è qui sviluppata come **sus4**, sostituendo la terza maggiore con la quarta. La **♯11** mantiene invece la terza maggiore ed è una scelta distinta. Le sezioni su ♭9, ♯9 e ♭13 mostrano combinazioni precise: le tensioni non sono un insieme da aggiungere indiscriminatamente a ogni sigla 7.
+
+Resta valida l’indicazione «senza R» per le forme senza fondamentale. Negli audio ogni voicing dura quattro pulsazioni a 60 BPM, dopo il conteggio iniziale.
+
+R sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Do, 1° tasto. **Voicing da sinistra:** C7, C7, C13.
+
+La fondamentale rimane al canto: confronta due disposizioni di settima e una di tredicesima. Terza maggiore e settima minore mantengono riconoscibile la struttura di dominante.
+
+.. image:: _static/music/accordi-c-dominante-r.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-r.mp3" type="audio/mpeg">
+   </audio>
+
+♭9 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re♭, 2° tasto. **Voicing da sinistra:** C7(♭9), C13(♭9) (senza R), C7(♭9,♭13) (senza R).
+
+La nona minore è la nota più alta. Confronta il voicing di base con quelli che aggiungono tredicesima naturale oppure tredicesima minore; scegli fra questi colori ascoltando la destinazione dell’accordo.
+
+.. image:: _static/music/accordi-c-dominante-b9.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-b9.mp3" type="audio/mpeg">
+   </audio>
+
+9 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 3° tasto. **Voicing da sinistra:** C9, C13 (senza R), C9(♯11) (senza R).
+
+Con la nona naturale al canto, le voci inferiori possono conservare una dominante nona oppure introdurre tredicesima o undicesima aumentata. Non cambia la nota della melodia.
+
+.. image:: _static/music/accordi-c-dominante-9.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-9.mp3" type="audio/mpeg">
+   </audio>
+
+♯9 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re♯, 4° tasto. **Voicing da sinistra:** C7(♯9), C7(♯9,♭13) (senza R), C7(♯9,♯11) (senza R).
+
+La nona aumentata convive qui con la terza maggiore, presente nelle voci inferiori. Sul pentagramma è scritta Re♯ su C e Sol♯ su F; non indica che l’accordo sia diventato minore.
+
+.. image:: _static/music/accordi-c-dominante-s9.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-s9.mp3" type="audio/mpeg">
+   </audio>
+
+3 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi, 5° tasto. **Voicing da sinistra:** C7, C9, C13.
+
+La terza maggiore è la nota più alta; la settima minore resta nelle voci inferiori. Confronta i colori di settima, nona e tredicesima mantenendo ferma la terza al canto.
+
+.. image:: _static/music/accordi-c-dominante-3.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-3.mp3" type="audio/mpeg">
+   </audio>
+
+11 / sus4 sulla 2ª corda
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa, 6° tasto. **Voicing da sinistra:** C7sus4, C9sus4, C13sus4.
+
+Qui l’undicesima naturale è trattata come quarta sospesa: i tre voicing sono sus4 e omettono la terza maggiore. La settima minore rimane presente; nona e tredicesima sono varianti del sostegno. Non confondere 11 e ♯11.
+
+.. image:: _static/music/accordi-c-dominante-11.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-11.mp3" type="audio/mpeg">
+   </audio>
+
+♯11 sulla 2ª corda
+^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa♯, 7° tasto. **Voicing da sinistra:** C7(♯11), C9(♯11) (senza R), C13(♯11) (senza R).
+
+L’undicesima aumentata sta al canto e la terza maggiore rimane nell’accordo. La quinta giusta può essere omessa; se la sigla dice ♯11 non occorre riscrivere la nota come quinta diminuita.
+
+.. image:: _static/music/accordi-c-dominante-s11.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-s11.mp3" type="audio/mpeg">
+   </audio>
+
+5 sulla 2ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol, 8° tasto. **Voicing da sinistra:** C7, C9 (senza R), C13 (senza R).
+
+La quinta giusta rimane al canto. Terza, settima, nona e tredicesima permettono di cambiare colore sotto la stessa nota senza alterarla.
+
+.. image:: _static/music/accordi-c-dominante-5.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-5.mp3" type="audio/mpeg">
+   </audio>
+
+♭13 sulla 2ª corda
+^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La♭, 9° tasto. **Voicing da sinistra:** C7(♭13), C7(♭9,♭13) (senza R), C7(♯9,♭13) (senza R).
+
+La tredicesima minore è la nota al canto. Le varianti aggiungono nona minore oppure nona aumentata, conservando terza maggiore e settima minore. La quinta giusta è omessa nei voicing proposti.
+
+.. image:: _static/music/accordi-c-dominante-b13.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-b13.mp3" type="audio/mpeg">
+   </audio>
+
+13 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La, 10° tasto. **Voicing da sinistra:** C13, C13(♭9) (senza R), C13(♯11) (senza R).
+
+La tredicesima naturale rimane al canto. Confronta la versione di base con nona minore e undicesima aumentata: non sommare automaticamente tutte le tensioni alla stessa dominante.
+
+.. image:: _static/music/accordi-c-dominante-13.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-13.mp3" type="audio/mpeg">
+   </audio>
+
+♭7 sulla 2ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si♭, 11° tasto. **Voicing da sinistra:** C7, C9 (senza R), C13 (senza R).
+
+La settima minore è la voce più alta; le voci inferiori distinguono settima, nona e tredicesima. Prima di scegliere una forma, canta la settima e controlla dove può muoversi nell’accordo successivo.
+
+.. image:: _static/music/accordi-c-dominante-b7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-c-dominante-b7.mp3" type="audio/mpeg">
+   </audio>
+
+R sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa, 1° tasto. **Voicing da sinistra:** F7, F7, F13.
+
+La fondamentale rimane al canto: confronta due disposizioni di settima e una di tredicesima. Terza maggiore e settima minore mantengono riconoscibile la struttura di dominante.
+
+.. image:: _static/music/accordi-f-dominante-r-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-r-1.mp3" type="audio/mpeg">
+   </audio>
+
+♭9 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol♭, 2° tasto. **Voicing da sinistra:** F7(♭9), F13(♭9) (senza R), F7(♭9,♭13) (senza R).
+
+La nona minore è la nota più alta. Confronta il voicing di base con quelli che aggiungono tredicesima naturale oppure tredicesima minore; scegli fra questi colori ascoltando la destinazione dell’accordo.
+
+.. image:: _static/music/accordi-f-dominante-b9-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-b9-1.mp3" type="audio/mpeg">
+   </audio>
+
+9 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol, 3° tasto. **Voicing da sinistra:** F9, F13 (senza R), F9(♯11) (senza R).
+
+Con la nona naturale al canto, le voci inferiori possono conservare una dominante nona oppure introdurre tredicesima o undicesima aumentata. Non cambia la nota della melodia.
+
+.. image:: _static/music/accordi-f-dominante-9-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-9-1.mp3" type="audio/mpeg">
+   </audio>
+
+♯9 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Sol♯, 4° tasto. **Voicing da sinistra:** F7(♯9), F7(♯9,♭13) (senza R), F7(♯9,♯11) (senza R).
+
+La nona aumentata convive qui con la terza maggiore, presente nelle voci inferiori. Sul pentagramma è scritta Re♯ su C e Sol♯ su F; non indica che l’accordo sia diventato minore.
+
+.. image:: _static/music/accordi-f-dominante-s9-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-s9-1.mp3" type="audio/mpeg">
+   </audio>
+
+3 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La, 5° tasto. **Voicing da sinistra:** F7, F9, F13.
+
+La terza maggiore è la nota più alta; la settima minore resta nelle voci inferiori. Confronta i colori di settima, nona e tredicesima mantenendo ferma la terza al canto.
+
+.. image:: _static/music/accordi-f-dominante-3-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-3-1.mp3" type="audio/mpeg">
+   </audio>
+
+11 / sus4 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si♭, 6° tasto. **Voicing da sinistra:** F7sus4, F9sus4, F13sus4.
+
+Qui l’undicesima naturale è trattata come quarta sospesa: i tre voicing sono sus4 e omettono la terza maggiore. La settima minore rimane presente; nona e tredicesima sono varianti del sostegno. Non confondere 11 e ♯11.
+
+.. image:: _static/music/accordi-f-dominante-11-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-11-1.mp3" type="audio/mpeg">
+   </audio>
+
+♯11 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si, 7° tasto. **Voicing da sinistra:** F7(♯11), F9(♯11) (senza R), F13(♯11) (senza R).
+
+L’undicesima aumentata sta al canto e la terza maggiore rimane nell’accordo. La quinta giusta può essere omessa; se la sigla dice ♯11 non occorre riscrivere la nota come quinta diminuita.
+
+.. image:: _static/music/accordi-f-dominante-s11-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-s11-1.mp3" type="audio/mpeg">
+   </audio>
+
+5 sulla 1ª corda
+^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Do, 8° tasto. **Voicing da sinistra:** F7, F9 (senza R), F13 (senza R).
+
+La quinta giusta rimane al canto. Terza, settima, nona e tredicesima permettono di cambiare colore sotto la stessa nota senza alterarla.
+
+.. image:: _static/music/accordi-f-dominante-5-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-5-1.mp3" type="audio/mpeg">
+   </audio>
+
+♭13 sulla 1ª corda
+^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re♭, 9° tasto. **Voicing da sinistra:** F7(♭13), F7(♭9,♭13) (senza R), F7(♯9,♭13) (senza R).
+
+La tredicesima minore è la nota al canto. Le varianti aggiungono nona minore oppure nona aumentata, conservando terza maggiore e settima minore. La quinta giusta è omessa nei voicing proposti.
+
+.. image:: _static/music/accordi-f-dominante-b13-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-b13-1.mp3" type="audio/mpeg">
+   </audio>
+
+13 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 10° tasto. **Voicing da sinistra:** F13, F13(♭9) (senza R), F13(♯11) (senza R).
+
+La tredicesima naturale rimane al canto. Confronta la versione di base con nona minore e undicesima aumentata: non sommare automaticamente tutte le tensioni alla stessa dominante.
+
+.. image:: _static/music/accordi-f-dominante-13-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-13-1.mp3" type="audio/mpeg">
+   </audio>
+
+♭7 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi♭, 11° tasto. **Voicing da sinistra:** F7, F9 (senza R), F13.
+
+La settima minore è la voce più alta; le voci inferiori distinguono settima, nona e tredicesima. Prima di scegliere una forma, canta la settima e controlla dove può muoversi nell’accordo successivo.
+
+.. image:: _static/music/accordi-f-dominante-b7-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/accordi-f-dominante-b7-1.mp3" type="audio/mpeg">
+   </audio>
+
+Collegare il vocabolario alla musica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Scegli una sola nota al canto e confronta due voicing. Prima canta la nota, poi falla emergere leggermente rispetto alle voci inferiori. Mantienila per tutta la durata indicata, controllando che i cambi di forma non la interrompano.
+
+Passa quindi a due note al canto vicine della stessa famiglia. Scegli il collegamento che richiede meno movimento nelle altre voci; se una forma costringe la mano o copre la melodia, semplificala. Non serve attraversare tutta la raccolta in una sessione.
+
+Trasporta una coppia di forme in un’altra tonalità e ritrova la nota al canto prima di suonare. Una forma trasportabile conserva gli intervalli, ma la scelta fra minore settima, minore sesta e minore con settima maggiore dipende ancora dal brano. Lo stesso vale per le tensioni naturali o alterate delle dominanti.
+
+Per approfondire il rapporto fra melodia, toni cordali e tensioni:
+`Wayne Naus, Creating melody-driven chord progressions, Berklee Today
+<https://college.berklee.edu/berklee-today-55>`__.
 

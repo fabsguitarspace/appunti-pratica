@@ -1134,3 +1134,11 @@ Per approfondire il rapporto fra melodia, toni cordali e tensioni:
 `Wayne Naus, Creating melody-driven chord progressions, Berklee Today
 <https://college.berklee.edu/berklee-today-55>`__.
 
+
+
+Percorsi d’autore
+-----------------
+
+In :doc:`10-percorsi-autore` confronta :ref:`autore-wes`, :ref:`autore-hall`
+e :ref:`autore-pass`: ottave e accordi, dialogo fra voci e chitarra sola
+applicano il vocabolario armonico a compiti musicali differenti.

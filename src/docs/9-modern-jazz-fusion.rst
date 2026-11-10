@@ -494,3 +494,12 @@ Valuta se il centro resta udibile, se riconosci la cellula, se il groove
 continua durante le pause e se la tensione trova una destinazione.
 Solo dopo aggiungi densità o velocità. Un risultato convincente può
 usare poche note e lasciare molto spazio alla sezione ritmica.
+
+
+Percorsi d’autore
+-----------------
+
+In :doc:`10-percorsi-autore` i percorsi :ref:`autore-metheny`,
+:ref:`autore-scofield` e :ref:`autore-mclaughlin` collegano arco melodico,
+groove e organizzazione ritmica a un ascolto guidato di registrazioni
+specifiche, con esercizi originali e studi conclusivi.

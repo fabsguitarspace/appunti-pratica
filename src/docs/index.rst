@@ -15,3 +15,4 @@ Appunti di Pratica per Chitarra Jazz
   7-progressioni
   8-licks
   9-modern-jazz-fusion
+  10-percorsi-autore

@@ -25,6 +25,7 @@ Il progetto fratello è `../appunti-teoria`. Teoria spiega strutture e relazioni
 - `src/docs/7-progressioni.rst`: Progressioni
 - `src/docs/8-licks.rst`: Licks
 - `src/docs/9-modern-jazz-fusion.rst`: Modern jazz e fusion
+- `src/docs/10-percorsi-autore.rst` e `src/docs/autori/`: Percorsi d’autore
 
 ## Gestione delle decisioni
 
@@ -69,3 +70,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Licks bebop e collegamento con Progressioni](analisi/014-licks-bebop.md) — cinquanta frasi originali in cinque categorie, spartiti/TAB/audio e rimandi reciproci, 10 novembre 2026.
 
 - [Modern jazz e fusion](analisi/015-modern-jazz-fusion.md) — dodici studi, basi con basso/batteria, quarte, sovrapposizioni e ritmo, 10 novembre 2026.
+
+- [Percorsi d’autore](analisi/016-percorsi-autore.md) — dieci artisti, venti ascolti guidati, sessanta studi con spartito/TAB/audio e dieci basi finali, 10 novembre 2026.

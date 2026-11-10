@@ -1202,3 +1202,11 @@ melodica viene riorganizzata su vamps, groove e metri diversi, con studi,
 spartiti/TAB e basi con basso e batteria. Confronta gli studi
 :ref:`modern-01`, :ref:`modern-02` e :ref:`modern-11` per passare
 materialmente dal lessico bebop a un nuovo contesto.
+
+
+Percorsi d’autore
+-----------------
+
+Prosegui in :doc:`10-percorsi-autore`: i percorsi :ref:`autore-christian`,
+:ref:`autore-benson` e :ref:`autore-martino` sviluppano riff, bersagli,
+articolazione e continuità della linea attraverso esempi originali.

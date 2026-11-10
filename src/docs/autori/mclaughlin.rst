@@ -45,7 +45,7 @@ Due cellule di sedicesimi regolari si alternano su Re dorico. La prima esplicita
 
 **Al lavoro:** Studia a metà velocità e ferma subito la ripetizione se la mano si irrigidisce. Cerca attacchi e durata uniformi prima di aumentare il tempo.
 
-.. image:: ../_static/music/autori-mclaughlin-01.svg
+.. image:: ../_static/music/autori-mclaughlin-01.*
    :alt: John McLaughlin, esercizio originale 01: Quattro note, attacco uniforme
 
 .. raw:: html
@@ -67,7 +67,7 @@ Dieci crome occupano cinque quarti raggruppati 3+2. Le prime sei crome formano i
 
 **Al lavoro:** Conta UNO due tre | QUATTRO cinque e canta gli inizi dei gruppi prima di aggiungere tutte le note.
 
-.. image:: ../_static/music/autori-mclaughlin-02.svg
+.. image:: ../_static/music/autori-mclaughlin-02.*
    :alt: John McLaughlin, esercizio originale 02: Cinque quarti cantati tre più due
 
 .. raw:: html
@@ -89,7 +89,7 @@ Re–Mi♭–Fa–Sol–La–Si♭–Do stabilisce il materiale frigio; Mi♭ è
 
 **Al lavoro:** Conta 2+2+3 crome e canta Re–Mi♭. Il conteggio iniziale ha sette crome; non confonderlo con sette quarti.
 
-.. image:: ../_static/music/autori-mclaughlin-03.svg
+.. image:: ../_static/music/autori-mclaughlin-03.*
    :alt: John McLaughlin, esercizio originale 03: Sette ottavi su un centro frigio
 
 .. raw:: html
@@ -111,7 +111,7 @@ Sedici gruppi di tre sedicesimi attraversano tre battute di 4/4. Gli accenti con
 
 **Al lavoro:** Batti soltanto i quarti e canta la cellula. Riduci poi a una sola nota con gli accenti scritti: il ciclo deve restare comprensibile anche senza altezze.
 
-.. image:: ../_static/music/autori-mclaughlin-04.svg
+.. image:: ../_static/music/autori-mclaughlin-04.*
    :alt: John McLaughlin, esercizio originale 04: Gruppi di tre sopra il quattro
 
 .. raw:: html
@@ -133,7 +133,7 @@ Una battuta densa trova risposta in una nota lunga e una pausa; il secondo gesto
 
 **Al lavoro:** Suona la parte densa piano e la nota di arrivo più presente. La velocità ha senso se il contrasto fra le frasi rimane udibile.
 
-.. image:: ../_static/music/autori-mclaughlin-05.svg
+.. image:: ../_static/music/autori-mclaughlin-05.*
    :alt: John McLaughlin, esercizio originale 05: Contrasto fra densità e respiro
 
 .. raw:: html
@@ -155,7 +155,7 @@ Otto battute in 7/8, sempre 2+2+3. Le prime quattro espongono il materiale, quin
 
 **Al lavoro:** Esegui prima solo la prima nota dei tre gruppi. Poi suona la linea completa e inventa un nuovo finale di sette crome mantenendo la stessa forma.
 
-.. image:: ../_static/music/autori-mclaughlin-06.svg
+.. image:: ../_static/music/autori-mclaughlin-06.*
    :alt: John McLaughlin, esercizio originale 06: Studio: ciclo di sette e risposta modale
 
 .. raw:: html

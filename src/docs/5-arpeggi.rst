@@ -370,7 +370,7 @@ Come lavorare
 Ogni audio comprende **quattro impulsi sul Do acuto** prima dell’inizio dello spartito: conta «uno, due, tre, quattro». Gli esempi sono a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari, senza swing. I 90 BPM sono un riferimento per il confronto, non una velocità obbligatoria. Se necessario rallenta ulteriormente con il metronomo. Il suono è sintetizzato e la parte melodica è sola, anche negli studi sulle progressioni.
 
 Esercizi di base
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 I primi quattro studi collegano orientamento sulla tastiera e riconoscimento del suono dell’accordo. La prima nota di una linea non cambia, da sola, la sigla dell’accordo di riferimento.
 
@@ -503,7 +503,7 @@ I primi quattro studi collegano orientamento sulla tastiera e riconoscimento del
    </audio>
 
 Esercizi avanzati
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 Questi studi introducono salti, cambi di posizione, estensioni e progressioni. Affrontali quando riesci a individuare le note dei primi quattro esercizi e a mantenere una pulsazione comoda. Nei II–V–I le sigle sopra il pentagramma indicano l’accordo di ogni battuta; le note vanno lette rispetto a quel riferimento.
 
@@ -700,7 +700,7 @@ Questi studi introducono salti, cambi di posizione, estensioni e progressioni. A
    </audio>
 
 Trasportare e scegliere il materiale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Trasporta inizialmente un solo studio in una seconda tonalità. Prima scrivi o pronuncia le note richieste dalla sigla; poi cerca una diteggiatura comoda. Un accordo minore con settima maggiore richiede una settima diversa da quella di un minore settima: conserva la struttura dell’accordo, non soltanto il gesto.
 
@@ -709,7 +709,7 @@ Negli arpeggi estesi distingui sempre sesta e settima: C6/9 contiene Do–Mi–S
 Per i II–V–I trasporta tutta la progressione e controlla il collegamento fra le voci. Il lavoro sulle forme e sui brani continua in :doc:`7-progressioni`; qui l’obiettivo è rendere leggibile e ascoltabile il passaggio da un arpeggio all’altro.
 
 Una sessione breve
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 Dedica due minuti a cantare e individuare le note di una sigla, tre a un frammento scritto, tre a un cambio di ritmo o di partenza e due a una frase inventata. Se un passaggio resta incerto, riduci il materiale invece di accelerare.
 

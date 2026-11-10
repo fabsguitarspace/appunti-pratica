@@ -45,7 +45,7 @@ Mi♭ e Mi naturale dialogano su C7. La terza maggiore nell’accompagnamento re
 
 **Al lavoro:** Canta Mi♭–Mi senza forzare la voce, poi suona le due note distinte. L’audio è temperato: inflessioni e bending richiedono un confronto diretto con l’ascolto.
 
-.. image:: ../_static/music/autori-benson-01.svg
+.. image:: ../_static/music/autori-benson-01.*
    :alt: George Benson, esercizio originale 01: Terza blues e terza maggiore
 
 .. raw:: html
@@ -67,7 +67,7 @@ Frasi brevi e pause offrono il tempo per cantare, ascoltare e riprodurre. Il can
 
 **Al lavoro:** Canta una battuta e suonala nella pausa successiva, fermando il lettore se serve. Poi canta e suona insieme un’ottava comoda per la tua voce.
 
-.. image:: ../_static/music/autori-benson-02.svg
+.. image:: ../_static/music/autori-benson-02.*
    :alt: George Benson, esercizio originale 02: Voce prima delle dita
 
 .. raw:: html
@@ -89,7 +89,7 @@ Mi prepara Fa nel II, Si♭ prepara Si nel V e Fa–Mi♭ circonda Mi sul I. Gli
 
 **Al lavoro:** Togli i cromatismi e canta la linea essenziale. Reinseriscili uno alla volta senza trasformarli in punti di riposo.
 
-.. image:: ../_static/music/autori-benson-03.svg
+.. image:: ../_static/music/autori-benson-03.*
    :alt: George Benson, esercizio originale 03: Cromatismi verso il bersaglio
 
 .. raw:: html
@@ -111,7 +111,7 @@ Lo stesso materiale blues viene organizzato in sedicesimi regolari e pause sul g
 
 **Al lavoro:** Mantieni il secondo e quarto movimento del rullante come riferimento. Prova prima tutto con pennate leggere, poi lega due note mantenendo identico il ritmo.
 
-.. image:: ../_static/music/autori-benson-04.svg
+.. image:: ../_static/music/autori-benson-04.*
    :alt: George Benson, esercizio originale 04: La linea entra nel sedicesimo
 
 .. raw:: html
@@ -133,7 +133,7 @@ La cellula Do–Mi♭–Mi–Sol su C7 diventa Fa–La♭–La–Do su F7. La te
 
 **Al lavoro:** Canta la seconda battuta come risposta della prima. Poi inserisci la coppia in due finestre corrispondenti del blues di dodici battute.
 
-.. image:: ../_static/music/autori-benson-05.svg
+.. image:: ../_static/music/autori-benson-05.*
    :alt: George Benson, esercizio originale 05: Risposta sul quarto grado
 
 .. raw:: html
@@ -155,7 +155,7 @@ Otto battute, non un chorus completo di blues: due di C7, due di F7, due di C7, 
 
 **Al lavoro:** Canta la prima e l’ultima battuta, poi suona tutto sulla base. Inventa una seconda versione con metà degli attacchi mantenendo terze e risposte.
 
-.. image:: ../_static/music/autori-benson-06.svg
+.. image:: ../_static/music/autori-benson-06.*
    :alt: George Benson, esercizio originale 06: Studio: blues, canto e groove
 
 .. raw:: html

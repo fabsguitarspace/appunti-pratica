@@ -56,7 +56,7 @@ Nel 4/4 qui sotto il charleston articola i sedicesimi e il rullante marca
 il secondo e il quarto movimento. Ascolta la cassa sincopata e le pause
 del basso: la chitarra può lasciare spazio a questi incastri.
 
-.. image:: _static/music/modern-groove-44.svg
+.. image:: _static/music/modern-groove-44.*
    :alt: Groove in quattro quarti: basso e batteria
 
 .. raw:: html
@@ -70,7 +70,7 @@ occupano tre e due semiminime. La cassa segnala l'inizio dei gruppi.
 Il rullante è sul terzo e sul quinto movimento: non cercare di imporre
 il backbeat del precedente 4/4.
 
-.. image:: _static/music/modern-groove-54.svg
+.. image:: _static/music/modern-groove-54.*
    :alt: Groove in cinque quarti raggruppato tre più due
 
 .. raw:: html
@@ -83,7 +83,7 @@ Nel **7/8** conta ``UNO due | TRE quattro | CINQUE sei sette``.
 Sono gruppi di due, due e tre **crome**, non sette semiminime.
 Basso e cassa aiutano a distinguere gli attacchi dei gruppi.
 
-.. image:: _static/music/modern-groove-78.svg
+.. image:: _static/music/modern-groove-78.*
    :alt: Groove in sette ottavi raggruppato due più due più tre
 
 .. raw:: html
@@ -107,7 +107,7 @@ qui togliamo l'approccio cromatico e sviluppiamo il nucleo in un contesto
 modale. Sulla base ripeti le prime tre note, poi inventa una risposta che
 termini su Re o Fa. Riconosci il centro anche quando l'accordo superiore cambia.
 
-.. image:: _static/music/modern-01.svg
+.. image:: _static/music/modern-01.*
    :alt: 01 — Dal bebop al vamp dorico
 
 .. raw:: html
@@ -140,7 +140,7 @@ battuta senza accentare ogni nota. Prova legato e pennata alternata sulla
 stessa linea. L'audio verifica altezze e durate: la scelta del gesto e del
 timbro rimane parte dello studio.
 
-.. image:: _static/music/modern-02.svg
+.. image:: _static/music/modern-02.*
    :alt: 02 — La stessa cellula nel groove
 
 .. raw:: html
@@ -173,7 +173,7 @@ sempre Re, come il basso d'insieme. Fai sentire ogni voce e sposta
 le tre voci superiori senza trascinare rumori. Poi riduci gli accordi a due
 attacchi per battuta e lascia rispondere la batteria.
 
-.. image:: _static/music/modern-03.svg
+.. image:: _static/music/modern-03.*
    :alt: 03 — Quarte sopra il pedale
 
 .. raw:: html
@@ -206,7 +206,7 @@ necessariamente lidio un intero brano: stiamo prolungando una sonorità
 specifica. Controlla anche la diversa sensazione di Fa naturale e Fa♯
 prima di scegliere la tensione.
 
-.. image:: _static/music/modern-04.svg
+.. image:: _static/music/modern-04.*
    :alt: 04 — Una triade come struttura superiore
 
 .. raw:: html
@@ -238,7 +238,7 @@ rispetto a Re. Costruisci poi due battute con sole tre note, mantenendo
 le pause della frase originale. La sovrapposizione deve avere una direzione,
 non diventare una diteggiatura eseguita automaticamente.
 
-.. image:: _static/music/modern-05.svg
+.. image:: _static/music/modern-05.*
    :alt: 05 — Pentatonica sovrapposta
 
 .. raw:: html
@@ -270,7 +270,7 @@ Isola le battute 2–3. Canta il rientro sul Mi prima di suonare la parte
 esterna. Poi riduci l'uscita a due note e torna su Fa o Re. Perdere la
 forma non è un effetto outside: mantieni il conteggio durante l'intera frase.
 
-.. image:: _static/music/modern-06.svg
+.. image:: _static/music/modern-06.*
    :alt: 06 — Side-slip e ritorno
 
 .. raw:: html
@@ -302,7 +302,7 @@ piede e canta soltanto le note accentate; aggiungi poi le altre più piano.
 Confronta questo ciclo continuo con un 3+3+2 che ricomincia ogni battuta:
 la distribuzione degli accenti è diversa.
 
-.. image:: _static/music/modern-07.svg
+.. image:: _static/music/modern-07.*
    :alt: 07 — Accenti ogni tre crome
 
 .. raw:: html
@@ -333,7 +333,7 @@ Suona prima cinque fondamentali per battuta, poi i primi tre movimenti
 della linea e una risposta di due. Trasporta soltanto quando riesci a
 cantare quattro battute senza perdere il ritorno al primo movimento.
 
-.. image:: _static/music/modern-08.svg
+.. image:: _static/music/modern-08.*
    :alt: 08 — Cinque quarti: 3 + 2
 
 .. raw:: html
@@ -364,7 +364,7 @@ Poi suona la linea senza accelerare il gruppo finale di tre. Nell'ultima
 battuta le durate attraversano il raggruppamento: mantieni il conteggio
 anche quando una nota prosegue oltre un accento del groove.
 
-.. image:: _static/music/modern-09.svg
+.. image:: _static/music/modern-09.*
    :alt: 09 — Sette ottavi: 2 + 2 + 3
 
 .. raw:: html
@@ -397,7 +397,7 @@ nuova pulsazione al terzo inizio di battuta. Non sono sestine dentro un
 solo movimento e non è un'accelerazione graduale. Canta sei impulsi nelle
 prime due battute, poi quattro nelle successive, mantenendoli equidistanti.
 
-.. image:: _static/music/modern-10.svg
+.. image:: _static/music/modern-10.*
    :alt: 10 — La terzina diventa pulsazione
 
 .. raw:: html
@@ -430,7 +430,7 @@ soltanto l'inizio di ogni coppia; aggiungi le risposte e infine l'uscita.
 Registra un secondo giro cambiando soltanto il ritmo, poi un terzo
 cambiando soltanto il finale. Conserva almeno un tratto riconoscibile.
 
-.. image:: _static/music/modern-11.svg
+.. image:: _static/music/modern-11.*
    :alt: 11 — Studio fusion di otto battute
 
 .. raw:: html
@@ -464,7 +464,7 @@ modulazioni: ascolta se un centro viene davvero stabilito. Collega lo
 studio a :ref:`progressioni-centri`, poi sostituisci due accordi conservando
 la relazione della triade superiore.
 
-.. image:: _static/music/modern-12.svg
+.. image:: _static/music/modern-12.*
    :alt: 12 — La stessa relazione su quattro centri
 
 .. raw:: html

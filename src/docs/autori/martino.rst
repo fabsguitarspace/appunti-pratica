@@ -45,7 +45,7 @@ Re–Fa–La–Do organizza l’area di Dm7; Mi e Si la ampliano nel dorico. Si 
 
 **Al lavoro:** Suona le prime quattro note in due zone della tastiera. Conserva gli intervalli e scegli un punto di arrivo prima di sviluppare la linea.
 
-.. image:: ../_static/music/autori-martino-01.svg
+.. image:: ../_static/music/autori-martino-01.*
    :alt: Pat Martino, esercizio originale 01: Un’area minore riconoscibile
 
 .. raw:: html
@@ -67,7 +67,7 @@ L’arpeggio Dm7 su G7 dà 5–♭7–9–11. Il Si conclusivo rende esplicita l
 
 **Al lavoro:** Canta i gradi rispetto a Sol. Tieni brevi i Do quando vuoi un colore di dominante definito e confronta l’arrivo su Si.
 
-.. image:: ../_static/music/autori-martino-02.svg
+.. image:: ../_static/music/autori-martino-02.*
    :alt: Pat Martino, esercizio originale 02: Re minore letto sopra Sol
 
 .. raw:: html
@@ -89,7 +89,7 @@ Le prime due battute condividono l’area minore di Re, ma il V termina su Si e 
 
 **Al lavoro:** Collega la seconda e la terza battuta senza pausa: Si → Mi deve avere una direzione udibile. Poi inventa un altro finale della dominante.
 
-.. image:: ../_static/music/autori-martino-03.svg
+.. image:: ../_static/music/autori-martino-03.*
    :alt: Pat Martino, esercizio originale 03: Un materiale per II e V
 
 .. raw:: html
@@ -111,7 +111,7 @@ Il disegno alterna piccoli ritorni e salti verso note dell’area minore. La ter
 
 **Al lavoro:** Studia gruppi di quattro crome, poi collega due gruppi senza accenti automatici sul cambio di corda. Riduci la velocità finché il suono rimane continuo.
 
-.. image:: ../_static/music/autori-martino-04.svg
+.. image:: ../_static/music/autori-martino-04.*
    :alt: Pat Martino, esercizio originale 04: Una sequenza cambia registro
 
 .. raw:: html
@@ -133,7 +133,7 @@ La triade di La♭ minore (La♭–Do♭–Mi♭, scritta La♭–Si–Mi♭ in 
 
 **Al lavoro:** Isola La♭–Si–Mi♭ e canta i tre intervalli rispetto a Sol. Poi esegui le ultime quattro crome della dominante e l’arrivo sul Mi; non applicare automaticamente la stessa collezione a ogni dominante.
 
-.. image:: ../_static/music/autori-martino-05.svg
+.. image:: ../_static/music/autori-martino-05.*
    :alt: Pat Martino, esercizio originale 05: Minore un semitono sopra la dominante
 
 .. raw:: html
@@ -155,7 +155,7 @@ Il primo II–V usa l’area di Re minore e chiarisce Si; il secondo colora G7 c
 
 **Al lavoro:** Confronta le due dominanti e scegli una nota bersaglio per ognuna. Sulla base cambia il percorso intermedio mantenendo gli arrivi.
 
-.. image:: ../_static/music/autori-martino-06.svg
+.. image:: ../_static/music/autori-martino-06.*
    :alt: Pat Martino, esercizio originale 06: Studio: continuità minore e risoluzione
 
 .. raw:: html

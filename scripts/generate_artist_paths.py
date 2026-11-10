@@ -122,7 +122,7 @@ def author_page(profile,studies):
   text+='Una sigla per battuta.\n\n'
   text+='**Griglia:** ``| '+' | '.join(H[k][2] for k in s['keys'])+' |``.\n\n'
   text+=s['explain']+'\n\n**Al lavoro:** '+s['task']+'\n\n'
-  text+=f'.. image:: ../_static/music/{s["stem"]}.svg\n   :alt: {p["name"]}, esercizio originale {n:02}: {s["title"]}\n\n'
+  text+=f'.. image:: ../_static/music/{s["stem"]}.*\n   :alt: {p["name"]}, esercizio originale {n:02}: {s["title"]}\n\n'
   text+=audio(s['stem'],f'{p["name"]}, esempio originale {n:02}')
   if n==6:
    text+=('**Riferimento ritmico per eseguire tutte le parti della chitarra:**\n\n' if s['solo'] else '**Base senza la chitarra scritta:**\n\n')+audio(s['stem']+'-base',f'Base dello studio conclusivo, percorso {p["name"]}')

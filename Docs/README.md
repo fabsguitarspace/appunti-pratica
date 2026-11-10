@@ -72,3 +72,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Modern jazz e fusion](analisi/015-modern-jazz-fusion.md) — dodici studi, basi con basso/batteria, quarte, sovrapposizioni e ritmo, 10 novembre 2026.
 
 - [Percorsi d’autore](analisi/016-percorsi-autore.md) — dieci artisti, venti ascolti guidati, sessanta studi con spartito/TAB/audio e dieci basi finali, 10 novembre 2026.
+
+- [Read the Docs: formati degli spartiti](analisi/017-readthedocs-formati-spartiti.md) — risolto il passaggio SVG nella preparazione PDF e aggiunta regressione sui formati, 10 novembre 2026.

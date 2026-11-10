@@ -45,7 +45,7 @@ Le fondamentali, terze e quinte descrivono il giro senza una sezione ritmica est
 
 **Al lavoro:** Conta e canta la fondamentale di ogni battuta. Suona le quattro note senza affrettare il passaggio di corda.
 
-.. image:: ../_static/music/autori-pass-01.svg
+.. image:: ../_static/music/autori-pass-01.*
    :alt: Joe Pass, esercizio originale 01: Il basso tiene la forma
 
 .. raw:: html
@@ -67,7 +67,7 @@ Il basso occupa primo e terzo movimento, le coppie superiori secondo e quarto. I
 
 **Al lavoro:** Studia le due parti separatamente, poi alternale. I suoni bassi devono essere più leggeri del canto.
 
-.. image:: ../_static/music/autori-pass-02.svg
+.. image:: ../_static/music/autori-pass-02.*
    :alt: Joe Pass, esercizio originale 02: Basso e accordo alternati
 
 .. raw:: html
@@ -89,7 +89,7 @@ La voce superiore procede per minime, con una semibreve finale e il basso contin
 
 **Al lavoro:** Lascia risuonare le note alte mentre attacchi il basso. Le due voci del pentagramma e della TAB condividono il tempo, non la durata di ogni evento.
 
-.. image:: ../_static/music/autori-pass-03.svg
+.. image:: ../_static/music/autori-pass-03.*
    :alt: Joe Pass, esercizio originale 03: Melodia sostenuta sopra il basso
 
 .. raw:: html
@@ -111,7 +111,7 @@ Le coppie superiori durano due movimenti mentre il basso si muove ogni quarto. I
 
 **Al lavoro:** Canta il canto e suona solo il basso; poi aggiungi la voce interna. Evita che la nota di basso interrompa le due note tenute sopra.
 
-.. image:: ../_static/music/autori-pass-04.svg
+.. image:: ../_static/music/autori-pass-04.*
    :alt: Joe Pass, esercizio originale 04: Due voci alte e un basso mobile
 
 .. raw:: html
@@ -133,7 +133,7 @@ Ogni accordo dura due movimenti; una breve linea occupa gli altri due. È un’a
 
 **Al lavoro:** Suona prima soltanto accordo e ultima nota della frase. Poi riempi lo spazio senza perdere i quattro movimenti.
 
-.. image:: ../_static/music/autori-pass-05.svg
+.. image:: ../_static/music/autori-pass-05.*
    :alt: Joe Pass, esercizio originale 05: Una linea fra gli accordi
 
 .. raw:: html
@@ -155,7 +155,7 @@ Il basso procede in quarti con toniche, terze e quinte; le due voci superiori du
 
 **Al lavoro:** Studia basso, canto e voce interna separatamente, poi in coppie e infine insieme. La base finale contiene soltanto un riferimento ritmico: esegui tu tutte le parti.
 
-.. image:: ../_static/music/autori-pass-06.svg
+.. image:: ../_static/music/autori-pass-06.*
    :alt: Joe Pass, esercizio originale 06: Studio solo: canto, voci interne e basso
 
 .. raw:: html

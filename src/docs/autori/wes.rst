@@ -45,7 +45,7 @@ Le prime due battute presentano lo stesso profilo a distanza di un’ottava, pri
 
 **Al lavoro:** Confronta attacco e volume nei due registri. Prova il pollice senza irrigidire il polso, oppure mantieni il plettro e cerca un attacco rotondo.
 
-.. image:: ../_static/music/autori-wes-01.svg
+.. image:: ../_static/music/autori-wes-01.*
    :alt: Wes Montgomery, esercizio originale 01: Una melodia in due registri
 
 .. raw:: html
@@ -67,7 +67,7 @@ Le ottave Re e Fa usano le corde 5–3; quella di La passa alle corde 4–2. La 
 
 **Al lavoro:** Studia prima Re e Fa, poi il passaggio al La. Controlla che si sentano due note distanti dodici semitoni, senza risonanze della corda interna.
 
-.. image:: ../_static/music/autori-wes-02.svg
+.. image:: ../_static/music/autori-wes-02.*
    :alt: Wes Montgomery, esercizio originale 02: Ottave e corde intermedie mute
 
 .. raw:: html
@@ -89,7 +89,7 @@ La risposta passa da Re minore alla triade di Sol maggiore dentro G7. Le pause i
 
 **Al lavoro:** Ascolta la nota superiore come melodia. Registra e verifica che la nota inferiore non la copra.
 
-.. image:: ../_static/music/autori-wes-03.svg
+.. image:: ../_static/music/autori-wes-03.*
    :alt: Wes Montgomery, esercizio originale 03: Risposta in ottave e pause
 
 .. raw:: html
@@ -111,7 +111,7 @@ Il passaggio dai suoni singoli agli accordi aumenta la densità mantenendo una f
 
 **Al lavoro:** Ascolta il canto Fa–Re–Mi–Mi. Suona la melodia da sola, poi aggiungi le altre voci mantenendo il canto in evidenza.
 
-.. image:: ../_static/music/autori-wes-04.svg
+.. image:: ../_static/music/autori-wes-04.*
    :alt: Wes Montgomery, esercizio originale 04: Accordi come risposta
 
 .. raw:: html
@@ -133,7 +133,7 @@ Quattro battute organizzano linea singola, ottave e accordi: la crescita riguard
 
 **Al lavoro:** Mantieni il medesimo volume medio. Poi crea una crescita graduale di intensità, lasciando il metronomo invariato.
 
-.. image:: ../_static/music/autori-wes-05.svg
+.. image:: ../_static/music/autori-wes-05.*
    :alt: Wes Montgomery, esercizio originale 05: Costruire un crescendo di tessitura
 
 .. raw:: html
@@ -155,7 +155,7 @@ Le prime quattro battute preparano il motivo; quinta e sesta lo ampliano in otta
 
 **Al lavoro:** Esegui tre giri: tutto a note singole, tutto dove possibile in ottave, poi la versione scritta. Valuta se il cambio di tessitura sostiene una direzione.
 
-.. image:: ../_static/music/autori-wes-06.svg
+.. image:: ../_static/music/autori-wes-06.*
    :alt: Wes Montgomery, esercizio originale 06: Studio: linea, ottave, accordi
 
 .. raw:: html

@@ -45,7 +45,7 @@ Mi–Sol viene proposto, lasciato risuonare e ripreso in ordine inverso. L’ass
 
 **Al lavoro:** Conta tutta la pausa senza aggiungere riempitivi. Canta la risposta prima di suonarla, poi cambia soltanto l’ultima altezza.
 
-.. image:: ../_static/music/autori-hall-01.svg
+.. image:: ../_static/music/autori-hall-01.*
    :alt: Jim Hall, esercizio originale 01: Due note e silenzio
 
 .. raw:: html
@@ -67,7 +67,7 @@ Il Fa rimane fra Dm7 e G7 cambiando funzione da terza a settima; Si conduce al M
 
 **Al lavoro:** Ascolta l’accordo mentre tieni il Fa, senza ripeterlo come automatismo. Poi inventa un’altra risposta che termini su Mi.
 
-.. image:: ../_static/music/autori-hall-02.svg
+.. image:: ../_static/music/autori-hall-02.*
    :alt: Jim Hall, esercizio originale 02: Una nota comune, due armonie
 
 .. raw:: html
@@ -89,7 +89,7 @@ Le coppie Do–Fa e Re–Fa arrivano a Si–Fa su G7 e a Si–Mi su Cmaj7. Una v
 
 **Al lavoro:** Canta prima la voce superiore, poi quella inferiore. Queste coppie non sono shell: il basso della base completa il contesto armonico.
 
-.. image:: ../_static/music/autori-hall-03.svg
+.. image:: ../_static/music/autori-hall-03.*
    :alt: Jim Hall, esercizio originale 03: Due voci che si avvicinano
 
 .. raw:: html
@@ -111,7 +111,7 @@ Le battute dispari parlano nella prima metà; le pari rispondono nella seconda. 
 
 **Al lavoro:** Con un compagno dividete le battute dispari e pari. Da solo canta una parte e suona l’altra, mantenendo le pause assegnate.
 
-.. image:: ../_static/music/autori-hall-04.svg
+.. image:: ../_static/music/autori-hall-04.*
    :alt: Jim Hall, esercizio originale 04: Domanda e risposta senza raddoppio
 
 .. raw:: html
@@ -133,7 +133,7 @@ La seconda battuta sposta il motivo di una croma senza cambiarne altezze e durat
 
 **Al lavoro:** Confronta le prime due battute sul metronomo. Mantieni riconoscibile il motivo anche quando la sua partenza si sposta.
 
-.. image:: ../_static/music/autori-hall-05.svg
+.. image:: ../_static/music/autori-hall-05.*
    :alt: Jim Hall, esercizio originale 05: Cambiare una sola cosa
 
 .. raw:: html
@@ -155,7 +155,7 @@ Otto battute alternano linea, coppie di note e silenzio. Il turnaround finale ri
 
 **Al lavoro:** Sulla base dimezza gli attacchi senza cambiare la forma. Registra e ascolta se il silenzio prepara davvero la risposta invece di interrompere il discorso.
 
-.. image:: ../_static/music/autori-hall-06.svg
+.. image:: ../_static/music/autori-hall-06.*
    :alt: Jim Hall, esercizio originale 06: Studio: dialogo e voci vicine
 
 .. raw:: html

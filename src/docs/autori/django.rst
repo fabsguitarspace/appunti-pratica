@@ -45,7 +45,7 @@ La–Do–Mi–Fa♯ mette in evidenza Am6: tonica, terza minore, quinta e sesta
 
 **Al lavoro:** Canta il Fa♯ prima della salita. Ripeti la seconda battuta con due diteggiature e conserva la durata delle note; poi cambia soltanto l’ultima risposta.
 
-.. image:: ../_static/music/autori-django-01.svg
+.. image:: ../_static/music/autori-django-01.*
    :alt: Django Reinhardt, esercizio originale 01: Arpeggi di sesta nel minore
 
 .. raw:: html
@@ -67,7 +67,7 @@ Sol♯–Si–Re–Fa è il diminuito costruito dalla terza di E7: 3–5–♭7�
 
 **Al lavoro:** Isola l’ultima nota di E7 e la prima di Am6: Re → Do. Trasporta il diminuito per terze minori e controlla quali note restano le stesse.
 
-.. image:: ../_static/music/autori-django-02.svg
+.. image:: ../_static/music/autori-django-02.*
    :alt: Django Reinhardt, esercizio originale 02: Diminuito sulla dominante
 
 .. raw:: html
@@ -89,7 +89,7 @@ Si prepara Do all’inizio; Sol–Sol♯ riprende la terza della dominante. Gli 
 
 **Al lavoro:** Suona prima solo l’inizio di ogni battuta. Aggiungi i collegamenti senza accentare automaticamente ogni cambio di corda.
 
-.. image:: ../_static/music/autori-django-03.svg
+.. image:: ../_static/music/autori-django-03.*
    :alt: Django Reinhardt, esercizio originale 03: Approccio e cambio di registro
 
 .. raw:: html
@@ -111,7 +111,7 @@ Quattro accordi per battuta separano il lavoro della mano ritmica dalle linee so
 
 **Al lavoro:** Studia una durata breve e un rilascio coordinato delle dita, con secondo e quarto movimento leggermente in rilievo. L’audio tiene il valore scritto: il rilascio per la pompe è un lavoro manuale da confrontare con l’ascolto.
 
-.. image:: ../_static/music/autori-django-04.svg
+.. image:: ../_static/music/autori-django-04.*
    :alt: Django Reinhardt, esercizio originale 04: Quattro attacchi di accompagnamento
 
 .. raw:: html
@@ -133,7 +133,7 @@ Il silenzio separa due registri prima della salita diminuita. La forma della fra
 
 **Al lavoro:** Canta entrambe le frasi senza toccare lo strumento. Conserva le pause e inventa una risposta più corta.
 
-.. image:: ../_static/music/autori-django-05.svg
+.. image:: ../_static/music/autori-django-05.*
    :alt: Django Reinhardt, esercizio originale 05: Domanda, pausa e risposta
 
 .. raw:: html
@@ -155,7 +155,7 @@ Otto battute originali: due di Am6, due di Dm6, due di E7(♭9), due di Am6. Il 
 
 **Al lavoro:** Sulla base alterna un giro scritto e un giro con risposte tue. Conserva l’arrivo su Do nella settima battuta e il riposo finale su La.
 
-.. image:: ../_static/music/autori-django-06.svg
+.. image:: ../_static/music/autori-django-06.*
    :alt: Django Reinhardt, esercizio originale 06: Studio: seste e dominante diminuita
 
 .. raw:: html

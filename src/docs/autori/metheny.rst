@@ -45,7 +45,7 @@ Quinte e intervalli ampi aprono la linea, mentre la discesa riconduce al registr
 
 **Al lavoro:** Canta i salti prima di cercare i tasti. Fai respirare le note lunghe, senza trasformare ogni cambio di corda in un accento.
 
-.. image:: ../_static/music/autori-metheny-01.svg
+.. image:: ../_static/music/autori-metheny-01.*
    :alt: Pat Metheny, esercizio originale 01: Salti dentro una frase cantabile
 
 .. raw:: html
@@ -67,7 +67,7 @@ Mi–Sol–Si–Re assume il colore di 9–11–13–1 su Re. La permanenza del 
 
 **Al lavoro:** Suona prima la cellula sempre uguale, poi modifica l’ultima nota di ogni battuta in relazione all’accordo.
 
-.. image:: ../_static/music/autori-metheny-02.svg
+.. image:: ../_static/music/autori-metheny-02.*
    :alt: Pat Metheny, esercizio originale 02: Una cellula su un pedale
 
 .. raw:: html
@@ -89,7 +89,7 @@ I salti iniziali ritornano in registri diversi; la risoluzione viene rimandata f
 
 **Al lavoro:** Canta l’intera frase con un solo punto di arrivo sul Re finale. Studia separatamente la terza battuta e limita la pressione della mano sinistra.
 
-.. image:: ../_static/music/autori-metheny-03.svg
+.. image:: ../_static/music/autori-metheny-03.*
    :alt: Pat Metheny, esercizio originale 03: Il motivo diventa una frase lunga
 
 .. raw:: html
@@ -111,7 +111,7 @@ Re–Fa♯–La è la triade maggiore un tono sopra Do: 9–♯11–13. Il Mi fi
 
 **Al lavoro:** Confronta prima Fa e Fa♯ sopra la base. Scegli poi due sole tensioni e costruisci una frase che torni al Mi.
 
-.. image:: ../_static/music/autori-metheny-04.svg
+.. image:: ../_static/music/autori-metheny-04.*
    :alt: Pat Metheny, esercizio originale 04: Nona e undicesima aumentata
 
 .. raw:: html
@@ -133,7 +133,7 @@ Le prime due battute mantengono lo stesso ritmo in registri differenti; la terza
 
 **Al lavoro:** Mantieni i due punti di respiro e inventa un’altra discesa senza anticipare il riposo conclusivo.
 
-.. image:: ../_static/music/autori-metheny-05.svg
+.. image:: ../_static/music/autori-metheny-05.*
    :alt: Pat Metheny, esercizio originale 05: Una risposta più ampia del motivo
 
 .. raw:: html
@@ -155,7 +155,7 @@ Otto battute su Re organizzano esposizione, risposta più alta, espansione e chi
 
 **Al lavoro:** Sulla base sostituisci quattro note mantenendo il profilo generale. Registra una versione più rarefatta: la cantabilità deve sopravvivere alla riduzione.
 
-.. image:: ../_static/music/autori-metheny-06.svg
+.. image:: ../_static/music/autori-metheny-06.*
    :alt: Pat Metheny, esercizio originale 06: Studio: arco melodico sul pedale
 
 .. raw:: html

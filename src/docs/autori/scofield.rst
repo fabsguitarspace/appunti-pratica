@@ -45,7 +45,7 @@ Mi♭–Mi porta la frizione blues dentro C7; Fa♯ passa a Sol. Il finale conse
 
 **Al lavoro:** Canta il Mi♭ finale e ascolta il Mi nell’accordo, poi suona il Mi scritto. Cerca un attacco espressivo senza cambiare le altezze di riferimento.
 
-.. image:: ../_static/music/autori-scofield-01.svg
+.. image:: ../_static/music/autori-scofield-01.*
    :alt: John Scofield, esercizio originale 01: Blues con la terza in vista
 
 .. raw:: html
@@ -67,7 +67,7 @@ Gli attacchi lasciano vuoti dentro la griglia di sedicesimi. Il basso e la batte
 
 **Al lavoro:** Suona inizialmente una sola nota con il ritmo scritto. Aggiungi le altezze soltanto quando le pause rimangono precise.
 
-.. image:: ../_static/music/autori-scofield-02.svg
+.. image:: ../_static/music/autori-scofield-02.*
    :alt: John Scofield, esercizio originale 02: La pausa entra nel groove
 
 .. raw:: html
@@ -89,7 +89,7 @@ Mi–Sol–Si♭–Do viene spostato a Fa–La♭–Si–Re♭ nella seconda met
 
 **Al lavoro:** Canta il rientro sul Mi della terza battuta e tieni il piede sui quarti durante il passaggio esterno.
 
-.. image:: ../_static/music/autori-scofield-03.svg
+.. image:: ../_static/music/autori-scofield-03.*
    :alt: John Scofield, esercizio originale 03: Una cellula spostata di semitono
 
 .. raw:: html
@@ -111,7 +111,7 @@ Do–Mi e Mi–Do su C7; La–Do e La–Fa su F7; Si–Re e Si–Sol su G7. Le p
 
 **Al lavoro:** Suona prima la voce superiore con il ritmo scritto. Aggiungi l’altra voce senza irrigidire l’attacco. Sono coppie melodiche, non voicing completi con tensioni al basso.
 
-.. image:: ../_static/music/autori-scofield-04.svg
+.. image:: ../_static/music/autori-scofield-04.*
    :alt: John Scofield, esercizio originale 04: Terze e seste a due voci
 
 .. raw:: html
@@ -133,7 +133,7 @@ La cellula Mi–Sol–Si♭ ripete un accento ogni tre sedicesimi per tre battut
 
 **Al lavoro:** Canta soltanto gli accenti e batti i quarti. Poi aggiungi le note deboli più piano e rispetta il riposo finale.
 
-.. image:: ../_static/music/autori-scofield-05.svg
+.. image:: ../_static/music/autori-scofield-05.*
    :alt: John Scofield, esercizio originale 05: Accenti ogni tre sedicesimi
 
 .. raw:: html
@@ -155,7 +155,7 @@ Una forma di otto battute combina pause, doppie note, terza blues e un’uscita 
 
 **Al lavoro:** Sulla base mantieni i vuoti della prima battuta e il rientro della sesta. Cambia l’uscita senza aumentare il numero totale degli attacchi.
 
-.. image:: ../_static/music/autori-scofield-06.svg
+.. image:: ../_static/music/autori-scofield-06.*
    :alt: John Scofield, esercizio originale 06: Studio: groove, attrito e spazio
 
 .. raw:: html

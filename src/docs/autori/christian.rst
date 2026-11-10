@@ -45,7 +45,7 @@ Mi–Sol–La è un nucleo di 3–5–6 su C6. La ripetizione e la risposta più
 
 **Al lavoro:** Canta il riff e batti secondo e quarto movimento. Cambia una sola durata nella ripetizione mantenendo il punto d’arrivo.
 
-.. image:: ../_static/music/autori-christian-01.svg
+.. image:: ../_static/music/autori-christian-01.*
    :alt: Charlie Christian, esercizio originale 01: Riff di tre note
 
 .. raw:: html
@@ -67,7 +67,7 @@ Gli ingressi sul levare lasciano spazio al primo movimento. La pulsazione non sc
 
 **Al lavoro:** Segna i quattro quarti mentre canti gli attacchi. Mantieni la pausa iniziale anche quando riparti da una battuta interna.
 
-.. image:: ../_static/music/autori-christian-02.svg
+.. image:: ../_static/music/autori-christian-02.*
    :alt: Charlie Christian, esercizio originale 02: Anticipare la risposta
 
 .. raw:: html
@@ -89,7 +89,7 @@ Fa è terza di Dm7 e settima di G7; Si è terza di G7 e conduce al Mi della toni
 
 **Al lavoro:** Suona soltanto Fa–Fa–Mi sul primo movimento delle prime tre battute, poi ripristina il resto senza perdere quel percorso.
 
-.. image:: ../_static/music/autori-christian-03.svg
+.. image:: ../_static/music/autori-christian-03.*
    :alt: Charlie Christian, esercizio originale 03: Terze e settime nei cambi
 
 .. raw:: html
@@ -111,7 +111,7 @@ Il riff conserva 3–5–♭7–13–5–3–1 su ogni dominante, adattando le a
 
 **Al lavoro:** Riconosci prima le tre fondamentali, poi trasporta il riff senza cambiare ritmo. Collegalo alla forma di dodici battute in Progressioni.
 
-.. image:: ../_static/music/autori-christian-04.svg
+.. image:: ../_static/music/autori-christian-04.*
    :alt: Charlie Christian, esercizio originale 04: Un riff attraversa il blues
 
 .. raw:: html
@@ -133,7 +133,7 @@ La linea prolunga il Fa attraverso il II–V e riparte da Sol sul I. Le crome co
 
 **Al lavoro:** Suona una prima versione accentando solo l’inizio di ogni battuta e una seconda accentando le note di arrivo. Evita di rendere tutte le crome ugualmente forti.
 
-.. image:: ../_static/music/autori-christian-05.svg
+.. image:: ../_static/music/autori-christian-05.*
    :alt: Charlie Christian, esercizio originale 05: Collegare senza interrompere lo swing
 
 .. raw:: html
@@ -155,7 +155,7 @@ Forma di otto battute con turnaround finale. L’ultimo Do è un’anticipazione
 
 **Al lavoro:** Memorizza prima il riff iniziale e la risposta finale. Sul secondo giro sostituisci le battute centrali e conserva gli stessi bersagli.
 
-.. image:: ../_static/music/autori-christian-06.svg
+.. image:: ../_static/music/autori-christian-06.*
    :alt: Charlie Christian, esercizio originale 06: Studio: riff, risposta e cadenza
 
 .. raw:: html

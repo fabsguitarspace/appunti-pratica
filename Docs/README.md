@@ -54,3 +54,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Scale: primo blocco di esercizi](analisi/007-esercizi-scale-primo-blocco.md) — stesura e verifiche.
 
 - [Scale: esercizi avanzati](analisi/008-esercizi-scale-avanzati.md) — otto studi con pentagramma, tablatura e audio a due velocità, 10 novembre 2026.
+
+- [Arpeggi: sezione Esercizi](analisi/009-esercizi-arpeggi.md) — dieci studi con pentagramma, tablatura e audio a due velocità, 10 novembre 2026.

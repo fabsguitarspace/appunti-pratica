@@ -5,7 +5,7 @@
 - `README.md`: identità e indirizzo pubblico dichiarato.
 - `src/docs/index.rst`: ordine del percorso e toctree con profondità 3.
 - `src/docs/*.rst`: contenuti didattici reStructuredText.
-- `src/docs/conf.py`: Sphinx, lingua italiana, release 0.1, tema Shibuya, CSS personalizzato, navigazione tra i progetti, stato pubblico di bozza e LuaLaTeX.
+- `src/docs/conf.py`: Sphinx, lingua italiana, release 0.1, tema Shibuya, CSS personalizzato, navigazione tra i progetti e LuaLaTeX.
 - `src/docs/_static/custom.css`: presentazione; `_static/music`: risorse musicali utilizzate dalle pagine.
 - `src/lilypond/*.ly`: sorgenti delle partiture; `include/`: macro condivise nel singolo repository; `sf/Jazzernaut.sf2`: soundfont.
 - `build-lilypond.sh`: LilyPond → PDF → ritaglio con pdfcrop → SVG con pdf2svg; MIDI → WAV con FluidSynth → MP3 con LAME, eliminando il WAV intermedio.

@@ -40,7 +40,6 @@ html_theme_options = {
     ],
     "youtube_url": "https://youtube.com/@fabsguitarspace",
     "discord_url": "https://discord.gg/DjwCcuS7SA",
-    "announcement": "Il contenuto di questo sito è attualmente in stato di <b>bozza</b>. <i>Ti consiglio</i> di <b>non scaricare</b> i contenuti ma di tornare nei prossimi giorni per trovare nuovi aggiornamenti"
 }
 
 html_permalinks_icon = "<span>¶</span>"

@@ -569,8 +569,6 @@ Gli audio sono disponibili a **60 e 90 BPM**, con il quarto come pulsazione e ot
 
 Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel settimo. Lavora su un esercizio per volta e modifica un solo vincolo quando diventa chiaro.
 
-:download:`Scarica la raccolta completa degli otto spartiti con tablatura <_static/music/scale-avanzati-raccolta.pdf>`
-
 1. Direzioni alternate
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -587,8 +585,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-01.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-01.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -597,8 +593,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-01.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-01.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -606,8 +600,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-01-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-01-90.mp3>`
 
 2. Terze a direzione alternata
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -625,8 +617,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-02.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-02.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -635,8 +625,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-02.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-02.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -644,8 +632,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-02-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-02-90.mp3>`
 
 3. Quarte e seste nella scala
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -663,8 +649,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-03.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-03.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -673,8 +657,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-03.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-03.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -682,8 +664,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-03-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-03-90.mp3>`
 
 4. Gruppi di tre in ottavi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -701,8 +681,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-04.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-04.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -711,8 +689,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-04.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-04.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -720,8 +696,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-04-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-04-90.mp3>`
 
 5. Accenti ogni tre note
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -739,8 +713,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-05.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-05.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -749,8 +721,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-05.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-05.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -758,8 +728,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-05-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-05-90.mp3>`
 
 6. Collegare due posizioni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -777,8 +745,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-06.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-06.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -787,8 +753,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-06.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-06.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -796,8 +760,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-06-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-06-90.mp3>`
 
 7. Una cellula, tre colori
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -815,8 +777,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-07.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-07.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -825,8 +785,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-07.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-07.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -834,8 +792,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-07-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-07-90.mp3>`
 
 8. Dalla sequenza alla frase
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -853,8 +809,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 .. image:: _static/music/scale-avanzati-08.*
    :width: 100%
 
-:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-08.pdf>`
-
 **Audio — 60 BPM**
 
 .. raw:: html
@@ -863,8 +817,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
       <source src="_static/music/scale-avanzati-08.mp3" type="audio/mpeg">
    </audio>
 
-:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-08.mp3>`
-
 **Audio — 90 BPM**
 
 .. raw:: html
@@ -872,8 +824,6 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-08-90.mp3" type="audio/mpeg">
    </audio>
-
-:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-08-90.mp3>`
 
 Trasportare e cambiare scala
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -52,3 +52,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Audit dei file musicali non referenziati](analisi/006-file-non-referenziati.md) — elenchi MP3, PDF e LilyPond con evidenze.
 
 - [Scale: primo blocco di esercizi](analisi/007-esercizi-scale-primo-blocco.md) — stesura e verifiche.
+
+- [Scale: esercizi avanzati](analisi/008-esercizi-scale-avanzati.md) — otto studi con pentagramma, tablatura e audio a due velocità, 10 novembre 2026.

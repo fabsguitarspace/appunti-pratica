@@ -558,6 +558,323 @@ Suona prima ciò che è scritto. Poi conserva soltanto tre o quattro note della 
       <source src="_static/music/scale-esercizio07.mp3" type="audio/mp3">
    </audio>
 
+Esercizi avanzati
+~~~~~~~~~~~~~~~~~
+
+Questi otto studi proseguono gli esercizi di base con cambi di direzione, salti, spostamenti ritmici e collegamenti sulla tastiera. Parti quando riesci a mantenere una pulsazione comoda nelle sequenze di base e a riconoscere le note che stai suonando. Non occorre aumentare la velocità per rendere utile il lavoro.
+
+Ogni esempio presenta **pentagramma e tablatura allineati**, in accordatura standard Mi–La–Re–Sol–Si–Mi. Il pentagramma usa la consueta chiave di violino ottavizzata della chitarra. La tablatura indica corde e tasti di una soluzione possibile; i numeri non rappresentano le dita. La prima corda è il Mi cantino. Prima segui la soluzione proposta, poi cerca un’alternativa mantenendo le stesse altezze.
+
+Gli audio sono disponibili a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari. Quattro impulsi sul Do acuto precedono l’inizio dello spartito: conta «uno, due, tre, quattro». Il conteggio iniziale non è una battuta aggiuntiva da suonare. Il timbro è sintetizzato; il riferimento a 90 BPM serve al confronto e non costituisce una velocità obbligatoria. Se 60 BPM sono troppi, studia più lentamente con il metronomo.
+
+Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel settimo. Lavora su un esercizio per volta e modifica un solo vincolo quando diventa chiaro.
+
+:download:`Scarica la raccolta completa degli otto spartiti con tablatura <_static/music/scale-avanzati-raccolta.pdf>`
+
+1. Direzioni alternate
+^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Cambiare direzione dentro una sequenza mantenendo la pulsazione e un suono uniforme.
+
+**Procedura.** Le prime due battute alternano un gruppo ascendente e uno discendente: **Do–Re–Mi–Fa, Sol–Fa–Mi–Re**, poi **Mi–Fa–Sol–La, Si–La–Sol–Fa**. La terza battuta sale al Do superiore e prepara la conclusione sul Do nella quarta. Studia prima una battuta, poi collega le tre battute in movimento.
+
+**Ascolto.** Anticipa la prima nota di ogni gruppo senza accentarla automaticamente. Il cambio di direzione non deve produrre una pausa o un’accelerazione.
+
+**Varianti.** Inverti l’ordine delle direzioni in una battuta. Mantieni lo stesso ritmo e controlla le note prima di collegare i gruppi.
+
+**Verifica.** Riesci a cominciare dalla seconda battuta e a concludere sul Do senza ricostruire tutto dall’inizio?
+
+.. image:: _static/music/scale-avanzati-01.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-01.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-01.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-01.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-01-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-01-90.mp3>`
+
+2. Terze a direzione alternata
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Distinguere la direzione del salto da quella delle partenze successive.
+
+**Procedura.** Comincia con **Do–Mi, Fa–Re, Mi–Sol, La–Fa**. La prima coppia sale di terza, la seconda scende; le coppie continuano alternando direzione. Studia una coppia per volta, quindi collega quattro coppie. Nelle battute successive segui la sequenza scritta, che ritorna verso il centro e conclude sul Do.
+
+**Ascolto.** Canta le due note prima di suonarle. Le terze sono diatoniche: alcune maggiori, altre minori. Una forma fissa spostata sulla tastiera non garantisce le note corrette.
+
+**Varianti.** Ripeti una coppia e rispondile con la coppia seguente, inserendo una pausa di un quarto fra le due.
+
+**Verifica.** Sai riconoscere e riprodurre la direzione di ciascuna coppia senza guardare la tablatura?
+
+.. image:: _static/music/scale-avanzati-02.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-02.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-02.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-02.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-02-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-02-90.mp3>`
+
+3. Quarte e seste nella scala
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Anticipare salti ampi e controllare i cambi di corda senza irrigidire la mano.
+
+**Procedura.** Le prime quattro battute lavorano sulle quarte: **Do–Fa, Re–Sol, Mi–La, Fa–Si**. Le quattro successive sulle seste: **Do–La, Re–Si, Mi–Do, Re–Si**. Studia i due blocchi separatamente. Ogni blocco contiene tre battute in ottavi e una chiusura sul Do; per la prima lettura puoi dimezzare la velocità o suonare le coppie isolate.
+
+**Ascolto.** Le quarte restano nella scala: Fa–Si è una quarta aumentata. Anche le seste cambiano qualità. Cerca il suono della seconda nota prima di effettuare il salto.
+
+**Varianti.** Inverti le note di una coppia, poi suonala su un’altra coppia di corde verificando le altezze sul pentagramma.
+
+**Verifica.** Riesci a eseguire due coppie senza rumori delle corde lasciate e senza accorciare la nota prima del salto?
+
+.. image:: _static/music/scale-avanzati-03.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-03.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-03.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-03.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-03-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-03-90.mp3>`
+
+4. Gruppi di tre in ottavi
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Sentire una cellula di tre note mentre il metro rimane in 4/4.
+
+**Procedura.** Suona **Do–Re–Mi, Re–Mi–Fa, Mi–Fa–Sol**, proseguendo per otto cellule fino a **Do–Re–Mi** nell’ottava superiore. Sono 24 ottavi, distribuiti su tre battute di 4/4; nella quarta arriva il Do lungo. Le stanghette e le travature seguono il metro: una cellula può attraversarle. Conta gli ottavi e riconosci gli inizi ogni tre note.
+
+**Ascolto.** Gli ottavi conservano tutti la stessa durata: **non sono terzine**. Prima pronuncia le cellule battendo il piede sui quarti; poi suonale senza inserire pause ai confini di battuta.
+
+**Varianti.** Usa una sola nota per provare il conteggio delle cellule, quindi ripristina le altezze. In un secondo momento costruisci cellule discendenti.
+
+**Verifica.** Sai continuare a contare quattro pulsazioni per battuta anche quando la cellula comincia sul levare?
+
+.. image:: _static/music/scale-avanzati-04.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-04.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-04.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-04.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-04-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-04-90.mp3>`
+
+5. Accenti ogni tre note
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Controllare l’intensità senza spostare l’attacco o la durata delle note.
+
+**Procedura.** Suona i 24 ottavi delle prime tre battute e applica soltanto gli accenti indicati: una nota ogni tre, a partire dalla prima. La quarta battuta conclude con un Do lungo. Prima prova il disegno su una sola nota, poi aggiungi la linea melodica.
+
+**Ascolto.** Confronta questo studio con il precedente: qui è l’accento a seguire il ciclo di tre. Il quarto rimane regolare; un accento non deve diventare una nota più lunga.
+
+**Varianti.** Sposta il primo accento sul secondo ottavo, mantenendo il ciclo di tre. Studia questa variante separatamente dalla versione scritta.
+
+**Verifica.** Gli accenti sono riconoscibili e le note deboli restano udibili, mentre il piede continua a segnare la stessa pulsazione?
+
+.. image:: _static/music/scale-avanzati-05.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-05.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-05.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-05.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-05-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-05-90.mp3>`
+
+6. Collegare due posizioni
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Cambiare zona della tastiera mantenendo continua la linea e riconoscendo le stesse altezze.
+
+**Procedura.** Le prime due battute usano una diteggiatura intorno alla **V posizione**. La terza comincia con il Mi sulla terza corda al nono tasto e passa alla zona della **VIII posizione**. Isola il collegamento tra il Re finale della seconda battuta (terza corda, settimo tasto) e quel Mi. La quarta battuta rallenta il movimento in quarti e chiude sul Do della quarta corda, decimo tasto.
+
+**Ascolto.** Il cambio di posizione è uno spostamento della mano, non un cambio di tonalità. Cerca continuità di volume e durata fra Re e Mi; evita di trasformare lo spostamento in uno scivolamento udibile involontario.
+
+**Varianti.** Suona le stesse altezze della prima battuta nella zona superiore usando il pentagramma come controllo. Poi confronta il timbro delle due soluzioni.
+
+**Verifica.** Riesci a collegare seconda e terza battuta senza una pausa e a nominare la nota di arrivo prima di muoverti?
+
+.. image:: _static/music/scale-avanzati-06.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-06.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-06.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-06.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-06-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-06-90.mp3>`
+
+7. Una cellula, tre colori
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Riconoscere all’ascolto le differenze fra maggiore, minore melodica e dorico sulla stessa tonica.
+
+**Procedura.** Ogni battuta riprende il disegno **1–3–5–6–7–6–5–3**. La prima usa Do maggiore; la seconda Do minore melodica, con Mi♭ e Si naturale; la terza Do dorico, con Mi♭ e Si♭. La quarta conclude sul Do. La minore melodica mantiene qui sesta e settima maggiori anche nella discesa. I nomi dei modi sono indicati sopra il pentagramma; le alterazioni sono scritte nelle singole battute.
+
+**Ascolto.** Fra prima e seconda battuta cambia la terza; fra seconda e terza cambia la settima. Suona e canta separatamente Mi–Mi♭ e Si–Si♭, poi ritrova le differenze dentro la cellula.
+
+**Varianti.** Alterna soltanto due colori. In seguito trasporta tutta la cellula in Sol, conservando i gradi e verificando nuovamente le note.
+
+**Verifica.** Riesci a cantare il colore della battuta successiva prima di leggerne la tablatura?
+
+.. image:: _static/music/scale-avanzati-07.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-07.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-07.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-07.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-07-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-07-90.mp3>`
+
+8. Dalla sequenza alla frase
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Integrare salti, pause, accenti e variazioni in una frase ripetibile.
+
+**Procedura.** Lo studio dura otto battute. Le prime quattro presentano due idee con ingresso dopo una pausa di ottavo e risposte che lasciano spazio. Le ultime quattro riprendono il materiale cambiando il ritmo: nella sesta battuta il Mi accentato entra sul levare del primo movimento e dura un quarto, attraversando il secondo movimento. Conta quel passaggio prima senza chitarra. Le risposte delle battute 4 e 8 sono identiche: usale come riferimento per riconoscere la forma.
+
+**Ascolto.** Le pause fanno parte della frase. Ascolta la differenza fra una salita regolare e un’idea interrotta o variata; mantieni il conteggio anche dopo il Do conclusivo.
+
+**Varianti.** Conserva le risposte e riscrivi soltanto una battuta di proposta. Cambia prima il ritmo, poi una o due altezze, senza modificare entrambe le cose nello stesso tentativo.
+
+**Verifica.** Sai ripetere l’intero studio, cantare una risposta e proporre una variante che rimanga riconoscibile?
+
+.. image:: _static/music/scale-avanzati-08.*
+   :width: 100%
+
+:download:`Scarica lo spartito con tablatura in PDF <_static/music/scale-avanzati-08.pdf>`
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-08.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 60 BPM <_static/music/scale-avanzati-08.mp3>`
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-avanzati-08-90.mp3" type="audio/mpeg">
+   </audio>
+
+:download:`Scarica l’audio a 90 BPM <_static/music/scale-avanzati-08-90.mp3>`
+
 Trasportare e cambiare scala
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

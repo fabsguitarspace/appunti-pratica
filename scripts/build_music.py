@@ -7,6 +7,7 @@ import importlib.metadata
 import sys
 import json
 import os
+import re
 from pathlib import Path
 import shutil
 import subprocess
@@ -41,6 +42,8 @@ def main():
     parser.add_argument('--output-dir', type=Path, default=ROOT / 'src/docs/_static/music')
     parser.add_argument('--source', action='append', help='Source basename, repeatable (default: all)')
     parser.add_argument('--force', action='store_true')
+    parser.add_argument('--soundfont-overlay', action='append', type=Path, default=[],
+                        help='Additional SoundFont, loaded after the default (repeatable)')
     args = parser.parse_args()
     sources_dir = ROOT / 'src/lilypond'
     sources = sorted(sources_dir.glob('*.ly'))
@@ -69,7 +72,16 @@ def main():
     includes = {str(p.relative_to(sources_dir)): digest(p)
                 for p in sorted(sources_dir.rglob('*'))
                 if p.is_file() and p.suffix in ('.ly', '.ily') and p.parent != sources_dir}
-    soundfont_hash = digest(soundfont)
+    source_fonts = {}
+    for src in sources:
+        declared = [src.parent / name.strip() for name in re.findall(
+            r'^% soundfont-overlay:([^\n]+)$', src.read_text(), re.MULTILINE)]
+        soundfonts = list(dict.fromkeys(
+            [soundfont] + [p.resolve() for p in declared + args.soundfont_overlay]))
+        for overlay in soundfonts[1:]:
+            if not overlay.is_file():
+                parser.error('Missing SoundFont overlay: ' + str(overlay))
+        source_fonts[src] = soundfonts
     out = args.output_dir.resolve()
     out.mkdir(parents=True, exist_ok=True)
     state = out / '.music-build'
@@ -82,6 +94,9 @@ def main():
         manifest_path = state / 'manifest.json'
         manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
         for src in sources:
+            soundfonts = source_fonts[src]
+            soundfont_hash = (digest(soundfont) if len(soundfonts) == 1 else
+                              [digest(path) for path in soundfonts])
             key = signature({'recipe': RECIPE, 'source': digest(src), 'includes': includes,
                              'tools': tool_hashes, 'crop': [crop_version, mupdf_version],
                              'builder': digest(Path(__file__)), 'soundfont': soundfont_hash})
@@ -118,7 +133,7 @@ def main():
                         names = [src.stem + '.pdf', src.stem + '.svg']
                         if midis:
                             wav = base.with_suffix('.wav')
-                            run([tools['fluidsynth'], '-F', wav, '-ni', soundfont, midis[0]], log)
+                            run([tools['fluidsynth'], '-F', wav, '-ni', *soundfonts, midis[0]], log)
                             run([tools['lame'], wav, base.with_suffix('.mp3')], log)
                             names += [src.stem + '.midi', src.stem + '.mp3']
                     for name in names:

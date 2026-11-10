@@ -1193,3 +1193,12 @@ Riferimento per approfondire
 
 `Jazz Lesson Videos: Approach Note and Enclosure Exercises
 <https://www.jazzlessonvideos.com/post/15-approach-note-and-enclosure-exercises-that-every-jazz-musician-should-know>`__ approfondisce il rapporto tra note d’approccio e bersagli. Le cinquanta frasi della raccolta sono state composte per questi appunti; non riproducono gli esercizi della fonte.
+
+Verso modern jazz e fusion
+--------------------------
+
+Il percorso continua in :doc:`9-modern-jazz-fusion`: la stessa cellula
+melodica viene riorganizzata su vamps, groove e metri diversi, con studi,
+spartiti/TAB e basi con basso e batteria. Confronta gli studi
+:ref:`modern-01`, :ref:`modern-02` e :ref:`modern-11` per passare
+materialmente dal lessico bebop a un nuovo contesto.

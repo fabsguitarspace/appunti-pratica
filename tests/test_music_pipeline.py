@@ -28,4 +28,18 @@ elif n=='lame':Path(a[1]).write_text('mp3')
  (out/'sample.svg').write_text('damaged');assert 'Compilo' in run()
  before=(out/'sample.pdf').read_bytes();(src/'sample.ly').write_text('new');(r/'fail').touch();run(False);assert (out/'sample.pdf').read_bytes()==before
  (r/'fail').unlink();assert 'Compilo' in run();assert 'Aggiornato' in run()
- print('PASS: initial build, skip, missing MIDI, include, soundfont, damaged output, failed conversion preserves outputs, recovery, spaces')
+ overlay=src/'sf/rhythm with spaces.sf2';overlay.write_text('rhythm samples')
+ cmd += ['--soundfont-overlay',str(overlay)]
+ assert 'Compilo' in run();assert 'Aggiornato' in run()
+ overlay.write_text('changed rhythm samples');assert 'Compilo' in run()
+ manifest=(out/'.music-build/manifest.json').read_bytes();pdf=(out/'sample.pdf').read_bytes()
+ overlay.unlink();run(False)
+ assert (out/'.music-build/manifest.json').read_bytes()==manifest
+ assert (out/'sample.pdf').read_bytes()==pdf
+ overlay.write_text('declared rhythm')
+ cmd=cmd[:-2]
+ (src/'sample.ly').write_text('% soundfont-overlay: sf/rhythm with spaces.sf2\nnew music')
+ assert 'Compilo' in run();assert 'Aggiornato' in run()
+ overlay.write_text('updated declared rhythm');assert 'Compilo' in run()
+ overlay.unlink();run(False)
+ print('PASS: initial build, skip, MIDI/include/font/output invalidation, atomic recovery, spaces, overlay invalidation, missing overlay preserves outputs')

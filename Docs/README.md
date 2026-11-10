@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Pratica
 
-Rilevazione locale: 8 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 10 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 ## Modalità di lavoro
 
@@ -24,6 +24,7 @@ Il progetto fratello è `../appunti-teoria`. Teoria spiega strutture e relazioni
 - `src/docs/6-accordi.rst`: Accordi
 - `src/docs/7-progressioni.rst`: Progressioni
 - `src/docs/8-licks.rst`: Licks
+- `src/docs/9-modern-jazz-fusion.rst`: Modern jazz e fusion
 
 ## Gestione delle decisioni
 
@@ -66,3 +67,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Capitolo Progressioni](analisi/013-capitolo-progressioni.md) — percorso completo con diciassette esempi, tre basi e studio AABA, 10 novembre 2026.
 
 - [Licks bebop e collegamento con Progressioni](analisi/014-licks-bebop.md) — cinquanta frasi originali in cinque categorie, spartiti/TAB/audio e rimandi reciproci, 10 novembre 2026.
+
+- [Modern jazz e fusion](analisi/015-modern-jazz-fusion.md) — dodici studi, basi con basso/batteria, quarte, sovrapposizioni e ritmo, 10 novembre 2026.

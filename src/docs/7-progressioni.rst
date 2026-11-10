@@ -557,3 +557,12 @@ Riferimenti per approfondire
 - `Music Theory for the 21st-Century Classroom: Standard Chord Progressions <https://musictheory.pugetsound.edu/mt21c/StandardChordProgressions.html>`__ — progressioni ricorrenti e sostituzioni.
 
 Le griglie e le linee scritte in questo capitolo sono esempi di studio originali; i nomi delle famiglie armoniche rimandano a pratiche condivise, non a un solo arrangiamento da applicare a tutti i brani.
+
+Verso modern jazz e fusion
+--------------------------
+
+Il percorso continua in :doc:`9-modern-jazz-fusion`: la stessa cellula
+melodica viene riorganizzata su vamps, groove e metri diversi, con studi,
+spartiti/TAB e basi con basso e batteria. Confronta gli studi
+:ref:`modern-01`, :ref:`modern-02` e :ref:`modern-11` per passare
+materialmente dal lessico bebop a un nuovo contesto.

@@ -24,14 +24,18 @@ html_logo = "_static/logo_256.png"
 
 html_theme_options = {
     "nav_links": [
-    		{
-    			"title": "Appunti di Pratica",
-    			 "url": "index"
-    		},
-    		{
-    			"title": "Appunti di Teoria",
-    			 "url": "https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io"
-    		},
+        {
+            "title": "Appunti di Teoria",
+            "url": "https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io"
+        },
+        {
+            "title": "Appunti di Pratica",
+            "url": "index"
+        },
+        {
+            "title": "Appunti di Repertorio",
+            "url": "https://appunti-di-repertorio-per-chitarra-jazz.readthedocs.io"
+        },
         {
             "title": "Fabrizio's Guitar Space",
             "url": "https://youtube.com/@fabsguitarspace",

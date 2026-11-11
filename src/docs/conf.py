@@ -1,7 +1,7 @@
 project = "Appunti di Pratica per Chitarra Jazz"
 author = "Fabrizio's Guitar Space"
 copyright = "youtube.com/@fabsguitarspace"
-release = "0.1"
+release = "1.0"
 
 extensions = [
     "sphinx.ext.imgconverter",

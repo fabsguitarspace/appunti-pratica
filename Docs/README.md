@@ -2,6 +2,8 @@
 
 Aggiornamento: 11 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
+Versione: **1.0** (`release` in `src/docs/conf.py`) dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
+
 ## Modalità di lavoro
 
 Leggere questa pagina e [architettura](architettura.md) prima di proporre interventi. In modalità ARCHITECT produrre analisi, mappe di dipendenze, alternative e ADR dentro `Docs`. La scrittura assistita e la possibile ristrutturazione dei contenuti sono state richieste esplicitamente dall’utente. Nella fase ARCHITECT elaborare prima struttura e obiettivi; passare alla redazione nel perimetro concordato. Una proposta non equivale a una decisione approvata.

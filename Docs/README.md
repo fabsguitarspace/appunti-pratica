@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Pratica
 
-Aggiornamento: 10 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 11 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 ## Modalità di lavoro
 
@@ -76,3 +76,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Percorsi d’autore](analisi/016-percorsi-autore.md) — dieci artisti, venti ascolti guidati, sessanta studi con spartito/TAB/audio e dieci basi finali, 10 novembre 2026.
 
 - [Read the Docs: formati degli spartiti](analisi/017-readthedocs-formati-spartiti.md) — risolto il passaggio SVG nella preparazione PDF e aggiunta regressione sui formati, 10 novembre 2026.
+
+- [Voicing per il chord melody](analisi/018-voicing-chord-melody.md) — drop 2, drop 3, tre voci, diminuiti di passaggio, sesta diminuita e un arrangiamento di otto battute; 11 esempi, 59 voicing, 11 novembre 2026.

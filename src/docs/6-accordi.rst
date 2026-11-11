@@ -1136,6 +1136,212 @@ Per approfondire il rapporto fra melodia, toni cordali e tensioni:
 
 
 
+.. _chord-melody-voicings:
+
+Voicing per il chord melody
+-----------------------------
+
+Nel **chord melody** la chitarra fa tutto da sola: canta il tema, fa sentire l’armonia e, quando può, suggerisce il basso. Il problema non è trovare *un* accordo per ogni sigla, ma trovare l’accordo che sta **sotto quella nota della melodia**, in quel punto della tastiera, senza interrompere il canto.
+
+Per questo, in questa sezione, la domanda cambia ancora una volta. Non chiediamo «come si fa Cmaj7?», ma «come faccio Cmaj7 **con il Si in cima**?». La melodia comanda, il basso orienta, le voci interne si adattano.
+
+Le famiglie che seguono sono quelle che tornano di continuo negli arrangiamenti per chitarra sola:
+
+#. **Drop 2 sulle corde 4–3–2–1**: quattro voci compatte, melodia sulla prima corda. È la famiglia più usata quando la melodia sta nel registro medio-acuto.
+#. **Drop 3 con il basso sulla sesta o sulla quinta corda**: il basso scende davvero in basso e la melodia resta sulla seconda o sulla prima corda. Suono pieno, “da pianista”.
+#. **Tre voci: basso, nota guida, melodia**: la soluzione più leggera e più mobile, cara a Joe Pass. È quella che permette di non perdere mai il tempo.
+#. **Diminuiti di passaggio e scala di sesta diminuita**: il modo più efficace per armonizzare le note che *non* appartengono all’accordo senza fermare la melodia.
+
+Gli esempi usano lo stesso formato del capitolo: diagramma, pentagramma, tablatura e audio a 60 BPM dopo quattro impulsi. Le forme non usano corde a vuoto e si trasportano spostandole lungo il manico. Quando le corde suonate non sono adiacenti, usa le dita o il plettro con le dita (*hybrid picking*): nel chord melody è la norma, non l’eccezione.
+
+.. important::
+
+   In un arrangiamento la nota più acuta deve essere **la più chiara**. Prima di suonare l’accordo, suona e canta la sola nota della melodia; poi aggiungi le voci sotto, un po’ più piano.
+
+Drop 2 sulle corde 4–3–2–1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un **drop 2** nasce da un accordo in posizione stretta (quattro note dentro un’ottava) in cui la **seconda voce dall’alto scende di un’ottava**. Il risultato è una forma che la mano prende senza aperture estreme, con la melodia ben separata dalle altre voci.
+
+Il vantaggio per il chord melody è enorme: per ogni accordo di settima esistono **quattro disposizioni**, una per ciascuna nota dell’accordo al canto. Se la melodia è un tono dell’accordo, una delle quattro forme la mette già in cima.
+
+Nell’esempio di Cmaj7 le note al canto sono, da sinistra, **Sol (5), Si (7), Do (1), Mi (3)**. Osserva come le forme si “arrampicano” sul manico: ogni voce sale alla nota successiva dell’accordo.
+
+.. image:: _static/music/cm-drop2-maj7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-maj7.mp3" type="audio/mpeg">
+   </audio>
+
+**C6** è spesso preferibile a Cmaj7 quando la melodia è proprio la fondamentale: il Si sotto un Do al canto crea un semitono che, in molti temi, suona come uno sbaglio. Con la sesta la tonica resta morbida e “cantabile”: è il suono di casa dello swing.
+
+.. image:: _static/music/cm-drop2-6.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-6.mp3" type="audio/mpeg">
+   </audio>
+
+Per la dominante, il minore settima e il semidiminuito la logica è identica: cambiano una o due note, non la disposizione. Confronta le forme che hanno **la stessa nota al canto**: fra C7 e Cm7 scende soltanto la terza, fra Cm7 e Cm7(♭5) scende soltanto la quinta.
+
+.. image:: _static/music/cm-drop2-7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-7.mp3" type="audio/mpeg">
+   </audio>
+
+.. image:: _static/music/cm-drop2-m7.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-m7.mp3" type="audio/mpeg">
+   </audio>
+
+.. image:: _static/music/cm-drop2-m7b5.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-m7b5.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Non memorizzare sedici disegni. Prendi una qualità e trova le quattro forme partendo dalla nota al canto: «voglio la terza in cima: dove sono le altre tre note, appena sotto?». Poi scendi la seconda voce di un’ottava. Dopo una settimana di questo lavoro le forme si trovano da sole.
+
+**Verifica.** Data una nota sulla prima corda, sai dire quale accordo di Do (maj7, 6, 7, m7, m7♭5) può starle sotto e con quale forma?
+
+La melodia guida, le voci interne seguono
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel II–V–I che segue la melodia è **Do – Si – Si – La**: settima di Dm7, terza di G7, settima di Cmaj7, sesta di C6. Nessuna delle voci inferiori si muove più di un tono: La scende a Sol, Re scende a Do, Fa scende a Mi. È lo stesso movimento delle note guida studiato con gli shell, ma ora porta una melodia sopra di sé.
+
+.. image:: _static/music/cm-drop2-ii-v-i.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop2-ii-v-i.mp3" type="audio/mpeg">
+   </audio>
+
+Questa è la vera tecnica del chord melody: **scegli la forma in base alla melodia, poi controlla che le voci interne si muovano poco**. Se una voce salta, cerca un’altra disposizione con la stessa nota al canto.
+
+Drop 3: il basso torna al basso
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel **drop 3** scende di un’ottava la **terza voce dall’alto**. La forma si apre: tra il basso e le altre voci rimane una corda muta (la quinta nelle forme sulla sesta corda, la quarta nelle forme sulla quinta corda). È proprio quello spazio a dare il suono “orchestrale”: il basso è un basso, la melodia è una melodia.
+
+Con la fondamentale al basso, la nota al canto è la quinta dell’accordo. Nella prima riga trovi C su sesta corda (corde 6–4–3–2), nella seconda F su quinta corda (corde 5–3–2–1), sempre nell’ordine maj7, 7, m7, m7(♭5).
+
+.. image:: _static/music/cm-drop3.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-drop3.mp3" type="audio/mpeg">
+   </audio>
+
+**Quando usarle.** Sui tempi forti, all’inizio delle frasi, sugli accordi lunghi e nelle ballad. Sono più pesanti dei drop 2: non usarle per ogni nota della melodia, ma come “colonne” su cui appoggiare le note di passaggio.
+
+**Verifica.** Riesci a far suonare il basso e la melodia insieme, lasciando le due voci interne leggermente più piano?
+
+Tre voci: basso, nota guida, melodia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Molti arrangiamenti per chitarra sola usano **tre note soltanto**: il basso sulla sesta o quinta corda, una nota guida (terza o settima) nel mezzo, la melodia in cima. È l’estensione naturale degli :ref:`shell-voicings`: togli una delle due note guida e al suo posto metti la melodia.
+
+Nell’esempio la melodia è **Fa – Fa – Mi – Sol** su Dm7 | G7 | Cmaj7 | Cmaj7, mentre la nota guida interna fa Do – Si – Si – Si. Tre voci bastano per far sentire tutto: chi è il basso, che qualità ha l’accordo, dove va la melodia.
+
+.. image:: _static/music/cm-tre-voci.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-tre-voci.mp3" type="audio/mpeg">
+   </audio>
+
+**Perché funziona.** Con tre note la mano resta libera: puoi tenere il basso mentre la melodia si muove, aggiungere una nota di passaggio, staccare l’accordo per far respirare la frase. Con quattro o cinque note, spesso, la mano è bloccata e il tempo ne soffre.
+
+**Come studiare.** Suona solo basso e melodia, cantando la nota guida. Poi aggiungila. Infine prova a suonare il basso sul primo movimento e l’accordo sopra sul secondo, come farebbe un pianista stride molto semplificato.
+
+Diminuiti di passaggio con nota comune
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quando l’armonia sale per gradi (I – IIm – IIIm) puoi inserire un accordo diminuito fra un accordo e l’altro. Nel chord melody il trucco più elegante è tenere **la stessa nota al canto** sopra l’accordo di partenza e il diminuito: la melodia resta ferma, le voci interne salgono di semitono.
+
+La sequenza è **C6 – C♯°7 – Dm7 – D♯°7 – Em7**, con melodia Sol – Sol – La – La – Si. Ascolta le voci interne: La → Si♭, Do → Do♯, Fa → Fa♯, Re → Re♯. È il collante cromatico descritto in `Armonia diminuita — Teoria
+<https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/8-armonia-diminuita.html>`__, portato sotto le dita.
+
+.. image:: _static/music/cm-diminuiti-passaggio.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-diminuiti-passaggio.mp3" type="audio/mpeg">
+   </audio>
+
+**Verifica.** Riesci a suonare la sequenza mantenendo la melodia legata, mentre le voci interne cambiano?
+
+Scala di sesta diminuita armonizzata
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il problema più comune nel chord melody è questo: la melodia passa per note che **non appartengono all’accordo**. Se armonizzi ogni nota con un accordo diverso, la frase si spezza; se suoni le note da sole, l’armonia sparisce.
+
+La soluzione resa celebre da Barry Harris è la **scala di sesta diminuita**: le note di C6 (Do Mi Sol La) alternate a quelle di un diminuito (Re Fa La♭ Si). Ogni nota della scala ha il suo accordo: le note di C6 prendono una forma di C6, le altre prendono il diminuito, che qui funziona come G7(♭9) senza fondamentale.
+
+Nell’esempio la melodia sale da Sol a Sol sulla prima corda, tutto in drop 2: C6 e B°7 si alternano, e le quattro voci si muovono **sempre insieme, sempre di poco**.
+
+.. image:: _static/music/cm-sesta-diminuita.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-sesta-diminuita.mp3" type="audio/mpeg">
+   </audio>
+
+**Come usarla in un brano.** Su un accordo di tonica che dura una o due battute, armonizza le note di passaggio della melodia con il diminuito e le note d’arrivo con C6. Il risultato è movimento continuo senza uscire dall’armonia: tensione sul diminuito, riposo sulla sesta.
+
+**Verifica.** Scegli tre note consecutive della scala: sai dire quale accordo prende ciascuna nota prima di suonarla?
+
+Mettere tutto insieme: otto battute
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+L’ultimo esempio è un piccolo arrangiamento originale sulla progressione **Cmaj7 | A7 | Dm7 | G7 | Em7 | A7(♭9) | Dm7 G7(♭13) | C6**. Applica tre regole semplici che valgono per quasi ogni standard:
+
+- **accordo sulle note lunghe e sui tempi forti**, nota singola sulle note brevi di passaggio;
+- **poche voci quando la melodia si muove**, più voci quando si ferma o arriva;
+- **una tensione al canto vale più di dieci nella mano**: il Si♭ su A7 e il Mi♭ su G7 sono già tutto il colore che serve, e risolvono per semitono sulla nota seguente.
+
+.. image:: _static/music/cm-arrangiamento.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/cm-arrangiamento.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Prima suona la sola melodia, cantandola. Poi aggiungi soltanto i bassi sui tempi forti. Infine completa gli accordi. Quando l’arrangiamento scorre, prova a riarmonizzare una battuta usando un drop 2 o un diminuito di passaggio al posto della forma a tre voci.
+
+**Dal vocabolario al brano.** Per arrangiare un tema: suona la melodia di un lead sheet un’ottava sopra rispetto alla lettura diretta, così che stia sulle prime due corde e lasci spazio sotto di sé; segna le note lunghe e i tempi forti, scegli per ognuna una delle famiglie di questa sezione e lascia sole le note di passaggio. Poi controlla una cosa sola: la melodia si sente sempre?
+
+Per approfondire: il lavoro di Joe Pass (*Virtuoso*, 1973) e di Ted Greene (*Chord Chemistry*, 1971) resta il riferimento storico per i voicing di chitarra sola; il percorso :ref:`autore-pass` lavora su basso, canto e voci interne con esercizi originali.
+
+
 Percorsi d’autore
 -----------------
 

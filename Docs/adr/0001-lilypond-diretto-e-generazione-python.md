@@ -3,7 +3,7 @@
 - Stato: Accettato
 - Data: 2026-11-08
 - Decisore: utente responsabile dei progetti, nella conversazione di lavoro
-- Ambito: appunti-pratica e appunti-teoria
+- Ambito: appunti-pratica e appunti-teoria; esteso ad appunti-repertorio il 2026-11-11 (vedi ADR 0004)
 - Analisi collegate: [pipeline musicale](../analisi/001-pipeline-musicale.md), [prima rigenerazione controllata](../analisi/002-rigenerazione-controllata.md)
 
 ## Contesto ed evidenze

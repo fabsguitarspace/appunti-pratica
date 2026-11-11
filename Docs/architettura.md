@@ -22,7 +22,7 @@ Le pagine campionate usano immagini `_static/music/nome.*` e audio HTML con file
 3. La configurazione Read the Docs non richiama lo script musicale: verificare disponibilità e aggiornamento delle risorse prima della pubblicazione.
 4. `source_suffix` dichiara Markdown, ma nelle estensioni non compare un parser Markdown. Non assumere che aggiungere `.md` sotto `src/docs` sia supportato.
 5. Audio tramite `raw:: html`: verificare separatamente resa e alternative nei formati PDF/ePub. La presenza di `imgconverter` non dimostra che tutti i convertitori esterni siano installati.
-6. I due repository hanno copie degli script e delle macro; le macro `my-scales.ly` differiscono. Non dedurre equivalenza dal nome, né centralizzare senza confronto e ADR.
+6. I due repository hanno copie degli script e delle macro; le macro `my-scales.ly` differiscono. Non dedurre equivalenza dal nome, né centralizzare senza confronto e ADR. **Aggiornamento 2026-11-11:** l'ADR 0004 decide la centralizzazione in una libreria comune (sottomodulo `tools/appunti-musica`). Il confronto delle differenze e il piano di migrazione sono nell'analisi 002 di appunti-repertorio. Fino alla migrazione restano valide le copie attuali.
 7. Dipendenze Python non fissate: una build futura potrebbe usare versioni diverse. La riproducibilità è un tema proposto, non un difetto dimostrato da esecuzione.
 
 ## Verifiche per future proposte

@@ -1,7 +1,8 @@
 Appunti di Pratica per Chitarra Jazz
 ====================================
 
-.. image:: _static/logo.*
+.. image:: _static/logo-pratica.png
+   :alt: Logo degli Appunti di Pratica
 
 .. toctree::
   :maxdepth: 3

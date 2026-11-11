@@ -23,6 +23,7 @@ html_show_sphinx = False
 html_logo = "_static/logo_256.png"
 
 html_theme_options = {
+    "accent_color": "red",  # colore del volume, coerente con il logo della homepage
     "nav_links": [
         {
             "title": "Appunti di Teoria",

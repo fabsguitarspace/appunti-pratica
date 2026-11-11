@@ -66,11 +66,13 @@ e non in ansia. L'obiettivo non è “diventare bravi”. L'obiettivo è
 creare condizioni per cui, quando suoni, succeda qualcosa di vero.
 
 In questo materiale useremo spesso un approccio diverso: partire dal
-gesto e dalla sensazione. Per esempio: - sentire la pulsazione prima di
-contare - far respirare una frase prima di velocizzarla - imparare a
-suonare una nota bene prima di suonarne dieci - usare la mano sinistra
-come sistema, non come quattro dita separate - scegliere cosa non
-suonare, perché anche il silenzio è tecnica
+gesto e dalla sensazione. Per esempio:
+
+- sentire la pulsazione prima di contare
+- far respirare una frase prima di velocizzarla
+- imparare a suonare una nota bene prima di suonarne dieci
+- usare la mano sinistra come sistema, non come quattro dita separate
+- scegliere cosa non suonare, perché anche il silenzio è tecnica
 
 Troverai routine brevi, esercizi essenziali, strategie per organizzare
 il tempo, e tanti “micro principi” che sembrano piccoli ma cambiano
@@ -92,7 +94,7 @@ Iniziamo bene: un patto con te stesso
 
 Complimenti, è ora di mettersi all'opera! Come vedrai, ci sarà abbastanza materiale da tenerti occupati per i prossimi vent'anni. Ma poiché così suona decisamente opprimente, cerchiamo di vedere le cose in prospettiva!
 
-Imparare a suonare e a improvvisare è qualcosa che richiede tempo, un'esperienza che non si esaurisce mai e che ti accompagnerà per tutta la vita. Dovrai essere flessibile e riuscire ad addattarti a tutti i tuoi futuri cambiamenti a livello musicale e di gusto musicale, perché più conoscerai e più il tuo orecchio si svilupperà e avrai nuovi orizzonti che oggi non immagini neppure.
+Imparare a suonare e a improvvisare è qualcosa che richiede tempo, un'esperienza che non si esaurisce mai e che ti accompagnerà per tutta la vita. Dovrai essere flessibile e riuscire ad adattarti a tutti i tuoi futuri cambiamenti a livello musicale e di gusto musicale, perché più conoscerai e più il tuo orecchio si svilupperà e avrai nuovi orizzonti che oggi non immagini neppure.
 
 Ma la cosa buona è che puoi iniziare subito a suonare e a improvvisare, ovviamente in modo molto semplice, e poi costruire da lì. Non è necessario aspettare di essere “pronti” o di aver studiato “tutto” per iniziare a suonare. Anzi, è proprio suonando che diventerai pronto e che imparerai tutto.
 
@@ -139,7 +141,7 @@ Ti auguro buona fortuna per la tua avventura musicale! La bellezza della musica 
 A prescindere dal tuo livello, la musica ti permette di essere creativo. Stai esprimendo la tua esistenza in quanto **spirito unico**, comunicando con altri in maniera squisitamente umana. Che cosa sia la musica e da dove essa provenga sono domande che si pongono i filosofi, ma il fatto che questo sia un *mistero* non ci impedisce di goderne i benefici.
 
 
-Cosa siginifica “praticare”?
+Cosa significa “praticare”?
 ----------------------------
 
 Studio, suonare, performare: tre parole, tre stati mentali
@@ -319,14 +321,19 @@ minuti che puoi infilare ovunque.
 Cinque minuti non sono “poco”. Sono poco solo se li usi per scaldarti.
 Se li usi bene, sono chirurgici.
 
-Un mattoncino da 5 minuti funziona quando ha: - una cosa sola - un
-obiettivo chiaro - un livello di difficoltà gestibile
+Un mattoncino da 5 minuti funziona quando ha:
 
-Esempi di mattoncini reali: - una sola battuta, suonata lenta e pulita -
-una sola transizione tra due accordi, ripetuta con controllo - una sola
-frase, con tre varianti ritmiche - una sola corda, due note guida, e ci
-costruisci dentro una mini improvvisazione - metronomo lento, e suoni
-“poche note ma a tempo”
+- una cosa sola
+- un obiettivo chiaro
+- un livello di difficoltà gestibile
+
+Esempi di mattoncini reali:
+
+- una sola battuta, suonata lenta e pulita
+- una sola transizione tra due accordi, ripetuta con controllo
+- una sola frase, con tre varianti ritmiche
+- una sola corda, due note guida, e ci costruisci dentro una mini improvvisazione
+- metronomo lento, e suoni “poche note ma a tempo”
 
 Il vantaggio è enorme: togli al cervello la scusa “non ho tempo”. Cinque
 minuti li hai quasi sempre. E se oggi ne fai due, hai fatto dieci
@@ -391,8 +398,8 @@ Evita di segnare:
 
 - liste infinite di esercizi
 - sensi di colpa (“oggi ho fatto schifo”)
-- valutazioni totali della tua persona (“sono negato”) numeri inutili
-  (bpm a caso senza contesto)
+- valutazioni totali della tua persona (“sono negato”)
+- numeri inutili (bpm a caso senza contesto)
 - promesse eroiche (“da domani 2 ore al giorno”)
 
 Il quaderno serve a ridurre il rumore, non ad aggiungerlo.

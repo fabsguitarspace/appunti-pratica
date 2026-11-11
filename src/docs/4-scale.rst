@@ -42,7 +42,7 @@ Poi passa alle scale di **tre ottave**.
 
 Dopo aver lavorato in tonalità di Do, porta la scala maggiore lungo il ciclo delle quarte, con l'obiettivo di suonare in tutte e 12 le tonalità.
 
-Impara 2 diteggiature a settimana e la tua conoscenza della tastiera aumenterà enormemente nei primi mesi. Questo è un ottimo eservizio per collegare le dita e il cervello all'orecchio, e riuscire a suonare ciò che senti.
+Impara 2 diteggiature a settimana e la tua conoscenza della tastiera aumenterà enormemente nei primi mesi. Questo è un ottimo esercizio per collegare le dita e il cervello all'orecchio, e riuscire a suonare ciò che senti.
 
 Non preoccuparti di memorizzare tutte le varianti. Il punto è capire come apportare piccole modifiche alle diteggiature per ottenere molte variazioni.
 
@@ -143,7 +143,7 @@ Ma soprattutto per sviluppare una percezione della tastiera meno “a box”.
 Scala Minore Melodica
 ---------------------
 
-Abbassiamo il terzo grado della *scala maggiore* è ottentiamo una scala *minore*: la **scala minore melodica**.
+Abbassiamo il terzo grado della *scala maggiore* e otteniamo una scala *minore*: la **scala minore melodica**.
 
 .. image:: 
    _static/music/scala-minore-melodica-verticale-c1.*
@@ -189,7 +189,7 @@ Riassumendo: per far suonare alterato un accordo di settima dominante, possiamo 
 Scala Dominante (Misolidia)
 ---------------------------
 
-Abbassiamo ora il settimo grado della *scala maggiore* è ottentiamo la **scala dominante (o misolidia)**.
+Abbassiamo ora il settimo grado della *scala maggiore* e otteniamo la **scala dominante (o misolidia)**.
 
 La scala misolidia è associata al quinto grado (V7) di ogni scala maggiore.
 
@@ -218,7 +218,7 @@ La scala misolidia è associata al quinto grado (V7) di ogni scala maggiore.
 Scala Dorica
 ------------
 
-Abbassiamo ora il terzo grado della *scala misolidia* o in alternativa abbassiamo il settimo grado della *scala minore melodica* e è ottentiamo la **scala dorica**.
+Abbassiamo ora il terzo grado della *scala misolidia* o in alternativa abbassiamo il settimo grado della *scala minore melodica* e otteniamo la **scala dorica**.
 
 La scala dorica è associata al secondo grado (IIm7) di ogni scala maggiore.
 
@@ -338,7 +338,7 @@ Le sue diteggiature riflettono questa simmetria, e sono spesso utilizzate per cr
 Scala Diminuita
 ---------------
 
-La **scala diminuita** è una scala simmetrica composta da intervalli di tono e semitono alternati. Esistono due tipi di scale diminute: la scala diminuita semitono-tono (o "half-whole") e la scala diminuita tono-semitono (o "whole-half").
+La **scala diminuita** è una scala simmetrica composta da intervalli di tono e semitono alternati. Esistono due tipi di scale diminuite: la scala diminuita semitono-tono (o "half-whole") e la scala diminuita tono-semitono (o "whole-half").
 
 Le diteggiature della scala diminuita sono costruite appositamente per questa scala, e non derivano da quelle della scala maggiore. Sono spesso utilizzate per improvvisare su accordi diminuiti o per creare effetti sonori particolari.
 

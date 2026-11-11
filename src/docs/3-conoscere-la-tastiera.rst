@@ -241,7 +241,7 @@ Infine, aumenta la velocità mentre esegui la scala su due ottave.
 
 La cosa più importante è cercare di ottenere un suono pulito e uniforme, con lo stesso timbro su ogni nota.
 
-Esegui questi esercizi con pennata alternata, giù-su, giù-su. Ricorda però che in generale quando passi da una corda all'altra, usa sempre **la pennata verso il basso**, indipendentemente dal fatto che ti sposti verso corde più gravi o più acute.
+Esegui questi esercizi con pennata alternata, giù-su, giù-su, anche nei cambi di corda. Se nel cambio di corda il plettro si “incastra”, rileggi la sezione sull'escape e sul pickslanting nel capitolo precedente: con il movimento USX conviene cambiare corda dopo una pennata in su. Usare due pennate nella stessa direzione al cambio di corda è invece l'economy picking, una scelta diversa da studiare separatamente.
 
 .. image:: 
    _static/music/scala-cromatica-verticale4.*

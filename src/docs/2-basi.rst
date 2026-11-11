@@ -372,12 +372,7 @@ E può essere ottenuto in più modi:
 - nota leggermente più lunga
 - timbro più brillante
 
-La cosa importante è che l'accenti
-
-- note fantasma (ghost notes)
-- durata
-
-l'accento deve essere intenzionale. 
+La cosa importante è che l'accento sia intenzionale.
 Se gli accenti capitano a caso, stai solo “inciampando”.
 
 Le ghost notes sono note quasi mute, percussive, che non hanno lo scopo di essere “sentite” come altezza, ma come ritmo. Sono il collante tra un evento e l'altro.
@@ -741,7 +736,7 @@ E quando senti che la mano sinistra si irrigidisce, è quasi sempre un segnale s
 Supportive Fingering
 --------------------
 
-Il **supportive singering** è una di quelle cose che, quando la scopri, ti chiedi come hai fatto a non farla prima. Perché non è una “tecnica speciale”... è buon senso applicato alla mano sinistra.
+Il **supportive fingering** è una di quelle cose che, quando la scopri, ti chiedi come hai fatto a non farla prima. Perché non è una “tecnica speciale”... è buon senso applicato alla mano sinistra.
 
 L'idea è semplice: le dita non sono quattro entità separate. Sono un sistema. E un sistema funziona meglio quando le parti si aiutano.
 
@@ -1275,7 +1270,7 @@ L'**upstroke escape** (**USX**) è il meccanismo in cui la pennata in su (*upstr
 
    Con l'upstroke escape (USX) puoi cambiare corda solo dopo l'upstroke.
 
-In un movimento di pennata USX, il plettro non si muove parallelamente alle corde, ma segue invece una traiettoria diagonale in cui le pennate in su (upstroke) entrano nella zona di uscita (escape zone). Per compensare questo movimento inclinato, il plettro deve inclinarsi nella direzione opposta — verso il basso — per ripristinare un attacco simmetrico di circa 90 gradi rispetto alla corda.
+In un movimento di pennata USX, il plettro non si muove parallelamente alle corde, ma segue invece una traiettoria diagonale in cui le pennate in su (upstroke) entrano nella zona di uscita (escape zone). Per compensare questo movimento inclinato, il plettro deve inclinarsi nella direzione opposta — verso il basso — per ripristinare un attacco simmetrico di circa 90 gradi rispetto al movimento della pennata.
 
 .. attention::
 
@@ -1295,12 +1290,15 @@ In generale, i movimenti basati sul polso, come quello di Mike, tendono a essere
 
 Non esiste un “costo meccanico” nel pickslanting, e avere meno inclinazione non è meglio di averne di più. In un certo senso, non esiste nemmeno davvero un “più” o “meno” pickslant, perché l'obiettivo finale è sempre quello di ottenere un attacco del plettro esattamente a 90 gradi rispetto al movimento della pennata.
 
-Il gesto “girare una chiave” (rotazione)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Rotazione e deviazione: due motori del polso
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Nella plettrata “pulita” il movimento buono assomiglia al gesto di **girare una chiave nella serratura**... una piccola rotazione (tipo pronazione/supinazione) che fa muovere il plettro con pochissima fatica. Il movimento da evitare invece è la deviazione... cioè piegare il polso “di lato” (radiale/ulnare) come se stessi facendo “ciao ciao” con la mano.
+La terminologia di questa sezione (escape, USX/DSX, pickslanting) e le osservazioni sui movimenti dei chitarristi vengono dal lavoro di analisi video di Troy Grady (*Cracking the Code*, https://troygrady.com). Le sue ricerche mostrano che i chitarristi efficienti usano motori diversi; due sono molto comuni:
 
-Immagina di avere una chiave tra pollice e indice e di fare un micro “clic” per aprire... non alzi e abbassi la mano, non la sposti a destra e sinistra... ruoti.
+- **rotazione dell'avambraccio**, simile al gesto di **girare una chiave nella serratura**: una piccola pronazione/supinazione che fa muovere il plettro con pochissima fatica;
+- **deviazione del polso**, cioè piegarlo “di lato” (radiale/ulnare), come nel gesto di salutare “ciao ciao”: è il movimento alla base di molte tecniche USX basate sul polso, come quella di Mike Stern citata sopra.
+
+Nessuno dei due è “quello giusto”: conta che il movimento sia piccolo, regolare e coerente con la traiettoria di uscita che ti serve. Per sentire la rotazione, immagina di avere una chiave tra pollice e indice e di fare un micro “clic” per aprire... non alzi e abbassi la mano, ruoti.
 
 Cosa succede sulla chitarra:
 
@@ -1309,14 +1307,14 @@ Cosa succede sulla chitarra:
 - l'avambraccio e il polso lavorano senza “spigoli”
 - a parità di velocità... meno tensione e più controllo del suono
 
-Perché evitare la “deviazione”? La deviazione è quando il polso si piega lateralmente. Problemi tipici:
+Qualunque motore usi, i segnali di un movimento che sta diventando inefficiente sono simili:
 
-- tende a irrigidire i tendini... e ti fa “spingere” invece di oscillare
-- la punta del plettro spesso scava di più nella corda... quindi più attrito e impuntamenti
+- i tendini si irrigidiscono... e ti trovi a “spingere” invece di oscillare
+- la punta del plettro scava troppo nella corda... quindi più attrito e impuntamenti
 - il tempo si scompone: un colpo è più grande, l'altro più piccolo... e la pennata perde regolarità
-- quando aumenti la velocità, la deviazione “collassa” e compaiono scatti e rumori
+- quando aumenti la velocità compaiono scatti e rumori
 
-In pratica: per qualche bpm funziona... poi diventa una lotta.
+In pratica: se per qualche bpm funziona e poi diventa una lotta, riduci l'ampiezza del gesto e controlla la traiettoria, prima di cambiare tecnica.
 
 Due cure pratiche per sentirlo subito:
 

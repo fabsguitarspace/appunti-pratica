@@ -19,7 +19,7 @@ Ascolti guidati
 
 Segui una frase attraverso il cambio di accordo. Canta le sue note di arrivo e osserva se il disegno mantiene continuità pur cambiando funzione.
 
-**Waltz for Guito — stesso album**
+**Waltz for Geri — stesso album**
 
 Conta la pulsazione ternaria e confronta le lunghezze delle frasi con Just Friends. Il metro dell’ascolto non è quello dei nostri esercizi, scritti in 4/4.
 

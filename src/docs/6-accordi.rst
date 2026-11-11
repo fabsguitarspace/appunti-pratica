@@ -4,7 +4,7 @@ Accordi
 Accordi essenziali
 ------------------
 
-Questi sono gli accordi che useremo per imparare tutti gli standard possibili. Sono le **forme fondamentali** “di riferimento” quando guardiamo un *lead sheet* per la prima volta.  Sono esattamente gli accordi che usino per la maggior parte del tempo quando si registra o si suona dal vivo. 
+Questi sono gli accordi che useremo per imparare tutti gli standard possibili. Sono le **forme fondamentali** “di riferimento” quando guardiamo un *lead sheet* per la prima volta.  Sono esattamente gli accordi che si usano per la maggior parte del tempo quando si registra o si suona dal vivo. 
 
 Non dimenticare: sono tutte forme **trasportabili**.
 
@@ -17,7 +17,7 @@ Due di queste forme hanno la tonica sulla 6ª corda. L'altra ha la tonica sulla 
 A queste forme aggiungiamo 2 forme cosiddette *shell*. Gli **shell voicing** sono voicing super essenziali (**root, 3ª e 7ª**), accordi ridotti alla struttura base. La sezione :ref:`shell-voicings` raccoglie forme, collegamenti ed esercizi dedicati.
 
 Dentro gli shell voicing c'è già tutto quello che serve per far *funzionare* la musica. Il resto è colore… ma se manca la struttura, il colore non regge.
-Gli shell ti costringono e ti aiutao a vedere le linee interne: la 7ª del V che scende alla 3ª del I, la 3ª del II che diventa 7ª del V. Questo è il linguaggio… non la forma dell'accordo.
+Gli shell ti costringono e ti aiutano a vedere le linee interne: la 7ª del V che scende alla 3ª del I, la 3ª del II che diventa 7ª del V. Questo è il linguaggio… non la forma dell'accordo.
 
 Soprattutto gli shell voicing sono i migliori in assoluto per l'**accompagnamento**, non “sporcano” e non invadono… lasciano spazio.
 
@@ -300,7 +300,7 @@ Per un confronto sul metodo a tre note: `Tom Lippincott, Shell Voicings
 Vocabolario avanzato
 --------------------
 
-Partiamo subito con una premessa: qui non stiamo cercando **forme**, ma vogliamo costruire famiglie di suono attorno a note reale. 
+Partiamo subito con una premessa: qui non stiamo cercando **forme**, ma vogliamo costruire famiglie di suono attorno a note reali. 
 
 È un cambio di prospettiva enorme.
 

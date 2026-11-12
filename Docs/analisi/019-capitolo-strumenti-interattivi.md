@@ -2,8 +2,8 @@
 
 - Data: 2026-11-12
 - Stato: decisa — tutte le decisioni prese dall'utente il 2026-11-12; ADR 0005 e ADR 0010 di GSP Accettati; attuazione non avviata. Decisioni: coerenza visiva D1; pubblicazione A1 (GitHub Pages); rinomina del repository in `appunti-strumenti`; capitolo «Strumenti per la pratica», ultimo nel volume; rimandi nei capitoli 4–7; ordine Arpeggi → Accordi → Progressioni; versione 1.1.
-- Ambito e richiesta: appunti-pratica e Guitar-Scale-Practice (`../../Guitar-Scale-Practice`). Richiesta dell'utente: «creare un capitolo dentro il progetto Pratica che riporti questo tool [Guitar Scale Practice] e altri simili applicati anche ad Arpeggi, Accordi, Progressioni».
-- ADR collegato: [0005 — Strumenti interattivi nel volume](../adr/0005-strumenti-interattivi-nel-volume.md) (Accettato). Lato strumento: `Guitar-Scale-Practice/Docs/ADR-0010-suite-di-strumenti.md` (Accettato) e `Docs/plans/0002-suite-pratica.md` (Approvato).
+- Ambito e richiesta: appunti-pratica e appunti-strumenti, ex Guitar-Scale-Practice (`../../appunti-strumenti`; cartella spostata e rinominata il 2026-11-12). Richiesta dell'utente: «creare un capitolo dentro il progetto Pratica che riporti questo tool [Guitar Scale Practice] e altri simili applicati anche ad Arpeggi, Accordi, Progressioni».
+- ADR collegato: [0005 — Strumenti interattivi nel volume](../adr/0005-strumenti-interattivi-nel-volume.md) (Accettato). Lato strumento: `appunti-strumenti/Docs/ADR-0010-suite-di-strumenti.md` (Accettato) e `Docs/plans/0002-suite-pratica.md` (Approvato).
 
 ## Problema e risultato atteso
 
@@ -15,7 +15,7 @@ Fatti osservati:
 
 - Pratica: Sphinx 8.2.3 + Shibuya, solo `.rst` (`src/docs/conf.py`), build `-W --keep-going`, RTD con PDF ed ePub (`.readthedocs.yaml`). Il volume usa già `raw:: html` per audio e per `<iframe>` YouTube (`3-conoscere-la-tastiera.rst:51`). Nessun `html_extra_path`, nessun sottomodulo. Versione 1.0 dall'11 novembre 2026.
 - Capitoli coinvolti e sezioni «Esercizi»: `4-scale.rst` (otto sonorità, Esercizi di base/avanzati, Trasportare), `5-arpeggi.rst` (a 4 note, estesi, m6/9, Esercizi), `6-accordi.rst` (essenziali, shell, vocabolario con nota al canto, chord melody: drop 2, drop 3, tre voci), `7-progressioni.rst` (II–V–I maggiore e minore, turnaround, dominanti secondarie, tritono, blues, blues minore, vamp modale, AABA, rhythm changes, basi).
-- GSP (`fabsguitarspace/Guitar-Scale-Practice`): pagina statica senza build né dipendenze, funziona da `file://` (ADR 0001), script classici con namespace globali (ADR 0002), moduli puri testati in Node, ~3 450 righe. Persistenza `localStorage` con chiavi `interval-master:v1` e `gsp:practice:v1`.
+- GSP (`fabsguitarspace/Guitar-Scale-Practice`, ora `appunti-strumenti`, titolo «Strumenti per la pratica»): pagina statica senza build né dipendenze, funziona da `file://` (ADR 0001), script classici con namespace globali (ADR 0002), moduli puri testati in Node, ~3 450 righe. Persistenza `localStorage` con chiavi `interval-master:v1` e `gsp:practice:v1`.
 - Moduli GSP riusabili senza modifiche: `exercises/rhythm.js` (celle, swing, accenti), `exercises/melodic.js` (motivi su indici di un insieme di altezze), `exercises/fingering.js` (Viterbi corda/tasto), `audio/*` (Karplus-Strong, scheduler lookahead, smorzamento per corda), `tab/*`, `fretboard.js`.
 - Accoppiamenti alla scala: `theory.js` (catalogo delle 33 scale), `guitar.js` (diteggiature 3NPS), `app.js` (estrazione e rendering di una scala), `practice.js` (pannello e trasporto nello stesso modulo).
 - Gli eventi sono monofonici: `{i, beat, dur, string, fret, accent, rest}` (ADR 0009 di GSP). Il motore audio smorza per corda, quindi suona già note simultanee su corde diverse.

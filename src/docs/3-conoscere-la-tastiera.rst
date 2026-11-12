@@ -203,7 +203,7 @@ Variazione 1 (mezzo tono sopra)
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/scala-cromatica-verticale3.mp3" type="audio/mp3">
+      <source src="_static/music/scala-cromatica-verticale2.mp3" type="audio/mp3">
    </audio>
 
 Variazione 2 
@@ -849,5 +849,5 @@ Triade armonica minore
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/triade-armonica-c-2.mp3" type="audio/mp3">
+      <source src="_static/music/triade-armonica-minore-c-2.mp3" type="audio/mp3">
    </audio>

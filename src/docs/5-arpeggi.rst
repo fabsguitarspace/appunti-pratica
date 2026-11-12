@@ -208,24 +208,24 @@ Gli arpeggi estesi aggiungono una quinta nota agli arpeggi a 4 note, creando cos
 ~~~
 
 
-.. image:: 
-   _static/music/arpeggio-cm69-1.*
+.. image::
+   _static/music/arpeggio-c69-1.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/arpeggio-cm69-1.mp3" type="audio/mp3">
+      <source src="_static/music/arpeggio-c69-1.mp3" type="audio/mp3">
    </audio>
 
-.. image:: 
-   _static/music/arpeggio-cm69-2.*
+.. image::
+   _static/music/arpeggio-c69-2.*
    :width: 100%
 
 .. raw:: html
 
    <audio controls class="audio-controls">
-      <source src="_static/music/arpeggio-cm69-2.mp3" type="audio/mp3">
+      <source src="_static/music/arpeggio-c69-2.mp3" type="audio/mp3">
    </audio>
 
 9

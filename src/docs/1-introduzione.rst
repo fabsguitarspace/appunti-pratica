@@ -425,10 +425,7 @@ Lo sforzo giusto invece è un'altra cosa: è quello che ti costringe a:
 Quello sforzo è il motivo per cui una cosa “rimane”.
 
 In queste pagine cerco di evitare, intenzionalmente, tutto ciò che rende
-lo studio “troppo pronto”. Il cervello ama le scorciatoie: se può
-limitarsi a copiare una forma, lo farà… e nel breve periodo sembra anche
-efficace. Ma spesso quel tipo di apprendimento non lascia traccia:
-finito l'esercizio, svanisce.
+lo studio “troppo pronto”.
 
 I risultati veri arrivano quando c'è un minimo di attrito: lo sforzo di
 capire, ricordare, ascoltare, collegare. È quello sforzo che crea

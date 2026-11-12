@@ -17,3 +17,4 @@ Appunti di Pratica per Chitarra Jazz
   8-licks
   9-modern-jazz-fusion
   10-percorsi-autore
+  11-strumenti-per-la-pratica

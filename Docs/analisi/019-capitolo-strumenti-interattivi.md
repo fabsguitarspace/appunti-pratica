@@ -1,7 +1,7 @@
 # Analisi — Capitolo di strumenti interattivi (scale, arpeggi, accordi, progressioni)
 
 - Data: 2026-11-12
-- Stato: decisa — tutte le decisioni prese dall'utente il 2026-11-12; ADR 0005 e ADR 0010 di GSP Accettati; attuazione non avviata. Decisioni: coerenza visiva D1; pubblicazione A1 (GitHub Pages); rinomina del repository in `appunti-strumenti`; capitolo «Strumenti per la pratica», ultimo nel volume; rimandi nei capitoli 4–7; ordine Arpeggi → Accordi → Progressioni; versione 1.1.
+- Stato: decisa — tutte le decisioni prese dall'utente il 2026-11-12; ADR 0005 e ADR 0010 di GSP Accettati; attuata per lo strumento Scale il 2026-11-12 (vedi Esito dell'attuazione). Decisioni: coerenza visiva D1; pubblicazione A1 (GitHub Pages); rinomina del repository in `appunti-strumenti`; capitolo «Strumenti per la pratica», ultimo nel volume; rimandi nei capitoli 4–7; ordine Arpeggi → Accordi → Progressioni; versione 1.1.
 - Ambito e richiesta: appunti-pratica e appunti-strumenti, ex Guitar-Scale-Practice (`../../appunti-strumenti`; cartella spostata e rinominata il 2026-11-12). Richiesta dell'utente: «creare un capitolo dentro il progetto Pratica che riporti questo tool [Guitar Scale Practice] e altri simili applicati anche ad Arpeggi, Accordi, Progressioni».
 - ADR collegato: [0005 — Strumenti interattivi nel volume](../adr/0005-strumenti-interattivi-nel-volume.md) (Accettato). Lato strumento: `appunti-strumenti/Docs/ADR-0010-suite-di-strumenti.md` (Accettato) e `Docs/plans/0002-suite-pratica.md` (Approvato).
 
@@ -123,3 +123,14 @@ Nessuna implementazione implicita. Dopo le decisioni:
 3. Per ogni strumento nuovo: pagina del capitolo, esercizi pronti, rimando nel capitolo corrispondente, bump del sottomodulo, aggiornamento di questa KB.
 
 Rischi: dipendenza della build RTD da un secondo repository; deriva tra testo del volume e versione dello strumento (mitigata dal commit bloccato e da deep link versionati `v=1`); `localStorage` condiviso sull'origine RTD (mitigato da chiavi con prefisso per strumento).
+
+## Esito dell'attuazione (Scale, 2026-11-12)
+
+- `src/docs/11-strumenti-per-la-pratica.rst`, ultimo nel toctree: introduzione, «Prima di iniziare» (audio e modalità silenziosa iOS, scorciatoie, tema, avvertenza sul materiale generato), sezione **Scale** con pulsante «Apri lo strumento» e otto esercizi pronti ricalcati su `4-scale.rst` (Do maggiore intorno al VII tasto a 72/60 BPM; Re dorico swing sulle corde 5 e 4; Do minore melodica in terze fino al XII tasto).
+- Rimando di una riga in fondo agli Esercizi di `4-scale.rst` (riferimento `strumenti-scale`).
+- `conf.py`: `release = "1.1"`, `strumenti_url`, `extlinks` con il ruolo `:strumento:`, `html_js_files` con `strumenti.js` (attributo `data-base`).
+- Pulsante in `custom.css` con rosso fisso `#ce2c31` (5,2:1 con il bianco): il colore dei link di Shibuya in tema chiaro dà 4,4:1, sotto AA.
+- Verifiche: build HTML pulita con `-W`; LaTeX e ePub senza avvisi nuovi, con l'indirizzo testuale nei formati non HTML; i dieci link si aprono in una nuova scheda con `theme` aggiornato anche cambiando tema; gli otto esercizi aperti sul sito pubblicato si configurano come atteso, senza errori; nessuno scorrimento orizzontale a 375 px. `tests/test_strumenti_links.py` controlla pagine, `v=1`, scala, tonica, esercizio, ritmo, BPM e che ogni parametro sia riconosciuto da `js/link.js`.
+- Scostamenti dall'ADR 0005, punto 3: **una sezione per strumento nella pagina del capitolo** invece di pagine separate (con un solo strumento una sottopagina sarebbe vuota di contesto; si potrà dividere quando gli strumenti saranno quattro) e **nessuna schermata** per ora.
+- Durante la verifica un esercizio previsto (Re dorico sulle corde 6 e 5 fino al XII tasto) generava solo nove note, perché in quell'ambito le due corde coprono da Re a La: sostituito con le corde 5 e 4. Gli esercizi pronti vanno ascoltati nello strumento, non solo decodificati.
+- Da fare: prova su iPhone e Android dal volume pubblicato (audio, modalità silenziosa, wake lock).

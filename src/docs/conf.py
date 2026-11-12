@@ -1,11 +1,18 @@
 project = "Appunti di Pratica per Chitarra Jazz"
 author = "Fabrizio's Guitar Space"
 copyright = "youtube.com/@fabsguitarspace"
-release = "1.0"
+release = "1.1"
 
 extensions = [
+    "sphinx.ext.extlinks",
     "sphinx.ext.imgconverter",
 ]
+
+# Strumenti per la pratica (ADR 0005): pubblicati su GitHub Pages dal repository
+# appunti-strumenti. L'indirizzo base è definito solo qui; i link del capitolo usano
+# il ruolo :strumento:`testo <pagina#v=1&...>` (schema in appunti-strumenti/Docs/deep-link.md).
+strumenti_url = "https://fabsguitarspace.github.io/appunti-strumenti/"
+extlinks = {"strumento": (strumenti_url + "%s", None)}
 
 source_suffix = {
     ".rst": "restructuredtext",
@@ -50,6 +57,8 @@ html_theme_options = {
 html_permalinks_icon = "<span>¶</span>"
 
 html_css_files = ["custom.css"]
+# Aggiunge ai link verso gli strumenti il tema chiaro/scuro corrente (ADR 0005, punto 7).
+html_js_files = [("strumenti.js", {"defer": "defer", "data-base": strumenti_url})]
 # Facoltativo: migliora la navigazione del tema
 
 latex_engine = 'lualatex'  # gestisce meglio i font Unicode se hai testo musicale

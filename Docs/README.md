@@ -2,7 +2,7 @@
 
 Aggiornamento: 12 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
-Versione: **1.0** (`release` in `src/docs/conf.py`) dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
+Versione: **1.1** (`release` in `src/docs/conf.py`) dal 12 novembre 2026, con il capitolo «Strumenti per la pratica» (ADR 0005); 1.0 dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
 
 ## Modalità di lavoro
 
@@ -49,7 +49,7 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [ADR 0004 — Libreria musicale comune ai tre progetti](adr/0004-libreria-musicale-comune.md) — Accettato, 2026-11-11. Copia comune con appunti-repertorio e il progetto fratello; migrazione non avviata. I numeri 0002–0003 sono usati solo in appunti-repertorio.
 
-- [ADR 0005 — Strumenti interattivi nel volume](adr/0005-strumenti-interattivi-nel-volume.md) — Accettato, 2026-11-12. Capitolo «Strumenti per la pratica», strumenti su GitHub Pages dal repository `appunti-strumenti` (ex Guitar-Scale-Practice, in locale `../appunti-strumenti`), titolo dell'app «Strumenti per la pratica»; attuazione non avviata.
+- [ADR 0005 — Strumenti interattivi nel volume](adr/0005-strumenti-interattivi-nel-volume.md) — Accettato, 2026-11-12. Capitolo «Strumenti per la pratica», strumenti su GitHub Pages dal repository `appunti-strumenti` (ex Guitar-Scale-Practice, in locale `../appunti-strumenti`), titolo dell'app «Strumenti per la pratica». Attuato per lo strumento Scale il 2026-11-12 (capitolo 11, rimando nel capitolo 4, test `tests/test_strumenti_links.py`); Arpeggi, Accordi e Progressioni da aggiungere man mano.
 
 - [Ristrutturazione editoriale e scrittura assistita](analisi/003-ristrutturazione-editoriale.md) — proposta aperta; i capitoli mancanti sono ipotesi.
 

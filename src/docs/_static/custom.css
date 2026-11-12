@@ -13,3 +13,27 @@
     aspect-ratio: 16 / 9;
     margin: 5px 0;
 }
+/* Strumenti per la pratica: pulsante «Apri lo strumento» (ADR 0005). */
+.strumenti-apri {
+    margin: 1rem 0 1.25rem;
+}
+
+.strumenti-apri p {
+    margin: 0;
+}
+
+.strumenti-apri a {
+    display: inline-block;
+    padding: 0.55rem 1.1rem;
+    border-radius: 6px;
+    background: #ce2c31; /* red-11: 5,2:1 con il bianco (il link Shibuya ne ha 4,4:1) */
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.strumenti-apri a:hover,
+.strumenti-apri a:focus-visible {
+    filter: brightness(0.9);
+    color: #fff;
+}

@@ -5,8 +5,9 @@
 - `README.md`: identità e indirizzo pubblico dichiarato.
 - `src/docs/index.rst`: ordine del percorso e toctree con profondità 3.
 - `src/docs/*.rst`: contenuti didattici reStructuredText.
-- `src/docs/conf.py`: Sphinx, lingua italiana, release 0.1, tema Shibuya, CSS personalizzato, navigazione tra i progetti e LuaLaTeX.
-- `src/docs/_static/custom.css`: presentazione; `_static/music`: risorse musicali utilizzate dalle pagine.
+- `src/docs/conf.py`: Sphinx, lingua italiana, release 1.1, tema Shibuya, CSS personalizzato, navigazione tra i progetti e LuaLaTeX; `strumenti_url` (indirizzo base degli Strumenti per la pratica su GitHub Pages) con il ruolo `extlinks` `:strumento:` e lo script `strumenti.js` (ADR 0005).
+- `src/docs/_static/custom.css`: presentazione; `_static/music`: risorse musicali utilizzate dalle pagine; `_static/strumenti.js`: aggiunge ai link verso gli strumenti il tema chiaro/scuro di Shibuya (`data-color-mode` → `theme=`) e li apre in una nuova scheda.
+- `src/docs/11-strumenti-per-la-pratica.rst`: link agli strumenti esterni ed esercizi pronti come deep link (`:strumento:`testo <scale.html#v=1&…>``); schema in `appunti-strumenti/Docs/deep-link.md`. `tests/test_strumenti_links.py` li verifica con il codice dello strumento (`../appunti-strumenti`, Node).
 - `src/lilypond/*.ly`: sorgenti delle partiture; `include/`: macro condivise nel singolo repository; `sf/Jazzernaut.sf2`: soundfont.
 - `build-lilypond.sh`: LilyPond → PDF → ritaglio con pdfcrop → SVG con pdf2svg; MIDI → WAV con FluidSynth → MP3 con LAME, eliminando il WAV intermedio.
 - `build.sh`: `sphinx-build -b html src/docs out`; `out` è output, non fonte editoriale.
@@ -24,6 +25,7 @@ Le pagine campionate usano immagini `_static/music/nome.*` e audio HTML con file
 5. Audio tramite `raw:: html`: verificare separatamente resa e alternative nei formati PDF/ePub. La presenza di `imgconverter` non dimostra che tutti i convertitori esterni siano installati.
 6. I due repository hanno copie degli script e delle macro; le macro `my-scales.ly` differiscono. Non dedurre equivalenza dal nome, né centralizzare senza confronto e ADR. **Aggiornamento 2026-11-11:** l'ADR 0004 decide la centralizzazione in una libreria comune (sottomodulo `tools/appunti-musica`). Il confronto delle differenze e il piano di migrazione sono nell'analisi 002 di appunti-repertorio. Fino alla migrazione restano valide le copie attuali.
 7. Dipendenze Python non fissate: una build futura potrebbe usare versioni diverse. La riproducibilità è un tema proposto, non un difetto dimostrato da esecuzione.
+8. I link del capitolo 11 dipendono da un sito esterno che evolve indipendentemente dal volume: lo schema `v=1` è un'interfaccia pubblica, ma prima di ogni rilascio eseguire `tests/test_strumenti_links.py` con `appunti-strumenti` aggiornato.
 
 ## Verifiche per future proposte
 

@@ -842,3 +842,5 @@ Una sessione breve
 Con dieci minuti a disposizione, puoi dedicare due minuti a cantare e suonare una porzione di scala, tre a una sequenza o a un salto, tre a una variazione ritmica e due a inventare e ripetere una breve frase. Adatta i tempi a ciò che incontri: se un passaggio richiede attenzione, riduci il resto.
 
 Nel quaderno di bordo annota la scala, la tonalità, il vincolo scelto e una sola osservazione concreta: «accelero quando scendo», «non sento ancora il salto», «riesco a ripetere la frase». La sessione successiva può partire da quella osservazione.
+
+Per generare altre varianti di questi esercizi, in qualunque scala e tonalità, con audio e tablatura, usa lo strumento :ref:`Scale <strumenti-scale>` degli Strumenti per la pratica.

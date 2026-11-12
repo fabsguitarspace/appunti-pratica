@@ -591,7 +591,7 @@ Non ti interessa quante note. Ti interessa:
 - che il silenzio tenga il tempo
 - che il rientro sia inevitabile
 
-Se riesci a fare questo, la tua musica cambia in un pomeriggio.
+Se riesci a fare questo, la tua musica cambia.
 
 .. admonition:: Una frase da tenere sul leggio
   

@@ -8,6 +8,7 @@ Appunti di Pratica per Chitarra Jazz
   :maxdepth: 3
 
   1-introduzione
+  leggere-gli-esempi
   2-basi
   3-conoscere-la-tastiera
   4-scale

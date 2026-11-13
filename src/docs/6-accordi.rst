@@ -715,7 +715,7 @@ R sulla 1ª corda
 
 **Nota al canto:** Fa, 1° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
 
-Con la fondamentale al canto confronta la settima minore, la sesta e la settima maggiore nelle voci inferiori. Il Do o il Fa superiore rimane fermo: cambia il colore sotto la melodia.
+In prima posizione la fondamentale Fa sta sotto l'indice in barré sulla prima corda. Le tre forme cambiano una sola voce interna: il Mi♭ sulla quarta corda per Fm7, il Re sulla seconda per Fm6, il Mi sulla quarta per Fm(maj7). Prova a tenere fermo il barré e a muovere soltanto le dita che cambiano.
 
 .. image:: _static/music/accordi-f-minore-r-1.*
    :width: 100%
@@ -731,7 +731,7 @@ Con la fondamentale al canto confronta la settima minore, la sesta e la settima 
 
 **Nota al canto:** Sol, 3° tasto. **Voicing da sinistra:** Fm9, Fm6/9, Fm(maj9) (senza R).
 
-La nona naturale rimane al canto. Confronta il sostegno della settima minore, della sesta e della settima maggiore: le tre sigle descrivono scelte diverse per le voci interne.
+Il Sol al canto, al terzo tasto, si raggiunge con il mignolo o con l'anulare sopra le forme di prima posizione. Il primo voicing mette la terza La♭ al basso sulla sesta corda: un m9 aperto e scuro, adatto a un accompagnamento senza contrabbasso solo se la melodia chiarisce la fondamentale.
 
 .. image:: _static/music/accordi-f-minore-9-1.*
    :width: 100%
@@ -747,7 +747,7 @@ La nona naturale rimane al canto. Confronta il sostegno della settima minore, de
 
 **Nota al canto:** La♭, 4° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
 
-La terza minore rende immediatamente udibile la qualità dell’accordo. Conserva quella nota e ascolta come sesta e settime modificano il carattere della stessa melodia.
+Tutte e tre le forme hanno la fondamentale sulla quarta corda e la quinta sulla terza: cambia soltanto la nota della seconda corda, Mi♭, Re o Mi. È la stessa idea del gruppo R in prima posizione, spostata più in alto con la terza minore al canto.
 
 .. image:: _static/music/accordi-f-minore-b3-1.*
    :width: 100%
@@ -763,7 +763,7 @@ La terza minore rende immediatamente udibile la qualità dell’accordo. Conserv
 
 **Nota al canto:** Si♭, 6° tasto. **Voicing da sinistra:** Fm11, Fm11, Fm(maj11).
 
-L’undicesima naturale viene sostenuta prima da due disposizioni di minore settima, poi da una sonorità con settima maggiore. I primi due voicing hanno la stessa sigla ma distribuiscono diversamente le voci.
+Il Si♭ al canto, al sesto tasto, si appoggia su un piccolo barré che prende anche il Fa della seconda corda. I due Fm11 differiscono per la posizione della settima, sulla quinta o sulla terza corda; nel terzo voicing la settima maggiore Mi sulla quinta corda indurisce subito il colore.
 
 .. image:: _static/music/accordi-f-minore-11-1.*
    :width: 100%
@@ -779,7 +779,7 @@ L’undicesima naturale viene sostenuta prima da due disposizioni di minore sett
 
 **Nota al canto:** Do, 8° tasto. **Voicing da sinistra:** Fm7, Fm6, Fm(maj7).
 
-La quinta al canto lascia alle voci interne il compito di distinguere minore settima, minore sesta e minore con settima maggiore. Ascolta ogni voce separatamente prima di unirle.
+Con il Do al canto la terza La♭ deve stare in una voce interna, sulla seconda o sulla quarta corda. Nel secondo voicing la fondamentale passa sulla seconda corda e il basso è la terza: una forma morbida, utile quando il contrabbasso suona già Fa.
 
 .. image:: _static/music/accordi-f-minore-5-1.*
    :width: 100%
@@ -795,7 +795,7 @@ La quinta al canto lascia alle voci interne il compito di distinguere minore set
 
 **Nota al canto:** Re, 10° tasto. **Voicing da sinistra:** Fm6, Fm13, Fm(maj13) (senza R).
 
-La stessa altezza può essere sesta in un accordo m6 oppure tredicesima quando è presente anche una settima. Confronta le tre sigle: la sesta naturale non implica che tutte le sonorità minori siano intercambiabili.
+Il Re al canto, al decimo tasto, è la sesta naturale: la trovi nelle tonalità minori che usano la dorica o la minore melodica. Fm6 e Fm(maj13) condividono la forma con la quinta al basso sulla quarta corda; Fm13 riprende invece il Fa sulla quinta corda.
 
 .. image:: _static/music/accordi-f-minore-13-1.*
    :width: 100%
@@ -811,7 +811,7 @@ La stessa altezza può essere sesta in un accordo m6 oppure tredicesima quando �
 
 **Nota al canto:** Mi♭, 11° tasto. **Voicing da sinistra:** Fm7, Fm9, Fm11.
 
-La settima minore rimane al canto mentre nona o undicesima entrano nelle voci interne. Scegli il colore in relazione alla melodia e agli altri strumenti, evitando di aggiungere tutte le estensioni insieme.
+Siamo nella zona dell'undicesimo tasto, dove la mano lavora più stretta. Fm9 è l'unica forma con la fondamentale sulla sesta corda al tredicesimo tasto; le altre due mettono la terza al basso. Se il registro è troppo acuto per accompagnare, usa questi voicing come arrivo di una frase in chord melody.
 
 .. image:: _static/music/accordi-f-minore-b7-1.*
    :width: 100%
@@ -827,7 +827,7 @@ La settima minore rimane al canto mentre nona o undicesima entrano nelle voci in
 
 **Nota al canto:** Mi, 12° tasto. **Voicing da sinistra:** Fm(maj7), Fm(maj9), Fm(maj11).
 
-La settima maggiore al canto identifica una scelta diversa dal minore settima. Le varianti con nona e undicesima conservano quella settima: non sostituirle automaticamente a un accordo m7.
+Il Mi al canto è la settima maggiore: sopra Fm suona come la nota più tesa del gruppo, tipica dell'ultimo accordo di un brano in minore o di una linea cromatica discendente Fa–Mi–Mi♭–Re. Tutte e tre le forme hanno il Fa al basso sulla sesta corda, al tredicesimo tasto.
 
 .. image:: _static/music/accordi-f-minore-maj7-1.*
    :width: 100%
@@ -1032,7 +1032,7 @@ R sulla 1ª corda
 
 **Nota al canto:** Fa, 1° tasto. **Voicing da sinistra:** F7, F7, F13.
 
-La fondamentale rimane al canto: confronta due disposizioni di settima e una di tredicesima. Terza maggiore e settima minore mantengono riconoscibile la struttura di dominante.
+In prima posizione il barré dell'indice sostiene la fondamentale al canto. Nel secondo voicing il basso è la quinta Do sulla quinta corda; nel terzo il Re della seconda corda aggiunge la tredicesima senza cambiare la diteggiatura di fondo.
 
 .. image:: _static/music/accordi-f-dominante-r-1.*
    :width: 100%
@@ -1048,7 +1048,7 @@ La fondamentale rimane al canto: confronta due disposizioni di settima e una di 
 
 **Nota al canto:** Sol♭, 2° tasto. **Voicing da sinistra:** F7(♭9), F13(♭9) (senza R), F7(♭9,♭13) (senza R).
 
-La nona minore è la nota più alta. Confronta il voicing di base con quelli che aggiungono tredicesima naturale oppure tredicesima minore; scegli fra questi colori ascoltando la destinazione dell’accordo.
+Il Sol♭ al canto, al secondo tasto, è la nota che rende evidente la funzione di dominante verso Si♭. La prima forma ha la fondamentale sulla quarta corda; le altre due la tolgono e mettono la settima al basso, lasciando spazio alla tredicesima naturale o minore.
 
 .. image:: _static/music/accordi-f-dominante-b9-1.*
    :width: 100%
@@ -1064,7 +1064,7 @@ La nona minore è la nota più alta. Confronta il voicing di base con quelli che
 
 **Nota al canto:** Sol, 3° tasto. **Voicing da sinistra:** F9, F13 (senza R), F9(♯11) (senza R).
 
-Con la nona naturale al canto, le voci inferiori possono conservare una dominante nona oppure introdurre tredicesima o undicesima aumentata. Non cambia la nota della melodia.
+Le prime due forme restano in prima posizione con la nona al canto. La terza scende alla terza La sulla sesta corda e aggiunge il Si dell'undicesima aumentata: un 9(♯11) più aperto, che suona bene come dominante non risolta o come accordo di colore.
 
 .. image:: _static/music/accordi-f-dominante-9-1.*
    :width: 100%
@@ -1080,7 +1080,7 @@ Con la nona naturale al canto, le voci inferiori possono conservare una dominant
 
 **Nota al canto:** Sol♯, 4° tasto. **Voicing da sinistra:** F7(♯9), F7(♯9,♭13) (senza R), F7(♯9,♯11) (senza R).
 
-La nona aumentata convive qui con la terza maggiore, presente nelle voci inferiori. Sul pentagramma è scritta Re♯ su C e Sol♯ su F; non indica che l’accordo sia diventato minore.
+Il Sol♯ al canto si scrive con il diesis perché è una nona alterata, non una terza minore: la terza maggiore La resta nell'accordo. Le due forme senza fondamentale mettono la terza al basso sulla sesta corda e aggiungono ♭13 oppure ♯11.
 
 .. image:: _static/music/accordi-f-dominante-s9-1.*
    :width: 100%
@@ -1096,7 +1096,7 @@ La nona aumentata convive qui con la terza maggiore, presente nelle voci inferio
 
 **Nota al canto:** La, 5° tasto. **Voicing da sinistra:** F7, F9, F13.
 
-La terza maggiore è la nota più alta; la settima minore resta nelle voci inferiori. Confronta i colori di settima, nona e tredicesima mantenendo ferma la terza al canto.
+Con la terza al canto la qualità dell'accordo è dichiarata dalla melodia. La prima forma tiene la fondamentale sulla quarta corda; F9 e F13 mettono la settima Mi♭ al basso sulla quinta corda e cambiano soltanto la voce della quarta o della terza corda.
 
 .. image:: _static/music/accordi-f-dominante-3-1.*
    :width: 100%
@@ -1112,7 +1112,7 @@ La terza maggiore è la nota più alta; la settima minore resta nelle voci infer
 
 **Nota al canto:** Si♭, 6° tasto. **Voicing da sinistra:** F7sus4, F9sus4, F13sus4.
 
-Qui l’undicesima naturale è trattata come quarta sospesa: i tre voicing sono sus4 e omettono la terza maggiore. La settima minore rimane presente; nona e tredicesima sono varianti del sostegno. Non confondere 11 e ♯11.
+Il Si♭ al canto, al sesto tasto, è la quarta sospesa. Le tre forme condividono la settima al basso sulla quinta corda e la fondamentale sulla seconda: passa da F7sus4 a F9sus4 a F13sus4 muovendo una sola voce, poi risolvi il Si♭ sul La per sentire F7.
 
 .. image:: _static/music/accordi-f-dominante-11-1.*
    :width: 100%
@@ -1128,7 +1128,7 @@ Qui l’undicesima naturale è trattata come quarta sospesa: i tre voicing sono 
 
 **Nota al canto:** Si, 7° tasto. **Voicing da sinistra:** F7(♯11), F9(♯11) (senza R), F13(♯11) (senza R).
 
-L’undicesima aumentata sta al canto e la terza maggiore rimane nell’accordo. La quinta giusta può essere omessa; se la sigla dice ♯11 non occorre riscrivere la nota come quinta diminuita.
+Il Si naturale al canto, al settimo tasto, sta a un semitono dal Si♭ della sospensione: confronta i due gruppi uno dopo l'altro. F7(♯11) ha la fondamentale sulla quinta corda; le altre forme partono dalla terza o dalla settima e si prestano a un sostituto di tritono.
 
 .. image:: _static/music/accordi-f-dominante-s11-1.*
    :width: 100%
@@ -1144,7 +1144,7 @@ L’undicesima aumentata sta al canto e la terza maggiore rimane nell’accordo.
 
 **Nota al canto:** Do, 8° tasto. **Voicing da sinistra:** F7, F9 (senza R), F13 (senza R).
 
-La quinta giusta rimane al canto. Terza, settima, nona e tredicesima permettono di cambiare colore sotto la stessa nota senza alterarla.
+Il Do al canto è una nota comune a molti accordi vicini, quindi lascia scegliere il colore alle voci interne. Terza e settima stanno sempre sulla quarta e sulla terza corda nelle prime due forme: è lo stesso nucleo degli shell, con la nona o la quinta sopra.
 
 .. image:: _static/music/accordi-f-dominante-5-1.*
    :width: 100%
@@ -1160,7 +1160,7 @@ La quinta giusta rimane al canto. Terza, settima, nona e tredicesima permettono 
 
 **Nota al canto:** Re♭, 9° tasto. **Voicing da sinistra:** F7(♭13), F7(♭9,♭13) (senza R), F7(♯9,♭13) (senza R).
 
-La tredicesima minore è la nota al canto. Le varianti aggiungono nona minore oppure nona aumentata, conservando terza maggiore e settima minore. La quinta giusta è omessa nei voicing proposti.
+Il Re♭ al canto è la tredicesima minore, tipica della dominante che va verso un accordo minore. Nella prima forma la terza La sale sulla seconda corda al decimo tasto, sopra la settima; le altre due mettono la terza al basso sulla quarta corda e aggiungono una nona alterata.
 
 .. image:: _static/music/accordi-f-dominante-b13-1.*
    :width: 100%
@@ -1176,7 +1176,7 @@ La tredicesima minore è la nota al canto. Le varianti aggiungono nona minore op
 
 **Nota al canto:** Re, 10° tasto. **Voicing da sinistra:** F13, F13(♭9) (senza R), F13(♯11) (senza R).
 
-La tredicesima naturale rimane al canto. Confronta la versione di base con nona minore e undicesima aumentata: non sommare automaticamente tutte le tensioni alla stessa dominante.
+Il Re al canto è la tredicesima naturale. Le ultime due forme hanno la settima Mi♭ al basso sulla sesta corda all'undicesimo tasto, con la terza sulla seconda corda: aggiungono rispettivamente la nona minore Sol♭ e l'undicesima aumentata Si.
 
 .. image:: _static/music/accordi-f-dominante-13-1.*
    :width: 100%
@@ -1192,7 +1192,7 @@ La tredicesima naturale rimane al canto. Confronta la versione di base con nona 
 
 **Nota al canto:** Mi♭, 11° tasto. **Voicing da sinistra:** F7, F9 (senza R), F13.
 
-La settima minore è la voce più alta; le voci inferiori distinguono settima, nona e tredicesima. Prima di scegliere una forma, canta la settima e controlla dove può muoversi nell’accordo successivo.
+La settima al canto chiede quasi sempre di scendere di semitono sulla terza dell'accordo successivo: da F7 a B♭, il Mi♭ va al Re. Le prime due forme condividono la quinta sulla quarta corda e la terza sulla seconda, e cambiano solo la terza corda (Fa o Sol); F13 mette invece la terza al basso sulla quinta corda.
 
 .. image:: _static/music/accordi-f-dominante-b7-1.*
    :width: 100%

@@ -16,7 +16,7 @@ Le mappe che utilizzeremo saranno quindi quelle di **8 scale**:
 #. Scala a Toni Interi
 #. Scala Diminuita
 
-Tutto il resto, molto spesso, non è altro che una diversa angolazione, una porzione o una trasformazione di questi stessi materiali.
+Tutto il resto, molto spesso, non è altro che una diversa angolazione, una porzione o una trasformazione di questi stessi materiali. Le più usate fra queste trasformazioni (pentatoniche, scala blues e scale bebop) hanno comunque una mappa propria, alla fine delle otto scale: vedi :ref:`scale-derivate`.
 
 Il seguente metodo ti consente di trovare in autonomia un'enorme quantità di diteggiature *in tempo reale*. Poniamo che vogliamo suonare la scala di Do maggiore in tutte le sue varianti. Ecco come procedere:
 
@@ -367,6 +367,111 @@ In pratica la scala di riferimento non è la semitono-tono, ma la **tono-semiton
       <source src="_static/music/scala-diminuita-verticale-c2.mp3" type="audio/mp3">
    </audio>
 
+
+.. _scale-derivate:
+
+Pentatoniche, scala blues e scale bebop
+---------------------------------------
+
+Le otto scale bastano a costruire le mappe della tastiera. Tre famiglie di materiali derivati, però, ricorrono così spesso nel blues e nel bebop che conviene averle sotto le dita come mappe a sé: le **pentatoniche**, che tolgono note, la **scala blues**, che aggiunge un passaggio alla pentatonica minore, e le **scale bebop**, che aggiungono una nota cromatica a una scala di sette suoni.
+
+Le diteggiature seguono il metodo di questo capitolo: lo stesso Do, partenze con dita diverse, una posizione per riga. Con cinque o sei note per ottava ogni corda ne ospita spesso solo due, e alcune partenze producono la stessa diteggiatura: le mappe mostrano soltanto quelle diverse. Perché questi suoni funzionano lo spiega il capitolo `Scale di Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__; qui ci occupiamo di trovarli e suonarli.
+
+.. _scala-pentatonica-maggiore:
+
+Scala pentatonica maggiore
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Togli dalla scala maggiore il quarto e il settimo grado: restano **1–2–3–5–6**, cioè **Do–Re–Mi–Sol–La**. Spariscono i due semitoni Mi–Fa e Si–Do, e con loro le note che chiedono di risolvere. Per questo la pentatonica maggiore regge su C6, su Cmaj7 e anche su C7: nessuna delle sue note si scontra con l'accordo.
+
+Suona la mappa cantando i gradi, non i nomi delle dita. Su ogni riga individua dove cadono il 3 e il 6: sono le due note che danno il colore maggiore.
+
+.. image::
+   _static/music/scala-pentatonica-maggiore-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-pentatonica-maggiore-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+Il lick :ref:`lick-m08` usa questo materiale su C6, con una sola nota di passaggio.
+
+.. _scala-pentatonica-minore:
+
+Scala pentatonica minore
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+La formula è **1–♭3–4–5–♭7**: **Do–Mi♭–Fa–Sol–Si♭**. Sono le stesse note della pentatonica maggiore di Mi♭: cambia soltanto la nota che senti come casa. Prova a suonare la mappa e poi la stessa collezione partendo da Mi♭, con un Mi♭ tenuto al basso: il materiale è identico, il centro no.
+
+Su Cm7 la pentatonica minore contiene fondamentale, terza, quinta e settima più l'undicesima. Su C7 e nel blues il suo Mi♭ si scontra volutamente con il Mi dell'accordo: è l'ambiguità su cui vive il blues.
+
+.. image::
+   _static/music/scala-pentatonica-minore-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-pentatonica-minore-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+.. _scala-blues:
+
+Scala blues
+~~~~~~~~~~~
+
+Aggiungi alla pentatonica minore la quinta diminuita: **1–♭3–4–♭5–5–♭7**, cioè **Do–Mi♭–Fa–Sol♭–Sol–Si♭**. Il Sol♭ è quasi sempre un passaggio fra Fa e Sol, in salita o in discesa: fermarti su quella nota crea una tensione forte, che va scelta e poi risolta.
+
+Nella mappa la nota aggiunta cade sempre fra due note della pentatonica, sulla stessa corda o a cavallo di due corde. Suonala prima come semplice collegamento cromatico, poi prova a ottenerla con un piccolo bending dal Fa.
+
+.. image::
+   _static/music/scala-blues-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-blues-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+Sulla tastiera la scala blues è una collezione di note; il blues è anche intonazione e articolazione. Il Mi♭ suonato sopra C7 spesso non è un'altezza fissa: la si spinge leggermente verso Mi con il bending, senza arrivarci del tutto. Per usare questo materiale nella forma di dodici battute vai a :ref:`progressioni-blues` e confronta il lick :ref:`lick-b01`, che alterna terza blues e terza maggiore.
+
+.. _scale-bebop:
+
+Scale bebop
+~~~~~~~~~~~
+
+Una **scala bebop** aggiunge una nota cromatica di passaggio a una scala di sette suoni. Il motivo è ritmico: con otto note per ottava, se scendi in ottavi partendo dalla tonica sul battere, **le note dell'accordo cadono sui movimenti** e le note di passaggio sui levare. Con sette note la stessa discesa si sposterebbe di un ottavo a ogni giro.
+
+**Bebop di dominante.** È la misolidia con la settima maggiore aggiunta: **Do–Re–Mi–Fa–Sol–La–Si♭–Si**, su C7. Scendendo dal Do acuto in ottavi, sui quattro movimenti cadono Do, Si♭, Sol e Mi: le note di C7.
+
+.. image::
+   _static/music/scala-bebop-dominante-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-dominante-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+**Bebop maggiore.** È la scala maggiore con un passaggio fra quinta e sesta: **Do–Re–Mi–Fa–Sol–Sol♯–La–Si**, su C6 e Cmaj7. Scendendo dal Do acuto, sui movimenti cadono Do, La, Sol e Mi: le note di C6. In discesa il passaggio si legge spesso come La♭; nella mappa resta scritto Sol♯ per mostrare la stessa nota in entrambe le direzioni.
+
+.. image::
+   _static/music/scala-bebop-maggiore-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-maggiore-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+**Bebop minore.** Sulla dorica circolano due varianti. La prima aggiunge la settima maggiore: **Do–Re–Mi♭–Fa–Sol–La–Si♭–Si**; scendendo dal Do sui movimenti cadono Do, Si♭, Sol e Mi♭, le note di Cm7. La seconda aggiunge la terza maggiore: **Do–Re–Mi♭–Mi–Fa–Sol–La–Si♭**, le stesse note del bebop di dominante di Fa, utile quando pensi Cm7–F7 come un unico blocco. Non c'è una mappa scritta: costruisci entrambe con il metodo descritto all'inizio del capitolo, partendo dalla dorica che conosci già, e verifica quali note cadono sui movimenti.
+
+**Come verificare.** Metti il metronomo sui quarti e scendi in ottavi dal Do. Se su un movimento senti una nota che non appartiene all'accordo, hai perso un ottavo o hai saltato la nota di passaggio. Poi parti da un'altra nota dell'accordo, sempre sul battere: se parti da una nota di passaggio o su un levare, aggiungi o togli un cromatismo per rimettere in fase la linea. Il lick :ref:`lick-d03` applica proprio questa discesa a G7.
 
 
 Esercizi

@@ -1,6 +1,6 @@
 # KB ARCHITECT — Appunti di Pratica
 
-Aggiornamento: 12 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
+Aggiornamento: 13 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
 Versione: **1.1** (`release` in `src/docs/conf.py`) dal 12 novembre 2026, con il capitolo «Strumenti per la pratica» (ADR 0005); 1.0 dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
 
@@ -12,7 +12,7 @@ Per ogni richiesta: chiarire problema e risultato atteso; rileggere i sorgenti c
 
 ## Identità e perimetro
 
-Percorso operativo sulla chitarra: basi, conoscenza della tastiera, scale, arpeggi, accordi, progressioni e licks. Il capitolo scale privilegia otto sonorità e la costruzione autonoma delle diteggiature, con estensione a ottave e tonalità diverse.
+Percorso operativo sulla chitarra: basi, conoscenza della tastiera, scale, arpeggi, accordi, progressioni e licks. Il capitolo scale privilegia otto sonorità e la costruzione autonoma delle diteggiature, con estensione a ottave e tonalità diverse; pentatoniche, scala blues e scale bebop hanno mappe proprie come materiali derivati.
 
 Il progetto fratello è `../appunti-teoria`. Teoria spiega strutture e relazioni; Pratica le applica alla tastiera. Questa distinzione è una lettura del materiale, non una decisione storica documentata. Prima di spostare contenuti verificare prerequisiti, duplicazioni utili e collegamenti tra i due percorsi.
 
@@ -82,5 +82,7 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Read the Docs: formati degli spartiti](analisi/017-readthedocs-formati-spartiti.md) — risolto il passaggio SVG nella preparazione PDF e aggiunta regressione sui formati, 10 novembre 2026.
 
 - [Voicing per il chord melody](analisi/018-voicing-chord-melody.md) — drop 2, drop 3, tre voci, diminuiti di passaggio, sesta diminuita e un arrangiamento di otto battute; 11 esempi, 59 voicing, 11 novembre 2026.
+
+- [Contenuti mancanti segnalati dalla revisione](analisi/020-contenuti-mancanti-revisione.md) — pentatoniche, scala blues e scale bebop nel capitolo Scale, arpeggio m7♭5, gruppi 13 e Δ7 della famiglia maggiore sulla prima corda; 9 sorgenti LilyPond e test `tests/test_materiali_aggiunti.py`, 13 novembre 2026.
 
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuazione non avviata. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.

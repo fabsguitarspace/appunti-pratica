@@ -9,7 +9,7 @@ In questa sezione vedremo come costruire arpeggi a 4 note su accordi di settima,
 
 Il processo di costruzione degli arpeggi a 4 note è simile a quello delle scale visto in precedenza. In un certo senso, gli arpeggi a 4 note sono una riduzione delle scale a 7 note, in quanto contengono solo le note che formano l'accordo di settima.
 
-Lavoreremo su accordi di settima la cui sequenza è pensata per aggiungere una quarta nota alla triade di base (maggiore e minore) nell'ordine 6, ♭7, Δ7. In questo modo la costruzione segue un processo logico e graduale. Questo insieme si conclude con l'arpeggio di settima con quinta eccedente (derivato dalla scala a toni interi) e l'arpeggio simmetrico di settima diminuita (che è un caso particolare e molto interessante).
+Lavoreremo su accordi di settima la cui sequenza è pensata per aggiungere una quarta nota alla triade di base (maggiore e minore) nell'ordine 6, ♭7, Δ7. In questo modo la costruzione segue un processo logico e graduale. Dopo i tre minori aggiungiamo il semidiminuito (m7♭5), che serve nel II–V–I minore. Questo insieme si conclude con l'arpeggio di settima con quinta eccedente (derivato dalla scala a toni interi) e l'arpeggio simmetrico di settima diminuita (che è un caso particolare e molto interessante).
 
 
 6
@@ -149,6 +149,33 @@ mΔ
 
    <audio controls class="audio-controls">
       <source src="_static/music/arpeggio-cmmaj7-2.mp3" type="audio/mp3">
+   </audio>
+
+.. _arpeggio-m7b5:
+
+m7♭5 (ø)
+~~~~~~~~
+
+Parti dall'arpeggio m7 e abbassa la quinta: **Do–Mi♭–Sol♭–Si♭**. È il semidiminuito, il II del II–V–I minore (Dø7 in Do minore, nell'esercizio 10). Rispetto al diminuito completo cambia soltanto la settima: Si♭ qui, Si𝄫 nel °7. Mentre suoni, canta il Sol♭: è la nota che distingue questo accordo dal m7 e che lo fa suonare instabile.
+
+.. image::
+   _static/music/arpeggio-cm7f5-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/arpeggio-cm7f5-1.mp3" type="audio/mp3">
+   </audio>
+
+.. image::
+   _static/music/arpeggio-cm7f5-2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/arpeggio-cm7f5-2.mp3" type="audio/mp3">
    </audio>
 
 7♯5

@@ -483,6 +483,40 @@ R sulla 1ª corda
       <source src="_static/music/accordi-f-maggiore-5-1.mp3" type="audio/mp3">
    </audio>
 
+13 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 10° tasto. **Voicing da sinistra:** F6, Fmaj13, F6/9, F6/9 (senza R), Fmaj13 (senza R).
+
+Il Re al canto è sesta in F6 e F6/9, tredicesima quando sotto c'è anche la settima maggiore Mi. Il primo voicing è un barré di quattro corde al decimo tasto; gli ultimi due mettono la terza La al basso e lasciano la fondamentale al contrabbasso o alla melodia precedente.
+
+.. image::
+   _static/music/accordi-f-maggiore-13-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-f-maggiore-13-1.mp3" type="audio/mp3">
+   </audio>
+
+Δ7 sulla 1ª corda
+^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Mi, 12° tasto. **Voicing da sinistra:** Fmaj7, Fmaj7, Fmaj9 (senza R), Fmaj7(♯11).
+
+La settima maggiore al canto suona sospesa: dopo un arrivo in tonica chiede spesso di scendere su Re (sesta) o di salire su Fa. Confronta i primi due voicing, che cambiano solo la disposizione di fondamentale e quinta, con il Si dell'ultimo, che porta il colore lidio sotto la stessa melodia.
+
+.. image::
+   _static/music/accordi-f-maggiore-maj7-1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/accordi-f-maggiore-maj7-1.mp3" type="audio/mp3">
+   </audio>
+
 .. _vocabolario-accordi-minori:
 
 Accordi minori

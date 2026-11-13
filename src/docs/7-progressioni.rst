@@ -284,7 +284,7 @@ C7 è il centro del blues, F7 è il IV e G7 il V. La struttura di settima di dom
 
 Per un finale, al posto del G7 dell’ultima battuta puoi mantenere C7 e chiudere alla fine delle quattro pulsazioni. Questa è una scelta di conclusione, distinta dalla versione ciclica scritta.
 
-**Improvvisazione.** Inizia con Do, Mi♭ e Sol, note della pentatonica minore di Do (vedi `Scala pentatonica — Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__). Mantieni una frase breve e ripetila con una variazione ritmica nel secondo gruppo di quattro battute. Ascolta la relazione fra Mi♭ melodico e Mi naturale dell’accordo C7: l’inflessione blues va sviluppata attraverso ascolto e articolazione, non come sostituzione meccanica della terza del voicing.
+**Improvvisazione.** Inizia con Do, Mi♭ e Sol, note della pentatonica minore di Do (vedi :ref:`scala-pentatonica-minore` e :ref:`scala-blues`). Mantieni una frase breve e ripetila con una variazione ritmica nel secondo gruppo di quattro battute. Ascolta la relazione fra Mi♭ melodico e Mi naturale dell’accordo C7: l’inflessione blues va sviluppata attraverso ascolto e articolazione, non come sostituzione meccanica della terza del voicing.
 
 .. _progressioni-blues-jazz:
 

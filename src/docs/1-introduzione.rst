@@ -92,54 +92,33 @@ suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 Iniziamo bene: un patto con te stesso
 -------------------------------------
 
-Complimenti, è ora di mettersi all'opera! Come vedrai, ci sarà abbastanza materiale da tenerti occupati per i prossimi vent'anni. Ma poiché così suona decisamente opprimente, cerchiamo di vedere le cose in prospettiva!
+Qui dentro c'è più materiale di quanto potrai mai suonare. Non è un difetto: è un magazzino, non una lista di compiti. Il patto che ti propongo è semplice: prendi poco alla volta, e quello che prendi suonalo davvero.
 
-Imparare a suonare e a improvvisare è qualcosa che richiede tempo, un'esperienza che non si esaurisce mai e che ti accompagnerà per tutta la vita. Dovrai essere flessibile e riuscire ad adattarti a tutti i tuoi futuri cambiamenti a livello musicale e di gusto musicale, perché più conoscerai e più il tuo orecchio si svilupperà e avrai nuovi orizzonti che oggi non immagini neppure.
+Non serve aspettare di essere pronto. Puoi improvvisare oggi stesso con tre note e un metronomo; domani le note saranno quattro. La preparazione non viene prima del suonare: cresce mentre suoni. Ogni volta che rimandi un brano perché «non sai ancora abbastanza», perdi proprio l'esperienza che ti farebbe sapere di più.
 
-Ma la cosa buona è che puoi iniziare subito a suonare e a improvvisare, ovviamente in modo molto semplice, e poi costruire da lì. Non è necessario aspettare di essere “pronti” o di aver studiato “tutto” per iniziare a suonare. Anzi, è proprio suonando che diventerai pronto e che imparerai tutto.
+Tre cose meritano attenzione ogni giorno, qualunque sia l'esercizio:
 
-Non è importante che tu faccia sempre tutti gli esercizi (il che oltretutto sarebbe davvero opprimente): ciò che conta davvero è studiare in maniera mirata ed efficace e sfidarsi ad imparare cose nuove ed a correggere le cattive abitudini. Col tempo, vedrai che semplicemente il suonare più che puoi, in una tonalità nuova ogni settimana, una canzone nuova ogni settimana, ti darà una grande padronanza ed una solida base musicale costruita a partire dall'orecchio. 
+- **il suono**: come attacchi la nota, quanto dura, come finisce;
+- **il tempo**: dove cade la nota rispetto alla pulsazione, e se la pulsazione regge anche nelle pause;
+- **il repertorio**: i brani che conosci a memoria, perché è lì che scale e accordi diventano musica.
 
-L'acquisizione delle tecniche più complicate ed avanzate, di per sé, non basterà a fare di te un grande musicista. La conoscenza e l'informazione sono solo alcuni dettagli, nel quadro generale della musica. Lo sviluppo e l'approfondimento delle abilità musicali legate alla performance sono invece le cose più importanti: la capacità di suonare correttamente, sviluppare lo swing, la capacità di udire e di riconoscere le relazioni musicali, l'abilità di “tracciare” le proprie idee durante un'improvvisazione. Queste capacità si acquisiscono soltanto studiando regolarmente ed in maniera efficace.
+Le prime due si allenano in cinque minuti, su una nota sola. La terza chiede pazienza: un brano nuovo ogni tanto, imparato prima cantando la melodia e poi sulla chitarra, vale più di dieci esercizi nuovi.
 
-Tieni sempre a mente le tre T: 
+**Meno note, più scelte**
 
-- *Tone* (il Suono) 
-- *Timing* (quadratura ritmica)
-- e *Tunes* (brani)
+Ascolta come cambiano i musicisti con gli anni: quasi sempre suonano meno, non di più. Una nota tenuta al momento giusto, una pausa che lascia respirare la frase, un attacco più morbido: è da queste scelte che riconosci qualcuno dopo tre note. L'attrezzatura conta poco. Il tuo suono è già nelle mani, anche con la chitarra staccata dall'amplificatore.
 
-Sviluppa un bel Suono (qualità emotiva) costruendo un suono espressivo, forte ed intonato, dotato di una ricca tavolozza di dinamiche; sviluppa il Tempo, (qualità fisica) cioè la capacità di mantenere costanti diversi tempi metronomici, di eseguire correttamente svariati stili ritmici e di generare un senso di “groove” o di pulsazione. I Brani (qualità intellettuale) rappresentano la profonda comprensione della struttura e dello stile musicale che suoni. 
+**Scegli che cosa studiare**
 
-Riuscire a comunicare attraverso l'integrazione di queste qualità è molto più importante che non bombardare l'ascoltatore con milioni di note.
+Prima o poi ti accorgerai che le possibilità sono infinite e il tempo no. È un buon momento: scegliere che cosa lasciare fuori è il primo passo verso uno stile personale. Libri, video e insegnanti possono offrirti strade; metterle insieme in un modo che ti somigli tocca a te. Per questo conviene non affidarsi a una fonte sola, nemmeno a questi appunti.
 
-I musicisti più maturano e meno note suonano. Imparano a rendere i propri soli raffinati e a dire più cose con meno parole. Sono più interessati alla qualità delle note che scelgono, piuttosto che alla quantità, e costruiscono le proprie improvvisazioni con cura, suonando con coerenza.
+Tre abitudini aiutano più di qualunque metodo:
 
-In altre parole, sviluppano uno **stile**! Uno stile esprime il gusto di un musicista, raffinato e presentato con chiarezza. 
+- **impara brani a memoria**, e quando ci riesci trascrivi qualche frase dai dischi che ami, anche solo due battute;
+- **suona con altre persone** il prima possibile: una jam, un amico con un'altra chitarra, una band;
+- **riascoltati**: una registrazione col telefono ti dice in un minuto quello che a orecchio, mentre suoni, non senti.
 
-Ancora: **sviluppano un suono**! La maggior parte dei grandi musicisti è riconoscibile dalle prime due o tre note. La priorità assoluta dovrebbe essere lo sviluppo del proprio suono. E questa cosa non ha nulla a che vedere con l'attrezzatura: è una questione di controllo, di espressività, di dinamica, di intonazione, di vibrazione, di attacco e assolutamente non di pedali o amplificatori o dal tipo di chitarra che usi.
-
-**Datti tempo**
-
-Per sviluppare tutti questi aspetti ci vuole tempo: **goditi il viaggio**. Stai scoprendo la tua voce, unica e particolare. La musica non è uno sport competitivo, ma un linguaggio per comunicare le tue emozioni. 
-
-Non devi né battere tutti né sentirti sconfitto perché non suoni come Joe Pass e Pat Metheny. La musica improvvisata è un veicolo incredibile per connettersi con la propria interiorità e per poterla comunicare agli altri.
-
-Ad un certo punto, durante il viaggio, ti accorgerai **che non c'è abbastanza tempo per fare tutto**. Le possibilità di esprimersi creativamente attraverso la musica **sono infinite**. 
-
-Invece di provare ad impadronirti di tutto, **dovrai decidere su cosa investire il tuo tempo**. 
-
-L'inizio della creazione di uno stile personale avviene quando si sceglie **che cosa studiare e come**.
-
-In ogni caso sarai *tu* a dover prendere le decisioni importanti. Tutto quello che possono fare le innumerevoli fonti, libri, corsi e insegnanti è  di offrirti le loro idee ed un metodo da applicare al tuo studio *ma* la responsabilità di riunire le idee, i libri, i metodi e le esperienze musicali in uno stile personale e coeso **sarà solamente tua**. Non fare affidamento su una sola sorgente. La musica è aperta quanto la gente: bisogna percorrere più di una strada.
-
-Studia ed impara **tanti brani**. Assicurati di saperli a memoria! Trascrivi i temi e se ci riesci anche gli assoli dei tuoi musicisti preferiti (anche solo piccole porzioni): è un'ottima tecnica per sviluppare orecchio e competenza teorica.
-
-Suona in jam session. Organizza con gli amici sessioni in cui suonare e studiare insieme. E soprattutto, appena possibile inizia a suonare in una band. Divertiti. Lo scopo non è quello di arrivare in fondo al cammino il più presto possibile, ma quello di godere di ogni esperienza compiuta durante il viaggio. Il fine ultimo è lo stesso del fare musica: non correre per arrivare alla fine, ma donare bellezza e significato al momento presente.
-
-Ti auguro buona fortuna per la tua avventura musicale! La bellezza della musica è che più si vive, più essa si approfondisce. **Non c'è un traguardo**. Non stai inquinando il pianeta con qualche tipo di scoria e non stai danneggiando nessuno cercando di accumulare beni materiali.
-
-A prescindere dal tuo livello, la musica ti permette di essere creativo. Stai esprimendo la tua esistenza in quanto **spirito unico**, comunicando con altri in maniera squisitamente umana. Che cosa sia la musica e da dove essa provenga sono domande che si pongono i filosofi, ma il fatto che questo sia un *mistero* non ci impedisce di goderne i benefici.
-
+Non c'è un traguardo da raggiungere e nessuno con cui gareggiare. C'è una pratica che dura tutta la vita e che, se la tratti bene, diventa ogni anno più interessante.
 
 Cosa significa “praticare”?
 ----------------------------
@@ -173,27 +152,15 @@ La domanda dello studio non è “suona bene?”
 
 È: “sta migliorando?”
 
-Non è tutto divertimento. La musica è una forma d'arte da godere. Tuttavia, praticare la musica è una forma d'arte che dovrebbe farti sentire un po' a disagio. 
-Stai cercando di imparare qualcosa di nuovo: come potresti sentirti come se ci fossi già passato?
+Lo studio non deve per forza essere piacevole in ogni momento. Se stai imparando qualcosa di nuovo, un po' di fatica è il segnale che sei nel posto giusto: ciò che è già comodo non ti sta insegnando nulla. Il piacere lo trovi nell'ascolto e nel suonare; nello studio cerca attenzione e continuità, e annota i passi avanti quando arrivano.
 
-Cerca il piacere nell'ascolto della musica, ma cerca **concentrazione, dedizione, determinazione ed efficacia** nelle tue sessioni di studio.
+Cinque attenzioni da portare in ogni sessione:
 
-Dedica un momento separato alla creatività, al suonare e all'improvvisare. Il piacere arriverà di conseguenza, come risultato del fatto che riuscirai a esprimerti con maggiore facilità. 
-
-È un sottoprodotto di una pratica costante e consapevole. 
-
-Prenditi sempre il tempo per celebrare i tuoi progressi... e continua a spingere.
-
-**Studia in modo consapevole.**
-
-Questo concetto copre molti aspetti, ma questi sono i punti chiave:
-
-- **Sii consapevole del suono che produci**. Dopotutto, siamo qui per produrre suono. Non si tratta solo dell'attrezzatura: mi riferisco al suono che produciamo anche senza amplificatore. Si tratta di rispettare il senso stesso dell'esperienza d'ascolto, della musica in quanto tale.
-- **Non limitarti a eseguire gli esercizi: analizzali**. Comprendi perché ogni nota funziona all'interno dell'accordo o della progressione e osservane la funzione intervallare.
-- **Fai attenzione alle tensioni nel corpo**. Potrebbe essere un argomento da masterclass, ma per ora basta dire che la maggior parte degli ostacoli tecnici che incontri nello studio deriva da tensioni corporee.
-- **Concentrati sul ritmo**. Considera ogni esercizio come un'opportunità per sviluppare un forte senso del tempo e del ritmo. L'esercizio da solo non lo farà per te. Anche quando qualcosa è facile, punta a eseguire tempo e ritmo in modo impeccabile. Il ritmo è probabilmente uno degli elementi fondamentali della musica: anche quando un passaggio è “rubato”, si percepisce comunque una qualità ritmica sottostante rispetto al rumore casuale.
-- **Sii creativo**. Per me è l'elemento più importante dello studio. Applica tutto ciò che impari nelle tue composizioni. Non è necessario scrivere brani completi: può essere un nuovo esercizio, un lick, oppure reinventare un esercizio esistente cambiando stile, ritmo, tonalità o tempo.
-- **Registrati**. Studiare può essere un processo impegnativo. Registrare le tue sessioni può essere molto utile: non solo ti permette di ascoltare i progressi e individuare le aree critiche, ma ti aiuta anche nei momenti in cui ti sembra di non migliorare. È un ottimo modo per metterti nei panni dell'ascoltatore e renderti conto dei passi avanti fatti.
+- **Ascolta il suono che produci**, anche a chitarra spenta: attacco, durata e volume di ogni nota fanno parte dell'esercizio.
+- **Sappi che cosa stai suonando.** Per ogni nota chiediti che grado è rispetto all'accordo o alla tonalità; un esercizio di cui conosci il senso si trasferisce più facilmente in musica.
+- **Controlla il corpo.** Spalle, polsi e mano sinistra si irrigidiscono senza avvisare, e quasi ogni ostacolo tecnico parte da lì. Se senti tensione, rallenta prima di insistere.
+- **Tieni il tempo anche quando è facile.** Un esercizio semplice è l'occasione perfetta per curare dove cadono le note; il metronomo non lo farà al posto tuo.
+- **Inventa una variante.** Cambia ritmo, tonalità o direzione a un esercizio che conosci, oppure ricavane una frase di due battute. È il passaggio che trasforma il materiale in qualcosa di tuo.
 
 **Suonare** è una cosa diversa da studiare. Suonare è stare nella musica senza
 pretendere di ottimizzare tutto. È fare frasi, esplorare, improvvisare,

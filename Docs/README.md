@@ -85,4 +85,6 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [Contenuti mancanti segnalati dalla revisione](analisi/020-contenuti-mancanti-revisione.md) — pentatoniche, scala blues e scale bebop nel capitolo Scale, arpeggio m7♭5, gruppi 13 e Δ7 della famiglia maggiore sulla prima corda; poi commenti di tutta la famiglia maggiore, mappe dal Do superiore e due studi sulle scale derivate; test `tests/test_materiali_aggiunti.py`, 13 novembre 2026.
 
+- Introduzione riscritta da zero nelle sezioni «Iniziamo bene» e «Studia in modo consapevole» (voce da manuale tradotto, fonte non identificata); dettagli in `../appunti-teoria/Docs/analisi/011-riscrittura-passaggi-tradotti.md`, 13 novembre 2026.
+
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuazione non avviata. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.

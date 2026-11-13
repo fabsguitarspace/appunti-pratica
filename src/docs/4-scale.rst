@@ -519,7 +519,27 @@ Una **scala bebop** aggiunge una nota cromatica di passaggio a una scala di sett
       <source src="_static/music/scala-bebop-maggiore-verticale-c2.mp3" type="audio/mp3">
    </audio>
 
-**Bebop minore.** Sulla dorica circolano due varianti. La prima aggiunge la settima maggiore: **Do–Re–Mi♭–Fa–Sol–La–Si♭–Si**; scendendo dal Do sui movimenti cadono Do, Si♭, Sol e Mi♭, le note di Cm7. La seconda aggiunge la terza maggiore: **Do–Re–Mi♭–Mi–Fa–Sol–La–Si♭**, le stesse note del bebop di dominante di Fa, utile quando pensi Cm7–F7 come un unico blocco. Non c'è una mappa scritta: costruisci entrambe con il metodo descritto all'inizio del capitolo, partendo dalla dorica che conosci già, e verifica quali note cadono sui movimenti.
+**Bebop minore.** Sulla dorica circolano due varianti. La prima aggiunge la settima maggiore: **Do–Re–Mi♭–Fa–Sol–La–Si♭–Si**; scendendo dal Do sui movimenti cadono Do, Si♭, Sol e Mi♭, le note di Cm7. La seconda aggiunge la terza maggiore: **Do–Re–Mi♭–Mi–Fa–Sol–La–Si♭**, le stesse note del bebop di dominante di Fa, utile quando pensi Cm7–F7 come un unico blocco. Le due mappe seguono nello stesso ordine: prima la dorica con la settima maggiore, poi quella con la terza maggiore. Suonandole in discesa dal Do, verifica quali note cadono sui movimenti: nella prima Do, Si♭, Sol e Mi♭; nella seconda Do, La, Fa e Mi♭, le note di F7, l'accordo che nel II–V Cm7–F7 sta arrivando.
+
+.. image:: 
+   _static/music/scala-bebop-minore-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-minore-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/scala-bebop-dorica-verticale-c1.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-dorica-verticale-c1.mp3" type="audio/mp3">
+   </audio>
 
 **Come verificare.** Metti il metronomo sui quarti e scendi in ottavi dal Do. Se su un movimento senti una nota che non appartiene all'accordo, hai perso un ottavo o hai saltato la nota di passaggio. Poi parti da un'altra nota dell'accordo, sempre sul battere: se parti da una nota di passaggio o su un levare, aggiungi o togli un cromatismo per rimettere in fase la linea. Il lick :ref:`lick-d03` applica proprio questa discesa a G7. Due studi con spartito e audio sono in :ref:`esercizi-scale-derivate`.
 
@@ -1049,6 +1069,45 @@ Due studi portano in musica le mappe di :ref:`scale-derivate`. Restano nella ste
 
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-derivate-02-90.mp3" type="audio/mpeg">
+   </audio>
+
+.. _esercizi-fuori-da-do:
+
+Fuori da Do
+~~~~~~~~~~~
+
+Tutti gli studi precedenti restano in Do. Questo porta la stessa cellula, i gruppi di quattro note ascendenti, in **Fa maggiore** e in **Sol maggiore** senza cambiare zona della tastiera: è il modo più rapido per accorgersi se stai suonando note o soltanto un disegno.
+
+1. Gruppi di quattro in Fa e in Sol
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Trasportare una sequenza conosciuta restando nella stessa posizione, cambiando le note e non la mano.
+
+**Procedura.** Le prime due battute salgono per gruppi di quattro in Fa maggiore, da Fa fino a Mi; la terza e la quarta fanno lo stesso in Sol maggiore partendo dal Re; l'ultima battuta chiude su Sol. Prima di suonare, nomina l'alterazione di ciascuna tonalità: il Si♭ in Fa, il Fa♯ in Sol. Studia una tonalità alla volta, poi collegale.
+
+**Ascolto.** Il disegno della mano cambia poco, le note cambiano: ascolta in particolare il Si♭ della prima metà e il Fa♯ della seconda. Se uno dei due ti sembra fuori posto, stai ancora suonando la diteggiatura di Do.
+
+**Varianti.** Scendi per gruppi di quattro nelle stesse tonalità. Poi aggiungi una terza tonalità vicina sul circolo delle quinte, Si♭ o Re, e cerca la stessa sequenza nella stessa posizione.
+
+**Verifica.** Riesci a passare da Fa a Sol senza fermarti, dicendo ad alta voce il nome della prima nota di ogni gruppo?
+
+.. image:: _static/music/scale-trasposte-01.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-trasposte-01.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-trasposte-01-90.mp3" type="audio/mpeg">
    </audio>
 
 Trasportare e cambiare scala

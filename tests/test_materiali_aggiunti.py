@@ -24,6 +24,8 @@ SCALES = {
         'scala-bebop-dominante-verticale-c1': ([0, 2, 4, 5, 7, 9, 10, 11], '4-scale.rst'),
         'scala-bebop-maggiore-verticale-c1': ([0, 2, 4, 5, 7, 8, 9, 11], '4-scale.rst'),
     }.items()},
+    'scala-bebop-minore-verticale-c1': ([0, 2, 3, 5, 7, 9, 10, 11], '4-scale.rst'),
+    'scala-bebop-dorica-verticale-c1': ([0, 2, 3, 4, 5, 7, 9, 10], '4-scale.rst'),
     'arpeggio-cm7f5-1': ([0, 3, 6, 10], '5-arpeggi.rst'),
     'arpeggio-cm7f5-2': ([0, 3, 6, 10], '5-arpeggi.rst'),
 }
@@ -129,6 +131,26 @@ class StudiScaleDerivateTest(unittest.TestCase):
                 self.assertTrue((MUSIC / f'{stem}.mp3').is_file(), stem)
                 self.assertIn(f'_static/music/{stem}.mp3', doc)
             self.assertTrue((MUSIC / f'scale-derivate-{n}.svg').is_file())
+
+
+class StudioTraspostoTest(unittest.TestCase):
+    def test_transposed_study_stays_in_key_and_is_referenced(self):
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            'advanced_scales_t', ROOT / 'scripts/generate_advanced_scales.py')
+        gen = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(gen)
+        events = gen.TRANSPOSED[0][1]
+        f_major, g_major = {5, 7, 9, 10, 0, 2, 4}, {7, 9, 11, 0, 2, 4, 6}
+        self.assertTrue(all(e['pitch'] % 12 in f_major for e in events[:16]))
+        self.assertTrue(all(e['pitch'] % 12 in g_major for e in events[16:]))
+        source = (LY / 'scale-trasposte-01.ly').read_text(encoding='utf-8')
+        self.assertIn('fs', source)
+        self.assertNotIn('gf', source)
+        doc = (DOCS / '4-scale.rst').read_text(encoding='utf-8')
+        for stem in ('scale-trasposte-01', 'scale-trasposte-01-90'):
+            self.assertIn(f'_static/music/{stem}.mp3', doc)
+            self.assertTrue((MUSIC / f'{stem}.mp3').is_file())
 
 
 if __name__ == '__main__':

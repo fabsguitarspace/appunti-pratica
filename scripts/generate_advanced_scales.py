@@ -3,7 +3,8 @@
 
 Run from any directory: python3 scripts/generate_advanced_scales.py
 After building the assets, run with --collect-pdf to assemble the PDF booklet.
-Generated scale-avanzati-01..08[-90].ly and scale-derivate-01..02[-90].ly
+Generated scale-avanzati-01..08[-90].ly, scale-derivate-01..02[-90].ly and
+scale-trasposte-01[-90].ly
 must not be edited by hand.
 Pitch, rhythm, strings and accents share one definition for Staff/Tab/MIDI.
 """
@@ -18,11 +19,11 @@ UPPER = {60: 4, 62: 4, 64: 3, 65: 3, 67: 2, 69: 2, 71: 2, 72: 1}
 NAMES = {0: 'c', 2: 'd', 3: 'ef', 4: 'e', 5: 'f', 6: 'gf', 7: 'g', 8: 'gs', 9: 'a', 10: 'bf', 11: 'b'}
 
 
-def note(pitch, duration=8, *, accent=False, mark='', upper=False):
+def note(pitch, duration=8, *, accent=False, mark='', upper=False, spell=None):
     string = (UPPER if upper else STRINGS)[pitch]
     fret = pitch - OPEN[string]
     assert 5 <= fret <= 12, (pitch, string, fret)
-    return dict(pitch=pitch, duration=duration, string=string, accent=accent, mark=mark)
+    return dict(pitch=pitch, duration=duration, string=string, accent=accent, mark=mark, spell=spell)
 
 
 def rest(duration):
@@ -91,13 +92,22 @@ DERIVED = [
         for k, p in enumerate([72, 71, 69, 68, 67, 65, 64, 62])]
      + end()),
 ]
+# Out of C: the same groups of four in F major and G major, same position.
+TRANSPOSED = [
+    ('Gruppi di quattro in Fa e in Sol',
+     [note(p, mark='Fa maggiore' if k == 0 else '')
+      for k, p in enumerate([65, 67, 69, 70, 67, 69, 70, 72, 69, 70, 72, 74, 70, 72, 74, 76])]
+     + [note(p, mark='Sol maggiore' if k == 0 else '', spell='fs' if p == 66 else None)
+        for k, p in enumerate([62, 64, 66, 67, 64, 66, 67, 69, 66, 67, 69, 71, 67, 69, 71, 72])]
+     + [note(67, 1)]),
+]
 STUDIES[2][1][0]['mark'] = 'Quarte'
 STUDIES[2][1][25]['mark'] = 'Seste'
 STUDIES[5][1][0]['mark'] = 'V posizione'
 
 
-def lily_pitch(pitch):
-    return NAMES[pitch % 12] + "'" * (pitch // 12 - 4)
+def lily_pitch(pitch, spell=None):
+    return (spell or NAMES[pitch % 12]) + "'" * (pitch // 12 - 4)
 
 
 def music(events):
@@ -109,7 +119,7 @@ def music(events):
         if event['pitch'] is None:
             token = f'r{duration}'
         else:
-            token = f"{lily_pitch(event['pitch'])}{duration}\\{event['string']}"
+            token = f"{lily_pitch(event['pitch'], event.get('spell'))}{duration}\\{event['string']}"
             if event['accent']:
                 token += '->'
             if event['mark']:
@@ -187,7 +197,11 @@ def main():
         for tempo, suffix in [(60, ''), (90, '-90')]:
             path = ROOT / f'src/lilypond/scale-derivate-{number:02}{suffix}.ly'
             path.write_text(source(number, title, events, tempo))
-    print('Generated 20 LilyPond sources; validated bar lengths and string/fret ranges.')
+    for number, (title, events) in enumerate(TRANSPOSED, 1):
+        for tempo, suffix in [(60, ''), (90, '-90')]:
+            path = ROOT / f'src/lilypond/scale-trasposte-{number:02}{suffix}.ly'
+            path.write_text(source(number, title, events, tempo))
+    print('Generated 22 LilyPond sources; validated bar lengths and string/fret ranges.')
 
 
 if __name__ == '__main__':

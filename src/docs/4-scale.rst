@@ -563,9 +563,9 @@ Esercizi avanzati
 
 Questi otto studi proseguono gli esercizi di base con cambi di direzione, salti, spostamenti ritmici e collegamenti sulla tastiera. Parti quando riesci a mantenere una pulsazione comoda nelle sequenze di base e a riconoscere le note che stai suonando. Non occorre aumentare la velocità per rendere utile il lavoro.
 
-Ogni esempio presenta **pentagramma e tablatura allineati**, in accordatura standard Mi–La–Re–Sol–Si–Mi. Il pentagramma usa la consueta chiave di violino ottavizzata della chitarra. La tablatura indica corde e tasti di una soluzione possibile; i numeri non rappresentano le dita. La prima corda è il Mi cantino. Prima segui la soluzione proposta, poi cerca un’alternativa mantenendo le stesse altezze.
+Ogni esempio presenta **pentagramma e tablatura allineati**, con le convenzioni descritte in :doc:`leggere-gli-esempi`.
 
-Gli audio sono disponibili a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari. Quattro impulsi sul Do acuto precedono l’inizio dello spartito: conta «uno, due, tre, quattro». Il conteggio iniziale non è una battuta aggiuntiva da suonare. Il timbro è sintetizzato; il riferimento a 90 BPM serve al confronto e non costituisce una velocità obbligatoria. Se 60 BPM sono troppi, studia più lentamente con il metronomo.
+Gli audio sono disponibili a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari; il riferimento a 90 BPM serve al confronto.
 
 Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel settimo. Lavora su un esercizio per volta e modifica un solo vincolo quando diventa chiaro.
 

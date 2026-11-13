@@ -32,13 +32,13 @@ Un **giro** è un passaggio completo attraverso il percorso scelto. Nel blues e 
 Spartiti, tablature e audio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gli spartiti presentano pentagramma e tablatura allineati, in accordatura standard. La chiave di violino ottavizzata è quella della chitarra. La TAB indica corde e tasti di una soluzione possibile, non le dita. Negli accompagnamenti essenziali gli **shell hanno tre note esclusivamente sulle corde 6–4–3 o 5–4–3**, come nella sezione :ref:`shell-voicings`.
+Per pentagramma, tablatura e audio valgono le convenzioni di :doc:`leggere-gli-esempi`. Negli accompagnamenti essenziali gli **shell hanno tre note esclusivamente sulle corde 6–4–3 o 5–4–3**, come nella sezione :ref:`shell-voicings`.
 
 Semidiminuiti, dominanti con nona minore, diminuiti completi e il vamp modale usano invece voicing a quattro note per esplicitare i suoni necessari: non sono presentati come shell. I diagrammi delle forme di riferimento restano nel capitolo :doc:`6-accordi`; qui la TAB segue il percorso effettivamente suonato.
 
-Ogni audio inizia con **quattro impulsi sul Do acuto**. La pulsazione è di **60 BPM**, con il quarto come unità; i riferimenti in ottavi sono regolari, senza swing automatico. Gli accordi durano quanto scritto e vanno riarticolati quando una sigla si ripete nella battuta successiva. Le registrazioni sintetizzate illustrano note e durate: non sono esempi di interpretazione di un gruppo jazz.
+La pulsazione è di **60 BPM**, con il quarto come unità; i riferimenti in ottavi sono regolari, senza swing automatico. Gli accordi durano quanto scritto e vanno riarticolati quando una sigla si ripete nella battuta successiva.
 
-Negli esempi melodici delle note bersaglio e dello studio finale senti anche gli accordi, a volume più basso. Negli altri esempi suona la sola parte di accompagnamento. Le tre basi alla fine del capitolo sono pensate per aggiungere la tua linea. Ogni file esegue un solo percorso, senza ripetizioni nascoste; il conteggio iniziale non fa parte della forma.
+Negli esempi melodici delle note bersaglio e dello studio finale senti anche gli accordi, a volume più basso. Negli altri esempi suona la sola parte di accompagnamento. Le tre basi alla fine del capitolo sono pensate per aggiungere la tua linea. Ogni file esegue un solo percorso, senza ripetizioni nascoste.
 
 Una procedura per ogni progressione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -481,7 +481,7 @@ Nell’ultima battuta Fa–Re–Si appartengono a G7; il Do lungo comincia sul t
 Basi per studiare senza la parte scritta
 ------------------------------------------
 
-Le basi usano gli accordi lunghi degli esempi, senza una melodia da imitare. Il conteggio iniziale è sempre di quattro impulsi. La prima contiene due giri di II–V–I maggiore, otto battute; la seconda due giri del percorso minore, otto battute; la terza un chorus del blues di base, dodici battute.
+Le basi usano gli accordi lunghi degli esempi, senza una melodia da imitare. La prima contiene due giri di II–V–I maggiore, otto battute; la seconda due giri del percorso minore, otto battute; la terza un chorus del blues di base, dodici battute.
 
 **II–V–I maggiore — otto battute**
 

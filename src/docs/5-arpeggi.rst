@@ -355,7 +355,7 @@ Esercizi
 
 Un arpeggio diventa utile quando sai riconoscere le note dell’accordo, partire da punti diversi e collegarle senza perdere il tempo. Non serve eseguire tutta la raccolta in una sessione: scegli uno studio e lavora prima su una o due battute.
 
-Gli esempi presentano **pentagramma e tablatura allineati**, in accordatura standard Mi–La–Re–Sol–Si–Mi. La prima corda è il Mi cantino. La tablatura indica corde e tasti di una soluzione possibile; i numeri non sono le dita. Il pentagramma usa la consueta chiave di violino ottavizzata della chitarra. Prima segui il percorso proposto; in seguito cerca un’alternativa conservando le stesse altezze.
+Gli esempi presentano **pentagramma e tablatura allineati**, con le convenzioni descritte in :doc:`leggere-gli-esempi`.
 
 Come lavorare
 ~~~~~~~~~~~~~
@@ -367,7 +367,7 @@ Come lavorare
 #. Cambia un solo elemento: partenza, ritmo, zona della tastiera o tonalità.
 #. Chiudi inventando e ripetendo una breve frase con il materiale studiato.
 
-Ogni audio comprende **quattro impulsi sul Do acuto** prima dell’inizio dello spartito: conta «uno, due, tre, quattro». Gli esempi sono a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari, senza swing. I 90 BPM sono un riferimento per il confronto, non una velocità obbligatoria. Se necessario rallenta ulteriormente con il metronomo. Il suono è sintetizzato e la parte melodica è sola, anche negli studi sulle progressioni.
+Gli esempi sono a **60 e 90 BPM**, con il quarto come pulsazione e ottavi regolari, senza swing. La parte melodica è sola, anche negli studi sulle progressioni.
 
 Esercizi di base
 ~~~~~~~~~~~~~~~~

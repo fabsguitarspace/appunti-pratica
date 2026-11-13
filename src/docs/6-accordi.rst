@@ -115,9 +115,9 @@ Il numero di note non rende uno shell una triade: una triade maggiore o minore u
 
 Le forme sono particolarmente utili per accompagnare: permettono di seguire le voci interne e lasciano spazio alla melodia. Qui sviluppiamo sempre **tre voci**, con basso di **tonica, terza o quinta**. Per mettere la quinta al basso conservando terza e settima omettiamo la fondamentale: il contesto deve rendere chiaro l’accordo di riferimento. Le voci interne che seguono terza e settima sono dette note guida.
 
-In questa sezione chiamiamo shell soltanto le forme a tre note sulle corde **6–4–3** oppure **5–4–3**. Le voci superiori sono quindi sempre sulle corde quarta e terza; il basso è sulla sesta oppure sulla quinta. La prima e la seconda corda restano mute. Gli esempi hanno diagramma, pentagramma e tablatura nello stesso stile del capitolo. Le corde con «x» restano mute; i numeri indicano tasti, non dita. Tutte le forme proposte sono trasportabili e non usano corde a vuoto. Nona, undicesima e tredicesima non compaiono al basso.
+In questa sezione chiamiamo shell soltanto le forme a tre note sulle corde **6–4–3** oppure **5–4–3**. Le voci superiori sono quindi sempre sulle corde quarta e terza; il basso è sulla sesta oppure sulla quinta. La prima e la seconda corda restano mute. Gli esempi hanno diagramma, pentagramma e tablatura (vedi :doc:`leggere-gli-esempi`). Tutte le forme proposte sono trasportabili e non usano corde a vuoto. Nona, undicesima e tredicesima non compaiono al basso.
 
-Negli audio, **quattro impulsi sul Do acuto** precedono lo spartito. Ogni accordo dura quattro pulsazioni a **60 BPM**, con timbro sintetizzato e senza accompagnamento. Negli esempi con sigle ripetute, riarticola l’accordo all’inizio della battuta successiva.
+Negli audio ogni accordo dura quattro pulsazioni a **60 BPM**, senza accompagnamento. Negli esempi con sigle ripetute, riarticola l’accordo all’inizio della battuta successiva.
 
 Le note che definiscono la sonorità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -494,11 +494,11 @@ La famiglia minore comprende sonorità diverse. **m7** contiene terza minore e s
 
 Nona e undicesima sono colori utili da confrontare; sesta naturale e settima maggiore richiedono una scelta più precisa del contesto. Qui non rappresentano un’unica scala minore da applicare a tutti gli accordi. In particolare, una melodia con sesta minore richiede una scelta diversa da quelle con sesta naturale illustrate sotto.
 
-**Come leggere gli esempi.** Diagramma, pentagramma e tablatura descrivono le stesse quattro note. Le corde segnate con «x» non vanno suonate: usa dita o plettro e dita per selezionare quelle indicate. I numeri della tablatura sono tasti, non dita. Nei nuovi voicing il basso è una fondamentale, una terza, una quinta o una settima; nona, undicesima e tredicesima restano nelle voci superiori. Le forme non usano corde a vuoto e possono essere trasportate; scegli comunque una posizione comoda per la tua mano.
+**Come leggere gli esempi.** Diagramma, pentagramma e tablatura descrivono le stesse quattro note. Le corde segnate con «x» non vanno suonate: usa dita o plettro e dita per selezionare quelle indicate. Nei nuovi voicing il basso è una fondamentale, una terza, una quinta o una settima; nona, undicesima e tredicesima restano nelle voci superiori. Le forme non usano corde a vuoto e possono essere trasportate; scegli comunque una posizione comoda per la tua mano.
 
 La sigla indica l’accordo di riferimento, anche quando il basso del voicing non è la fondamentale. Accanto alle sigle nel testo trovi «senza R» quando la fondamentale è omessa. Può mancare anche la quinta o un’estensione non essenziale: una sigla di tredicesima non richiede che tutte le note fino alla tredicesima siano presenti. Canta o suona la fondamentale separatamente prima di confrontare i voicing senza R.
 
-**Audio.** Quattro impulsi sul Do acuto precedono ciascun esempio. Ogni voicing dura quattro pulsazioni a **60 BPM**, senza accompagnamento: ascolta il canto che rimane fermo e il colore che cambia sotto. Il timbro è sintetizzato. Parti anche più lentamente se una disposizione richiede attenzione.
+**Audio.** Ogni voicing dura quattro pulsazioni a **60 BPM**, senza accompagnamento: ascolta il canto che rimane fermo e il colore che cambia sotto. Parti anche più lentamente se una disposizione richiede attenzione.
 
 R sulla 2ª corda
 ^^^^^^^^^^^^^^^^
@@ -767,7 +767,7 @@ Nei voicing di dominante non sospesi sono presenti **terza maggiore e settima mi
 
 La **11 naturale** è qui sviluppata come **sus4**, sostituendo la terza maggiore con la quarta. La **♯11** mantiene invece la terza maggiore ed è una scelta distinta. Le sezioni su ♭9, ♯9 e ♭13 mostrano combinazioni precise: le tensioni non sono un insieme da aggiungere indiscriminatamente a ogni sigla 7.
 
-Resta valida l’indicazione «senza R» per le forme senza fondamentale. Negli audio ogni voicing dura quattro pulsazioni a 60 BPM, dopo il conteggio iniziale.
+Resta valida l’indicazione «senza R» per le forme senza fondamentale.
 
 R sulla 2ª corda
 ^^^^^^^^^^^^^^^^
@@ -1152,7 +1152,7 @@ Le famiglie che seguono sono quelle che tornano di continuo negli arrangiamenti 
 #. **Tre voci: basso, nota guida, melodia**: la soluzione più leggera e più mobile, cara a Joe Pass. È quella che permette di non perdere mai il tempo.
 #. **Diminuiti di passaggio e scala di sesta diminuita**: il modo più efficace per armonizzare le note che *non* appartengono all’accordo senza fermare la melodia.
 
-Gli esempi usano lo stesso formato del capitolo: diagramma, pentagramma, tablatura e audio a 60 BPM dopo quattro impulsi. Le forme non usano corde a vuoto e si trasportano spostandole lungo il manico. Quando le corde suonate non sono adiacenti, usa le dita o il plettro con le dita (*hybrid picking*): nel chord melody è la norma, non l’eccezione.
+Gli esempi usano lo stesso formato del capitolo: diagramma, pentagramma, tablatura e audio a 60 BPM. Le forme non usano corde a vuoto e si trasportano spostandole lungo il manico. Quando le corde suonate non sono adiacenti, usa le dita o il plettro con le dita (*hybrid picking*): nel chord melody è la norma, non l’eccezione.
 
 .. important::
 

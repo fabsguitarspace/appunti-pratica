@@ -44,13 +44,13 @@ In questo modo il lick diventa una scelta dentro il giro. Se perdi il punto dell
 Come leggere e ascoltare gli esempi
 -------------------------------------
 
-Ogni spartito ha **pentagramma e tablatura allineati**, in accordatura standard. I numeri sono tasti, non dita; la chiave di violino ottavizzata è quella della chitarra. La TAB offre una soluzione di riferimento: nel registro più alto usa anche la prima corda oltre il dodicesimo tasto. Studia lentamente i cambi di posizione e cerca un’alternativa quando una soluzione non è comoda per la tua mano.
+Per pentagramma, tablatura e audio valgono le convenzioni di :doc:`leggere-gli-esempi`. Nel registro più alto la TAB usa anche la prima corda oltre il dodicesimo tasto. Studia lentamente i cambi di posizione e cerca un’alternativa quando una soluzione non è comoda per la tua mano.
 
 Le sigle indicano una battuta ciascuna. I licks M, N e D durano **due battute**; P e B ne durano **quattro**. M indica maggiore, N minore, D dominante, P progressione e B blues. Le sigle Cmaj7 e Cm(maj7) corrispondono a CΔ e CmΔ usate nelle mappe degli accordi.
 
-Gli audio sono a **90 BPM**, preceduti da quattro impulsi sul Do acuto. La melodia è accompagnata da accordi più piano. Gli ottavi sono scritti convenzionalmente e riprodotti con **swing 2:1**: il primo ottavo occupa due terzi del movimento, il secondo un terzo. È un riferimento ritmico regolare per lo studio; il fraseggio suonato richiede anche accenti, articolazione e ascolto. Non trasferire questo rapporto fisso a qualsiasi tempo o registrazione.
+Gli audio sono a **90 BPM**. La melodia è accompagnata da accordi più piano. Gli ottavi sono scritti convenzionalmente e riprodotti con **swing 2:1**: il primo ottavo occupa due terzi del movimento, il secondo un terzo. Il fraseggio suonato richiede anche accenti, articolazione e ascolto.
 
-Il conteggio iniziale non appartiene alla frase. Il file esegue il lick una sola volta: attendi tutte le durate prima di ripartire. Le basi di Progressioni sono a 60 BPM e usano accordi lunghi; puoi provarci i licks più lentamente mantenendo lo swing con il tuo gesto, senza cercare di sincronizzare i due file audio.
+Le basi di Progressioni sono a 60 BPM e usano accordi lunghi; puoi provarci i licks più lentamente mantenendo lo swing con il tuo gesto, senza cercare di sincronizzare i due file audio.
 
 Avvicinare un bersaglio
 ~~~~~~~~~~~~~~~~~~~~~~~~~

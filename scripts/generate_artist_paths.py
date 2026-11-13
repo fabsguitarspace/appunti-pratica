@@ -53,11 +53,10 @@ o pagine degli artisti; l’ascolto integrale dipende dal servizio scelto.
 Lettura e audio
 --------------
 
-La chitarra è scritta in chiave di violino ottavizzata, con TAB in
-accordatura standard. I numeri indicano tasti, non dita. Nelle ottave
-si devono smorzare le corde intermedie; le voci sovrapposte di Joe Pass
-richiedono di rispettare le durate indipendenti e le corde indicate.
-Le posizioni sono soluzioni di riferimento, da adattare con criterio.
+Per pentagramma, TAB e audio valgono le convenzioni di
+:doc:`leggere-gli-esempi`. Nelle ottave si devono smorzare le corde
+intermedie; le voci sovrapposte di Joe Pass richiedono di rispettare le
+durate indipendenti e le corde indicate.
 
 Ogni esempio parte dopo **una battuta di conteggio** al charleston:
 quattro quarti in 4/4, cinque quarti in 5/4, sette crome in 7/8.
@@ -65,19 +64,16 @@ Il tempo ordinario è semiminima = **76**; i due esempi in 7/8 del
 percorso McLaughlin sono a semiminima = **84**. La descrizione di ogni
 esercizio specifica metro e interpretazione ritmica.
 
-Negli esempi swing le crome sono scritte convenzionalmente e riprodotte
-con rapporto **2:1**, comprese quelle del ride; il rapporto è un modello
-di studio, non una misura universale dello swing. Negli altri esempi
-crome e semicrome sono regolari. Non eseguire automaticamente lo swing
-sui passaggi indicati come regolari e non riprodurre insieme due lettori.
+Negli esempi swing le crome sono riprodotte con rapporto **2:1**,
+comprese quelle del ride; negli altri esempi crome e semicrome sono
+regolari.
 
 Le versioni complete comprendono chitarra, sostegno armonico, basso e
 batteria. **Nel percorso Joe Pass sono per sola chitarra**, dopo il
 conteggio iniziale. Le basi finali degli altri nove percorsi tolgono
 la chitarra scritta e conservano la sezione ritmica; quella di Joe Pass
 fornisce soltanto quattro impulsi per battuta, perché basso e accordi
-devono essere eseguiti da te. Ogni audio percorre la forma una volta;
-attendi la coda e il nuovo conteggio prima di ricominciare.
+devono essere eseguiti da te.
 
 Per le relazioni armoniche e ritmiche consulta `Ascoltare e analizzare
 i percorsi d’autore nel volume di Teoria

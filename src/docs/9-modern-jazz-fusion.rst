@@ -30,16 +30,13 @@ I **12 studi originali** hanno pentagramma e tablatura in accordatura
 standard, una versione completa e una base. La base conserva accordi
 lunghi, basso e batteria; toglie soltanto la parte di chitarra scritta.
 Nello studio 03 quella parte è un accompagnamento ad accordi: usa la
-base per suonarlo tu. I timbri sono sintetici, pensati come riferimento
-per intonazione, incastri e forma.
+base per suonarlo tu.
 
 Gli ottavi e i sedicesimi sono **regolari**, senza lo swing automatico
 dei licks del capitolo precedente. Il tempo è 80 BPM, salvo il 7/8
 (semiminima = 84) e la modulazione metrica (80 → 120). Una battuta di
 conteggio precede ogni esempio: quattro quarti in 4/4, cinque in 5/4,
-sette ottavi in 7/8. Il conteggio non appartiene allo spartito.
-Gli audio eseguono la forma una volta; per ripeterli attendi la coda e
-riparti dal conteggio. Non sovrapporre due lettori audio.
+sette ottavi in 7/8.
 
 Prima canta la parte sulla versione completa, poi suonala sulla base.
 La TAB propone una posizione: controlla i passaggi di corda e prova

@@ -261,19 +261,29 @@ Quando vai lento (davvero lento), succede l'opposto:
 Il risultato è che la musica va sotto le dita senza perdere l'orecchio.
 
 Il cervello è un ottimizzatore: cerca sempre il modo più economico per
-ottenere un risultato. Se gli dai roba troppo pronta:
+ottenere un risultato. Se gli dai qualcosa di troppo pronto (una forma
+da copiare, un disegno da inseguire):
 
 - copia la forma
 - spegne l'ascolto
 - e archivia tutto come “non importante”
 
-Ecco perché tanti esercizi imparati “in un pomeriggio” non restano: il
-cervello li ha catalogati come routine meccanica, non come abilità
-significativa.
+È come passare col dito su una strada già segnata: arrivi, sì, ma non
+impari la mappa. Ecco perché tanti esercizi imparati “in un pomeriggio”
+non restano: il cervello li ha catalogati come routine meccanica, non
+come abilità significativa.
 
-Lo sforzo giusto (quello che ti costringe a essere presente) è il
-segnale che dice al cervello: questa cosa vale la pena di essere
-conservata.
+Lo sforzo giusto è quello che ti costringe a essere presente:
+
+- scegliere una nota con intenzione
+- sentire dove stai andando
+- collegare suono, nome, posizione, gesto
+- correggerti mentre suoni
+
+È il segnale che dice al cervello: questa cosa vale la pena di essere
+conservata. Per questo in queste pagine evito, di proposito, tutto ciò
+che rende lo studio “troppo pronto”: vorrei che imparassi a costruire le
+forme, non a ricordarle.
 
    Il criterio giusto… non è “quanto veloce” È “quanto stabile”.
 
@@ -403,33 +413,3 @@ Evita di segnare:
 - promesse eroiche (“da domani 2 ore al giorno”)
 
 Il quaderno serve a ridurre il rumore, non ad aggiungerlo.
-
-Idea centrale: evitare la pigrizia del cervello
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Il cervello è bravissimo a risparmiare energia. Se gli dai qualcosa di
-troppo pronto (una forma da copiare, un disegno da inseguire), lui fa
-esattamente quello: **copia**.
-
-Funziona lì per lì… ma spesso non costruisce nulla che resti davvero. È
-come passare col dito su una strada già segnata: arrivi, sì, ma non
-impari la mappa.
-
-Lo sforzo giusto invece è un'altra cosa: è quello che ti costringe a:
-
-- scegliere una nota con intenzione
-- sentire dove stai andando
-- collegare suono, nome, posizione, gesto
-- correggerti mentre suoni
-
-Quello sforzo è il motivo per cui una cosa “rimane”.
-
-In queste pagine cerco di evitare, intenzionalmente, tutto ciò che rende
-lo studio “troppo pronto”.
-
-I risultati veri arrivano quando c'è un minimo di attrito: lo sforzo di
-capire, ricordare, ascoltare, collegare. È quello sforzo che crea
-competenza, non la ripetizione ipnotica. Vorrei che imparassi a
-costruire le forme e non a ricordarle.
-
-

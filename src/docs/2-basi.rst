@@ -243,19 +243,6 @@ Quando il “due” è debole o spostato male, succede questo:
 
 E qui arriva la cosa potente: se metti a posto il “due”, metti a posto mezzo mondo.
 
-Un esercizio semplice
-^^^^^^^^^^^^^^^^^^^^^
-
-Metti il metronomo lento e fai solo questo:
-
-- conta “1 2 3 4” a voce (puoi anche farlo in inglese se preferisci, “one two three four”)
-- batti il piede su tutti i battiti
-- poi batti le mani (o schiocca le dita) solo su “2” e “4”
-
-Non devi essere bravo. Devi essere stabile.
-
-Ora prendi la chitarra. Quando senti che il “due” è solido, prova a suonare una nota sola su “2”. Poi due note. Poi una frase (se ci riesci). Ma sempre con quel “due” ben piantato.
-
 Il motivo per cui cambia tutto è che il “due” è un punto di verità: ti obbliga a distribuire il tempo, non a puntare solo sul faro dell'“uno”.
 
 Il backbeat: la spina dorsale del groove
@@ -293,10 +280,13 @@ Un esercizio ridicolo ma potentissimo
 
 Metronomo lento. Non suoni niente.
 
-1. Conta a voce: **1 2 3 4**
+1. Conta a voce: **1 2 3 4**, e batti il piede su tutti i battiti
 2. Batti le mani solo su **2 e 4**
 3. Ora suona una sola nota su **2 e 4** (qualsiasi nota, non importa)
 4. Poi suona una nota su ogni battito... ma continua a “sentire” il backbeat come se le mani battessero ancora su 2 e 4
+5. Infine prova una frase breve, sempre con quel “due” ben piantato
+
+Non devi essere bravo. Devi essere stabile.
 
 Se quando inizi a suonare il backbeat sparisce, non è un fallimento: è l'esercizio che sta funzionando. Significa che hai trovato la cosa da allenare.
 

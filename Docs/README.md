@@ -87,4 +87,6 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - Introduzione riscritta da zero nelle sezioni «Iniziamo bene» e «Studia in modo consapevole» (voce da manuale tradotto, fonte non identificata); dettagli in `../appunti-teoria/Docs/analisi/011-riscrittura-passaggi-tradotti.md`, 13 novembre 2026.
 
+- [Chiusura dei punti della revisione editoriale](analisi/021-chiusura-revisione-editoriale.md) — commenti differenziati nel vocabolario, bebop minore, studio in Fa e in Sol, brano guida, mappa del capitolo Le basi, 13 novembre 2026.
+
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuazione non avviata. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.

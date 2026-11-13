@@ -31,8 +31,17 @@ Collegamenti aggiornati: introduzione del capitolo 4 (rimando a `scale-derivate`
 - Nuovo `tests/test_materiali_aggiunti.py` (4 test): note in salita di ogni scala e arpeggio, posizioni distinte, voicing maggiori (nota al canto, ordine delle voci, apertura ≤ 4 tasti, note di Fa maggiore con terza), presenza di SVG/PDF/MP3 e riferimento nei documenti.
 - Suite completa con `unittest discover`: tutti i test OK. L'audio è sintetizzato e non è stato certificato da ascolto umano.
 
+## Seconda fase (13 novembre 2026)
+
+Su richiesta dell'utente sono stati chiusi i tre punti aperti della prima fase.
+
+- **Commenti della famiglia maggiore.** I dodici gruppi preesistenti (sette sulla seconda corda, cinque sulla prima) hanno ora «Nota al canto», «Voicing da sinistra» e un commento. I nomi dei voicing sono stati ricavati dai diagrammi dei sorgenti, calcolando gli intervalli rispetto alla fondamentale. Due voicing del gruppo ♯11 sulla prima corda mettono la nona al basso, in deroga al criterio del capitolo: il testo li presenta come strutture superiori da usare sopra un basso di Fa.
+- **Mappe dal Do superiore.** Aggiunte le versioni `-c2` delle cinque scale derivate (`scala-…-verticale-c2`). Pentatonica minore e blues mostrano cinque posizioni, perché due partenze duplicavano diteggiature già presenti.
+- **Esercizi sulle scale derivate.** Nuova sottosezione `esercizi-scale-derivate` nel capitolo 4, dopo gli otto studi avanzati: `scale-derivate-01` (pentatonica minore e blues su C7) e `scale-derivate-02` (discesa bebop di dominante e maggiore), ciascuno a 60 e 90 BPM. Sono generati da `scripts/generate_advanced_scales.py` (lista `DERIVED`), che ora produce 20 sorgenti; gli otto studi preesistenti restano identici.
+
+Verifica: build HTML con `-W` riuscita; `tests/test_materiali_aggiunti.py` esteso con le mappe `-c2` e con tre controlli sugli studi (note dell'accordo sui movimenti nelle discese bebop, note dello studio blues, sorgenti e audio presenti e richiamati); suite completa 37 test OK. Spartiti controllati visivamente; audio sintetizzato non certificato da ascolto umano.
+
 ## Punti aperti
 
-- I gruppi preesistenti della famiglia maggiore (R, 9, 3, ♯11, 5, 13, Δ7 sulla seconda corda; R, 9, 3, ♯11, 5 sulla prima) non hanno ancora il commento «Nota al canto / Voicing da sinistra» che hanno minori, dominanti e i due gruppi nuovi.
-- Le scale derivate hanno solo la mappa a un'ottava (`c1`); manca la versione dal Do superiore (`c2`) presente per le otto scale principali.
-- Gli esercizi del capitolo 4 restano in Do maggiore: valutare varianti sulla pentatonica e sulla discesa bebop.
+- Gli esercizi del capitolo 4 restano in Do; il trasporto è lasciato allo studente come nelle altre sezioni.
+- Il bebop minore è descritto senza mappa.

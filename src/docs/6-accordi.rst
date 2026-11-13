@@ -328,6 +328,10 @@ Accordi maggiori
 R sulla 2ª corda
 ^^^^^^^^^^^^^^^^
 
+**Nota al canto:** Do, 1° tasto. **Voicing da sinistra:** C (senza 5ª), C6, C6/G, Cmaj7, Cmaj7/G.
+
+La fondamentale al canto è la nota più stabile: tutto il colore arriva da sotto. Il primo voicing è la triade senza quinta; poi il La aggiunge la sesta e il Si la settima maggiore, prima con il Do al basso e poi con il Sol sulla sesta corda. Suona C6 e Cmaj7 alternati senza muovere il canto.
+
 .. image:: 
    _static/music/accordi-c-maggiore-r.*
    :width: 100%
@@ -340,6 +344,10 @@ R sulla 2ª corda
 
 9 sulla 2ª corda
 ^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Re, 3° tasto. **Voicing da sinistra:** Cadd9, Cadd9 (solo 3ª e 9ª), C6/9, C6/9/G, Cmaj9, Cmaj9/G, Cmaj9 (senza 3ª).
+
+Il Re è la nona: sopra la triade dà un add9, sopra sesta o settima maggiore diventa C6/9 o Cmaj9. Il secondo voicing tiene soltanto Mi e Re, un intervallo di settima che basta a evocare l'accordo quando il basso suona già Do. L'ultimo toglie la terza e suona più aperto, quasi quartale.
 
 .. image:: 
    _static/music/accordi-c-maggiore-9.*
@@ -354,6 +362,10 @@ R sulla 2ª corda
 3 sulla 2ª corda
 ^^^^^^^^^^^^^^^^
 
+**Nota al canto:** Mi, 5° tasto. **Voicing da sinistra:** C6, Cmaj7, C6, Cmaj7, C, C6/A, Cadd9, C6.
+
+Con la terza al canto la qualità maggiore è già dichiarata dalla melodia: puoi permetterti voicing scarni. Confronta le coppie C6/Cmaj7 nelle due disposizioni, poi la triade piena. Il sesto voicing ha La al basso e suona come Am7: usalo quando il contesto lascia Do come centro, per esempio sopra un basso che tiene Do.
+
 .. image:: 
    _static/music/accordi-c-maggiore-3.*
    :width: 100%
@@ -366,6 +378,10 @@ R sulla 2ª corda
 
 ♯11 sulla 2ª corda
 ^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa♯, 7° tasto. **Voicing da sinistra:** C6/9(♯11) (senza 3ª), C6/9(♯11), Cmaj9(♯11), Cmaj7(♯11), C6(♯11), Cmaj9(♯11) (senza R).
+
+Il Fa♯ al canto è il colore lidio: funziona sopra un accordo di tonica che non deve risolvere, o come colore di IV in maggiore. I voicing con la sesta suonano più aperti, quelli con la settima maggiore più tesi.
 
 .. image:: 
    _static/music/accordi-c-maggiore-11.*
@@ -380,6 +396,10 @@ R sulla 2ª corda
 5 sulla 2ª corda
 ^^^^^^^^^^^^^^^^
 
+**Nota al canto:** Sol, 8° tasto. **Voicing da sinistra:** C, Cmaj7, C6, C6/9 (senza 3ª), C6/9, C6/9 (senza R), Cmaj9 (senza R), Cadd9/E.
+
+La quinta al canto è neutra: non dice da sola se l'accordo è maggiore o minore, quindi la terza deve stare in una voce interna. Negli ultimi tre il basso passa al Mi e nei primi due di questi la fondamentale sparisce: sono forme leggere, adatte a un accompagnamento sopra il contrabbasso.
+
 .. image:: 
    _static/music/accordi-c-maggiore-5.*
    :width: 100%
@@ -392,6 +412,10 @@ R sulla 2ª corda
 
 13 sulla 2ª corda
 ^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** La, 10° tasto. **Voicing da sinistra:** C6/G, Cmaj13, C6, C6/9 (senza 3ª), C6/9 (senza R), Cmaj13 (senza R), C6/E.
+
+Il La è sesta in C6 e tredicesima quando sotto c'è il Si della settima maggiore. In chord melody è una delle note al canto più frequenti sulla tonica: un C6 sotto il La suona più morbido di un Cmaj7, che invece mette Si e La a distanza di seconda.
 
 .. image:: 
    _static/music/accordi-c-maggiore-13.*
@@ -406,6 +430,10 @@ R sulla 2ª corda
 Δ7 sulla 2ª corda
 ^^^^^^^^^^^^^^^^^
 
+**Nota al canto:** Si, 12° tasto. **Voicing da sinistra:** Cmaj7/G, Cmaj7/E, Cmaj9/E (senza R), Cmaj9/E, Cmaj7, Cmaj13.
+
+La settima maggiore al canto suona sospesa: in una melodia spesso sale al Do o scende al La. Tutti i voicing stanno nella zona del dodicesimo tasto; i primi quattro hanno la terza Mi al basso o la quinta Sol, gli ultimi due la fondamentale sulla quinta corda al quindicesimo tasto.
+
 .. image:: 
    _static/music/accordi-c-maggiore-maj7.*
    :width: 100%
@@ -418,6 +446,10 @@ R sulla 2ª corda
 
 R sulla 1ª corda
 ^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Fa, 1° tasto. **Voicing da sinistra:** F, F6, F6/C, F/A, F (solo 5ª e fondamentale).
+
+Sulla prima corda la forma di riferimento è il Fa in prima posizione, ridotto alle quattro corde alte. Il Re della seconda corda al terzo tasto trasforma F in F6; gli ultimi due voicing sono parziali, utili quando il basso è affidato a un'altra voce o quando la melodia si muove veloce.
 
 .. image:: 
    _static/music/accordi-f-maggiore-r-1.*
@@ -432,6 +464,10 @@ R sulla 1ª corda
 9 sulla 1ª corda
 ^^^^^^^^^^^^^^^^
 
+**Nota al canto:** Sol, 3° tasto. **Voicing da sinistra:** Fadd9, Fadd9/A (senza R), F6/9, F6/9/C, Fmaj9, Fmaj9/C, Fmaj9 (senza 3ª).
+
+Stessa sequenza del gruppo in Do, una quarta sopra e una corda più in alto: cambia la geometria, non le relazioni. Controlla dove finiscono terza e settima: qui la terza La sta quasi sempre sulla terza corda, la settima Mi sulla seconda.
+
 .. image:: 
    _static/music/accordi-f-maggiore-9-1.*
    :width: 100%
@@ -445,6 +481,10 @@ R sulla 1ª corda
 3 sulla 1ª corda
 ^^^^^^^^^^^^^^^^
 
+**Nota al canto:** La, 5° tasto. **Voicing da sinistra:** F6, Fmaj7, F6, Fmaj7, F, F6/D, Fadd9, F6.
+
+Quando la melodia sta sulla terza puoi alternare sesta e settima maggiore con un solo dito: la voce sulla seconda corda passa da Re a Mi. Il sesto voicing, con Re al basso, è un Dm7 che sopra un basso di Fa suona come F6.
+
 .. image:: 
    _static/music/accordi-f-maggiore-3-1.*
    :width: 100%
@@ -457,6 +497,10 @@ R sulla 1ª corda
 
 ♯11 sulla 1ª corda
 ^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Si, 7° tasto. **Voicing da sinistra:** F6/9(♯11), Fmaj9(♯11), Fmaj9(♯11) (senza R), Fmaj7(♯11), F6(♯11), Fmaj9(♯11) (senza R e senza 3ª), Fmaj13(♯11) (senza R e senza 3ª).
+
+Il Si sopra Fa è un colore lidio frequente nelle ballad. Gli ultimi due voicing tolgono anche la terza e mettono la nona Sol al basso: sono strutture superiori, da usare soltanto sopra un basso che suona Fa, altrimenti l'accordo perde il suo centro.
 
 .. image:: 
    _static/music/accordi-f-maggiore-11-1.*
@@ -472,6 +516,10 @@ R sulla 1ª corda
 
 5 sulla 1ª corda
 ^^^^^^^^^^^^^^^^^^
+
+**Nota al canto:** Do, 8° tasto. **Voicing da sinistra:** Fmaj7, Fmaj7, F6/9, F6/9 (senza R), F6/A, Fmaj7/A, Fmaj9 (senza R).
+
+Con il Do al canto i primi tre voicing hanno il Fa sulla quinta corda; gli altri partono dal La, la terza, sulla quarta corda. Prova a tenere fermo il canto e a passare da F6/9 senza R a Fmaj9 senza R: cambia una sola voce interna, da Re a Mi.
 
 .. image:: 
    _static/music/accordi-f-maggiore-5-1.*

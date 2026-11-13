@@ -17,6 +17,13 @@ SCALES = {
     'scala-blues-verticale-c1': ([0, 3, 5, 6, 7, 10], '4-scale.rst'),
     'scala-bebop-dominante-verticale-c1': ([0, 2, 4, 5, 7, 9, 10, 11], '4-scale.rst'),
     'scala-bebop-maggiore-verticale-c1': ([0, 2, 4, 5, 7, 8, 9, 11], '4-scale.rst'),
+    **{k[:-1] + '2': v for k, v in {
+        'scala-pentatonica-maggiore-verticale-c1': ([0, 2, 4, 7, 9], '4-scale.rst'),
+        'scala-pentatonica-minore-verticale-c1': ([0, 3, 5, 7, 10], '4-scale.rst'),
+        'scala-blues-verticale-c1': ([0, 3, 5, 6, 7, 10], '4-scale.rst'),
+        'scala-bebop-dominante-verticale-c1': ([0, 2, 4, 5, 7, 9, 10, 11], '4-scale.rst'),
+        'scala-bebop-maggiore-verticale-c1': ([0, 2, 4, 5, 7, 8, 9, 11], '4-scale.rst'),
+    }.items()},
     'arpeggio-cm7f5-1': ([0, 3, 6, 10], '5-arpeggi.rst'),
     'arpeggio-cm7f5-2': ([0, 3, 6, 10], '5-arpeggi.rst'),
 }
@@ -90,6 +97,38 @@ class MaterialiAggiuntiTest(unittest.TestCase):
                 self.assertTrue(any(f'_static/music/{stem}.' in t for t in text.values()))
                 for ext in ('svg', 'pdf', 'mp3'):
                     self.assertTrue((MUSIC / f'{stem}.{ext}').is_file(), f'{stem}.{ext}')
+
+
+class StudiScaleDerivateTest(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        import importlib.util
+        spec = importlib.util.spec_from_file_location(
+            'advanced_scales', ROOT / 'scripts/generate_advanced_scales.py')
+        cls.gen = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(cls.gen)
+
+    def test_bebop_descents_put_chord_tones_on_beats(self):
+        events = self.gen.DERIVED[1][1]
+        pitches = [e['pitch'] for e in events]
+        for start, chord in [(0, {0, 4, 7, 10}), (24, {0, 4, 7, 9})]:
+            bar = pitches[start:start + 8]
+            self.assertTrue(all(p % 12 in chord for p in bar[0::2]), bar)
+            self.assertFalse(any(p % 12 in chord for p in bar[1::2]), bar)
+
+    def test_blues_study_uses_blues_scale_and_major_third(self):
+        pcs = {e['pitch'] % 12 for e in self.gen.DERIVED[0][1] if e['pitch'] is not None}
+        self.assertEqual(pcs, {0, 3, 4, 5, 6, 7, 10})
+
+    def test_studies_are_generated_built_and_referenced(self):
+        doc = (DOCS / '4-scale.rst').read_text(encoding='utf-8')
+        for n in ('01', '02'):
+            for suffix in ('', '-90'):
+                stem = f'scale-derivate-{n}{suffix}'
+                self.assertTrue((LY / f'{stem}.ly').is_file(), stem)
+                self.assertTrue((MUSIC / f'{stem}.mp3').is_file(), stem)
+                self.assertIn(f'_static/music/{stem}.mp3', doc)
+            self.assertTrue((MUSIC / f'scale-derivate-{n}.svg').is_file())
 
 
 if __name__ == '__main__':

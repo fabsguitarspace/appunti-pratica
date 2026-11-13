@@ -375,7 +375,7 @@ Pentatoniche, scala blues e scale bebop
 
 Le otto scale bastano a costruire le mappe della tastiera. Tre famiglie di materiali derivati, però, ricorrono così spesso nel blues e nel bebop che conviene averle sotto le dita come mappe a sé: le **pentatoniche**, che tolgono note, la **scala blues**, che aggiunge un passaggio alla pentatonica minore, e le **scale bebop**, che aggiungono una nota cromatica a una scala di sette suoni.
 
-Le diteggiature seguono il metodo di questo capitolo: lo stesso Do, partenze con dita diverse, una posizione per riga. Con cinque o sei note per ottava ogni corda ne ospita spesso solo due, e alcune partenze producono la stessa diteggiatura: le mappe mostrano soltanto quelle diverse. Perché questi suoni funzionano lo spiega il capitolo `Scale di Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__; qui ci occupiamo di trovarli e suonarli.
+Le diteggiature seguono il metodo di questo capitolo: due mappe per scala, dal Do grave e dal Do un'ottava sopra, con partenze da dita diverse e una posizione per riga. Con cinque o sei note per ottava ogni corda ne ospita spesso solo due, e alcune partenze producono la stessa diteggiatura: le mappe mostrano soltanto quelle diverse. Perché questi suoni funzionano lo spiega il capitolo `Scale di Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__; qui ci occupiamo di trovarli e suonarli.
 
 .. _scala-pentatonica-maggiore:
 
@@ -394,6 +394,16 @@ Suona la mappa cantando i gradi, non i nomi delle dita. Su ogni riga individua d
 
    <audio controls class="audio-controls">
       <source src="_static/music/scala-pentatonica-maggiore-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/scala-pentatonica-maggiore-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-pentatonica-maggiore-verticale-c2.mp3" type="audio/mp3">
    </audio>
 
 Il lick :ref:`lick-m08` usa questo materiale su C6, con una sola nota di passaggio.
@@ -417,6 +427,16 @@ Su Cm7 la pentatonica minore contiene fondamentale, terza, quinta e settima più
       <source src="_static/music/scala-pentatonica-minore-verticale-c1.mp3" type="audio/mp3">
    </audio>
 
+.. image:: 
+   _static/music/scala-pentatonica-minore-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-pentatonica-minore-verticale-c2.mp3" type="audio/mp3">
+   </audio>
+
 .. _scala-blues:
 
 Scala blues
@@ -434,6 +454,16 @@ Nella mappa la nota aggiunta cade sempre fra due note della pentatonica, sulla s
 
    <audio controls class="audio-controls">
       <source src="_static/music/scala-blues-verticale-c1.mp3" type="audio/mp3">
+   </audio>
+
+.. image:: 
+   _static/music/scala-blues-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-blues-verticale-c2.mp3" type="audio/mp3">
    </audio>
 
 Sulla tastiera la scala blues è una collezione di note; il blues è anche intonazione e articolazione. Il Mi♭ suonato sopra C7 spesso non è un'altezza fissa: la si spinge leggermente verso Mi con il bending, senza arrivarci del tutto. Per usare questo materiale nella forma di dodici battute vai a :ref:`progressioni-blues` e confronta il lick :ref:`lick-b01`, che alterna terza blues e terza maggiore.
@@ -457,6 +487,16 @@ Una **scala bebop** aggiunge una nota cromatica di passaggio a una scala di sett
       <source src="_static/music/scala-bebop-dominante-verticale-c1.mp3" type="audio/mp3">
    </audio>
 
+.. image:: 
+   _static/music/scala-bebop-dominante-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-dominante-verticale-c2.mp3" type="audio/mp3">
+   </audio>
+
 **Bebop maggiore.** È la scala maggiore con un passaggio fra quinta e sesta: **Do–Re–Mi–Fa–Sol–Sol♯–La–Si**, su C6 e Cmaj7. Scendendo dal Do acuto, sui movimenti cadono Do, La, Sol e Mi: le note di C6. In discesa il passaggio si legge spesso come La♭; nella mappa resta scritto Sol♯ per mostrare la stessa nota in entrambe le direzioni.
 
 .. image::
@@ -469,9 +509,19 @@ Una **scala bebop** aggiunge una nota cromatica di passaggio a una scala di sett
       <source src="_static/music/scala-bebop-maggiore-verticale-c1.mp3" type="audio/mp3">
    </audio>
 
+.. image:: 
+   _static/music/scala-bebop-maggiore-verticale-c2.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls">
+      <source src="_static/music/scala-bebop-maggiore-verticale-c2.mp3" type="audio/mp3">
+   </audio>
+
 **Bebop minore.** Sulla dorica circolano due varianti. La prima aggiunge la settima maggiore: **Do–Re–Mi♭–Fa–Sol–La–Si♭–Si**; scendendo dal Do sui movimenti cadono Do, Si♭, Sol e Mi♭, le note di Cm7. La seconda aggiunge la terza maggiore: **Do–Re–Mi♭–Mi–Fa–Sol–La–Si♭**, le stesse note del bebop di dominante di Fa, utile quando pensi Cm7–F7 come un unico blocco. Non c'è una mappa scritta: costruisci entrambe con il metodo descritto all'inizio del capitolo, partendo dalla dorica che conosci già, e verifica quali note cadono sui movimenti.
 
-**Come verificare.** Metti il metronomo sui quarti e scendi in ottavi dal Do. Se su un movimento senti una nota che non appartiene all'accordo, hai perso un ottavo o hai saltato la nota di passaggio. Poi parti da un'altra nota dell'accordo, sempre sul battere: se parti da una nota di passaggio o su un levare, aggiungi o togli un cromatismo per rimettere in fase la linea. Il lick :ref:`lick-d03` applica proprio questa discesa a G7.
+**Come verificare.** Metti il metronomo sui quarti e scendi in ottavi dal Do. Se su un movimento senti una nota che non appartiene all'accordo, hai perso un ottavo o hai saltato la nota di passaggio. Poi parti da un'altra nota dell'accordo, sempre sul battere: se parti da una nota di passaggio o su un levare, aggiungi o togli un cromatismo per rimettere in fase la linea. Il lick :ref:`lick-d03` applica proprio questa discesa a G7. Due studi con spartito e audio sono in :ref:`esercizi-scale-derivate`.
 
 
 Esercizi
@@ -928,6 +978,77 @@ Gli studi sono in Do maggiore, salvo i tre colori esplicitamente confrontati nel
 
    <audio controls class="audio-controls" preload="none">
       <source src="_static/music/scale-avanzati-08-90.mp3" type="audio/mpeg">
+   </audio>
+
+.. _esercizi-scale-derivate:
+
+Esercizi sulle scale derivate
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Due studi portano in musica le mappe di :ref:`scale-derivate`. Restano nella stessa zona dei precedenti, fra il quinto e l’ottavo tasto, con gli stessi audio a 60 e 90 BPM. Qui l’armonia di riferimento non è più Do maggiore ma **C7** (e **C6** nell’ultima battuta del secondo studio): suonali sopra un accordo tenuto o sopra il blues in Do di :ref:`progressioni-blues`.
+
+1. Pentatonica minore e blues su C7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Usare le note della scala blues come frase, con un arrivo chiaro, e sentire il Mi♭ contro il Mi dell’accordo.
+
+**Procedura.** Due domande e due risposte. La prima idea entra dopo una pausa di ottavo con **Mi♭–Mi**: la terza blues che sale alla terza maggiore. Poi Sol e un Si♭ lungo, e la risposta torna sul Do. La seconda idea sale **Fa–Sol♭–Sol** fino al Do acuto e ridiscende con la stessa nota di passaggio, chiudendo su un Do di due movimenti. Prima suona soltanto le note dell’accordo che trovi nella frase (Mi, Sol, Si♭, Do), poi aggiungi Mi♭ e Sol♭.
+
+**Ascolto.** Il Mi♭ e il Sol♭ durano un ottavo e vanno subito altrove: è questo a farli suonare blues invece che sbagliati. Prova a tenere il Mi♭ per un intero movimento sopra C7 e ascolta come cambia la tensione.
+
+**Varianti.** Sostituisci Mi♭–Mi con un piccolo bending dal Mi♭, senza arrivare del tutto al Mi. Poi sposta tutta la frase un ottavo più tardi, mantenendo pause e durate.
+
+**Verifica.** Sai cantare le due domande e rispondere con una frase tua di due battute che finisca su una nota dell’accordo?
+
+.. image:: _static/music/scale-derivate-01.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-derivate-01.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-derivate-01-90.mp3" type="audio/mpeg">
+   </audio>
+
+2. Discesa bebop: note dell’accordo sui movimenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Scopo.** Verificare all’ascolto la proprietà che definisce le scale bebop: in una discesa in ottavi le note dell’accordo cadono sui movimenti.
+
+**Procedura.** La prima battuta scende con il bebop di dominante dal Do acuto: sui quattro movimenti trovi **Do, Si♭, Sol, Mi**. La seconda sale sull’arpeggio di C7 e riparte dal Do sul terzo movimento con **Do–Si–Si♭–La**; la terza chiude su Do. La quarta battuta ripete la discesa con il bebop maggiore: **Do, La, Sol, Mi** sui movimenti, cioè C6. Batti il piede sui quarti e dì ad alta voce la nota che cade su ogni movimento.
+
+**Ascolto.** Confronta le due discese: nella prima il passaggio è Si fra Do e Si♭, nella seconda Sol♯ fra La e Sol. Le note di passaggio cadono sempre sul levare.
+
+**Varianti.** Togli il Si dalla prima battuta e suona la scala misolidia in ottavi: da dove in poi le note dell’accordo finiscono sui levare? Poi parti dal Sol sul battere e scendi con il bebop di dominante fino al Do grave della posizione.
+
+**Verifica.** Riesci a cominciare una discesa da qualsiasi nota dell’accordo, sul battere, mantenendo le note dell’accordo sui movimenti fino al Do?
+
+.. image:: _static/music/scale-derivate-02.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-derivate-02.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/scale-derivate-02-90.mp3" type="audio/mpeg">
    </audio>
 
 Trasportare e cambiare scala

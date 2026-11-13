@@ -1179,6 +1179,10 @@ Su una frase di quattro battute cambia un solo elemento per sessione. Puoi antic
 
 Se un lick statico su G7 occupa due battute ma nel brano il V ne dura una sola, scegli una cellula più breve oppure ridisegna il ritmo. Se una frase termina su Si, terza di G7, ascolta il Do del I successivo come prosecuzione possibile. Il punto finale scritto non è sempre la fine del discorso musicale.
 
+.. admonition:: Brano guida
+
+   Nello :ref:`studio in AABA <progressioni-aaba>` le battute 7 e 8 della A (Dm7 – G7) tornano quattro volte per chorus. Prendi un lick della categoria P, tieni la parte che cade su Dm7 e G7 e falla risolvere sul Cmaj7 della battuta 1. Cambia lick a ogni A: alla fine del chorus avrai quattro ritorni diversi sulla stessa forma.
+
 Una sessione breve e una verifica
 -----------------------------------
 

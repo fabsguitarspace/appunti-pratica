@@ -1,6 +1,17 @@
 Le basi che nessuno vede
 ========================
 
+.. admonition:: Come è organizzato il capitolo
+
+   Il capitolo è lungo e conviene leggerlo in tre parti, anche in giorni diversi.
+
+   #. **Lo strumento e il corpo** (:ref:`da qui <basi-strumento>`): setup, postura e corde. Si legge una volta e si rivede quando qualcosa non torna.
+   #. **I principi musicali** (:ref:`da qui <basi-musica>`): tempo, dinamica, suono e respiro. Sono idee da portare in ogni esercizio del volume.
+   #. **La tecnica delle due mani** (:ref:`da qui <basi-tecnica>`): mano sinistra, supportive fingering, finger roll, legato e mano destra. Qui ogni sezione si studia con la chitarra in mano, una alla volta.
+
+
+
+.. _basi-strumento:
 
 La chitarra (il setup)
 ----------------------
@@ -149,6 +160,8 @@ Se lo strumento è regolato bene, ogni esercizio diventa più onesto: senti subi
 
 E quando lo studio è onesto... i progressi non sono un'opinione: si sentono.
 
+
+.. _basi-musica:
 
 Il tempo prima delle note
 -------------------------
@@ -588,6 +601,8 @@ Se riesci a fare questo, la tua musica cambia.
    Se non respiri, la frase non vive.
    Se non lasci silenzio, l'orecchio non capisce.
    E quando il respiro diventa tempo... smetti di contare e inizi a parlare.
+
+.. _basi-tecnica:
 
 Mano sinistra: stabilità senza forza
 ------------------------------------

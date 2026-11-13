@@ -91,6 +91,8 @@ suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 
 Se incontri un termine che non conosci (shell, drop 2, backdoor, nota al canto…), trovi una definizione breve nel `Glossario comune ai due volumi <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/glossario.html>`__.
 
+Due fili attraversano il volume. Il primo è una **cellula** di quattro note, Mi–Sol–Si–Re, che compare come frase nei licks, come struttura negli studi modern jazz e come accordo nel volume di Teoria: le note restano, cambia il contesto. Il secondo è un **brano guida**, lo :ref:`studio in AABA <progressioni-aaba>` del capitolo Progressioni: i riquadri «Brano guida» ti chiedono di portarci dentro il materiale di ogni capitolo, dalle scale ai licks.
+
 Iniziamo bene: un patto con te stesso
 -------------------------------------
 

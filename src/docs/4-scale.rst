@@ -544,6 +544,10 @@ Una **scala bebop** aggiunge una nota cromatica di passaggio a una scala di sett
 **Come verificare.** Metti il metronomo sui quarti e scendi in ottavi dal Do. Se su un movimento senti una nota che non appartiene all'accordo, hai perso un ottavo o hai saltato la nota di passaggio. Poi parti da un'altra nota dell'accordo, sempre sul battere: se parti da una nota di passaggio o su un levare, aggiungi o togli un cromatismo per rimettere in fase la linea. Il lick :ref:`lick-d03` applica proprio questa discesa a G7. Due studi con spartito e audio sono in :ref:`esercizi-scale-derivate`.
 
 
+.. admonition:: Brano guida
+
+   Prendi la sezione A dello :ref:`studio in AABA <progressioni-aaba>` (Cmaj7 – Am7 – Dm7 – G7 – Em7 – A7 – Dm7 – G7, una battuta per accordo). Suona la scala di Do maggiore in ottavi senza fermarti, ma cambia direzione a ogni battuta su una nota dell'accordo nuovo. Sulla battuta di A7 sostituisci il Do con il Do♯. Nel bridge, su D7 e Gmaj7, usa le note di Sol maggiore: l'unico cambiamento è il Fa♯.
+
 Esercizi
 --------
 

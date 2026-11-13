@@ -1424,6 +1424,10 @@ L’ultimo esempio è un piccolo arrangiamento originale sulla progressione **Cm
 Per approfondire: il lavoro di Joe Pass (*Virtuoso*, 1973) e di Ted Greene (*Chord Chemistry*, 1971) resta il riferimento storico per i voicing di chitarra sola; il percorso :ref:`autore-pass` lavora su basso, canto e voci interne con esercizi originali.
 
 
+.. admonition:: Brano guida
+
+   Accompagna tutto lo :ref:`studio in AABA <progressioni-aaba>` con gli shell, due attacchi per battuta. Poi scegli una melodia di una nota per battuta, per esempio le terze degli accordi, e armonizzala con il vocabolario per nota al canto o con i drop 2 del chord melody: otto battute di A arrangiate per chitarra sola sono il primo passo verso un brano completo.
+
 Percorsi d’autore
 -----------------
 

@@ -389,10 +389,12 @@ Dalle progressioni alla forma
 
 Una forma organizza frasi e sezioni nel tempo. Saper suonare otto battute non garantisce di sapere dove si trovano dentro un chorus di trentadue. Prima leggi la mappa, poi cerca i punti che distinguono una sezione dall’altra.
 
+.. _progressioni-aaba:
+
 Uno studio originale in AABA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La forma dello studio è **A–A–B–A**, con otto battute per sezione. Non è la trascrizione di uno standard e non va confusa automaticamente con i rhythm changes.
+La forma dello studio è **A–A–B–A**, con otto battute per sezione. Non è la trascrizione di uno standard e non va confusa automaticamente con i rhythm changes. È anche il **brano guida** del volume: i riquadri «Brano guida» dei capitoli Scale, Arpeggi, Accordi e Licks propongono un compito su questa stessa forma, così che il materiale di ogni capitolo finisca dentro un pezzo intero.
 
 .. list-table::
    :header-rows: 1

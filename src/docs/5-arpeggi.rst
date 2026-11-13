@@ -377,6 +377,10 @@ mΔ9
 
 
 
+.. admonition:: Brano guida
+
+   Sulla sezione A dello :ref:`studio in AABA <progressioni-aaba>` suona l'arpeggio di ogni accordo, una battuta ciascuno, partendo ogni volta dalla nota più vicina all'ultima che hai suonato. Quando funziona in quarti, passa agli ottavi e cerca di arrivare sulla terza dell'accordo successivo con un semitono.
+
 Esercizi
 --------
 

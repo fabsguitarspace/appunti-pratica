@@ -89,6 +89,8 @@ sana: leggere quando è tempo di leggere, suonare quando è tempo di
 suonare, e lasciare che le due cose si parlino senza schiacciarsi.
 
 
+Se incontri un termine che non conosci (shell, drop 2, backdoor, nota al canto…), trovi una definizione breve nel `Glossario comune ai due volumi <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/glossario.html>`__.
+
 Iniziamo bene: un patto con te stesso
 -------------------------------------
 

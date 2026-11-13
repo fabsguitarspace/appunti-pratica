@@ -561,8 +561,7 @@ Le griglie e le linee scritte in questo capitolo sono esempi di studio originali
 Verso modern jazz e fusion
 --------------------------
 
-Il percorso continua in :doc:`9-modern-jazz-fusion`: la stessa cellula
-melodica viene riorganizzata su vamps, groove e metri diversi, con studi,
-spartiti/TAB e basi con basso e batteria. Confronta gli studi
-:ref:`modern-01`, :ref:`modern-02` e :ref:`modern-11` per passare
-materialmente dal lessico bebop a un nuovo contesto.
+Il vamp Dm7 | Em7/D di questo capitolo è il punto di partenza di
+:doc:`9-modern-jazz-fusion`: lì apre una serie di studi su quarte,
+pentatoniche sovrapposte, accenti spostati e metri dispari, con
+spartiti/TAB e basi con basso e batteria. Comincia da :ref:`modern-01`.

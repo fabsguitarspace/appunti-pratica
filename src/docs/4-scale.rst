@@ -168,7 +168,7 @@ Abbassiamo il terzo grado della *scala maggiore* e otteniamo una scala *minore*:
 
 Le linee melodiche derivate dalla scala minore melodica tendono a essere tra le preferite dei musicisti jazz e fusion.
 
-La scala minore melodica può essere associata a qualsiasi accordo derivato dalla sua famiglia armonica.
+La scala minore melodica può essere associata a qualsiasi accordo derivato dalla sua famiglia armonica. È un abbinamento utile per orientarsi: dice dove trovare le note sulla tastiera, non quali scegliere (vedi il riquadro «La scorciatoia e il suo prezzo» nel capitolo `Scale di Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__).
 
 Per esempio la scala minore melodica di A la possiamo associare ai seguenti accordi:
 
@@ -182,16 +182,16 @@ Per esempio la scala minore melodica di A la possiamo associare ai seguenti acco
 
 Sebbene nella famiglia armonica della minore melodica possiamo trovare tre accordi di settima dominante (IV, V e VII grado), utilizzeremo soltanto l’accordo costruito sul VII grado all’interno di una cadenza che risolve su un accordo maggiore o minore.
 
-Esempio: nella cadenza G#7 C#m7 possiamo suonare la scala minore melodica di A sopra il G#7, ottenendo così un suono alterato. 
+Esempio: nella cadenza G#7 C#m7 possiamo suonare la scala minore melodica di A sopra il G#7, ottenendo così un suono alterato: rispetto a G#, quelle note sono ♭9, ♯9, ♭5 e ♭13, oltre a fondamentale, terza e settima.
 
-Riassumendo: per far suonare alterato un accordo di settima dominante, possiamo suonare una scala minore melodica posta un semitono sopra l’accordo stesso.
+Riassumendo: per far suonare alterato un accordo di settima dominante, possiamo suonare una scala minore melodica posta un semitono sopra l’accordo stesso. Prima di usarla come scorciatoia, suona le quattro tensioni una alla volta sopra l’accordo e risolvile su una nota dell’accordo d’arrivo.
 
 Scala Dominante (Misolidia)
 ---------------------------
 
 Abbassiamo ora il settimo grado della *scala maggiore* e otteniamo la **scala dominante (o misolidia)**.
 
-La scala misolidia è associata al quinto grado (V7) di ogni scala maggiore.
+La scala misolidia nasce sul quinto grado (V7) di ogni scala maggiore.
 
 
 .. image:: 
@@ -220,7 +220,7 @@ Scala Dorica
 
 Abbassiamo ora il terzo grado della *scala misolidia* o in alternativa abbassiamo il settimo grado della *scala minore melodica* e otteniamo la **scala dorica**.
 
-La scala dorica è associata al secondo grado (IIm7) di ogni scala maggiore.
+La scala dorica nasce sul secondo grado (IIm7) di ogni scala maggiore.
 
 Si tratta una scala **minore**, quindi con **terza minore** e con una **settima minore**, e con una **sesta maggiore** (che è la caratteristica più importante della scala dorica).
 
@@ -251,7 +251,7 @@ Scala Minore Naturale
 
 Per creare una **scala minore naturale**, abbassiamo il sesto grado della scala dorica.
 
-La scala minore naturale è associata al sesto grado (VIm7) di ogni scala maggiore ma è la tonica (Im7) della tonalità minore.
+La scala minore naturale nasce sul sesto grado (VIm7) di ogni scala maggiore ma è la tonica (Im7) della tonalità minore.
 
 Si tratta una scala **minore**, quindi con **terza minore** e con una **settima minore**, e con una **sesta minore**.
 

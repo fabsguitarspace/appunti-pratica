@@ -1,7 +1,7 @@
 # Analisi — Correzioni concettuali e sezione sulle strutture melodiche
 
 - Data: 14 novembre 2026.
-- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare.
+- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare. Completamento della fase A sul minore (M1–M7) approvato e applicato a Teoria il 14 novembre 2026.
 - Ambito: Teoria e Pratica, con ricadute future sugli Strumenti.
 - Riferimento: [Proposta di revisione integrata](022-revisione-integrata-quadro-generale.md).
 - Sorgenti verificati: Teoria `a420e05`, Pratica `9c83ab7`.
@@ -742,3 +742,186 @@ Dopo le decisioni dell’autore (pubblicazione senza sezione 3, audio a 60 e 90 
 - Test `tests/test_melodic_structures.py`: lunghezza delle battute e registro Do4–Re5; ordini di S1; gradi di S2 su Cmaj7 e Dm7; spostamento d’ottava, intervalli e seconda diteggiatura di S3; altezze invariate e tre ritmi distinti in S4; strutture e arrivo sulla terza in S5; una terza e quattro quarte in S6; corrispondenza fra risorse generate e riferimenti della pagina.
 
 Verifiche eseguite: generazione e compilazione delle sedici partiture con `build-lilypond.sh` (nessun avviso LilyPond; avvisi FluidSynth sul canale 9 identici a quelli degli esercizi esistenti); controllo visivo degli spartiti S3–S6 e della base di S5; suite `unittest` di Pratica (46 test, inclusi gli 8 nuovi) superata; build HTML di Pratica e Teoria con `-W --keep-going` concluse con successo; presenza di tutte le risorse SVG e MP3 referenziate nell’HTML. Non verificati: ascolto completo degli audio, formati PDF ed ePub, pagina pubblicata su Read the Docs.
+
+## Fase A, completamento: la tonica minore — proposta del 14 novembre 2026
+
+Stato: **approvato dall’autore e applicato** il 14 novembre 2026 (vedi «Attuazione» in fondo). Riprende il punto lasciato aperto in «Limite della fase A».
+
+### Problema
+
+Teoria 4 e 6 descrivono il minore come «instabile», «mai definitivo», con una gravità «mai completamente stabilizzata». Le stesse pagine mostrano però che una cadenza V7–Im chiude con fermezza, e l’elenco delle aree tonali di Teoria 6 mette V7 come dominante «fondamentale». La contraddizione nasce dal confondere due cose:
+
+- **il centro**: la tonica minore, preparata da una dominante con la sensibile, conclude quanto quella maggiore;
+- **i gradi mobili**: sesto e settimo grado hanno due forme, e la musica sceglie fra le due a seconda della direzione.
+
+La mobilità riguarda i secondi, non il primo. Le sostituzioni seguenti lo dicono in ogni punto in cui compare l’affermazione assoluta e lasciano invariato il resto: le quattro scale, gli esempi, il discorso sul carattere e sull’ambiguità come risorsa. Vanno applicate insieme, per non lasciare affermazioni contraddette poche righe dopo.
+
+Ricerca eseguita in entrambi i volumi su «instabil», «mai definit» e «stabilizzat» accanto a «minore»: gli unici casi sono quelli elencati. Nessun riferimento interno punta ai titoli che cambiano; per conservare gli indirizzi già pubblicati, ogni titolo modificato riceve un’etichetta con l’identificatore precedente.
+
+### M1 — Teoria 4, differenze percettive
+
+Prima:
+
+```rst
+Nel maggiore:
+
+- la tonica è chiara
+- le tensioni sono ordinate
+- il sistema tende alla stabilità
+
+Nel minore:
+
+- il centro è meno definitivo
+- le tensioni sono più ambigue
+- il sistema è mobile: 
+   - alcuni gradi cambiano identità
+   - la scala non è mai una sola
+   - le tensioni si adattano al contesto
+   - l'orecchio accetta più versioni dello stesso suono
+```
+
+Dopo:
+
+```rst
+Nel maggiore:
+
+- la tonica è chiara
+- le tensioni sono ordinate
+- sesto e settimo grado hanno una sola forma
+
+Nel minore:
+
+- la tonica può essere altrettanto conclusiva, se la prepara una dominante con la sensibile
+- le tensioni sono più ambigue
+- il sistema è mobile:
+   - sesto e settimo grado cambiano identità
+   - la scala non è una sola
+   - le tensioni si adattano al contesto
+   - l'orecchio accetta più versioni dello stesso suono
+```
+
+### M2 — Teoria 4, «Tristezza, dramma, instabilità»
+
+Titolo nuovo: **Tristezza, dramma, mobilità**, con etichetta `.. _tristezza-dramma-instabilita:` per conservare l’ancora. La prima frase, con la sua punteggiatura, resta dell’autore.
+
+Prima (dopo la prima frase):
+
+```rst
+Il mondo minore non è semplicemente “più scuro” del maggiore. **È instabile, mobile, ambiguo**.
+
+Dove il maggiore tende a dichiarare un centro, il minore lo *mette in discussione*.
+
+Dove il maggiore organizza, il minore *oscilla*.
+
+Dove il maggiore afferma, il minore *interroga*.
+
+Per questo il minore è spesso associato a:
+
+* dramma
+* tensione irrisolta
+* introspezione
+* conflitto emotivo
+
+Non perché sia debole, ma perché **non è mai definitivo**.
+```
+
+Dopo:
+
+```rst
+Il mondo minore non è semplicemente “più scuro” del maggiore. **È mobile e ambiguo**.
+
+Mobile non vuol dire instabile. La tonica minore può chiudere un brano con la stessa fermezza della maggiore. A muoversi sono i gradi che la circondano: sesto e settimo hanno due forme, e la musica sceglie a seconda della direzione.
+
+Dove il maggiore offre una sola strada verso la tonica, il minore ne offre diverse: con la sensibile o senza, con la sesta maggiore o minore.
+
+Per questo il minore è spesso associato a:
+
+* dramma
+* tensione prolungata
+* introspezione
+* conflitto emotivo
+
+Non perché sia debole, ma perché **lascia aperte più strade**. Lo stesso materiale può suonare sereno, come nel dorico, o deciso, come in una cadenza con V7: il carattere dipende da come lo usi.
+```
+
+### M3 — Teoria 4, «Perché la musica non sceglie mai una sola versione»
+
+Titolo invariato: «mai» si riferisce alla pratica di scegliere fra le versioni, non al centro.
+
+Prima:
+
+```rst
+Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore non si presenta mai in forma pura**.
+```
+
+Dopo:
+
+```rst
+Nella musica reale, soprattutto quella viva, improvvisata o cantabile, il **minore resta raramente in una sola forma** per tutto il brano.
+```
+
+### M4 — Teoria 6, titolo della sezione
+
+Titolo nuovo: **Tonalità minore: un centro, più scale**, con etichetta `.. _tonalita-minore-un-sistema-non-stabile:` per conservare l’ancora.
+
+### M5 — Teoria 6, «Il minore non è una tonalità, è una famiglia»
+
+Prima:
+
+```rst
+Questa pluralità non è un problema teorico. È la descrizione di un fatto musicale: nel minore, la gravità non è mai completamente stabilizzata.
+
+Per questo gli accordi che nascono dal minore non sono mai oggetti fissi.
+Sono **adattamenti locali** a un contesto in movimento.
+```
+
+Dopo:
+
+```rst
+Questa pluralità non è un problema teorico. È la descrizione di un fatto musicale: nel minore la tonica resta ferma, mentre sesto e settimo grado cambiano forma a seconda della direzione.
+
+Per questo molti accordi del minore non hanno una qualità fissa.
+Sono **adattamenti locali**: lo stesso grado prende la forma che serve in quel punto.
+```
+
+### M6 — Teoria 6, funzione e qualità
+
+Prima:
+
+```rst
+Nel maggiore, un accordo diatonico tende a mantenere una funzione abbastanza stabile. Nel minore, no.
+```
+
+Dopo:
+
+```rst
+Nel maggiore, un accordo diatonico tende a mantenere una qualità fissa. Nel minore la funzione resta riconoscibile, ma la qualità cambia più spesso.
+```
+
+L’elenco successivo («Lo stesso grado può apparire con qualità diverse») resta invariato e ora segue senza contraddizione.
+
+### M7 — Teoria 6, la dominante nel minore
+
+Prima:
+
+```rst
+La dominante minore “diatonica” esiste, ma spesso non basta. La dominante maggiore è un evento narrativo, non un dato strutturale.
+```
+
+Dopo:
+
+```rst
+La dominante minore “diatonica” esiste, ma per una cadenza conclusiva spesso non basta: lì si usa quasi sempre V7, con la sensibile. Vm7 resta utile quando la linea scende verso il sesto grado o quando non si vuole chiudere.
+```
+
+La seconda frase originale contraddiceva l’elenco delle aree tonali, che indica V7 come dominante fondamentale del minore.
+
+### Verifiche previste dopo l’applicazione
+
+Corrispondenza dei sette blocchi con i sorgenti; ricerca di nuovo dei termini assoluti nei due volumi; presenza delle due etichette e delle ancore precedenti nell’HTML; build di Teoria con `-W --keep-going`. Nessun materiale musicale coinvolto.
+
+### Attuazione — 14 novembre 2026
+
+Applicati i sette blocchi senza variazioni ai testi «Dopo»: M1–M3 in `src/docs/4-scale.rst`, M4–M7 in `src/docs/6-armonia-funzionale.rst`. I due titoli modificati hanno le etichette `tristezza-dramma-instabilita` e `tonalita-minore-un-sistema-non-stabile`.
+
+Verifiche eseguite: ogni testo «Prima» trovato una sola volta e sostituito; build HTML di Teoria con `-W --keep-going` conclusa con successo; nell’HTML sono presenti sia le ancore nuove sia quelle precedenti; nuova ricerca di «instabil», «mai definit» e «stabilizzat» accanto a «minore» nei due volumi, senza affermazioni assolute residue (resta solo la frase nuova «Mobile non vuol dire instabile»); `git diff --check`. Non verificati i formati PDF ed ePub.

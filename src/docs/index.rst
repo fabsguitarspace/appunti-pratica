@@ -4,6 +4,9 @@ Appunti di Pratica per Chitarra Jazz
 .. image:: _static/logo-pratica.png
    :alt: Logo degli Appunti di Pratica
 
+Realizzati con l'assistenza dell'intelligenza artificiale.
+:ref:`Scopri come nascono questi appunti <come-nascono-appunti>`.
+
 .. toctree::
   :maxdepth: 3
 

@@ -42,6 +42,38 @@ La musica cresce solo così.
 
 *Fabrizio*
 
+.. _come-nascono-appunti:
+
+Come nascono questi appunti
+--------------------------
+
+Questi appunti sono stati creati con l'assistenza dell'intelligenza
+artificiale (AI). È una scelta che fa parte del progetto e che desidero
+rendere esplicita.
+
+Il punto di partenza è il mio percorso nella musica: studio, ascolti,
+pratica sulla chitarra, letture e confronto con chi segue il canale.
+L'AI mi aiuta a dare forma a questo materiale, sviluppare i contenuti,
+organizzare le spiegazioni e rivederle. Il lavoro procede attraverso
+proposte, domande, riscritture e scelte editoriali.
+
+In questo volume la collaborazione si estende all'organizzazione degli
+esercizi e alla preparazione dei materiali e degli strumenti per la
+pratica. Il criterio che guida le scelte è portare le idee sulla tastiera
+in una forma concreta, musicale e utilizzabile nello studio quotidiano.
+
+Questa collaborazione mi permette di dedicare a un progetto portato
+avanti nel tempo libero una cura e un'ampiezza che, da solo, sarebbero
+molto più difficili da sostenere. È anche un modo per rendere disponibili
+gratuitamente più materiali e continuare a migliorarli.
+
+La direzione musicale, la scelta di ciò che pubblico e la responsabilità
+dei contenuti restano mie. Anche le correzioni fanno parte di questo
+impegno: se incontri un errore o un passaggio poco chiaro, segnalamelo.
+Vorrei che il valore di questa collaborazione si riconoscesse soprattutto
+nell'utilità di queste pagine, quando prendi la chitarra e le metti alla prova.
+
+
 Perché questi appunti esistono (e perché sono separati dalla teoria)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

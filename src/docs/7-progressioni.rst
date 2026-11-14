@@ -115,6 +115,8 @@ Prima di riempire ogni battuta con un arpeggio, scegli una nota riconoscibile pe
 
 **Verifica.** Riesci a sentire il cambio anche quando ripeti Fa? La frase continua ad avere una direzione se togli metà delle note?
 
+Per costruire la frase intorno ai bersagli con strutture di quattro note vedi :ref:`strutture-due-accordi`.
+
 .. _progressioni-minore:
 
 II–V–I minore: rendere udibili le differenze

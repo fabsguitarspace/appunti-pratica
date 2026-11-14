@@ -1,7 +1,7 @@
 # Analisi — Correzioni concettuali e sezione sulle strutture melodiche
 
 - Data: 14 novembre 2026.
-- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; schema della pagina melodica proposto, classificazione da verificare.
+- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare.
 - Ambito: Teoria e Pratica, con ricadute future sugli Strumenti.
 - Riferimento: [Proposta di revisione integrata](022-revisione-integrata-quadro-generale.md).
 - Sorgenti verificati: Teoria `a420e05`, Pratica `9c83ab7`.
@@ -563,6 +563,131 @@ La futura pagina deve mostrare insieme ordine nella collezione, gradi rispetto a
 
 L’indice editoriale di un metodo non basta a ricostruire questi dettagli. Gli esempi sopra sono proposte originali e verificabili: non certificano la corrispondenza a quella classificazione. Nel testo rivolto al lettore si useranno formulazione autonoma ed esempi originali.
 
+## Schema editoriale dettagliato — proposta del 14 novembre 2026
+
+Sviluppa la tabella «Struttura della pagina» in un progetto redigibile sezione per sezione. Stato: **proposto**, da confermare con l’autore prima della stesura in `src/docs`. Nessun sorgente del volume è stato modificato.
+
+### Impianto
+
+- File `src/docs/strutture-melodiche.rst`, titolo di livello `=`, sezioni `-`, sottosezioni `~`, esercizi `^`, come in `4-scale.rst` e `5-arpeggi.rst`.
+- Toctree di `index.rst`: fra `5-arpeggi` e `6-accordi`. Nessun capitolo rinominato.
+- Etichette: `strutture-melodiche` per la pagina e una per ogni sezione, indicate sotto; servono ai rimandi in entrata e non vanno cambiate dopo la pubblicazione.
+- Esercizi nel formato già usato in Pratica 4 e 5: **Scopo**, **Procedura**, **Ascolto**, **Varianti**, **Verifica**. Nessun nuovo formato di riquadro.
+- Rimandi a Teoria con URL completi del sito pubblicato, come negli altri capitoli; non esiste intersphinx fra i volumi.
+- Esempi musicali: nuovo generatore `scripts/generate_melodic_structures.py` sul modello di `generate_arpeggio_exercises.py`, file `_static/music/strutture-NN.*`, spartito e TAB allineati secondo `leggere-gli-esempi`, audio a 60 e 90 BPM come negli esercizi di Arpeggi (ADR 0001).
+- Estensione indicativa: paragonabile a una sezione maggiore di Arpeggi. La pagina è un ingresso, non un catalogo: le tabelle complete restano in fondo alla sezione Famiglie.
+
+### Tre modi di usare la pagina
+
+Da dichiarare nel paragrafo «Come usare la pagina», dopo l’apertura:
+
+| Ingresso | Sezioni | Per chi |
+|---|---|---|
+| Essenziale | 1, 2, 4, 5, 6, 8 | Chi vuole costruire una frase con poco materiale |
+| Consultazione | 3, 7 | Chi cerca formule, famiglie e organizzazioni |
+| Prosecuzioni | 9 | Chi ha completato la sezione 8 e vuole materiali avanzati |
+
+Prerequisiti dichiarati: scala maggiore in una posizione (Pratica 4), arpeggio di Cmaj7 (Pratica 5), capacità di cantare una linea di quattro note. Non servono le famiglie complete né le pentatoniche.
+
+### Sezioni
+
+**0. Apertura e «Come usare la pagina»** — etichetta `strutture-melodiche`.
+Testo: l’apertura già redatta sopra, poi la tabella dei tre ingressi e i prerequisiti. Nessun esempio musicale oltre a quello citato nell’apertura, che coincide con S1.
+
+**1. Poche note, una scelta precisa** — `strutture-poche-note`.
+Obiettivo: distinguere collezione, struttura e frase.
+Esempio **S1** (2 battute, Cmaj7): Do–Re–Mi–Sol in salita, pausa; Mi–Sol–Re–Do, pausa. Stesso materiale, percorso diverso.
+Esercizio: cantare entrambi gli ordini, suonarli, inventare una risposta di due o tre note.
+Stato: redigibile subito.
+
+**2. Formula e riferimenti** — `strutture-riferimenti`.
+Obiettivo: separare tre riferimenti: grado rispetto alla fondamentale della struttura, grado rispetto all’accordo, posizione nella collezione.
+Contenuto: la tabella «Distinzioni da rendere esplicite», ridotta a materiale, applicazione e diteggiatura; ordine, registro e ritmo passano alle sezioni 4 e 5.
+Esempio **S2** (2 battute): la stessa linea Do–Re–Mi–Sol su Cmaj7 (1–2–3–5) e su Dm7 (♭7–1–9–11), con il basso nella base.
+Raccordo: la cellula Mi–Sol–Si–Re dell’Introduzione, su Cmaj7 3–5–7–9, come struttura accordale da confrontare con quella selettiva di S1. Rimandi a Teoria 3, 4 e 5.
+Stato: redigibile subito.
+
+**3. Famiglie di strutture** — `strutture-famiglie`.
+Obiettivo: consultazione rigorosa.
+Forma fissata per ogni famiglia: criterio di inclusione, formula, esempio da Do, un’applicazione su accordo, rimando a una sezione dove viene usata.
+Tabella completa in fondo alla sezione, non all’inizio.
+Stato: **bloccata** dalla verifica della classificazione di riferimento (vedi «Contenuti da verificare»). Proposta: la prima pubblicazione omette la sezione, senza segnaposto visibile; la si aggiunge dopo la verifica, con etichetta già riservata.
+
+**4. Cambiare ordine e registro** — `strutture-ordine-registro`.
+Obiettivo: trasformare il percorso mantenendo il materiale.
+Esempio **S3** (4 battute, Cmaj7): ordine 1–2–3–5; ordine 3–5–2–1; stesso ordine con Re e Do all’ottava superiore; le stesse altezze della battuta 3 in una seconda diteggiatura fra l’VIII e il XII tasto, raccordo a Pratica 3. In attuazione la quarta battuta sostituisce il ritorno al registro iniziale, per mostrare la diteggiatura nello spartito.
+Raccordo: le Varianti di «Dall’arpeggio alla frase» in Pratica 5, che chiedono già di cambiare l’ordine delle note dell’accordo; qui lo stesso procedimento si applica a una struttura selettiva.
+Stato: redigibile subito. Non includere tavole di tutte le permutazioni.
+
+**5. Dare tempo alle note** — `strutture-ritmo`.
+Obiettivo: cambiare pause, durate e accenti prima di cambiare le altezze.
+Esempio **S4** (3 battute): la linea Mi–Sol–Re–Do in crome con pausa; con le prime due note lunghe; con partenza in levare. Altezze invariate.
+Raccordi: «Dal pattern a una frase» in Pratica 4; Teoria 12, «Sviluppare una cellula», senza ripeterne la spiegazione.
+Stato: redigibile subito.
+
+**6. Collegare due accordi** — `strutture-due-accordi`.
+Obiettivo: scegliere l’arrivo prima del riempimento.
+Esempio **S5**: l’esempio originale già redatto (Dm7–G7–Cmaj7–Cmaj7, arrivo su Mi), con base senza chitarra e il percorso di studio già scritto.
+Raccordi: `progressioni-ii-v-i`, sottosezione «Improvvisare: scegliere note bersaglio»; `strumenti-progressioni` per suonare la stessa cadenza in altre tonalità.
+Stato: redigibile subito.
+
+**7. Organizzare le pentatoniche** — `strutture-pentatoniche`.
+Obiettivo: distinguere il salto nella collezione dall’intervallo che ne risulta.
+Contenuto: il paragrafo «Pentatoniche: un esempio del problema di notazione» e la convenzione «una nota sì e una no».
+Esempio **S6** (2 battute, C6): Do pentatonica maggiore a coppie Do–Mi, Re–Sol, Mi–La, Sol–Do, La–Re. Una terza maggiore e quattro quarte giuste: lo stesso passo produce intervalli diversi.
+Raccordi: `scala-pentatonica-maggiore` e `scala-pentatonica-minore` per le mappe; `modern-05` e `modern-06` per sovrapposizione e side-slip.
+Stato: parte su maggiore e minore redigibile subito; altre famiglie pentatoniche **bloccate** come la sezione 3.
+
+**8. Una frase tua** — `strutture-frase-tua`.
+Obiettivo: produrre e verificare una frase propria.
+Consegna: sulla base di S5, due giri registrati con una struttura per accordo scelta dal lettore; arrivo deciso prima di suonare.
+Verifica: stessa pulsazione nei due giri, pause contate, arrivo previsto raggiunto, seconda versione riconoscibile come variante della prima.
+Riquadro «Brano guida», secondo la convenzione dell’Introduzione: portare una struttura nello studio `progressioni-aaba`.
+Stato: redigibile subito.
+
+**9. Dove proseguire** — senza etichetta propria.
+Rimandi brevi: `licks-progressioni`; `modern-01` per la cellula Mi–Sol–Si–Re; Percorsi d’autore; `strumenti-scale` e `strumenti-arpeggi` per esercitare ordine e registro. Nessun nuovo contenuto.
+
+### Esempi musicali da produrre
+
+| Id | Sezione | Battute | Accordi | Base |
+|---|---|---|---|---|
+| S1 | 1 | 2 | Cmaj7 | No |
+| S2 | 2 | 2 | Cmaj7, Dm7 | Sì, per sentire il basso |
+| S3 | 4 | 4 | Cmaj7 | No |
+| S4 | 5 | 3 | Cmaj7 | No |
+| S5 | 6 | 4 | Dm7–G7–Cmaj7 | Sì |
+| S6 | 7 | 2 | C6 | No |
+
+Le altezze dei sei esempi rientrano in Do4–Re5 reali. Prima della generazione verificare con un controllo automatico appartenenza delle note alle strutture dichiarate, gradi rispetto agli accordi e durata delle battute, come per l’esempio S5.
+
+### Rimandi in entrata
+
+Una frase per sede, nel punto indicato; nessuna riscrittura dei testi esistenti.
+
+| Sede | Punto |
+|---|---|
+| Pratica 4 | Fine di «Dal pattern a una frase», dopo **Verifica** |
+| Pratica 5 | Fine dell’esercizio 8, «Dall’arpeggio alla frase» |
+| Pratica 7 | «Improvvisare: scegliere note bersaglio» nel II–V–I maggiore |
+| Pratica 1 | Paragrafo dei due fili, accanto alla cellula Mi–Sol–Si–Re |
+| Teoria 12 | Fine di «Sviluppare una cellula» |
+
+Pratica 11 e gli Strumenti restano esclusi fino alla definizione delle famiglie (fase D).
+
+### Ordine di stesura proposto
+
+1. Sezioni 0, 1, 2, 4, 5, 6, 8, 9 e parte di 7, con S1–S6.
+2. Generatore, build HTML con `-W --keep-going`, test dei collegamenti, ascolto degli audio.
+3. Rimandi in entrata.
+4. Sezione 3 e famiglie pentatoniche aggiuntive, dopo la verifica della classificazione.
+
+### Decisioni richieste all’autore
+
+- ~~Pubblicare la pagina senza la sezione 3 oppure attendere la classificazione completa.~~ **Deciso dall’autore il 14 novembre 2026:** la prima pubblicazione esce senza la sezione 3 e senza segnaposto visibile; l’etichetta `strutture-famiglie` resta riservata.
+- ~~Audio a una velocità o a due.~~ **Deciso il 14 novembre 2026:** due velocità, 60 e 90 BPM, come negli esercizi di Arpeggi.
+- ~~Conferma dei sei esempi e della loro collocazione.~~ **Confermati il 14 novembre 2026**; stesura autorizzata nel perimetro dello schema.
+
 ## Dipendenze e impatto
 
 | Sede esistente | Intervento successivo proposto |
@@ -605,4 +730,15 @@ Durante l’applicazione sono state apportate due precisazioni tecniche ai testi
 
 Verifiche eseguite: corrispondenza dei quattordici blocchi con i sorgenti finali; controllo delle note comuni e dei rapporti intervallari; build HTML di Teoria mediante `./build.sh` con `-W --keep-going`, conclusa con successo; `git diff --check`. Nessuna rigenerazione dei materiali musicali, che restano quelli esistenti. Il controllo HTML è strutturale; non costituisce ascolto degli audio o verifica dei formati PDF/ePub.
 
-Attuazione di Teoria registrata su `main` nel commit `223ad65`. Documentazione predisposta per commit su `main` di Pratica. Il push di Teoria è stato tentato il 14 novembre 2026 ed è bloccato dalla mancata risoluzione di `github.com`; lo stato di sincronizzazione va verificato con Git prima di considerare pubblicate le modifiche.
+Attuazione di Teoria registrata su `main` nel commit `223ad65`. Documentazione predisposta per commit su `main` di Pratica. Il primo push di Teoria, il 14 novembre 2026, era bloccato dalla mancata risoluzione di `github.com`; ripetuto lo stesso giorno, ha portato `origin/main` di Teoria a `223ad65` e quello di Pratica a `7e776af`.
+
+## Attuazione della pagina melodica — 14 novembre 2026
+
+Dopo le decisioni dell’autore (pubblicazione senza sezione 3, audio a 60 e 90 BPM, esempi confermati) è stata scritta la pagina secondo lo schema.
+
+- `src/docs/strutture-melodiche.rst`, nel toctree fra `5-arpeggi` e `6-accordi`. Sezioni e etichette come nello schema; `strutture-famiglie` non compare ed è riservata. La sezione «Come usare la pagina» indica tre ingressi; con la sezione 3 assente l’approfondimento coincide con la sezione 7.
+- `scripts/generate_melodic_structures.py` genera sedici sorgenti LilyPond: S1–S6 a 60 e 90 BPM e le basi di S2 e S5 alle due velocità (`strutture-NN[-base][-90].ly`). Esempi e basi con accompagnamento usano basso elettrico e accordi a due voci, con l’overlay `sf/PracticeRhythm.sf2` come gli studi modern jazz. Conteggio di quattro Do acuti, come negli esercizi di Arpeggi.
+- Rimandi in entrata: Pratica 1 (paragrafo dei due fili), 4 (dopo «Dal pattern a una frase»), 5 (dopo l’esercizio 8), 7 (dopo le note bersaglio del II–V–I); Teoria 12, fine di «Sviluppare una cellula», con URL del sito di Pratica.
+- Test `tests/test_melodic_structures.py`: lunghezza delle battute e registro Do4–Re5; ordini di S1; gradi di S2 su Cmaj7 e Dm7; spostamento d’ottava, intervalli e seconda diteggiatura di S3; altezze invariate e tre ritmi distinti in S4; strutture e arrivo sulla terza in S5; una terza e quattro quarte in S6; corrispondenza fra risorse generate e riferimenti della pagina.
+
+Verifiche eseguite: generazione e compilazione delle sedici partiture con `build-lilypond.sh` (nessun avviso LilyPond; avvisi FluidSynth sul canale 9 identici a quelli degli esercizi esistenti); controllo visivo degli spartiti S3–S6 e della base di S5; suite `unittest` di Pratica (46 test, inclusi gli 8 nuovi) superata; build HTML di Pratica e Teoria con `-W --keep-going` concluse con successo; presenza di tutte le risorse SVG e MP3 referenziate nell’HTML. Non verificati: ascolto completo degli audio, formati PDF ed ePub, pagina pubblicata su Read the Docs.

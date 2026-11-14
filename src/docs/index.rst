@@ -16,6 +16,7 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
   3-conoscere-la-tastiera
   4-scale
   5-arpeggi
+  strutture-melodiche
   6-accordi
   7-progressioni
   8-licks

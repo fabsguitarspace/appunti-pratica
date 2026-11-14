@@ -728,6 +728,8 @@ Suona prima ciò che è scritto. Poi conserva soltanto tre o quattro note della 
 
 **Verifica.** Riesci a ripetere la tua frase, lasciarla respirare e produrne una seconda versione riconoscibile? Se ogni tentativo diventa una corsa diversa lungo tutta la scala, riduci il materiale a tre note.
 
+Il procedimento generale, con strutture di quattro note e un II–V–I, è in :doc:`strutture-melodiche`.
+
 .. image:: _static/music/scale-esercizio07.*
    :width: 100%
 

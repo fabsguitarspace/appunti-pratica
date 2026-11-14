@@ -647,6 +647,8 @@ Questi studi introducono salti, cambi di posizione, estensioni e progressioni. A
 
 **Verifica.** Riesci a cantare una delle idee, ripeterla uguale e produrne una variante riconoscibile senza riempire tutte le pause?
 
+Lo stesso lavoro su ordine, registro e ritmo, applicato a note scelte da una scala, è in :doc:`strutture-melodiche`.
+
 .. image:: _static/music/arpeggi-esercizio08.*
    :width: 100%
 

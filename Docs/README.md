@@ -90,3 +90,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Chiusura dei punti della revisione editoriale](analisi/021-chiusura-revisione-editoriale.md) — commenti differenziati nel vocabolario, bebop minore, studio in Fa e in Sol, brano guida, mappa del capitolo Le basi, 13 novembre 2026.
 
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuata per Scale, Arpeggi e Accordi, manca Progressioni. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.
+
+- [Strutture melodiche e revisione integrata](analisi/022-strutture-melodiche-revisione-integrata.md) — proposta del 14 novembre 2026: quattordici blocchi prima/dopo per Teoria, schema della nuova pagina di Pratica ed esempio originale; fase A applicata a Teoria; schema della nuova pagina ancora proposto.

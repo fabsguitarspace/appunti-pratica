@@ -15,7 +15,7 @@ Come usare la pagina
 La pagina non va studiata tutta prima di passare ad Accordi. Se ti interessa soprattutto l’accompagnamento puoi proseguire direttamente e tornare qui più tardi.
 
 - **Percorso essenziale**: le sezioni da «Poche note, una scelta precisa» a «Collegare due accordi», poi «Una frase tua». Bastano per costruire una frase con pochissimo materiale.
-- **Approfondimento**: «Organizzare le pentatoniche», quando vuoi applicare lo stesso modo di lavorare a una collezione di cinque note.
+- **Consultazione**: «Famiglie di strutture», con le strutture principali, quelle aggiuntive e i modi per trasformarle. Le pentatoniche hanno una pagina propria, :doc:`pentatoniche`.
 - **Prosecuzioni**: «Dove proseguire» indica i materiali avanzati del volume che usano gli stessi procedimenti.
 
 Ti servono la scala maggiore in una posizione (:doc:`4-scale`), l’arpeggio di Cmaj7 (:doc:`5-arpeggi`) e la capacità di cantare una linea di quattro note. Non servono altre scale né un catalogo di strutture.
@@ -67,7 +67,7 @@ Quando nomini le note di una struttura puoi riferirti a tre cose diverse. Tenerl
 - **Grado rispetto all’accordo.** Le stesse note sopra Dm7 diventano ♭7–1–9–11. La formula non cambia; cambia il basso che la interpreta.
 - **Posizione nella collezione.** Se pensi Do–Re–Mi–Sol come una fila di quattro elementi, Mi è la terza nota della fila. Questo numero dice dove si trova nella struttura, non quale intervallo forma con Do.
 
-Il terzo riferimento diventa importante nelle pentatoniche, dove contare le posizioni e misurare gli intervalli danno risultati diversi (vedi :ref:`strutture-pentatoniche`).
+Il terzo riferimento diventa importante nelle pentatoniche, dove contare le posizioni e misurare gli intervalli danno risultati diversi (vedi :ref:`pentatoniche-passo-salto`).
 
 Lo stesso confronto vale per la tastiera: altezze e durate possono restare identiche anche cambiando corde e posizione. La diteggiatura è il percorso fisico, non un’altra struttura.
 
@@ -119,6 +119,291 @@ Lo stesso confronto vale per la tastiera: altezze e durate possono restare ident
 Una struttura selettiva come Do–Re–Mi–Sol non è l’unico tipo di materiale breve. La cellula Mi–Sol–Si–Re, che attraversa tutto il volume, è l’arpeggio di Em7; su Cmaj7 produce 3–5–7–9. Anche lei ha quattro note, ma nasce da terze sovrapposte. Avere la stessa quantità di note non basta a mettere due strutture nella stessa famiglia: conta la relazione fra gli intervalli.
 
 Per le definizioni di intervallo, scala e accordo vedi nel volume di Teoria i capitoli `Intervalli <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/3-intervalli.html>`__, `Scale <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__ e `Accordi <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/5-accordi.html>`__.
+
+.. _strutture-famiglie:
+
+Famiglie di strutture
+---------------------
+
+Fin qui abbiamo usato una sola struttura, Do–Re–Mi–Sol. Questa sezione la inserisce in un sistema: quali strutture di quattro note conviene conoscere, come si nominano e come si trasformano. È una sezione da consultare: non serve studiarla tutta prima di proseguire.
+
+La suddivisione segue quella di Jerry Bergonzi, *Inside Improvisation*, vol. 1, *Melodic Structures*, dove trovi il metodo completo. Le definizioni sono nel volume di Teoria, `Tre segmenti di quattro note <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/5-accordi.html#tre-segmenti-di-quattro-note>`__; qui le porti sulla tastiera.
+
+Tre strutture principali
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ogni struttura si nomina con i gradi dell'accordo. I numeri seguono la sua scala: su un minore 3 e 7 sono ♭3 e ♭7, su un dominante 7 è ♭7; 8, 10 e 12 sono fondamentale, terza e quinta all'ottava superiore.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Struttura
+     - Maggiore e dominante
+     - Minore
+   * - 1–5
+     - 1–2–3–5
+     - 1–3–4–5
+   * - 5–9
+     - 5–6–7–9
+     - 5–7–8–9
+   * - 9–13
+     - 9–10–♯11–13
+     - 9–11–12–13
+
+Ogni struttura è la precedente spostata di una quinta. Su Cmaj7, 5–9 è Sol–La–Si–Re, cioè 1–2–3–5 di Sol; 9–13 è Re–Mi–Fa♯–La, 1–2–3–5 di Re. Insieme le tre strutture contengono tutte le note dell'accordo di tredicesima.
+
+**Scopo.** Sentire come la stessa forma cambia colore salendo per quinte.
+
+**Procedura.** S7 presenta le tre strutture su Cmaj7, S8 su Cm7, una per battuta. Ogni battuta ha la stessa forma ritmica di S1: quattro crome e una pausa di minima.
+
+**Ascolto.** Su Cmaj7 la prima battuta contiene la fondamentale, la seconda la settima, la terza la ♯11. Canta la nota più acuta di ciascuna battuta sopra un Do tenuto.
+
+**Varianti.** Suona le tre strutture partendo ogni volta dalla nota più vicina alla precedente, invece che dalla più grave.
+
+**Verifica.** Su un accordo qualsiasi, sapresti dire le note di 5–9 senza scrivere la scala?
+
+.. image:: _static/music/strutture-07.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-07.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-07-90.mp3" type="audio/mpeg">
+   </audio>
+
+.. image:: _static/music/strutture-08.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-08.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-08-90.mp3" type="audio/mpeg">
+   </audio>
+
+Scegliere le permutazioni
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quattro note si possono ordinare in 24 modi. Non serve studiarli tutti: scegline quattro, uno che parte da ciascuna nota della struttura. Così eviti il rischio più comune, partire sempre da 1 o da 5.
+
+**Scopo.** Rendere disponibili gli ordini che cominciano da 2 e da 3.
+
+**Procedura.** S9 usa quattro permutazioni di 1–2–3–5 su Cmaj7: 1–3–2–5, 2–5–3–1, 3–1–2–5 e 5–2–3–1.
+
+**Ascolto.** Le battute che partono da 2 e da 3 cominciano su una nota che non è un appoggio dell'accordo: ascolta come la linea cerca la nota successiva.
+
+**Varianti.** Sostituisci le quattro permutazioni con altre quattro scelte da te, sempre una per nota iniziale. Poi applicale a 1–3–4–5 su Cm7.
+
+**Verifica.** Riesci a suonare le quattro battute in un ordine diverso, senza fermarti fra l'una e l'altra?
+
+.. image:: _static/music/strutture-09.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-09.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-09-90.mp3" type="audio/mpeg">
+   </audio>
+
+Rivolti lineari
+~~~~~~~~~~~~~~~
+
+Come un accordo, anche una struttura ha quattro rivolti: ciascuna delle sue note può essere la più grave. Una permutazione suonata nei quattro rivolti conserva l'ordine dei gradi ma cambia gli intervalli fra le note.
+
+**Scopo.** Ricavare forme nuove da una permutazione già nota.
+
+**Procedura.** S10 suona 2–5–3–1 su Cmaj7 quattro volte. Nella prima battuta la nota più grave è Do, nella seconda Re, nella terza Mi, nella quarta Sol: per ottenerle, le note più basse salgono di un'ottava.
+
+**Ascolto.** Confronta la prima e l'ultima battuta: stessi gradi, nello stesso ordine, ma un profilo molto più aperto.
+
+**Varianti.** Scegli un'altra permutazione e suonala in un solo rivolto diverso dalla posizione fondamentale. Con 24 permutazioni e quattro rivolti le combinazioni sono 96: ne bastano poche, purché tu le senta come blocchi.
+
+**Verifica.** Data una permutazione e un rivolto, sapresti trovarla sulla tastiera senza passare dalla posizione fondamentale?
+
+.. image:: _static/music/strutture-10.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-10.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-10-90.mp3" type="audio/mpeg">
+   </audio>
+
+Mescolare le strutture
+~~~~~~~~~~~~~~~~~~~~~~
+
+Su una progressione puoi cambiare struttura a ogni accordo. Il criterio più utile è la condotta: scegli la struttura che parte vicino all'ultima nota suonata.
+
+**Scopo.** Collegare gli accordi con movimenti brevi.
+
+**Procedura.** In S11, su Dm7 la struttura 1–3–4–5 scende da La a Re. Su G7 riparte da Re con 5–6–7–9, Re–Mi–Fa–La. Su Cmaj7 riparte da La con 5–9, La–Sol–Si–Re, e la linea si chiude sul Mi.
+
+**Ascolto.** Fra la prima e la seconda battuta la nota comune è Re, fra la seconda e la terza è La: la linea cambia accordo senza salti.
+
+**Varianti.** Sulla base, prova a usare solo 1–5 su tutti gli accordi e confronta i salti che ne risultano.
+
+**Verifica.** Su un II–V–I in un'altra tonalità, riesci a scegliere tre strutture collegate da note comuni o vicine?
+
+.. image:: _static/music/strutture-11.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-11.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-11-90.mp3" type="audio/mpeg">
+   </audio>
+
+**Base senza chitarra — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-11-base.mp3" type="audio/mpeg">
+   </audio>
+
+**Base senza chitarra — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-11-base-90.mp3" type="audio/mpeg">
+   </audio>
+
+Note da trattare
+~~~~~~~~~~~~~~~~
+
+Su maggiore e dominante l'unico grado della scala escluso da 1–5 e 5–9 è il 4; sul minore è il 6. Non sono note da evitare. Il 4 dista un semitono dalla terza: se ti fermi su di lui, di solito lo risolvi sul 3 o sul 5. Il 6 del minore non chiede risoluzione, ma ha un suono marcato: ascoltalo prima di tenerlo a lungo. Il motivo intervallare è spiegato in Teoria, nella stessa sezione dei tre segmenti.
+
+Una struttura, molti accordi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lo stesso gruppo di note cambia nome a seconda dell'accordo, come hai visto in S2. Do–Re–Mi–Sol, per esempio:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Accordo
+     - Gradi
+   * - Cmaj7
+     - 1–2–3–5
+   * - Am7
+     - ♭3–4–5–♭7
+   * - Dm7
+     - ♭7–1–9–11
+   * - Fmaj7
+     - 5–6–7–9
+   * - Gm7
+     - 11–5–13–1
+   * - B♭7
+     - 9–3–♯11–13
+
+Conoscere poche strutture e sapere su quanti accordi funzionano riduce il materiale da ricordare.
+
+Strutture aggiuntive
+~~~~~~~~~~~~~~~~~~~~
+
+Oltre alle tre principali, altre strutture di quattro note sono utili. Anche per loro valgono le 24 permutazioni.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Struttura
+     - Maggiore e dominante
+     - Minore
+   * - 3–7
+     - 3–5–6–7
+     - 3–4–5–7
+   * - 7–11
+     - 7–9–10–♯11
+     - 7–8–9–11
+   * - 4–8
+     - ♯4–6–7–8
+     - 4–5–6–8
+   * - 6–3
+     - 6–7–1–3
+     - 6–1–2–3
+
+Puoi anche scambiare le strutture di base, suonando 1–3–4–5 su un maggiore o 1–2–3–5 su un minore, oppure scegliere altre quattro note comprese in una quinta giusta.
+
+La più importante delle aggiuntive è 3–7, perché contiene terza e settima, le **note guida** che distinguono la qualità dell'accordo.
+
+**Scopo.** Usare una struttura che fa sentire subito la qualità dell'accordo.
+
+**Procedura.** S12 suona 3–5–6–7 su Cmaj7, Mi–Sol–La–Si, e 3–4–5–7 su Cm7, Mi♭–Fa–Sol–Si♭.
+
+**Ascolto.** Le due battute partono dalla terza e arrivano alla settima: anche senza accompagnamento si capisce quale accordo è maggiore e quale minore.
+
+**Varianti.** Usa 3–7 sulla G7 dell’esempio S5, più avanti nella pagina: Si–Re–Mi–Fa, collegata alla battuta su Cmaj7.
+
+**Verifica.** Sapresti dire perché 3–5–6–7 di Cmaj7 coincide con 1–3–4–5 di Mi minore?
+
+.. image:: _static/music/strutture-12.*
+   :width: 100%
+
+**Audio — 60 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-12.mp3" type="audio/mpeg">
+   </audio>
+
+**Audio — 90 BPM**
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/strutture-12-90.mp3" type="audio/mpeg">
+   </audio>
 
 .. _strutture-ordine-registro:
 
@@ -172,6 +457,8 @@ Dare tempo alle note
 **Verifica.** Mantieni la pulsazione quando la frase comincia dopo il battere? Le pause durano quanto è scritto, senza accorciarle?
 
 Il capitolo :doc:`4-scale` propone lo stesso lavoro nell’esercizio «Dal pattern a una frase». Per pulsazione, accento e sviluppo di una cellula vedi `Ritmo e sviluppo del materiale <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/12-ritmo-sviluppo.html>`__ nel volume di Teoria.
+
+Un modo semplice per uscire dalle crome continue è **togliere note**: da una struttura di quattro note ne suoni tre, due o una, lasciando al loro posto pause o note più lunghe. Puoi anche ripetere una nota. Il materiale resta riconoscibile, il ritmo cambia.
 
 .. image:: _static/music/strutture-04.*
    :width: 100%
@@ -252,45 +539,10 @@ Le note bersaglio dello stesso giro sono il tema di «Improvvisare: scegliere no
 
 .. _strutture-pentatoniche:
 
-Organizzare le pentatoniche
----------------------------
+Le pentatoniche
+---------------
 
-Do maggiore pentatonica è Do–Re–Mi–Sol–La. Partendo da Do e saltando una nota della collezione arrivi a Mi: una terza maggiore. Partendo da Re e saltando ancora una nota arrivi a Sol: una quarta giusta. La stessa operazione sulla collezione non produce sempre lo stesso intervallo.
-
-Per questo è più preciso dire «una nota sì e una no» che «per terze», quando l’operazione riguarda una collezione qualsiasi. Indica l’ordine delle note nella collezione e, se serve, l’intervallo che ne risulta.
-
-**Scopo.** Distinguere il salto nella collezione dall’intervallo effettivo.
-
-**Procedura.** L’esempio percorre la pentatonica di Do a coppie, una nota sì e una no: Do–Mi, Re–Sol, Mi–La nella prima battuta; Sol–Do, La–Re nella seconda. La sigla è C6, perché la collezione contiene la sesta e non la settima.
-
-**Ascolto.** Solo la prima coppia forma una terza. Le altre quattro sono quarte giuste: è questo a dare al disegno il suono aperto tipico della pentatonica maggiore.
-
-**Varianti.** Applica lo stesso procedimento alla pentatonica di La minore, che usa le stesse note con un altro centro. Poi conserva le coppie e cambiane soltanto il ritmo, come in :ref:`strutture-ritmo`.
-
-**Verifica.** Sapresti dire, prima di suonarla, quale coppia forma una terza in La minore pentatonica?
-
-.. image:: _static/music/strutture-06.*
-   :width: 100%
-
-**Audio — 60 BPM**
-
-.. raw:: html
-
-   <audio controls class="audio-controls" preload="none">
-      <source src="_static/music/strutture-06.mp3" type="audio/mpeg">
-   </audio>
-
-**Audio — 90 BPM**
-
-.. raw:: html
-
-   <audio controls class="audio-controls" preload="none">
-      <source src="_static/music/strutture-06-90.mp3" type="audio/mpeg">
-   </audio>
-
-Quando una pentatonica viene suonata sopra un accordo, indica sempre il basso reale e i gradi che produce. La pentatonica di Mi minore su Dm7 dà 9–11–5–13–1: lo studio :ref:`modern-05` lavora proprio su questa sovrapposizione, e :ref:`modern-06` la sposta di un semitono e la riporta indietro. Le mappe sulla tastiera sono in :ref:`scala-pentatonica-maggiore` e :ref:`scala-pentatonica-minore`.
-
-Maggiore e minore pentatonica non hanno semitoni fra note vicine, ma questa proprietà non vale per tutte le collezioni di cinque note. Il nome «pentatonica» indica il numero di note, non un suono senza attriti.
+Do–Re–Mi–Sol è una parte della pentatonica di La minore (= Do maggiore pentatonica): 1–2–3–5 e 1–3–4–5 sono le due letture della stessa collezione. Le pentatoniche hanno però procedimenti propri, a partire dal modo di contare i movimenti nella collezione, e per questo hanno una pagina dedicata: :doc:`pentatoniche`.
 
 .. _strutture-frase-tua:
 
@@ -321,6 +573,7 @@ Se qualcosa non funziona, riduci la struttura a tre note e ripeti.
 Dove proseguire
 ---------------
 
+- :doc:`pentatoniche` applica lo stesso lavoro alle collezioni di cinque note.
 - Le frasi di :ref:`licks-progressioni` collegano accordi con procedimenti simili, su forme più lunghe.
 - Lo studio :ref:`modern-01` usa la cellula Mi–Sol–Si–Re con ritmi e spostamenti più complessi.
 - I :doc:`10-percorsi-autore` mostrano come alcuni chitarristi sviluppano poche note in una frase.

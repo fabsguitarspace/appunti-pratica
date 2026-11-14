@@ -1,7 +1,7 @@
 # Analisi — Correzioni concettuali e sezione sulle strutture melodiche
 
 - Data: 14 novembre 2026.
-- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare. Completamento della fase A sul minore (M1–M7) approvato e applicato a Teoria il 14 novembre 2026. Fase B: classificazione da Bergonzi, voll. 1–2, e ripartizione Teoria/Pratica approvate; testi di Teoria (BT1–BT4) applicati il 14 novembre 2026; Pratica da scrivere.
+- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare. Completamento della fase A sul minore (M1–M7) approvato e applicato a Teoria il 14 novembre 2026. Fase B: classificazione da Bergonzi, voll. 1–2, e ripartizione Teoria/Pratica approvate; testi di Teoria (BT1–BT4) applicati il 14 novembre 2026; Pratica attuata lo stesso giorno (sezione Famiglie e pagina Pentatoniche).
 - Ambito: Teoria e Pratica, con ricadute future sugli Strumenti.
 - Riferimento: [Proposta di revisione integrata](022-revisione-integrata-quadro-generale.md).
 - Sorgenti verificati: Teoria `a420e05`, Pratica `9c83ab7`.
@@ -1186,3 +1186,27 @@ Applicati BT1 e BT2 in `4-scale.rst`, BT3 in `5-accordi.rst`, BT4 in `10-armonia
 Verifiche eseguite: ogni punto di inserimento trovato una sola volta; build HTML di Teoria con `-W --keep-going` conclusa con successo; nell’HTML presenti le nuove sezioni «Altre pentatoniche: cambiare una nota» e «Tre segmenti di quattro note» con le loro tabelle e la tabella delle note comuni in T10; `git diff --check`. Non verificati PDF ed ePub.
 
 Prossimo passo: Pratica, cioè la sezione 3 «Famiglie di strutture» di Strutture melodiche e la nuova pagina «Pentatoniche», con lo spostamento della sezione 7 e dell’esempio S6.
+
+### Fase B — attuazione in Pratica — 14 novembre 2026
+
+Dopo l’approvazione della ripartizione e delle tre scelte (nomi, strutture aggiuntive, ordine), scritta la parte di Pratica.
+
+**Strutture melodiche** (`src/docs/strutture-melodiche.rst`)
+
+- Nuova sezione 3 «Famiglie di strutture» (`strutture-famiglie`): tre strutture principali con tabella; «Scegliere le permutazioni»; «Rivolti lineari»; «Mescolare le strutture»; «Note da trattare»; «Una struttura, molti accordi» (Do–Re–Mi–Sol su sei accordi); «Strutture aggiuntive» con tabella di 3–7, 7–11, 4–8, 6–3 ed esempio solo per 3–7. Citazione di Bergonzi, vol. 1, e rimando a Teoria 5.
+- Nuovi esempi: S7 (tre strutture su Cmaj7), S8 (su Cm7), S9 (quattro permutazioni), S10 (rivolti lineari di 2–5–3–1), S11 (strutture mescolate su II–V–I, con base), S12 (3–7 su Cmaj7 e Cm7).
+- Sezione 5: aggiunto il paragrafo su «togliere note».
+- Sezione 7 ridotta a «Le pentatoniche», con l’etichetta `strutture-pentatoniche` conservata e il rimando alla nuova pagina; il testo sul movimento nella collezione e l’esempio S6 sono passati alla pagina Pentatoniche.
+- «Come usare la pagina» e «Dove proseguire» aggiornati.
+
+**Nuova pagina** `src/docs/pentatoniche.rst`, nel toctree dopo `strutture-melodiche`
+
+- Sezioni: «Passo e salto» (con S6), «Formule di quattro note» (P1: formula *passo su, salto su, passo giù* su La minore pentatonica), «Scegliere la pentatonica sull’accordo» (P2: Re, La, Mi minore su Dm7, con base), «Pentatoniche alterate» (tabella e P3: Si♭ maggiore ♭2 su G7 in un II–V–I, con base), «Poli-pentatoniche» (esercizio sulla base di P2, rimando a `modern-05` e `modern-06`), «Una frase tua», riquadro «Brano guida», «Dove proseguire». Citazione di Bergonzi, vol. 2.
+- La formula di P1 è originale, diversa da quelle del volume di riferimento.
+- Nello spartito di P3 la didascalia del G7 è «pentatonica alterata»: il segno ♭ nelle didascalie di LilyPond veniva spaziato male; il nome compare nel testo.
+
+**Rimandi**: dal capitolo Scale di Pratica, prima delle mappe pentatoniche; da Teoria 4, «Altre pentatoniche: cambiare una nota» (la frase tolta in BT2 è stata ripristinata con l’URL della pagina).
+
+**Generatore e test**: `generate_melodic_structures.py` descrive ora gli esempi con etichetta e nome file (`strutture-NN`, `pentatoniche-NN`); i sorgenti di S1–S6 sono rimasti identici. Ventiquattro nuovi sorgenti compilati. `tests/test_melodic_structures.py` riscritto: 16 test, fra cui gradi di S7–S8 e spostamento per quinta, una permutazione per nota iniziale in S9, nota più grave dei rivolti in S10, note comuni in S11, formula e collezione di P1, pentatoniche di P2, Si♭ maggiore ♭2 e risoluzione Fa–Mi in P3, corrispondenza fra risorse generate e riferimenti delle due pagine.
+
+Verifiche eseguite: suite `unittest` di Pratica, 54 test superati; build HTML di Pratica e Teoria con `-W --keep-going` concluse con successo; presenza nell’HTML di tutte le risorse SVG e MP3 referenziate; controllo visivo degli spartiti S10, P1 e P3. Ricontrollati con un calcolo i gradi citati nel testo (fra cui Do–Re–Mi–Sol sui sei accordi, Re minore 6 e Si♭ maggiore ♭2 su G7, Mi minore 6 su A7, note comuni con Sol minore). Corretto prima della pubblicazione un rimando allo strumento Scale, che non contiene le pentatoniche. Non verificati: ascolto completo degli audio, PDF ed ePub.

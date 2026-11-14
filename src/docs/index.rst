@@ -18,6 +18,7 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
   4-scale
   5-arpeggi
   strutture-melodiche
+  pentatoniche
   6-accordi
   7-progressioni
   8-licks

@@ -25,6 +25,7 @@ Il progetto fratello è `../appunti-teoria`. Teoria spiega strutture e relazioni
 - `src/docs/4-scale.rst`: Scale
 - `src/docs/5-arpeggi.rst`: Arpeggi
 - `src/docs/strutture-melodiche.rst`: Strutture melodiche e costruzione della frase (dal 14 novembre 2026, analisi 022)
+- `src/docs/pentatoniche.rst`: Pentatoniche (dal 14 novembre 2026, analisi 022, fase B)
 - `src/docs/6-accordi.rst`: Accordi
 - `src/docs/7-progressioni.rst`: Progressioni
 - `src/docs/8-licks.rst`: Licks
@@ -93,6 +94,6 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuata per Scale, Arpeggi e Accordi, manca Progressioni. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.
 
-- [Strutture melodiche e revisione integrata](analisi/022-strutture-melodiche-revisione-integrata.md) — proposta del 14 novembre 2026: quattordici blocchi prima/dopo per Teoria, schema della nuova pagina di Pratica ed esempio originale; fase A applicata a Teoria; pagina `strutture-melodiche.rst` scritta il 14 novembre 2026 senza la sezione Famiglie, con esempi S1–S6, generatore `generate_melodic_structures.py`, test e rimandi in entrata; classificazione ancora da verificare.
+- [Strutture melodiche e revisione integrata](analisi/022-strutture-melodiche-revisione-integrata.md) — proposta del 14 novembre 2026: quattordici blocchi prima/dopo per Teoria, schema della nuova pagina di Pratica ed esempio originale; fase A applicata a Teoria; pagina `strutture-melodiche.rst` scritta il 14 novembre 2026 senza la sezione Famiglie, con esempi S1–S6, generatore `generate_melodic_structures.py`, test e rimandi in entrata; il 14 novembre 2026 fase B: classificazione da Bergonzi, voll. 1–2, sezione Famiglie (S7–S12) e nuova pagina Pentatoniche (P1–P3).
 
 - [Pagina «Da dove comincio» (INT-10)](analisi/023-pagina-da-dove-comincio.md) — proposta del 14 novembre 2026: tre percorsi (frase, accompagnamento, melodia con accordi) con verifica finale, testo completo della pagina e rimandi da Pratica 1 e Teoria 1; attuata il 14 novembre 2026 (`src/docs/da-dove-comincio.rst`).

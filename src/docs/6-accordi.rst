@@ -294,6 +294,8 @@ Una routine breve
 
 Quando il collegamento è chiaro, aggiungi una sola nota al canto dalle famiglie del Vocabolario avanzato. Conserva il controllo delle voci interne: l’estensione deve entrare in una struttura che sai già ascoltare e muovere.
 
+Per suonare questi collegamenti in tutte le tonalità, con shell, drop 2, drop 3 e triadi, audio e tablatura, usa lo strumento :ref:`Accordi <strumenti-accordi>` degli Strumenti per la pratica.
+
 Per un confronto sul metodo a tre note: `Tom Lippincott, Shell Voicings
 <https://tomlippincott.com/shell-voicings>`__.
 

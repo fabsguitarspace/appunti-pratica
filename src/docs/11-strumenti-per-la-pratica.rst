@@ -29,7 +29,7 @@ Prima di iniziare
   Con le cuffie il metronomo e la chitarra si distinguono meglio.
 - **Tastiera del computer.** Con il pannello Esercizi aperto, Spazio avvia e
   ferma e le frecce sinistra e destra cambiano il tempo di 5 BPM; Invio estrae
-  un'altra scala o un altro arpeggio.
+  un'altra scala, un altro arpeggio o un altro accordo.
 - **Tema.** I link di questa pagina aprono lo strumento in una nuova scheda con
   lo stesso tema chiaro o scuro del volume.
 - **Materiale generato.** Gli esercizi sono prodotti da regole, non scritti e
@@ -196,4 +196,91 @@ cambiano sonorità, tonalità e zona della tastiera.
 
 Per altre sonorità e tonalità scegli famiglie e fondamentale in
 **Impostazioni** ed estrai un arpeggio nuovo: l'esercizio impostato resta lo
+stesso.
+
+.. _strumenti-accordi:
+
+Accordi
+-------
+
+Lo strumento **Accordi** estrae un accordo fra le stesse 19 sonorità dello
+strumento Arpeggi, in una delle dodici tonalità, e ne mostra i **voicing** in
+quattro famiglie, ciascuna con diagramma e corde usate:
+
+- **Shell**: fondamentale, terza e settima sulle corde 6–4–3 o 5–4–3, come
+  nella sezione sugli shell voicing del capitolo :doc:`6-accordi`;
+- **Drop 2** sulle corde 4–3–2–1 e 5–4–3–2, e **Drop 3** con il basso sulla
+  sesta o sulla quinta corda, come nei voicing per il chord melody;
+- **Triadi strette** su tre corde vicine.
+
+Tutte le forme stanno entro cinque tasti, senza corde a vuoto, e non mettono
+estensioni al basso. Il pannello **Esercizi** suona una sequenza di accordi:
+
+- **Cosa**: tutti i rivolti sullo stesso gruppo di corde, il ciclo delle
+  quarte nella stessa qualità oppure il II–V–I verso l'accordo, maggiore o
+  minore secondo la sonorità scelta;
+- **Come**: semibrevi, minime, quattro colpi, sul 2 e sul 4, charleston o
+  accordo arpeggiato in ottavi, con pennata o attacco simultaneo e una o due
+  battute per accordo;
+- **Dove**: famiglia, corde e zona della tastiera. Nel ciclo e nel II–V–I lo
+  strumento sceglie fra i rivolti quelli che muovono meno le voci, come negli
+  studi del capitolo.
+
+.. only:: html
+
+   .. container:: strumenti-apri
+
+      :strumento:`Apri lo strumento Accordi <accordi.html>`
+
+.. only:: not html
+
+   Indirizzo: https://fabsguitarspace.github.io/appunti-strumenti/accordi.html
+
+Esercizi pronti sugli accordi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I primi esercizi riprendono gli studi sugli shell voicing, in **Do**, fra il
+I e il X tasto e a 60 battiti al minuto. Gli altri passano a drop 2, drop 3 e
+triadi, in altre tonalità e con altri ritmi.
+
+#. :strumento:`Shell, II–V–I maggiore in Do
+   <accordi.html#v=1&chord=maj7&root=C&ex=ii-v-i&fam=shell&set=all&from=1&to=10&rhythm=whole&bpm=60>`.
+   Le stesse forme dello studio «Collegare un II–V–I maggiore»: segui Fa–Fa–Mi
+   e Do–Si–Si, una voce alla volta.
+#. :strumento:`Shell, II–V–I maggiore sul 2 e sul 4
+   <accordi.html#v=1&chord=maj7&root=C&ex=ii-v-i&fam=shell&set=all&from=1&to=10&rhythm=two-four&bpm=60>`.
+   Due attacchi brevi per battuta, come suggerito nello studio: conta comunque
+   quattro pulsazioni.
+#. :strumento:`Shell, II–V–I minore in Do
+   <accordi.html#v=1&chord=m6&root=C&ex=ii-v-i&fam=shell&set=all&from=1&to=10&rhythm=whole&bpm=60>`.
+   Dm7♭5, G7 e Cm6, come nello studio «Collegare un II–V–I minore»: il
+   semidiminuito è ridotto a Re–Fa–Do, senza quinta.
+#. :strumento:`Shell, C7 nel ciclo delle quarte
+   <accordi.html#v=1&chord=7&root=C&ex=cycle&fam=shell&set=all&from=1&to=10&rhythm=half&bpm=60>`.
+   Dodici dominanti, una per tonalità, con il basso che passa di solito dalla
+   sesta alla quinta corda: la settima di ogni accordo scende di semitono sulla
+   terza del successivo.
+#. :strumento:`Cmaj7 in drop 2, rivolti sulle corde 4–3–2–1
+   <accordi.html#v=1&chord=maj7&root=C&ex=inv&dir=up&fam=drop2&set=4321&from=1&to=15&rhythm=whole&bpm=60>`.
+   Quattro forme dal I al XII tasto: il canto sale da Sol a Si, Do e Mi.
+   Prova poi **Direzione** in discesa.
+#. :strumento:`Drop 2, II–V–I in Fa con il charleston
+   <accordi.html#v=1&chord=maj7&root=F&ex=ii-v-i&fam=drop2&set=4321&from=3&to=12&rhythm=charleston&bpm=80>`.
+   Il Si♭ al canto resta fermo da Gm7 a C7 e scende a La su Fmaj7: la settima
+   che risolve per semitono, come nel chord melody.
+#. :strumento:`Gm7 in drop 3, rivolti con il basso sulla sesta corda
+   <accordi.html#v=1&chord=m7&root=G&ex=inv&dir=updown&fam=drop3&set=6432&from=1&to=15&rhythm=half&bpm=60>`.
+   Il basso scende davvero in basso e il canto resta sulla seconda corda: salta
+   la quinta corda con le dita o con il *hybrid picking*.
+#. :strumento:`Triadi di Do sulle corde 3–2–1
+   <accordi.html#v=1&chord=maj&root=C&ex=inv&dir=updown&fam=triad&set=321&from=1&to=15&rhythm=quarters&bpm=72>`.
+   Tre rivolti, andata e ritorno: riconosci quale nota sta al canto prima di
+   suonarla.
+#. :strumento:`Drop 2, II–V–I minore in Re arpeggiato
+   <accordi.html#v=1&chord=m6&root=D&ex=ii-v-i&fam=drop2&set=5432&from=1&to=12&rhythm=arp&bpm=72>`.
+   Em7♭5, A7 e Dm6 sulle corde 5–4–3–2, suonati nota per nota in ottavi:
+   ascolta come ogni voce passa all'accordo successivo.
+
+Per altri accordi e tonalità scegli famiglie e fondamentale in
+**Impostazioni** ed estrai un accordo nuovo: l'esercizio impostato resta lo
 stesso.

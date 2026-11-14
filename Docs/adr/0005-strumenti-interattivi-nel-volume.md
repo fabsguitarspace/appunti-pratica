@@ -51,6 +51,8 @@ Decisioni dell'utente (2026-11-12): tema visivo D1; pubblicazione su GitHub Page
 
 2026-11-14, strumento Arpeggi: sezione «Arpeggi» nel capitolo 11 con nove esercizi pronti, rimando in fondo agli esercizi di `5-arpeggi.rst`, `arpeggi.html` nel test dei link. La pagina unica del capitolo resta adeguata con due strumenti. Dettagli nell'analisi 019, «Esito dell'attuazione (Arpeggi)».
 
+2026-11-14, strumento Accordi: sezione «Accordi» nel capitolo 11 con nove esercizi pronti, rimando in fondo a «Una routine breve» degli shell voicing in `6-accordi.rst`, `accordi.html` nel test dei link. Con tre strumenti la pagina unica resta leggibile; da rivalutare con Progressioni. Dettagli nell'analisi 019, «Esito dell'attuazione (Accordi)».
+
 ## Collegamenti
 
 - [ADR 0001](0001-lilypond-diretto-e-generazione-python.md) e [ADR 0004](0004-libreria-musicale-comune.md): invariati; RTD continua a non dipendere da altri repository.

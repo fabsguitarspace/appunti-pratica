@@ -1,10 +1,11 @@
 """Deep link verso gli Strumenti per la pratica (ADR 0005).
 
-Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale e Arpeggi):
+Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale, Arpeggi e Accordi):
 - pagina esistente fra quelle pubblicate, frammento versionato `v=1`;
 - se il repository ../appunti-strumenti è presente e Node è installato, ogni parametro
   è riconosciuto dallo strumento: js/link.js lo decodifica e lo riscrive uguale, la scala
-  esiste nel catalogo e la tonica è valida. Senza il repository il controllo è saltato.
+  esiste nel catalogo e la tonica è valida; negli Accordi l'esercizio produce almeno un voicing.
+  Senza il repository il controllo è saltato.
 Da eseguire prima di ogni rilascio del volume.
 """
 from pathlib import Path
@@ -14,7 +15,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'src/docs'
 TOOLS = ROOT.parent / 'appunti-strumenti'
-PAGES = {'index.html', 'scale.html', 'arpeggi.html'}
+PAGES = {'index.html', 'scale.html', 'arpeggi.html', 'accordi.html'}
 ROLE = re.compile(r':strumento:`[^`<]*<([^>]+)>`', re.S)
 
 links = []
@@ -45,6 +46,8 @@ const T = require(tools + '/js/theory.js');
 const L = require(tools + '/js/link.js');
 const P = require(tools + '/js/exercises/presets.js');
 const C = require(tools + '/js/chords.js');
+const X = require(tools + '/js/exercises/comping.js');
+const V = require(tools + '/js/voicings.js');
 const slugs = new Set(T.catalog().map((s) => L.slug(s.name)));
 const chords = new Set(C.catalog().map((q) => q.id));
 const SCOPE_KEYS = ['v', 'scale', 'chord', 'root'];
@@ -79,6 +82,31 @@ for (const [name, page, params] of JSON.parse(require('fs').readFileSync(0, 'utf
     if (!!params.chord !== !!params.root) errors.push('chord e root vanno insieme');
     if (params.start && (params.ext === 'full' || params.scope === 'chain')) errors.push('start ignorato con ext=full o scope=chain');
     roundTrip(params, P.ARPEGGI, errors);
+  }
+  if (page === 'accordi.html') {
+    const q = C.catalog().find((x) => x.id === params.chord);
+    if (params.chord && !q) errors.push('accordo sconosciuto ' + params.chord);
+    if (params.root && !L.parseNote(params.root)) errors.push('fondamentale non valida ' + params.root);
+    if (!!params.chord !== !!params.root) errors.push('chord e root vanno insieme');
+    if (params.ex && !X.EXERCISES.some((e) => e.id === params.ex)) errors.push('esercizio sconosciuto ' + params.ex);
+    if (params.rhythm && !X.RHYTHMS.some((r) => r.id === params.rhythm)) errors.push('ritmo sconosciuto ' + params.rhythm);
+    if (params.attack && !X.ATTACKS.some(([id]) => id === params.attack)) errors.push('attacco sconosciuto ' + params.attack);
+    if (params.dir && params.ex !== 'inv') errors.push('dir vale solo con ex=inv');
+    if (params.bpm && !(+params.bpm >= 30 && +params.bpm <= 300)) errors.push('bpm fuori da 30–300');
+    const fam = V.family(params.fam || X.DEFAULTS.family);
+    if (!fam) errors.push('famiglia sconosciuta ' + params.fam);
+    else if (params.set && params.set !== 'all' && !fam.sets.map(V.setLabel).includes(params.set)) errors.push('corde ' + params.set + ' fuori dalla famiglia ' + fam.id);
+    if (q && fam && !V.familiesFor(q).includes(fam.id)) errors.push('la famiglia ' + fam.id + ' non prevede ' + q.id);
+    const d = L.decodeChordExercise(params);
+    const back = L.encodeChordExercise({ ...X.DEFAULTS, ...d });
+    for (const [k, v] of Object.entries(params)) {
+      if (SCOPE_KEYS.includes(k)) continue;
+      if (String(back[k]) !== v) errors.push(k + '=' + v + ' ignorato (diventa ' + back[k] + ')');
+    }
+    if (q && params.root && fam && !errors.length) {
+      const r = X.build(q, L.parseNote(params.root), d);
+      if (r.error || !r.chords.length) errors.push('nessun voicing: ' + (r.error || 'sequenza vuota'));
+    }
   }
   if (errors.length) out.push(name + ': ' + JSON.stringify(params) + ' → ' + errors.join('; '));
 }

@@ -49,7 +49,7 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [ADR 0004 — Libreria musicale comune ai tre progetti](adr/0004-libreria-musicale-comune.md) — Accettato, 2026-11-11. Copia comune con appunti-repertorio e il progetto fratello; migrazione non avviata. I numeri 0002–0003 sono usati solo in appunti-repertorio.
 
-- [ADR 0005 — Strumenti interattivi nel volume](adr/0005-strumenti-interattivi-nel-volume.md) — Accettato, 2026-11-12. Capitolo «Strumenti per la pratica», strumenti su GitHub Pages dal repository `appunti-strumenti` (ex Guitar-Scale-Practice, in locale `../appunti-strumenti`), titolo dell'app «Strumenti per la pratica». Attuato per lo strumento Scale il 2026-11-12 (capitolo 11, rimando nel capitolo 4, test `tests/test_strumenti_links.py`) e per lo strumento Arpeggi il 2026-11-14 (sezione nel capitolo 11, rimando nel capitolo 5); Accordi e Progressioni da aggiungere man mano.
+- [ADR 0005 — Strumenti interattivi nel volume](adr/0005-strumenti-interattivi-nel-volume.md) — Accettato, 2026-11-12. Capitolo «Strumenti per la pratica», strumenti su GitHub Pages dal repository `appunti-strumenti` (ex Guitar-Scale-Practice, in locale `../appunti-strumenti`), titolo dell'app «Strumenti per la pratica». Attuato per lo strumento Scale il 2026-11-12 (capitolo 11, rimando nel capitolo 4, test `tests/test_strumenti_links.py`) per lo strumento Arpeggi il 2026-11-14 (sezione nel capitolo 11, rimando nel capitolo 5) e per lo strumento Accordi il 2026-11-14 (sezione nel capitolo 11, rimando nel capitolo 6); Progressioni da aggiungere.
 
 - [Ristrutturazione editoriale e scrittura assistita](analisi/003-ristrutturazione-editoriale.md) — proposta aperta; i capitoli mancanti sono ipotesi.
 
@@ -89,4 +89,4 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 
 - [Chiusura dei punti della revisione editoriale](analisi/021-chiusura-revisione-editoriale.md) — commenti differenziati nel vocabolario, bebop minore, studio in Fa e in Sol, brano guida, mappa del capitolo Le basi, 13 novembre 2026.
 
-- [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuazione non avviata. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.
+- [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuata per Scale, Arpeggi e Accordi, manca Progressioni. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.

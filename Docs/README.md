@@ -19,6 +19,7 @@ Il progetto fratello è `../appunti-teoria`. Teoria spiega strutture e relazioni
 ## Mappa dei capitoli
 
 - `src/docs/1-introduzione.rst`: Introduzione
+- `src/docs/da-dove-comincio.rst`: Da dove comincio (dal 14 novembre 2026, analisi 023)
 - `src/docs/2-basi.rst`: Le basi che nessuno vede
 - `src/docs/3-conoscere-la-tastiera.rst`: Conoscere la tastiera
 - `src/docs/4-scale.rst`: Scale
@@ -93,3 +94,5 @@ I sorgenti prevalgono sulla KB. Dopo cambiamenti rilevanti aggiornare evidenze e
 - [Capitolo di strumenti interattivi](analisi/019-capitolo-strumenti-interattivi.md) — lo strumento Scale (ex Guitar Scale Practice) e strumenti analoghi per Arpeggi, Accordi e Progressioni nel volume; 12 novembre 2026; decisa con l'utente, attuata per Scale, Arpeggi e Accordi, manca Progressioni. ADR [0005](adr/0005-strumenti-interattivi-nel-volume.md) Accettato.
 
 - [Strutture melodiche e revisione integrata](analisi/022-strutture-melodiche-revisione-integrata.md) — proposta del 14 novembre 2026: quattordici blocchi prima/dopo per Teoria, schema della nuova pagina di Pratica ed esempio originale; fase A applicata a Teoria; pagina `strutture-melodiche.rst` scritta il 14 novembre 2026 senza la sezione Famiglie, con esempi S1–S6, generatore `generate_melodic_structures.py`, test e rimandi in entrata; classificazione ancora da verificare.
+
+- [Pagina «Da dove comincio» (INT-10)](analisi/023-pagina-da-dove-comincio.md) — proposta del 14 novembre 2026: tre percorsi (frase, accompagnamento, melodia con accordi) con verifica finale, testo completo della pagina e rimandi da Pratica 1 e Teoria 1; attuata il 14 novembre 2026 (`src/docs/da-dove-comincio.rst`).

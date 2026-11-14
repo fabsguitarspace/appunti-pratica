@@ -11,6 +11,7 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
   :maxdepth: 3
 
   1-introduzione
+  da-dove-comincio
   leggere-gli-esempi
   2-basi
   3-conoscere-la-tastiera

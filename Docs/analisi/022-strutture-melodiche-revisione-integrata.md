@@ -1,7 +1,7 @@
 # Analisi — Correzioni concettuali e sezione sulle strutture melodiche
 
 - Data: 14 novembre 2026.
-- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare. Completamento della fase A sul minore (M1–M7) approvato e applicato a Teoria il 14 novembre 2026.
+- Stato: fase A approvata e applicata ai sorgenti di Teoria il 14 novembre 2026; pagina melodica scritta il 14 novembre 2026 senza la sezione Famiglie, per decisione dell’autore; classificazione da verificare. Completamento della fase A sul minore (M1–M7) approvato e applicato a Teoria il 14 novembre 2026. Fase B: classificazione da Bergonzi, voll. 1–2, e ripartizione Teoria/Pratica approvate; testi di Teoria (BT1–BT4) applicati il 14 novembre 2026; Pratica da scrivere.
 - Ambito: Teoria e Pratica, con ricadute future sugli Strumenti.
 - Riferimento: [Proposta di revisione integrata](022-revisione-integrata-quadro-generale.md).
 - Sorgenti verificati: Teoria `a420e05`, Pratica `9c83ab7`.
@@ -925,3 +925,264 @@ Corrispondenza dei sette blocchi con i sorgenti; ricerca di nuovo dei termini as
 Applicati i sette blocchi senza variazioni ai testi «Dopo»: M1–M3 in `src/docs/4-scale.rst`, M4–M7 in `src/docs/6-armonia-funzionale.rst`. I due titoli modificati hanno le etichette `tristezza-dramma-instabilita` e `tonalita-minore-un-sistema-non-stabile`.
 
 Verifiche eseguite: ogni testo «Prima» trovato una sola volta e sostituito; build HTML di Teoria con `-W --keep-going` conclusa con successo; nell’HTML sono presenti sia le ancore nuove sia quelle precedenti; nuova ricerca di «instabil», «mai definit» e «stabilizzat» accanto a «minore» nei due volumi, senza affermazioni assolute residue (resta solo la frase nuova «Mobile non vuol dire instabile»); `git diff --check`. Non verificati i formati PDF ed ePub.
+
+## Fase B — classificazione ricavata dal riferimento — 14 novembre 2026
+
+Stato: **proposta**, da confermare con l’autore. Nessun sorgente modificato.
+
+Fonte: J. Bergonzi, *Inside Improvisation*, vol. 1 *Melodic Structures* (Advance Music, 1994) e vol. 2 *Pentatonics* (Advance Music), copie dell’autore, lette il 14 novembre 2026. I numeri di pagina sono quelli stampati. Da qui si ricavano **criteri, formule e procedimenti**: testo, esempi, esercizi e tabelle dei volumi non si riproducono. Nei capitoli si citerà la fonte come riferimento della suddivisione.
+
+Le formule e le compatibilità accordali riportate sotto sono state ricontrollate con un calcolo sulle classi di altezza; tutte coincidono con la fonte.
+
+### Vol. 1 — Strutture di quattro note
+
+**Criterio.** Una struttura è un segmento di quattro note della scala dell’accordo, nominato con i gradi rispetto alla fondamentale dell’accordo (pp. 7–8). I numeri seguono la scala implicita: «3» e «7» di un minore sono ♭3 e ♭7; le alterazioni dell’accordo (♭9, ♭5, ♭13) si applicano ai numeri (pp. 12, 58).
+
+**Tre strutture principali**, ciascuna è la precedente spostata di una quinta; insieme coprono l’accordo di tredicesima (pp. 58–59, 69–71, 74):
+
+| Nome | Maggiore e dominante | Minore | Equivalenza |
+|---|---|---|---|
+| 1–5 | 1–2–3–5 | 1–3–4–5 | — |
+| 5–9 | 5–6–7–9 (7 maggiore o minore secondo l’accordo) | 5–7–8–9 | 1–2–3–5 / 1–3–4–5 una quinta sopra |
+| 9–13 | 9–10–♯11–13 | 9–11–12–13 | 1–2–3–5 / 1–3–4–5 due quinte sopra |
+
+Varianti alterate citate: m7♭5 1–3–4–♭5 e ♭5–7–8–♭9; dominante ♭9♭13 5–♭6–7–♭9 e ♭9–10–♯11–♭13; alterato ♭5–♭6–7–♭9 (pp. 12–13, 58, 70).
+
+**Origine.** 1–2–3–5 e 1–3–4–5 sono le due letture della stessa pila di quinte, cioè della pentatonica maggiore e della relativa minore; hanno gli stessi intervalli, una terza minore e due seconde maggiori, in ordine speculare (p. 8). È il punto di contatto fra i due volumi.
+
+**Note da trattare.** Il 4 di maggiore e dominante e il 6 del minore sono gli unici gradi della scala esclusi da 1–5 e 5–9. Bergonzi li chiama *avoid notes* precisando che il nome è improprio: il 4 si risolve sul 3 o sul 5; il 6 del minore non richiede risoluzione ma ha un suono marcato ed è frequente sulla tonica minore (pp. 64–65).
+
+**Strutture aggiuntive** (pp. 74–79), ciascuna con le sue 24 permutazioni:
+
+| Nome | Maggiore e dominante | Minore | Nota |
+|---|---|---|---|
+| 3–7 | 3–5–6–7 | 3–4–5–7 | contiene le note guida |
+| 7–11 | 7–9–10–♯11 | 7–8–9–11 | — |
+| 4–8 | ♯4–6–7–8 | 4–5–6–8 | equivale a ♯11–13–14–15 / 11–12–13–15 |
+| 6–3 | 6–7–1–3 | 6–1–2–3 | — |
+
+Sono ammessi anche gli scambi 1–2–3–5 sul minore e 1–3–4–5 sul maggiore, e altre quattro note entro una quinta giusta («raggruppamenti intervallari alternativi», p. 79).
+
+**Un segmento, molti accordi** (pp. 77–78). Do–Re–Mi–Sol è 1–2–3–5 su Cmaj7, ♭3–4–5–♭7 su Am7, ♭7–1–2–4 su Dm7, 2–5–6–7 su Fmaj7, 2–3–♭5–6 su B♭7, e così via fino agli alterati. È la generalizzazione dell’esempio S2 già pubblicato.
+
+**Procedimenti**, nell’ordine del volume:
+
+1. Permutazioni: 24 per struttura; si comincia da quattro, una per ciascuna nota iniziale (pp. 10–11, 63).
+2. Mescolare le permutazioni pensando alla forma; evitare di partire sempre da 1 o da 5 (pp. 25–26).
+3. Visualizzazione: prima l’accordo come blocco, poi la linea (pp. 31–32).
+4. Immaginazione del suono (p. 37).
+5. *Editing*: togliere da una a quattro note per accordo, ripetere note, per passare dalle crome continue al ritmo (pp. 39–40).
+6. Centri tonali: un accordo per volta nelle progressioni dense; variare le permutazioni sugli accordi lunghi (p. 43).
+7. Rivolti lineari: ogni permutazione suonata con ciascuna delle quattro note come la più grave (pp. 47–48).
+8. Mescolare le strutture per ottenere una condotta più liscia, scegliendo quella che parte più vicino alla nota precedente (p. 80).
+
+### Vol. 2 — Pentatoniche
+
+**Definizione.** Una pentatonica è una qualsiasi scala di cinque note (pp. 9, 113). Il punto di partenza è la minore, equivalente alla relativa maggiore e generata da una pila di quinte; dal capitolo 1 in poi Bergonzi nomina le pentatoniche con il nome minore (pp. 9–11).
+
+**Movimento nella collezione** (pp. 10–11): *step* è il passaggio alla nota successiva della collezione, qualunque sia l’intervallo; *skip* salta una nota; *double skip* e *triple skip* ne saltano due e tre. È la stessa distinzione che il nostro schema chiama «posizione nella collezione» e che l’esempio S6 descrive come «una nota sì e una no».
+
+**Formule di quattro note** (pp. 13–14): una successione di quattro movimenti (per esempio salto giù, passo giù, salto su, passo giù) ripetuta partendo dalle note successive. Dalle rotazioni del disegno e dalla sua inversione si ottengono otto formule; la linea torna alla nota di partenza dopo cinque gruppi. Altre formule con salti doppi nel cap. 7 (pp. 73–75).
+
+**Variazione ritmica** (pp. 27–28): le stesse linee con figure ritmiche diverse, pause e sincopi.
+
+**Pentatoniche sugli accordi** (pp. 29–31): la pentatonica minore di Do si usa su Cm7, E♭maj7, Fm7, A♭maj7, B♭m7, D♭maj7, A7alt, E♭7. Su un m7 dorico tre scelte: pentatonica minore sulla fondamentale, sulla quinta, sulla seconda; analogamente su maj7. Non valgono su m7♭5 e dominante, che richiedono altri tipi.
+
+**Tipi**, tutti ottenuti dalla minore cambiando una nota (capp. 6, 8–11):
+
+| Tipo | Formula | Esempio | Accordi indicati (selezione) | Pagine |
+|---|---|---|---|---|
+| Minore 7 | 1–♭3–4–5–♭7 | Do–Mi♭–Fa–Sol–Si♭ | Cm7, E♭maj7, Fm7, A7alt | 29 |
+| Minore 6 | 1–♭3–4–5–6 | Do–Mi♭–Fa–Sol–La | C-6, F7, Aø, B7alt, E♭maj7♯11 | 53 |
+| Maggiore ♭6 | 1–2–3–5–♭6 | Mi♭–Fa–Sol–Si♭–Do♭ | A♭m(maj7), G7alt, D♭7♯11, Fø♮9 | 79 |
+| Minore 7♭5 | 1–♭3–4–♭5–♭7 | Do–Mi♭–Fa–Sol♭–Si♭ | Cø, E♭-6, A♭7, D7alt | 87 |
+| Maggiore ♭2 | 1–♭2–3–5–6 | Do–Re♭–Mi–Sol–La | C7, E♭7, F♯7, A7 (dominanti a distanza di terza minore) | 95 |
+| Esatonale | 1–3–♯4–♯5–♭7 | Si–Mi♭–Fa–Sol–La, cioè la minore 6 di Do con la fondamentale abbassata di un semitono | Cm(maj7), F7♯11, B7alt | 105 |
+
+Il cap. 12 aggiunge altre collezioni di cinque note senza nome, a conferma della definizione generale (p. 113).
+
+**Poli-pentatoniche** (pp. 115–117): rispetto a una pentatonica «madre», il grado di uscita dipende dal numero di note comuni. Per la minore di Do: nessuna nota comune con Si, Do♯, Fa♯ minore; una con La♭ e Mi; due con Mi♭ e La; tre con Si♭ e Re; quattro con Fa e Sol. Esercizio: alternare gruppi di quattro note fra madre e pentatonica esterna, collegandoli con la nota più vicina. Gli studi `modern-05` e `modern-06` già pubblicati ne sono un caso particolare.
+
+### Ripartizione proposta fra Teoria e Pratica
+
+Criterio già in uso nei due volumi: Teoria spiega formule e relazioni; Pratica le porta sulla tastiera con esempi, procedure e verifiche. Ogni concetto ha una sola sede principale; l’altra rimanda.
+
+**Teoria**
+
+| Sede | Contenuto nuovo |
+|---|---|
+| T4, «Scala pentatonica» | Definizione generale (cinque note qualsiasi); pila di quinte; i sei tipi come alterazioni di una nota della minore, con formule; quali hanno semitoni; le due letture maggiore/minore della stessa collezione |
+| T5, estensioni | I gradi dell’accordo di tredicesima come tre segmenti di quattro note sovrapposti per quinte (1–5, 5–9, 9–13); equivalenze per trasposizione |
+| T5 o T6 | Le note «da trattare»: 4 su maggiore e dominante, 6 sul minore, con il motivo intervallare (semitono dal 3, tritono dal ♭3) |
+| T10, «Pentatoniche sovrapposte» | Compatibilità pentatonica–accordo come lettura dei gradi; poli-pentatoniche e grado di uscita misurato in note comuni |
+| T12 | Rimando: l’*editing* coincide con la frammentazione già trattata; nessun testo nuovo |
+
+**Pratica**
+
+| Sede | Contenuto nuovo |
+|---|---|
+| Strutture melodiche, sezione 3 «Famiglie di strutture» | Le tre strutture principali e le aggiuntive, con esempi originali su Do; scelta di quattro permutazioni; rivolti lineari; mescolare strutture per condotta; un segmento su molti accordi (sviluppo di S2) |
+| Strutture melodiche, sezioni 4–5 | Restano; si aggiunge il rimando all’*editing* come procedimento esplicito |
+| **Nuova pagina «Pentatoniche»** dopo Strutture melodiche | Passo e salto (anche doppio e triplo) come notazione; formule di quattro movimenti; variazione ritmica; scelta della pentatonica sull’accordo; i tipi alterati sulla tastiera; poli-pentatoniche come prosecuzione verso `modern-05` e `modern-06` |
+| Strutture melodiche, sezione 7 | Si sposta nella nuova pagina con l’esempio S6; resta un rimando |
+| Scale, mappe delle pentatoniche | Restano; rimando alla nuova pagina |
+| Strumenti (fase D) | Pentatoniche e strutture come nuovi materiali dello strumento Scale; da valutare dopo la stesura |
+
+### Terminologia proposta
+
+- *grouping* → **struttura** (già in uso nel volume); le tre principali **1–5**, **5–9**, **9–13**.
+- *avoid note* → **nota da trattare**, seguendo la precisazione della fonte.
+- *step*, *skip*, *double skip* → **passo**, **salto**, **salto doppio**.
+- *editing* → **togliere note**, senza termine inglese.
+- *poly-pentatonics* → **poli-pentatoniche**; *parent* → **pentatonica di partenza**.
+- Nomi dei tipi: proposta di usare la formula (minore 6, maggiore ♭6, minore 7♭5, maggiore ♭2, esatonale), come nella fonte.
+
+### Decisioni richieste all’autore
+
+1. ~~La ripartizione Teoria/Pratica sopra.~~ **Approvata dall’autore il 14 novembre 2026.**
+2. ~~Nuova pagina «Pentatoniche» in Pratica, dopo Strutture melodiche, con la sezione 7 spostata.~~ **Approvata con la ripartizione.**
+3. ~~Nome delle pentatoniche.~~ **Deciso:** entrambi i nomi alla prima occorrenza, poi il nome minore.
+4. ~~Strutture aggiuntive.~~ **Deciso:** tutte e quattro in tabella di consultazione; esempio solo per 3–7.
+5. ~~Ordine di lavoro.~~ **Deciso:** prima Teoria, poi Pratica.
+
+### Fase B — testi proposti per Teoria
+
+Stato: **approvato dall’autore e applicato** il 14 novembre 2026 (vedi «Attuazione in Teoria» in fondo). Gli esempi sono originali; formule, gradi e note comuni sono stati ricontrollati con un calcolo sulle classi di altezza. T12 non cambia: «togliere note» coincide con la frammentazione già spiegata in «Sviluppare una cellula», e il rimando verso Pratica esiste già.
+
+#### BT1 — T4, «Che cos’è davvero»: definizione generale
+
+Prima:
+
+```rst
+“Pentatonica” significa semplicemente “a cinque suoni”. Le due famiglie più usate sono:
+```
+
+Dopo:
+
+```rst
+“Pentatonica” significa semplicemente “a cinque suoni”: qualsiasi scala di cinque note è una pentatonica. Le due più usate, e il punto di partenza per tutte le altre, sono:
+```
+
+#### BT2 — T4, dopo «Maggiore e minore… e il trucco più utile»: nomi e pentatoniche alterate
+
+Aggiunta dopo il paragrafo che termina con «è il centro che ci metti tu.»:
+
+```rst
+Nei due volumi useremo entrambi i nomi alla prima occorrenza, per esempio «La minore pentatonica (= Do maggiore pentatonica)», e poi il nome minore. Il motivo è pratico: le altre pentatoniche si descrivono più facilmente come modifiche della minore.
+
+Altre pentatoniche: cambiare una nota
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se nella minore pentatonica cambi una sola nota, ottieni collezioni nuove, ciascuna con un suono proprio. Partendo da Do minore pentatonica, Do–Mi♭–Fa–Sol–Si♭:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Nome
+     - Cosa cambia
+     - Note
+     - Formula
+   * - Minore 6
+     - Si♭ diventa La
+     - Do–Mi♭–Fa–Sol–La
+     - 1–♭3–4–5–6
+   * - Minore 7♭5
+     - Sol diventa Sol♭
+     - Do–Mi♭–Fa–Sol♭–Si♭
+     - 1–♭3–4–♭5–♭7
+   * - Maggiore ♭6
+     - Do diventa Do♭
+     - Mi♭–Fa–Sol–Si♭–Do♭
+     - 1–2–3–5–♭6 da Mi♭
+   * - Maggiore ♭2
+     - Fa diventa Mi
+     - Mi♭–Mi–Sol–Si♭–Do
+     - 1–♭2–3–5–6 da Mi♭
+   * - Esatonale
+     - nella minore 6, Do scende a Si
+     - Si–Mi♭–Fa–Sol–La
+     - 1–3–♯4–♯5–♭7 da Si
+
+La minore 6 e l'esatonale restano senza semitoni; minore 7♭5, maggiore ♭6 e maggiore ♭2 ne contengono uno. È la conferma pratica di quanto detto sopra: il nome indica cinque note, non un unico comportamento.
+
+Questa classificazione segue quella di Jerry Bergonzi, *Inside Improvisation*, vol. 2, *Pentatonics*. Su quali accordi si usano queste collezioni lo vediamo in :doc:`10-armonia-non-funzionale`; sulla chitarra, nella pagina «Pentatoniche» del volume di Pratica.
+```
+
+Il rimando a Pratica sarà aggiunto quando la pagina esisterà, per non puntare a contenuti assenti.
+
+#### BT3 — T5, prima di «Una chiave di lettura»: tre segmenti e note da trattare
+
+Aggiunta:
+
+```rst
+Tre segmenti di quattro note
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le note di un accordo di tredicesima, ordinate per gradi, si possono dividere in tre gruppi di quattro note che si sovrappongono:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Segmento
+     - Maggiore e dominante
+     - Minore
+   * - 1–5
+     - 1–2–3–5
+     - 1–3–4–5
+   * - 5–9
+     - 5–6–7–9
+     - 5–7–8–9
+   * - 9–13
+     - 9–10–♯11–13
+     - 9–11–12–13
+
+I numeri seguono la scala dell'accordo: su un minore 3 e 7 sono ♭3 e ♭7, su un dominante 7 è ♭7. 8, 10 e 12 sono fondamentale, terza e quinta all'ottava superiore.
+
+Ogni segmento è il precedente spostato di una quinta. Su Cmaj7, 5–6–7–9 è Sol–La–Si–Re, cioè 1–2–3–5 di Sol; 9–10–♯11–13 è Re–Mi–Fa♯–La, 1–2–3–5 di Re. Sul minore vale lo stesso con 1–3–4–5: su Cm7, 5–7–8–9 è Sol–Si♭–Do–Re, 1–3–4–5 di Sol minore.
+
+1–2–3–5 e 1–3–4–5 hanno gli stessi intervalli in ordine rovesciato: due seconde maggiori e una terza minore, oppure una terza minore e due seconde maggiori. Sono le due letture della stessa pentatonica, maggiore e relativa minore (vedi :doc:`4-scale`).
+
+**Note da trattare.** In maggiore e dominante l'unico grado della scala che resta fuori da 1–5 e 5–9 è il 4. Dista un semitono dalla terza: tenuto a lungo contrasta con l'accordo e di solito scende sul 3 o sale sul 5. La ♯11 non ha lo stesso problema, perché sopra la terza forma una nona maggiore, non minore. Nel minore il grado escluso è il 6 della scala dorica: forma un tritono con la ♭3 e richiama un colore di dominante, ma non chiede di risolvere ed è frequente sulla tonica minore, come in Cm6.
+
+Questa divisione segue Jerry Bergonzi, *Inside Improvisation*, vol. 1, *Melodic Structures*. Come usarla sulla chitarra è spiegato nella pagina `Strutture melodiche e costruzione della frase <https://appunti-pratica-per-chitarra-jazz.readthedocs.io/it/latest/strutture-melodiche.html>`__ del volume di Pratica.
+```
+
+#### BT4 — T10, «Pentatoniche sovrapposte»: scelta sull’accordo e note comuni
+
+Aggiunta dopo il paragrafo che termina con «Una diteggiatura familiare non rende automaticamente adatta una scala.»:
+
+```rst
+Su un accordo minore settima con funzione dorica hai almeno tre pentatoniche minori: sulla fondamentale, sulla quinta e sulla seconda. Su Dm7, Re minore pentatonica dà 1–♭3–4–5–♭7, La minore 5–♭7–1–9–11, Mi minore 9–11–5–13–1. La prima contiene la terza; le altre due la lasciano all'accompagnamento e aggiungono tensioni. Su un accordo maggiore settima vale lo stesso: su Cmaj7, La minore dà 6–1–2–3–5, Mi minore 3–5–6–7–9, Si minore 7–9–3–♯11–13, cioè il colore lidio.
+
+Su semidiminuiti e dominanti questa scelta non basta: servono le pentatoniche alterate di :doc:`4-scale`. Alcuni esempi: Do minore 6 su F7 dà 5–♭7–1–9–3; Do minore 7♭5 su A♭7 dà 3–5–13–♭7–9; Mi♭ maggiore ♭2 su C7 dà ♯9–3–5–♭7–1; Si esatonale su F7♯11 dà ♯11–♭7–1–9–3.
+
+Quanto una pentatonica suona lontana da un'altra si può misurare contando le note comuni. Rispetto a Mi minore pentatonica:
+
+.. list-table::
+   :header-rows: 1
+
+   * - Note comuni
+     - Pentatoniche minori
+   * - 4
+     - La, Si
+   * - 3
+     - Re, Fa♯
+   * - 2
+     - Do♯, Sol
+   * - 1
+     - Do, La♭
+   * - 0
+     - Mi♭, Fa, Si♭
+
+Meno note comuni ci sono, più l'uscita è evidente. Il side-slip della sezione seguente passa da Mi minore a Fa minore pentatonica: nessuna nota in comune, ed è per questo che lo spostamento si riconosce subito. Alternare una pentatonica di partenza e una lontana si chiama a volte **poli-pentatonica**.
+```
+
+Verifiche già eseguite sulle proposte: tutte le formule e i gradi indicati; semitoni presenti o assenti nei cinque tipi; note comuni fra Mi minore pentatonica e le altre undici.
+
+#### Attuazione in Teoria — 14 novembre 2026
+
+Applicati BT1 e BT2 in `4-scale.rst`, BT3 in `5-accordi.rst`, BT4 in `10-armonia-non-funzionale.rst`, con i testi «Dopo» invariati salvo un punto: in BT2 è stata tolta la frase sul volume di Pratica («sulla chitarra, nella pagina “Pentatoniche”…»), perché la pagina non esiste ancora. Va aggiunta quando la pagina sarà scritta.
+
+Verifiche eseguite: ogni punto di inserimento trovato una sola volta; build HTML di Teoria con `-W --keep-going` conclusa con successo; nell’HTML presenti le nuove sezioni «Altre pentatoniche: cambiare una nota» e «Tre segmenti di quattro note» con le loro tabelle e la tabella delle note comuni in T10; `git diff --check`. Non verificati PDF ed ePub.
+
+Prossimo passo: Pratica, cioè la sezione 3 «Famiglie di strutture» di Strutture melodiche e la nuova pagina «Pentatoniche», con lo spostamento della sezione 7 e dell’esempio S6.

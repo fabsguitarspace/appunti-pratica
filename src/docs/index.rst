@@ -19,3 +19,7 @@ Appunti di Pratica per Chitarra Jazz
   9-modern-jazz-fusion
   10-percorsi-autore
   11-strumenti-per-la-pratica
+
+.. rst-class:: ultimo-aggiornamento
+
+Versione |release| · aggiornato il |today|

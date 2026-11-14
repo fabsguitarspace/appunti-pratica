@@ -2,7 +2,7 @@
 
 Aggiornamento: 13 novembre 2026. Questa KB descrive i sorgenti presenti; non certifica lo stato dei siti pubblicati.
 
-Versione: **1.1** (`release` in `src/docs/conf.py`) dal 12 novembre 2026, con il capitolo «Strumenti per la pratica» (ADR 0005); 1.0 dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione.
+Versione: **1.1** (`VERSIONE` in `src/docs/conf.py`) dal 12 novembre 2026, con il capitolo «Strumenti per la pratica» (ADR 0005); 1.0 dall'11 novembre 2026, per decisione dell'utente: il volume è considerato sostanzialmente completo. Nessun tag git di versione. Dal 14 novembre 2026, su richiesta dell'utente, la versione completa è **MAJOR.MINOR.PATCH**: MAJOR.MINOR si scrive a mano nella riga `VERSIONE = "X.Y"` di `src/docs/conf.py`; la patch conta i commit successivi all'ultimo cambio di quella riga, quindi avanza a ogni push su main e riparte da 0 quando si cambia MAJOR.MINOR. La data di aggiornamento è quella dell'ultimo commit. Entrambe compaiono in fondo alla homepage e nel frontespizio del PDF ed ePub; il calcolo è in `src/docs/versione_git.py`, copia identica nei tre volumi, e `.readthedocs.yaml` completa la storia git prima della build.
 
 ## Modalità di lavoro
 

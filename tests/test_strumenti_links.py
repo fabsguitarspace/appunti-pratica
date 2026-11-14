@@ -1,11 +1,15 @@
 """Deep link verso gli Strumenti per la pratica (ADR 0005).
 
-Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale, Arpeggi e Accordi):
+Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale, Arpeggi, Accordi e
+Progressioni):
 - pagina esistente fra quelle pubblicate, frammento versionato `v=1`;
 - se il repository ../appunti-strumenti è presente e Node è installato, ogni parametro
   è riconosciuto dallo strumento: js/link.js lo decodifica e lo riscrive uguale, la scala
-  esiste nel catalogo e la tonica è valida; negli Accordi l'esercizio produce almeno un voicing.
-  Senza il repository il controllo è saltato.
+  esiste nel catalogo e la tonica è valida; negli Accordi e nelle Progressioni l'esercizio produce
+  almeno un voicing;
+- le griglie del catalogo di Progressioni (js/progressions.js) sono quelle del capitolo 7: stesse
+  sigle e stesse battute, e ogni `ref` è un'etichetta del capitolo.
+  Senza il repository i controlli con Node sono saltati.
 Da eseguire prima di ogni rilascio del volume.
 """
 from pathlib import Path
@@ -15,7 +19,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'src/docs'
 TOOLS = ROOT.parent / 'appunti-strumenti'
-PAGES = {'index.html', 'scale.html', 'arpeggi.html', 'accordi.html'}
+PAGES = {'index.html', 'scale.html', 'arpeggi.html', 'accordi.html', 'progressioni.html'}
 ROLE = re.compile(r':strumento:`[^`<]*<([^>]+)>`', re.S)
 
 links = []
@@ -48,9 +52,15 @@ const P = require(tools + '/js/exercises/presets.js');
 const C = require(tools + '/js/chords.js');
 const X = require(tools + '/js/exercises/comping.js');
 const V = require(tools + '/js/voicings.js');
+const PG = require(tools + '/js/progression.js');
+const PS = require(tools + '/js/progressions.js');
+const PC = require(tools + '/js/exercises/progcomp.js');
+const B = require(tools + '/js/exercises/bass.js');
+// Impostazioni predefinite del pannello di Progressioni (js/progpractice.js, defaults).
+const PROG_DEFAULTS = { ...PC.DEFAULTS, study: 'grid', giri: 0, form: 'short', ending: 'loop', bpm: 60 };
 const slugs = new Set(T.catalog().map((s) => L.slug(s.name)));
 const chords = new Set(C.catalog().map((q) => q.id));
-const SCOPE_KEYS = ['v', 'scale', 'chord', 'root'];
+const SCOPE_KEYS = ['v', 'scale', 'chord', 'root', 'prog', 'key'];
 /** Ogni parametro dell'esercizio deve sopravvivere a decodifica e ricodifica con il catalogo dato. */
 function roundTrip(params, cat, errors) {
   if (params.preset && !cat.PRESETS.some((p) => p.id === params.preset)) errors.push('esercizio sconosciuto ' + params.preset);
@@ -108,6 +118,38 @@ for (const [name, page, params] of JSON.parse(require('fs').readFileSync(0, 'utf
       if (r.error || !r.chords.length) errors.push('nessun voicing: ' + (r.error || 'sequenza vuota'));
     }
   }
+  if (page === 'progressioni.html') {
+    const prog = PS.catalog().find((x) => x.id === params.prog);
+    if (params.prog && !prog) errors.push('progressione sconosciuta ' + params.prog);
+    if (params.key && !L.parseNote(params.key)) errors.push('tonalità non valida ' + params.key);
+    if (!!params.prog !== !!params.key) errors.push('prog e key vanno insieme');
+    const fam = V.family(params.fam || PROG_DEFAULTS.family);
+    if (!fam) errors.push('famiglia sconosciuta ' + params.fam);
+    else if (params.set && params.set !== 'all' && !fam.sets.map(V.setLabel).includes(params.set)) errors.push('corde ' + params.set + ' fuori dalla famiglia ' + fam.id);
+    const r = params.rhythm && X.PROG_RHYTHMS.find((x) => x.id === params.rhythm);
+    if (params.rhythm && !r) errors.push('ritmo sconosciuto ' + params.rhythm);
+    if (r && fam && r.families && !r.families.includes(fam.id)) errors.push('il ritmo ' + r.id + ' non vale con ' + fam.id);
+    if (params.attack && !X.ATTACKS.some(([id]) => id === params.attack)) errors.push('attacco sconosciuto ' + params.attack);
+    if (params.bass && !B.MODES.some((m) => m.id === params.bass)) errors.push('basso sconosciuto ' + params.bass);
+    if (params.study && !['grid', 'guide', 'arp', 'play'].includes(params.study)) errors.push('studio sconosciuto ' + params.study);
+    if (params.giri && !['0', '1', '2', '4'].includes(params.giri)) errors.push('giri non validi ' + params.giri);
+    if (params.form && !(prog && prog.fullForm)) errors.push('form vale solo per aaba e rhythm-changes');
+    if (params.end && !(prog && prog.ending && params.giri && params.giri !== '0')) errors.push('end vale solo con un finale nel catalogo e giri diversi da 0');
+    if (params.bpm && !(+params.bpm >= 30 && +params.bpm <= 300)) errors.push('bpm fuori da 30–300');
+    const d = L.decodeProgExercise(params);
+    const s = { ...PROG_DEFAULTS, ...d };
+    const back = L.encodeProgExercise(s);
+    for (const [k, v] of Object.entries(params)) {
+      if (SCOPE_KEYS.includes(k)) continue;
+      if (String(back[k]) !== v) errors.push(k + '=' + v + ' ignorato (diventa ' + back[k] + ')');
+    }
+    if (prog && params.key && fam && !errors.length) {
+      const real = PG.realize(prog, { key: L.parseNote(params.key), full: s.form === 'full',
+        ending: s.ending === 'closed' && s.giri !== 0, giri: s.giri || 1 });
+      const ex = PC.build(real, { ...s, fourVoices: prog.fourVoices, comp: s.study !== 'play', loop: s.giri === 0 });
+      if (ex.error || !ex.events.length) errors.push('esercizio vuoto: ' + (ex.error || 'nessun evento'));
+    }
+  }
   if (errors.length) out.push(name + ': ' + JSON.stringify(params) + ' → ' + errors.join('; '));
 }
 console.log(JSON.stringify(out));
@@ -117,4 +159,59 @@ result = subprocess.run([node, '-e', CHECK, str(TOOLS)], input=json.dumps(fragme
 assert result.returncode == 0, result.stderr
 problems = json.loads(result.stdout)
 assert not problems, '\n'.join(problems)
-print(f'PASS: {len(links)} link verso gli strumenti, {len(fragments)} esercizi riconosciuti da appunti-strumenti')
+
+# ---------------------------------------------------------------- Griglie di Progressioni = capitolo 7
+
+catalog = json.loads(subprocess.run(
+    [node, '-e', "process.stdout.write(JSON.stringify(require(process.argv[1] + '/js/progressions.js').catalog()))", str(TOOLS)],
+    capture_output=True, text=True, check=True).stdout)
+chapter = (DOCS / '7-progressioni.rst').read_text().splitlines()
+labels = {m.group(1): i for i, line in enumerate(chapter) if (m := re.match(r'\.\. _([\w-]+):\s*$', line))}
+
+def bars(text):
+    return [b.split() for b in text.split('|') if b.strip()]
+
+def chapter_bars(start):
+    """Battute del primo blocco letterale dopo l'etichetta (righe rientrate che contengono |)."""
+    out, inside = [], False
+    for line in chapter[start + 1:]:
+        if line.startswith('.. _'):
+            break
+        if line.startswith('    ') and '|' in line:
+            inside = True
+            out += bars(line)
+        elif inside and line.strip() and not line.startswith('    '):
+            break
+    return out
+
+def table_rows(start):
+    """Righe della tabella dell'AABA: sezione → sigle (una per battuta)."""
+    rows, cells = {}, []
+    for line in chapter[start + 1:]:
+        if line.startswith('.. _') or (line and not line.startswith(' ') and cells):
+            break
+        m = re.match(r'\s+(\*)? ?- (.*)$', line)
+        if m:
+            if m.group(1):
+                cells = []
+            cells.append(m.group(2).strip())
+            if len(cells) == 3:
+                rows[cells[0]] = cells[2]
+    return rows
+
+grids = 0
+for p in catalog:
+    ref = p['ref']
+    assert ref in labels, (p['id'], 'etichetta mancante nel capitolo 7', ref)
+    order = list(dict.fromkeys(p['form']))
+    mine = [b for sid in order for b in bars(p['sections'][sid])]
+    if p['id'] == 'aaba':
+        rows = table_rows(labels[ref])
+        for sid, row in (('A', 'A1'), ('B', 'B')):
+            assert [[c] for c in rows[row].split(', ')] == bars(p['sections'][sid]), (p['id'], sid, rows[row])
+    else:
+        assert chapter_bars(labels[ref]) == mine, (p['id'], chapter_bars(labels[ref]), mine)
+    grids += 1
+
+print(f'PASS: {len(links)} link verso gli strumenti, {len(fragments)} esercizi riconosciuti da appunti-strumenti, '
+      f'{grids} griglie di Progressioni uguali al capitolo 7')

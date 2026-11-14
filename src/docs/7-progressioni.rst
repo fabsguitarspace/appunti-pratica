@@ -336,6 +336,8 @@ Qui scegliamo Cm6 come tonica e A♭7–G7 nel ritorno. La struttura di dodici b
 
 **Compito.** Suona soltanto Cm6–Fm7–Cm6, poi aggiungi le ultime quattro battute. Canta Mi♭ sulla tonica e Si naturale sulla dominante G7. Non trasformare il La naturale di Cm6 in La♭ per abitudine alla scala minore naturale.
 
+.. _progressioni-vamp:
+
 Vamp modale: muoversi mantenendo un centro
 --------------------------------------------
 
@@ -430,6 +432,8 @@ Nel bridge B il D7 prepara Sol maggiore; le ultime quattro battute ricollegano i
 
 **Compito.** All’inizio pronuncia A1, A2, B e A3 al cambio di sezione. Poi registra un chorus senza parlare e controlla se il bridge comincia davvero alla battuta 17. L’audio dura un solo chorus e termina su G7, predisposto per ricominciare; per un finale cambia la battuta 31 in Dm7–G7, due pulsazioni ciascuno, e la 32 in Cmaj7.
 
+.. _progressioni-rhythm-changes:
+
 I rhythm changes: una mappa distinta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -520,6 +524,8 @@ Prendi il II–V–I in Do e portalo in Fa: **Gm7–C7–Fmaj7**. Prima nomina l
 Procedi per quarte nelle sessioni successive, senza attraversare tutte e dodici le tonalità nello stesso giorno se la qualità cala. Cambia anche zona della tastiera: spostare una forma di cinque tasti è utile, ma non dimostra da solo che sai riconoscere ogni nota.
 
 Nel minore trasporta anche le alterazioni: in Fa minore il II–V–I diventa **Gm7♭5–C7♭9–Fm6**. Nel blues conserva la posizione delle battute di IV e V, non soltanto l’ordine delle forme. Per l’improvvisazione comincia dalla stessa relazione intervallare e adatta poi il registro alla chitarra.
+
+Per suonare tutte le griglie di questo capitolo in ogni tonalità, con accompagnamento, basso e note guida, usa lo strumento :ref:`Progressioni <strumenti-progressioni>` degli Strumenti per la pratica.
 
 Una sessione completa e una verifica concreta
 -----------------------------------------------

@@ -45,7 +45,7 @@ La musica cresce solo così.
 .. _come-nascono-appunti:
 
 Come nascono questi appunti
---------------------------
+---------------------------
 
 Questi appunti sono stati creati con l'assistenza dell'intelligenza
 artificiale (AI). È una scelta che fa parte del progetto e che desidero

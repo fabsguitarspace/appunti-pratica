@@ -29,7 +29,7 @@ Prima di iniziare
   Con le cuffie il metronomo e la chitarra si distinguono meglio.
 - **Tastiera del computer.** Con il pannello Esercizi aperto, Spazio avvia e
   ferma e le frecce sinistra e destra cambiano il tempo di 5 BPM; Invio estrae
-  un'altra scala, un altro arpeggio o un altro accordo.
+  un'altra scala, un altro arpeggio, un altro accordo o un'altra progressione.
 - **Tema.** I link di questa pagina aprono lo strumento in una nuova scheda con
   lo stesso tema chiaro o scuro del volume.
 - **Materiale generato.** Gli esercizi sono prodotti da regole, non scritti e
@@ -284,3 +284,118 @@ triadi, in altre tonalità e con altri ritmi.
 Per altri accordi e tonalità scegli famiglie e fondamentale in
 **Impostazioni** ed estrai un accordo nuovo: l'esercizio impostato resta lo
 stesso.
+
+.. _strumenti-progressioni:
+
+Progressioni
+------------
+
+Lo strumento **Progressioni** estrae una delle quattordici griglie del capitolo
+:doc:`7-progressioni` (cadenze, giri e sostituzioni, blues, vamp e forme) in
+una delle dodici tonalità. Le sigle si trasportano conservando la funzione: in
+La la sostituzione di tritono resta B♭7, non A♯7. La griglia si legge a righe di
+quattro battute, con le sezioni A e B e, a richiesta, i gradi romani. Il
+pannello **Esercizi** ha cinque assi:
+
+- **Cosa**: quanti giri suonare (uno, due, quattro o di continuo), la forma
+  intera A–A–B–A per lo studio in AABA e per i rhythm changes, il finale chiuso
+  dello studio;
+- **Come**: il ritmo d'attacco (semibrevi, minime, sul 2 e sul 4, charleston,
+  levare dell'1 e terzo movimento come nell'esempio del capitolo, bossa,
+  quattro colpi brevi alla Freddie Green) e il basso, a fondamentali o con un
+  walking semplice;
+- **Dove**: famiglia di voicing, corde e zona della tastiera. Con gli shell lo
+  strumento segue le regole del capitolo: tre note sulle corde 6–4–3 o 5–4–3,
+  quattro note per semidiminuiti, dominanti con nona minore, diminuiti e vamp;
+- **Studio**: la griglia con l'accordo corrente; le **note guida**, cioè terza e
+  settima collegate con il minimo movimento; le note dell'accordo nella zona;
+  oppure **Suona tu**, con l'accompagnamento muto e soltanto basso e metronomo;
+- **Opzioni**: metronomo, battuta d'attacco, trainer di velocità e volumi
+  separati per accordi, basso, note guida e metronomo.
+
+Con **Esercizio: gradi romani** in **Impostazioni** la griglia mostra soltanto i
+gradi: pronuncia le sigle contando le battute, come nel primo passo della
+procedura del capitolo, poi rivela la soluzione.
+
+.. only:: html
+
+   .. container:: strumenti-apri
+
+      :strumento:`Apri lo strumento Progressioni <progressioni.html>`
+
+.. only:: not html
+
+   Indirizzo: https://fabsguitarspace.github.io/appunti-strumenti/progressioni.html
+
+Esercizi pronti sulle progressioni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un esercizio per ogni sezione del capitolo sulle progressioni, nella tonalità
+del capitolo, con gli shell fra il I e il X tasto e a 60 battiti al minuto,
+salvo dove indicato.
+
+#. :strumento:`II–V–I maggiore, note guida
+   <progressioni.html#v=1&prog=ii-v-i&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=guide&giri=4&bpm=60>`.
+   Quattro giri ad accordi lunghi: la tastiera mostra Fa e Do, poi Fa e Si,
+   poi Mi e Si. Nei giri successivi canta una delle due linee mentre accompagni.
+#. :strumento:`II–V–I, levare dell'1 e terzo movimento
+   <progressioni.html#v=1&prog=ii-v-i&key=C&rhythm=offbeat&bass=off&fam=shell&set=all&from=1&to=10&study=grid&giri=0&bpm=60>`.
+   La seconda cellula di «Accompagnare: attacchi e silenzi», senza basso:
+   ferma il suono nelle pause.
+#. :strumento:`II–V–I minore
+   <progressioni.html#v=1&prog=ii-v-i-minore&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=grid&giri=4&bpm=60>`.
+   Dm7♭5 e G7♭9 a quattro note, come nel capitolo: G7♭9 è senza
+   fondamentale, con il Si al basso della chitarra.
+#. :strumento:`Turnaround sul 2 e sul 4
+   <progressioni.html#v=1&prog=turnaround&key=C&rhythm=two-four&bass=roots&fam=shell&set=all&from=1&to=10&study=grid&giri=0&bpm=60>`.
+   Le due versioni del capitolo in sequenza: ascolta come A7 prende il posto
+   di Am7 nella seconda.
+#. :strumento:`Dominanti secondarie, note guida
+   <progressioni.html#v=1&prog=dominanti-secondarie&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=guide&giri=2&bpm=60>`.
+   Sol♯ in E7 e Do♯ in A7 sono le terze da portare, cantando, su La e su Re.
+#. :strumento:`Sostituzione di tritono, solo il basso
+   <progressioni.html#v=1&prog=tritono&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=play&giri=2&bpm=60>`.
+   L'accompagnamento tace: ascolta Re–Re♭–Do sui primi movimenti della seconda
+   metà, poi suona tu gli accordi, come chiede il compito del capitolo.
+#. :strumento:`Backdoor, note guida
+   <progressioni.html#v=1&prog=backdoor&key=C&rhythm=half&bass=roots&fam=shell&set=all&from=1&to=10&study=guide&giri=0&bpm=60>`.
+   La voce superiore scende Mi–Mi♭–Re e torna a Mi su Cmaj7.
+#. :strumento:`Diminuito di passaggio, note dell'accordo
+   <progressioni.html#v=1&prog=diminuito&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=arp&giri=0&bpm=60>`.
+   Su C♯°7 la tastiera mostra le sue quattro note: cerca il Do♯ che sale a Re
+   e il Si♭ che può scendere a La.
+#. :strumento:`Blues di base, walking e attacchi sul 2 e sul 4
+   <progressioni.html#v=1&prog=blues&key=C&rhythm=two-four&bass=walk&fam=shell&set=all&from=1&to=10&study=grid&giri=0&bpm=72>`.
+   A 72 battiti al minuto: riconosci il IV alla quinta battuta e il V alla nona
+   senza guardare la griglia.
+#. :strumento:`Blues jazz in Fa, charleston
+   <progressioni.html#v=1&prog=blues-jazz&key=F&rhythm=charleston&bass=walk&fam=shell&set=all&from=1&to=10&study=grid&giri=0&bpm=80>`.
+   A 80 battiti al minuto, nella tonalità più frequente del blues jazz: il
+   F♯°7 del capitolo diventa B°7.
+#. :strumento:`Blues minore, note guida
+   <progressioni.html#v=1&prog=blues-minore&key=C&rhythm=half&bass=roots&fam=shell&set=all&from=1&to=10&study=guide&giri=0&bpm=60>`.
+   Mi♭ sulla tonica, Si naturale sulla dominante e il La naturale di Cm6, da
+   non trasformare in La♭.
+#. :strumento:`Vamp modale, suona tu
+   <progressioni.html#v=1&prog=vamp-modale&key=D&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=play&giri=0&bpm=60>`.
+   Restano basso e metronomo: con una frase breve cerca Fa, La e Si naturale e
+   torna su Re.
+#. :strumento:`Due centri tonali, note guida
+   <progressioni.html#v=1&prog=due-centri&key=C&rhythm=whole&bass=roots&fam=shell&set=all&from=1&to=10&study=guide&giri=2&bpm=60>`.
+   Il Mi di Cmaj7 diventa Mi♭ in Cm7. Attiva i gradi romani in **Cosa**: le
+   ultime quattro battute si leggono rispetto a Si♭.
+#. :strumento:`Studio in AABA, un chorus con il finale
+   <progressioni.html#v=1&prog=aaba&key=C&rhythm=two-four&bass=walk&fam=shell&set=all&from=1&to=10&study=grid&giri=1&form=full&end=closed&bpm=72>`.
+   Trentadue battute che si chiudono su Cmaj7: pronuncia A1, A2, B e A3 e
+   controlla che il bridge cominci alla battuta 17.
+#. :strumento:`Rhythm changes, forma intera
+   <progressioni.html#v=1&prog=rhythm-changes&key=C&rhythm=half&bass=walk&fam=shell&set=all&from=1&to=10&study=grid&giri=0&form=full&bpm=72>`.
+   A–A–B–A di continuo: nella A gli accordi cambiano ogni due pulsazioni, nel
+   bridge ogni due battute.
+#. :strumento:`II–V–I in Si♭, drop 2 e bossa
+   <progressioni.html#v=1&prog=ii-v-i&key=Bb&rhythm=bossa&bass=roots&fam=drop2&set=4321&from=3&to=12&study=grid&giri=0&bpm=80>`.
+   Il percorso trasportato, come in «Trasportare senza perdere la funzione»:
+   prima nomina le fondamentali Do–Fa–Si♭, poi suona.
+
+Per un'altra progressione o tonalità scegli famiglie e tonalità in
+**Impostazioni** ed estrai di nuovo: l'esercizio impostato resta lo stesso.

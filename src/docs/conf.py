@@ -63,6 +63,11 @@ html_theme_options = {
     ],
     "youtube_url": "https://youtube.com/@fabsguitarspace",
     "discord_url": "https://discord.gg/DjwCcuS7SA",
+    # Sidebar sinistra: mostra anche le sezioni di ogni capitolo (espandibili
+    # con la freccia), non solo le pagine figlie. Profondità 2 = capitolo +
+    # sezioni di primo livello (o pagine figlie, come in Percorsi d'autore).
+    "toctree_titles_only": False,
+    "toctree_maxdepth": 2,
 }
 
 html_permalinks_icon = "<span>¶</span>"

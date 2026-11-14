@@ -99,6 +99,8 @@ Una **formula** è una successione di movimenti che ripeti partendo da note dive
       <source src="_static/music/pentatoniche-01-90.mp3" type="audio/mpeg">
    </audio>
 
+Lo strumento Scale propone la stessa formula su qualsiasi scala e tonalità: :strumento:`La minore pentatonica, passo su, salto su, passo giù <scale.html#v=1&scale=pentatonica-minore&root=A&preset=seq-formula&rhythm=eighths&scope=pattern&pattern=1&bpm=72>`.
+
 Una formula suonata in crome continue diventa presto un esercizio. Applica a P1 quello che hai fatto in :ref:`strutture-ritmo`: cambia le durate, entra dopo il battere, togli note da qualche gruppo.
 
 .. _pentatoniche-accordo:
@@ -277,3 +279,4 @@ Dove proseguire
 
 - :doc:`strutture-melodiche`, sezione :ref:`strutture-famiglie`, per lavorare con strutture di quattro note sui gradi dell'accordo.
 - :doc:`9-modern-jazz-fusion` per le sovrapposizioni nel contesto di studi completi.
+- Lo strumento :ref:`Scale <strumenti-scale>`, che contiene le sette pentatoniche di questa pagina, per esercitarle in tutte le tonalità e diteggiature.

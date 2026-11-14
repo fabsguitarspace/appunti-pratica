@@ -51,9 +51,12 @@ nello strumento salva la tua variante come link da riaprire o condividere.
 Scale
 -----
 
-Lo strumento **Scale** estrae una scala fra le 33 del catalogo, in una delle
-dodici tonalità, e ne mostra gradi, formula, struttura e le diteggiature a tre
-note per corda. Il pannello **Esercizi** costruisce l'esercizio su tre assi:
+Lo strumento **Scale** estrae una scala fra le 45 del catalogo, in una delle
+dodici tonalità, e ne mostra gradi, formula, struttura e le diteggiature: a tre
+note per corda, oppure in posizione per le pentatoniche e la scala blues. Oltre
+ai modi e alle scale simmetriche, il catalogo comprende le sette pentatoniche
+della pagina :doc:`pentatoniche`, la scala blues e le scale bebop del capitolo
+:doc:`4-scale`. Il pannello **Esercizi** costruisce l'esercizio su tre assi:
 
 - **Cosa** suonare: lineari, intervalli, sequenze, sequenze intervallari e
   formule ritmiche, con direzione ed estensione;
@@ -111,6 +114,21 @@ minuto. Gli altri cambiano scala, tonalità o zona della tastiera.
    <scale.html#v=1&scale=minore-melodica&root=C&preset=int-3&rhythm=eighths&scope=neck&from=0&to=12&bpm=72>`.
    Confronta le terze con quelle della scala maggiore sulla stessa tonica:
    cambia solo la terza.
+#. :strumento:`La minore pentatonica, passo su, salto su, passo giù
+   <scale.html#v=1&scale=pentatonica-minore&root=A&preset=seq-formula&rhythm=eighths&scope=pattern&pattern=1&bpm=72>`.
+   La formula dell'esempio P1 di :doc:`pentatoniche`, nella prima diteggiatura
+   in posizione.
+#. :strumento:`Do pentatonica maggiore, salti
+   <scale.html#v=1&scale=pentatonica-maggiore&root=C&preset=int-3&rhythm=eighths&scope=pattern&pattern=1&bpm=72>`.
+   Su una pentatonica l'esercizio «Terze» procede per salti nella collezione:
+   ascolta dove esce una terza e dove una quarta.
+#. :strumento:`Do scala blues, salire e scendere in ottavi swing
+   <scale.html#v=1&scale=scala-blues&root=C&preset=lin-updown&rhythm=swing&scope=pattern&pattern=1&bpm=90>`.
+   Il Sol♭ è un passaggio fra Fa e Sol: non fermarti su di lui.
+#. :strumento:`Si♭ pentatonica maggiore ♭2, salire e scendere
+   <scale.html#v=1&scale=pentatonica-maggiore-b2&root=Bb&preset=lin-updown&rhythm=eighths&scope=pattern&pattern=1&bpm=72>`.
+   La pentatonica alterata che l'esempio P3 usa su G7: impara la
+   diteggiatura prima di metterla nel II–V–I.
 
 Per passare a un'altra tonalità o a un'altra scala scegli tonica e famiglie in
 **Impostazioni** ed estrai una scala nuova: l'esercizio impostato resta lo

@@ -377,7 +377,7 @@ Le otto scale bastano a costruire le mappe della tastiera. Tre famiglie di mater
 
 Le diteggiature seguono il metodo di questo capitolo: due mappe per scala, dal Do grave e dal Do un'ottava sopra, con partenze da dita diverse e una posizione per riga. Con cinque o sei note per ottava ogni corda ne ospita spesso solo due, e alcune partenze producono la stessa diteggiatura: le mappe mostrano soltanto quelle diverse. Perché questi suoni funzionano lo spiega il capitolo `Scale di Teoria <https://appunti-di-teoria-e-armonia-per-chitarra-jazz.readthedocs.io/it/latest/4-scale.html>`__; qui ci occupiamo di trovarli e suonarli.
 
-Come costruire linee con le pentatoniche, sceglierle sull'accordo e usare quelle alterate è spiegato nella pagina :doc:`pentatoniche`.
+Come costruire linee con le pentatoniche, sceglierle sull'accordo e usare quelle alterate è spiegato nella pagina :doc:`pentatoniche`. Lo strumento :ref:`Scale <strumenti-scale>` contiene pentatoniche, scala blues e scale bebop, con diteggiature in posizione per le collezioni di cinque e sei note.
 
 .. _scala-pentatonica-maggiore:
 

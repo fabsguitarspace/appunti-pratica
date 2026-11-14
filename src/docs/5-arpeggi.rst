@@ -745,3 +745,5 @@ Una sessione breve
 Dedica due minuti a cantare e individuare le note di una sigla, tre a un frammento scritto, tre a un cambio di ritmo o di partenza e due a una frase inventata. Se un passaggio resta incerto, riduci il materiale invece di accelerare.
 
 Nel quaderno di bordo annota accordo o progressione, tonalità e una sola osservazione concreta: «perdo il tempo nel cambio di corda», «confondo sesta e settima», «riesco a sentire Fa–Mi al cambio di accordo». La sessione successiva riparte da quella osservazione.
+
+Per generare altre varianti di questi esercizi, in qualunque sonorità e tonalità, con audio e tablatura, usa lo strumento :ref:`Arpeggi <strumenti-arpeggi>` degli Strumenti per la pratica.

@@ -1,7 +1,7 @@
 # Analisi — Capitolo di strumenti interattivi (scale, arpeggi, accordi, progressioni)
 
 - Data: 2026-11-12
-- Stato: decisa — tutte le decisioni prese dall'utente il 2026-11-12; ADR 0005 e ADR 0010 di GSP Accettati; attuata per lo strumento Scale il 2026-11-12 (vedi Esito dell'attuazione). Decisioni: coerenza visiva D1; pubblicazione A1 (GitHub Pages); rinomina del repository in `appunti-strumenti`; capitolo «Strumenti per la pratica», ultimo nel volume; rimandi nei capitoli 4–7; ordine Arpeggi → Accordi → Progressioni; versione 1.1.
+- Stato: decisa — tutte le decisioni prese dall'utente il 2026-11-12; ADR 0005 e ADR 0010 di GSP Accettati; attuata per lo strumento Scale il 2026-11-12 e per lo strumento Arpeggi il 2026-11-14 (vedi Esito dell'attuazione). Decisioni: coerenza visiva D1; pubblicazione A1 (GitHub Pages); rinomina del repository in `appunti-strumenti`; capitolo «Strumenti per la pratica», ultimo nel volume; rimandi nei capitoli 4–7; ordine Arpeggi → Accordi → Progressioni; versione 1.1.
 - Ambito e richiesta: appunti-pratica e appunti-strumenti, ex Guitar-Scale-Practice (`../../appunti-strumenti`; cartella spostata e rinominata il 2026-11-12). Richiesta dell'utente: «creare un capitolo dentro il progetto Pratica che riporti questo tool [Guitar Scale Practice] e altri simili applicati anche ad Arpeggi, Accordi, Progressioni».
 - ADR collegato: [0005 — Strumenti interattivi nel volume](../adr/0005-strumenti-interattivi-nel-volume.md) (Accettato). Lato strumento: `appunti-strumenti/Docs/ADR-0010-suite-di-strumenti.md` (Accettato) e `Docs/plans/0002-suite-pratica.md` (Approvato).
 
@@ -134,3 +134,12 @@ Rischi: dipendenza della build RTD da un secondo repository; deriva tra testo de
 - Scostamenti dall'ADR 0005, punto 3: **una sezione per strumento nella pagina del capitolo** invece di pagine separate (con un solo strumento una sottopagina sarebbe vuota di contesto; si potrà dividere quando gli strumenti saranno quattro) e **nessuna schermata** per ora.
 - Durante la verifica un esercizio previsto (Re dorico sulle corde 6 e 5 fino al XII tasto) generava solo nove note, perché in quell'ambito le due corde coprono da Re a La: sostituito con le corde 5 e 4. Gli esercizi pronti vanno ascoltati nello strumento, non solo decodificati.
 - Da fare: prova su iPhone e Android dal volume pubblicato (audio, modalità silenziosa, wake lock).
+
+## Esito dell'attuazione (Arpeggi, 2026-11-14)
+
+- Strumento: `arpeggi.html` pubblicato su GitHub Pages (commit `64b749e` di appunti-strumenti; ADR 0011 di quel repository): 19 sonorità (4 triadi e le 15 del capitolo 5), diteggiature in posizione, esercizi propri, partenza da 3ª/5ª/7ª, parametri `chord` e `start` nei deep link.
+- `src/docs/11-strumenti-per-la-pratica.rst`: sezione **Arpeggi** (riferimento `strumenti-arpeggi`) con pulsante e nove esercizi pronti ricalcati sugli studi di `5-arpeggi.rst` (Cmaj7 dall'VIII tasto in quarti; partenza dalla terza; confronto C6/C7/Cmaj7; Cm6; ordine 1–5–3–7 dello studio 5; Cmaj9; C7♯5 e C°7; Dm7♭5 sulle corde 5–4–3; Si♭7 swing). «Prima di iniziare»: Invio estrae anche un altro arpeggio.
+- Rimando di una riga in fondo a «Una sessione breve» di `5-arpeggi.rst`.
+- `tests/test_strumenti_links.py`: `arpeggi.html` tra le pagine; per gli arpeggi controlla sonorità, fondamentale, esercizio e ritmo nel catalogo `Presets.ARPEGGI`, andata e ritorno di ogni parametro con `js/link.js`; `start` ammesso solo negli arpeggi e non con `ext=full` o `scope=chain`. Verificato anche con link volutamente errati.
+- Verifiche: ogni esercizio generato in Node con la pipeline dello strumento prima di scriverlo (nessun errore, nessuna estensione troncata: un primo Dm7♭5 sulle corde 4–3–2 e poi 5–4–3 su due ottave lo era, ridotto a un'ottava sulle corde 5–4–3); build HTML pulita con `-W`; i 12 test del volume verdi con `.venv`; nella pagina compilata 13 link verso gli strumenti con `theme` e nuova scheda; un esercizio aperto sul sito pubblicato si configura come atteso senza errori.
+- Da fare: come per Scale, prova su iPhone e Android; LaTeX ed ePub non ricompilati (la sezione usa lo stesso schema `only:: html` / indirizzo testuale della sezione Scale).

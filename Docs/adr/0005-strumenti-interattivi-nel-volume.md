@@ -49,6 +49,8 @@ Decisioni dell'utente (2026-11-12): tema visivo D1; pubblicazione su GitHub Page
 
 2026-11-12, strumento Scale: capitolo `11-strumenti-per-la-pratica.rst` con **una sezione per strumento** nella stessa pagina (punto 3: le pagine separate si valuteranno quando gli strumenti saranno più di uno) e senza schermata per ora; link aperti in una nuova scheda da `strumenti.js`. Dettagli e verifiche nell'analisi 019, «Esito dell'attuazione».
 
+2026-11-14, strumento Arpeggi: sezione «Arpeggi» nel capitolo 11 con nove esercizi pronti, rimando in fondo agli esercizi di `5-arpeggi.rst`, `arpeggi.html` nel test dei link. La pagina unica del capitolo resta adeguata con due strumenti. Dettagli nell'analisi 019, «Esito dell'attuazione (Arpeggi)».
+
 ## Collegamenti
 
 - [ADR 0001](0001-lilypond-diretto-e-generazione-python.md) e [ADR 0004](0004-libreria-musicale-comune.md): invariati; RTD continua a non dipendere da altri repository.

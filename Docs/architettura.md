@@ -7,7 +7,7 @@
 - `src/docs/*.rst`: contenuti didattici reStructuredText.
 - `src/docs/conf.py`: Sphinx, lingua italiana, release 1.1, tema Shibuya, CSS personalizzato, navigazione tra i progetti e LuaLaTeX; `strumenti_url` (indirizzo base degli Strumenti per la pratica su GitHub Pages) con il ruolo `extlinks` `:strumento:` e lo script `strumenti.js` (ADR 0005).
 - `src/docs/_static/custom.css`: presentazione; `_static/music`: risorse musicali utilizzate dalle pagine; `_static/strumenti.js`: aggiunge ai link verso gli strumenti il tema chiaro/scuro di Shibuya (`data-color-mode` → `theme=`) e li apre in una nuova scheda.
-- `src/docs/11-strumenti-per-la-pratica.rst`: link agli strumenti esterni ed esercizi pronti come deep link (`:strumento:`testo <scale.html#v=1&…>``); schema in `appunti-strumenti/Docs/deep-link.md`. `tests/test_strumenti_links.py` li verifica con il codice dello strumento (`../appunti-strumenti`, Node).
+- `src/docs/11-strumenti-per-la-pratica.rst`: link agli strumenti esterni ed esercizi pronti come deep link (`:strumento:`testo <scale.html#v=1&…>``, `arpeggi.html#v=1&…`), una sezione per strumento; schema in `appunti-strumenti/Docs/deep-link.md`. `tests/test_strumenti_links.py` li verifica con il codice dello strumento (`../appunti-strumenti`, Node).
 - `src/lilypond/*.ly`: sorgenti delle partiture; `include/`: macro condivise nel singolo repository; `sf/Jazzernaut.sf2`: soundfont.
 - `build-lilypond.sh`: LilyPond → PDF → ritaglio con pdfcrop → SVG con pdf2svg; MIDI → WAV con FluidSynth → MP3 con LAME, eliminando il WAV intermedio.
 - `build.sh`: `sphinx-build -b html src/docs out`; `out` è output, non fonte editoriale.

@@ -1,6 +1,6 @@
 """Deep link verso gli Strumenti per la pratica (ADR 0005).
 
-Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli:
+Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale e Arpeggi):
 - pagina esistente fra quelle pubblicate, frammento versionato `v=1`;
 - se il repository ../appunti-strumenti è presente e Node è installato, ogni parametro
   è riconosciuto dallo strumento: js/link.js lo decodifica e lo riscrive uguale, la scala
@@ -14,7 +14,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'src/docs'
 TOOLS = ROOT.parent / 'appunti-strumenti'
-PAGES = {'index.html', 'scale.html'}
+PAGES = {'index.html', 'scale.html', 'arpeggi.html'}
 ROLE = re.compile(r':strumento:`[^`<]*<([^>]+)>`', re.S)
 
 links = []
@@ -44,7 +44,24 @@ const tools = process.argv[1];
 const T = require(tools + '/js/theory.js');
 const L = require(tools + '/js/link.js');
 const P = require(tools + '/js/exercises/presets.js');
+const C = require(tools + '/js/chords.js');
 const slugs = new Set(T.catalog().map((s) => L.slug(s.name)));
+const chords = new Set(C.catalog().map((q) => q.id));
+const SCOPE_KEYS = ['v', 'scale', 'chord', 'root'];
+/** Ogni parametro dell'esercizio deve sopravvivere a decodifica e ricodifica con il catalogo dato. */
+function roundTrip(params, cat, errors) {
+  if (params.preset && !cat.PRESETS.some((p) => p.id === params.preset)) errors.push('esercizio sconosciuto ' + params.preset);
+  if (params.rhythm && !cat.RHYTHMS.some((r) => r.id === params.rhythm)) errors.push('ritmo sconosciuto ' + params.rhythm);
+  if (params.bpm && !(+params.bpm >= 30 && +params.bpm <= 300)) errors.push('bpm fuori da 30–300');
+  const d = L.decodeExercise(params);
+  const s = { ...cat.DEFAULTS, ...cat.presetDefaults(d.presetId || cat.DEFAULTS.presetId), ...d,
+    scope: { ...cat.DEFAULTS.scope, ...(d.scope || {}) } };
+  const back = L.encodeExercise(s);
+  for (const [k, v] of Object.entries(params)) {
+    if (SCOPE_KEYS.includes(k)) continue;
+    if (String(back[k]) !== v) errors.push(k + '=' + v + ' ignorato (diventa ' + back[k] + ')');
+  }
+}
 const out = [];
 for (const [name, page, params] of JSON.parse(require('fs').readFileSync(0, 'utf8'))) {
   const errors = [];
@@ -52,18 +69,16 @@ for (const [name, page, params] of JSON.parse(require('fs').readFileSync(0, 'utf
     if (params.scale && !slugs.has(params.scale)) errors.push('scala sconosciuta ' + params.scale);
     if (params.root && !L.parseNote(params.root)) errors.push('tonica non valida ' + params.root);
     if (!!params.scale !== !!params.root) errors.push('scale e root vanno insieme');
+    if (params.start) errors.push('start vale solo negli arpeggi');
     // link.js lascia passare gli id; il pannello li scarterebbe se non sono nei cataloghi.
-    if (params.preset && !P.PRESETS.some((p) => p.id === params.preset)) errors.push('esercizio sconosciuto ' + params.preset);
-    if (params.rhythm && !P.RHYTHMS.some((r) => r.id === params.rhythm)) errors.push('ritmo sconosciuto ' + params.rhythm);
-    if (params.bpm && !(+params.bpm >= 30 && +params.bpm <= 300)) errors.push('bpm fuori da 30–300');
-    const d = L.decodeExercise(params);
-    const s = { ...P.DEFAULTS, ...P.presetDefaults(d.presetId || P.DEFAULTS.presetId), ...d,
-      scope: { ...P.DEFAULTS.scope, ...(d.scope || {}) } };
-    const back = L.encodeExercise(s);
-    for (const [k, v] of Object.entries(params)) {
-      if (['v', 'scale', 'root'].includes(k)) continue;
-      if (String(back[k]) !== v) errors.push(k + '=' + v + ' ignorato (diventa ' + back[k] + ')');
-    }
+    roundTrip(params, P, errors);
+  }
+  if (page === 'arpeggi.html') {
+    if (params.chord && !chords.has(params.chord)) errors.push('arpeggio sconosciuto ' + params.chord);
+    if (params.root && !L.parseNote(params.root)) errors.push('fondamentale non valida ' + params.root);
+    if (!!params.chord !== !!params.root) errors.push('chord e root vanno insieme');
+    if (params.start && (params.ext === 'full' || params.scope === 'chain')) errors.push('start ignorato con ext=full o scope=chain');
+    roundTrip(params, P.ARPEGGI, errors);
   }
   if (errors.length) out.push(name + ': ' + JSON.stringify(params) + ' → ' + errors.join('; '));
 }

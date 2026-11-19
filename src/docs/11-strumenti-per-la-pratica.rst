@@ -223,13 +223,23 @@ Accordi
 
 Lo strumento **Accordi** estrae un accordo fra le stesse 19 sonorità dello
 strumento Arpeggi, in una delle dodici tonalità, e ne mostra i **voicing** in
-quattro famiglie, ciascuna con diagramma e corde usate:
+dieci famiglie, ciascuna con diagramma e corde usate:
 
 - **Shell**: fondamentale, terza e settima sulle corde 6–4–3 o 5–4–3, come
   nella sezione sugli shell voicing del capitolo :doc:`6-accordi`;
-- **Drop 2** sulle corde 4–3–2–1 e 5–4–3–2, e **Drop 3** con il basso sulla
-  sesta o sulla quinta corda, come nei voicing per il chord melody;
-- **Triadi strette** su tre corde vicine.
+- **Drop 2** sulle corde 4–3–2–1, 5–4–3–2 e 6–5–4–3, **Drop 3** con il basso
+  sulla sesta o sulla quinta corda e **Drop 2 e 4** sulle corde 6–5–3–2 e
+  5–4–2–1, come nella sezione :ref:`voicing-drop` del capitolo :doc:`6-accordi`;
+- **Triadi strette** su tre corde vicine e **Triadi late** sulle corde 6–4–3,
+  5–3–2 e 4–2–1, come nella sezione :ref:`voicing-triadi`;
+- **Senza fondamentale**: terza e settima più due colori, con una nota guida
+  al basso, sulle corde 5–4–3–2 e 4–3–2–1, come nella sezione
+  :ref:`voicing-senza-fondamentale`;
+- **Strutture superiori**, **Per quarte** e **Cluster**, costruite con le
+  tensioni di ogni accordo, come nelle sezioni :ref:`strutture-superiori`,
+  :ref:`voicing-quarte` e :ref:`voicing-cluster`. Con le strutture superiori
+  l'opzione **Tensioni alterate** aggiunge sui dominanti le triadi di VI, ♭VI
+  e ♭V.
 
 Tutte le forme stanno entro cinque tasti, senza corde a vuoto, e non mettono
 estensioni al basso. Il pannello **Esercizi** suona una sequenza di accordi:
@@ -298,6 +308,34 @@ triadi, in altre tonalità e con altri ritmi.
    <accordi.html#v=1&chord=m6&root=D&ex=ii-v-i&fam=drop2&set=5432&from=1&to=12&rhythm=arp&bpm=72>`.
    Em7♭5, A7 e Dm6 sulle corde 5–4–3–2, suonati nota per nota in ottavi:
    ascolta come ogni voce passa all'accordo successivo.
+#. :strumento:`Drop 2, II–V–I in Do sulle corde 5–4–3–2
+   <accordi.html#v=1&chord=maj7&root=C&ex=ii-v-i&fam=drop2&set=5432&from=1&to=10&rhythm=two-four&bpm=60>`.
+   Il collegamento dello studio «Drop 2 per accompagnare»: Re fermo al basso
+   da Dm7 a G7, poi Do–Si e Fa–Mi nelle voci superiori.
+#. :strumento:`Cmaj7 in drop 2 e 4, rivolti sulle corde 6–5–3–2
+   <accordi.html#v=1&chord=maj7&root=C&ex=inv&dir=updown&fam=drop24&set=6532&from=1&to=15&rhythm=whole&bpm=60>`.
+   Quattro forme aperte con due corde mute: prendi le due gravi con il plettro
+   e le due acute con medio e anulare.
+#. :strumento:`Triadi late di Do sulle corde 6–4–3
+   <accordi.html#v=1&chord=maj&root=C&ex=inv&dir=updown&fam=spread&set=643&from=1&to=15&rhythm=half&bpm=60>`.
+   Sol Mi Do, Do Sol Mi, Mi Do Sol, come nell'esempio del capitolo: smorza la
+   quinta corda con il dito che preme il basso.
+#. :strumento:`Senza fondamentale, II–V–I in Do sulle corde 4–3–2–1
+   <accordi.html#v=1&chord=maj7&root=C&ex=ii-v-i&fam=rootless&set=4321&from=1&to=6&rhythm=two-four&bpm=80>`.
+   La prima forma dello studio «II–V–I: le forme si alternano»: Fa, Fa, Mi al
+   basso. Con **Dal tasto** 7 e **Al tasto** 12 ottieni la seconda forma.
+#. :strumento:`C7, strutture superiori alterate sulle corde 4–3–2–1
+   <accordi.html#v=1&chord=7&root=C&ex=inv&dir=up&fam=ust&set=4321&from=1&to=12&rhythm=whole&alt=1&bpm=60>`.
+   Nove triadi sopra il Mi o il Si♭: fra queste le tre dell'esempio «Triadi
+   alterate e risoluzione». Prima di ogni forma canta la nota al canto.
+#. :strumento:`Cm7 per quarte nel ciclo, sulle corde 5–4–3–2–1
+   <accordi.html#v=1&chord=m7&root=C&ex=cycle&fam=quartal&set=54321&from=1&to=12&rhythm=half&bpm=60>`.
+   Dodici minori nella forma «So What» o nella sua variante con la quinta al
+   basso: la mano scivola senza cambiare forma.
+#. :strumento:`Cluster, II–V–I in Do sulle corde 4–3–2–1
+   <accordi.html#v=1&chord=maj7&root=C&ex=ii-v-i&fam=cluster&set=4321&from=3&to=10&rhythm=whole&bpm=60>`.
+   L'arrivo è il Cmaj9 dell'esempio «Cluster», con la seconda Re–Mi fra terza
+   e seconda corda: suonalo piano e lascialo risuonare.
 
 Per altri accordi e tonalità scegli famiglie e fondamentale in
 **Impostazioni** ed estrai un accordo nuovo: l'esercizio impostato resta lo

@@ -104,6 +104,75 @@ Per gli accordi diminuiti abbiamo solo 3 forme essenziali:
       <source src="_static/music/accordi-essenziali-diminuiti.mp3" type="audio/mp3">
    </audio>
 
+.. _famiglie-voicing:
+
+Le famiglie di voicing
+----------------------
+
+Un **voicing** è il modo di disporre le note di un accordo sulla tastiera: quali note suonare, in che ordine dal basso e su quali corde. Le forme di questo capitolo appartengono a poche **famiglie**, ciascuna con una regola di costruzione e un uso tipico. Conoscere la regola vale più che memorizzare i disegni: dalla regola le forme si ritrovano in ogni tonalità e su ogni gruppo di corde.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 18 32 16 18 16
+
+   * - Famiglia
+     - Come si costruisce
+     - Corde
+     - Uso tipico
+     - Dove
+   * - Shell voicing
+     - fondamentale, terza e settima; la quinta si omette
+     - 6–4–3, 5–4–3
+     - accompagnamento essenziale, note guida
+     - :ref:`shell-voicings`
+   * - Triadi strette e late
+     - tre note dell’accordo, vicine oppure con la voce centrale un’ottava sotto
+     - 3 corde vicine; 6–4–3, 5–3–2, 4–2–1
+     - accompagnamento leggero
+     - :ref:`voicing-triadi`
+   * - Drop 2
+     - dalla posizione stretta si abbassa di un’ottava la seconda voce dall’alto
+     - 4–3–2–1, 5–4–3–2, 6–5–4–3
+     - accompagnamento, chord melody
+     - :ref:`voicing-drop`
+   * - Drop 3
+     - si abbassa la terza voce dall’alto
+     - 6–4–3–2, 5–3–2–1
+     - basso e melodia separati
+     - :ref:`voicing-drop`
+   * - Drop 2 e 4
+     - si abbassano la seconda e la quarta voce dall’alto
+     - 6–5–3–2, 5–4–2–1
+     - suono ampio, accordi lunghi
+     - :ref:`voicing-drop`
+   * - Senza fondamentale
+     - note guida più due colori (5, 9, 13), in drop 2, con terza o settima al basso
+     - 5–4–3–2, 4–3–2–1
+     - accompagnare con il bassista
+     - :ref:`voicing-senza-fondamentale`
+   * - Per nota al canto
+     - si sceglie prima la nota più acuta, poi le voci sotto
+     - canto sulla 1ª o 2ª corda
+     - colore, chord melody
+     - :ref:`vocabolario-avanzato`, :ref:`chord-melody-voicings`
+   * - Strutture superiori
+     - una triade maggiore sopra una nota guida
+     - 5–4–3–2, 4–3–2–1
+     - tensioni sul dominante, colore
+     - :ref:`strutture-superiori`
+   * - Per quarte
+     - quarte giuste sovrapposte (forma «So What»: quarte e una terza in cima)
+     - 4–3–2, 3–2–1, quattro o cinque corde vicine
+     - jazz modale
+     - :ref:`voicing-quarte`
+   * - Cluster
+     - quattro voci con almeno una seconda fra voci vicine
+     - 5–4–3–2, 4–3–2–1
+     - ballad, accordi lunghi
+     - :ref:`voicing-cluster`
+
+Le convenzioni sono le stesse per tutte le famiglie: **niente corde a vuoto**, **nessuna tensione al basso** (nona, undicesima e tredicesima stanno sopra) e forme **trasportabili** lungo il manico. Lo strumento :ref:`Accordi <strumenti-accordi>` usa gli stessi nomi e le stesse corde: ogni forma degli esempi di questa pagina si ritrova fra quelle che lo strumento genera.
+
 .. _shell-voicings:
 
 Shell voicings
@@ -294,10 +363,244 @@ Una routine breve
 
 Quando il collegamento è chiaro, aggiungi una sola nota al canto dalle famiglie del Vocabolario avanzato. Conserva il controllo delle voci interne: l’estensione deve entrare in una struttura che sai già ascoltare e muovere.
 
-Per suonare questi collegamenti in tutte le tonalità, con shell, drop 2, drop 3 e triadi, audio e tablatura, usa lo strumento :ref:`Accordi <strumenti-accordi>` degli Strumenti per la pratica.
+Per suonare questi collegamenti in tutte le tonalità, con shell, triadi, drop e voicing senza fondamentale, audio e tablatura, usa lo strumento :ref:`Accordi <strumenti-accordi>` degli Strumenti per la pratica.
 
 Per un confronto sul metodo a tre note: `Tom Lippincott, Shell Voicings
 <https://tomlippincott.com/shell-voicings>`__.
+
+.. _voicing-triadi:
+
+Triadi strette e late
+---------------------
+
+Una triade usata come voicing ha tre note soltanto: fondamentale, terza e quinta, senza settima. Nel capitolo :doc:`3-conoscere-la-tastiera` le triadi servono a orientarsi sulla tastiera; qui diventano **accordi d’accompagnamento**. Suonano leggere e chiare, lasciano spazio al basso e al solista e, sopra un basso diverso dalla loro fondamentale, diventano accordi più ricchi: è l’idea della triade come struttura superiore, applicata nello studio :ref:`modern-04`.
+
+Le famiglie sono due:
+
+- **triadi strette**: le tre note dentro un’ottava, su tre corde vicine (3–2–1, 4–3–2, 5–4–3, 6–5–4);
+- **triadi late** (*spread*): la voce centrale della triade stretta scende di un’ottava. Fra le due voci gravi resta una corda muta: corde 6–4–3, 5–3–2 e 4–2–1.
+
+Per ogni gruppo di corde ci sono **tre rivolti**, uno per ciascuna nota al basso.
+
+Triadi strette
+~~~~~~~~~~~~~~
+
+Nella prima riga Do maggiore sulle corde 3–2–1: posizione fondamentale (Do Mi Sol), primo rivolto (Mi Sol Do), secondo rivolto (Sol Do Mi). Nella seconda riga Do minore sulle corde 4–3–2, dal secondo rivolto (Sol Do Mi♭) alla posizione fondamentale e al primo rivolto.
+
+.. image:: _static/music/vf-triadi-strette.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-triadi-strette.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Sali e scendi i tre rivolti dicendo ad alta voce la nota al canto. Poi scegli una nota della prima corda e trova il rivolto che la mette in cima: è lo stesso lavoro del chord melody, con una voce in meno.
+
+Triadi late
+~~~~~~~~~~~
+
+Nella prima riga Do maggiore sulle corde 6–4–3: Sol Mi Do, Do Sol Mi, Mi Do Sol. Il secondo è il **Do–Sol–Mi** del capitolo 3. Nella seconda riga i tre rivolti sulle corde 4–2–1: Mi Do Sol, Sol Mi Do, Do Sol Mi.
+
+.. image:: _static/music/vf-triadi-late.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-triadi-late.mp3" type="audio/mpeg">
+   </audio>
+
+Rispetto alle triadi strette il suono si apre: il basso si stacca dalle altre due voci, come nel drop 3. Sulle corde 5–3–2 la forma con la fondamentale al basso non sta in cinque tasti; lo strumento mostra le altre due.
+
+**Come suonarle.** La corda muta va smorzata con il dito che preme la corda più grave. Con il plettro suona il basso, con medio e anulare le due voci acute.
+
+Triadi nel II–V–I
+~~~~~~~~~~~~~~~~~
+
+Il collegamento **Dm | G | C | C** sulle corde 3–2–1 tiene il Re fermo da Dm a G e muove le altre voci di un tono al massimo. Nell’ultima battuta il C passa al primo rivolto per far salire la linea al canto.
+
+.. image:: _static/music/vf-triadi-ii-v-i.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-triadi-ii-v-i.mp3" type="audio/mpeg">
+   </audio>
+
+Senza settime la progressione è più aperta: le note guida le portano il basso e il pianoforte, oppure restano sottintese. È un accompagnamento adatto alle ballad lente e ai brani in cui la melodia è già molto ricca.
+
+**Verifica.** Sai collegare gli stessi tre accordi sulle corde 4–3–2, senza spostare la mano oltre cinque tasti?
+
+.. _voicing-drop:
+
+Quattro voci: drop 2, drop 3, drop 2 e 4
+----------------------------------------
+
+Un accordo di settima in **posizione stretta** ha le quattro note dentro un’ottava: Do Mi Sol Si. Al pianoforte si suona con una mano; sulla chitarra, con le corde accordate per quarte, è quasi sempre impraticabile. Le famiglie *drop* risolvono il problema abbassando di un’ottava una o due voci, contate **dall’alto**. In Do Mi Sol Si la prima voce è Si, la seconda Sol, la terza Mi, la quarta Do:
+
+- **drop 2**: scende la seconda voce, Sol → **Sol Do Mi Si**;
+- **drop 3**: scende la terza voce, Mi → **Mi Do Sol Si**;
+- **drop 2 e 4** (*drop 2&4*): scendono la seconda e la quarta, Sol e Do → **Do Sol Mi Si**.
+
+Partendo dai quattro rivolti della posizione stretta, ogni famiglia dà **quattro forme** per gruppo di corde, una per ciascuna nota dell’accordo al canto. Le note sono sempre le stesse quattro: cambia quanto è aperta la forma e quindi il suono.
+
+La stessa Cmaj7 in quattro famiglie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tutte le forme hanno il **Do all’VIII tasto della sesta corda** al basso. Lo shell (R–7–3) è il punto di partenza; il drop 2 sulle corde 6–5–4–3 aggiunge la quinta in mezzo (R–5–7–3); il drop 3 sulle corde 6–4–3–2 lascia muta la quinta corda e mette la quinta al canto (R–7–3–5); il drop 2 e 4 sulle corde 6–5–3–2 lascia muta la quarta corda e porta la settima in cima (R–5–3–7).
+
+.. image:: _static/music/vf-confronto.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-confronto.mp3" type="audio/mpeg">
+   </audio>
+
+**Ascolto.** Suona le quattro forme di seguito, lentamente. Il drop 2 sulle corde gravi è compatto e scuro; il drop 3 separa il basso dalle voci superiori; il drop 2 e 4 è il più aperto, quasi orchestrale.
+
+**Verifica.** Per ciascuna forma sai dire quale voce è stata abbassata e quale nota sta al canto?
+
+Drop 2 su tre gruppi di corde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il drop 2 si suona su quattro corde vicine: 4–3–2–1, 5–4–3–2 e 6–5–4–3. Le forme sulle corde 4–3–2–1 sono quelle del :ref:`chord melody <chord-melody-voicings>`; qui le portiamo più in basso, con la **fondamentale al basso** e la terza al canto. Nella prima riga Do sulla quinta corda (5–4–3–2), nella seconda Sol sulla sesta corda (6–5–4–3), sempre nell’ordine maj7, 7, m7, m7(♭5).
+
+.. image:: _static/music/vf-drop2-gruppi.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-drop2-gruppi.mp3" type="audio/mpeg">
+   </audio>
+
+Fra le forme della stessa riga cambia una sola nota alla volta. Nella riga di Do: Si → Si♭ trasforma la settima maggiore in dominante, Mi → Mi♭ il dominante in minore, Sol → Sol♭ il minore in semidiminuito. È il modo più rapido per imparare le quattro qualità come varianti di un’unica forma.
+
+**Quando usarle.** Le forme sulle corde 5–4–3–2 sono le più usate per accompagnare: stanno nel registro centrale e non coprono né il basso né la melodia. Quelle sulle corde 6–5–4–3 sono scure: usale quando suoni senza bassista, o per poche battute.
+
+Drop 2 per accompagnare: II–V–I
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel collegamento **Dm7 | G7 | Cmaj7 | C6** sulle corde 5–4–3–2 nessuna voce si muove più di un tono. Da Dm7 a G7 il Re resta al basso (diventa la quinta di G7), La scende a Sol, Do scende a Si, Fa resta; da G7 a Cmaj7 Re scende a Do, Fa scende a Mi; infine Si scende a La per C6.
+
+.. image:: _static/music/vf-drop2-ii-v-i.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-drop2-ii-v-i.mp3" type="audio/mpeg">
+   </audio>
+
+Sono le stesse note guida degli :ref:`shell-voicings`, Do–Si e Fa–Fa–Mi, ma ora con quattro voci. Il G7 con la quinta al basso rispetta la convenzione del capitolo: la quinta è una nota dell’accordo, non una tensione, e accanto a un bassista non disturba.
+
+**Come studiare.** Suona prima soltanto le due voci centrali, poi aggiungi basso e canto. Trasporta il collegamento in Fa e in Si♭ senza cambiare gruppo di corde.
+
+Drop 3
+~~~~~~
+
+Nel drop 3 fra il basso e le altre voci rimane una **corda muta**: la quinta nelle forme sulle corde 6–4–3–2, la quarta nelle forme sulle corde 5–3–2–1. Con la fondamentale al basso la quinta sta al canto. Gli esempi in tutte le qualità sono nella sezione :ref:`drop3-chord-melody` del chord melody; per accompagnare valgono le stesse forme, suonate sui tempi forti e sugli accordi lunghi.
+
+Drop 2 e 4
+~~~~~~~~~~
+
+Nel drop 2 e 4 le corde mute sono due: la quarta nelle forme sulle corde 6–5–3–2, la terza nelle forme sulle corde 5–4–2–1. Con la fondamentale al basso la disposizione è **R–5–3–7**: la settima va al canto e la terza sta nel mezzo, ben separata dal basso. Nella prima riga Do sulla sesta corda, nella seconda Fa sulla quinta, nell’ordine maj7, 7, m7, m7(♭5).
+
+.. image:: _static/music/vf-drop24.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-drop24.mp3" type="audio/mpeg">
+   </audio>
+
+**Come suonarle.** Le corde suonate non sono vicine: usa le dita o il plettro con le dita (*hybrid picking*): il plettro prende le due corde gravi, medio e anulare le due acute. Pizzicate insieme, le quattro note suonano come una piccola sezione di fiati.
+
+**Quando usarle.** Sugli accordi lunghi, nelle ballad, sul primo e sull’ultimo accordo di un brano. Sono meno mobili dei drop 2: non usarle per ogni cambio d’accordo.
+
+**Verifica.** Data una forma, sai ricostruire la posizione stretta da cui nasce, alzando di un’ottava le voci abbassate?
+
+Per suonare queste forme in tutte le tonalità, nei rivolti, nel ciclo delle quarte e nel II–V–I, usa lo strumento :ref:`Accordi <strumenti-accordi>`: le famiglie drop 2, drop 3 e drop 2 e 4 hanno gli stessi gruppi di corde di questa sezione.
+
+.. _voicing-senza-fondamentale:
+
+Voicing senza fondamentale
+--------------------------
+
+Quando suoni con un bassista la fondamentale c’è già: la suona lui, un’ottava o due più in basso. I **voicing senza fondamentale** (*rootless*) gliela lasciano e usano le quattro voci per le note che contano: le due **note guida**, terza e settima, e due colori scelti fra quinta, nona e tredicesima. Hai già incontrato l’idea negli shell con basso di quinta (:ref:`shell-voicings`) e nel G7(♭9) con il Si al basso del capitolo :doc:`7-progressioni`.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 20 25 55
+
+   * - Sigla
+     - Note
+     - Osservazioni
+   * - maj7
+     - 3 5 7 9
+     - la nona prende il posto della fondamentale
+   * - 6
+     - 3 5 6 9
+     - la sesta fa da nota guida al posto della settima
+   * - m7
+     - ♭3 5 ♭7 9
+     - come nel maggiore settima
+   * - 7
+     - 3 13 ♭7 9
+     - la tredicesima prende il posto della quinta
+   * - m7(♭5)
+     - ♭3 ♭5 ♭7 9
+     - la ♭5 resta, perché distingue il semidiminuito dal m7; la nona è naturale
+
+Le quattro note si dispongono in **drop 2** (vedi :ref:`voicing-drop`) con una nota guida al basso. Per ogni gruppo di corde restano così **due forme**: con la terza al basso e con la settima al basso. I pianisti le chiamano tipo A e tipo B.
+
+Le due forme
+~~~~~~~~~~~~
+
+Nella prima riga la **terza al basso**, sulle corde 5–4–3–2: Cmaj7, C7, Cm7, Cm7(♭5). Nella seconda la **settima al basso**, sulle corde 4–3–2–1, sempre con la nona Re al canto.
+
+.. image:: _static/music/vf-senza-fondamentale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-senza-fondamentale.mp3" type="audio/mpeg">
+   </audio>
+
+Ascolta Cmaj7 nella prima riga: **Mi Si Re Sol**, da sole, sono Em7. È il Do del basso a trasformarle in Cmaj9. Senza bassista questi voicing sono ambigui; con il bassista suonano pieni e moderni, e non si scontrano con lui.
+
+**Verifica.** Per ogni forma sai dire quale nota manca, quale colore la sostituisce e chi deve suonarla?
+
+II–V–I: le forme si alternano
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel II–V–I le due forme si alternano da sole. Se Dm7 ha la **terza** al basso, G7 ha la **settima**, e Cmaj7 torna alla terza; se Dm7 parte dalla settima, l’alternanza si rovescia. È la regola delle note guida: la settima di un accordo scende di semitono sulla terza del successivo, oppure resta ferma.
+
+Nella prima riga la prima forma, fra il II e il V tasto: Fa al basso su Dm7 e G7, Mi su Cmaj7. Nella seconda la seconda forma, fra l’VIII e il XII tasto: Do, Si, Si. In entrambe nessuna voce si muove più di un tono.
+
+.. image:: _static/music/vf-senza-fondamentale-ii-v-i.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-senza-fondamentale-ii-v-i.mp3" type="audio/mpeg">
+   </audio>
+
+**Come studiare.** Suona il collegamento con una base di solo basso, o con un amico bassista, e poi da solo: senti come il senso dell’accordo dipende dal basso. Trasporta le due forme in Fa e in Si♭, senza cambiare gruppo di corde.
+
+**Quando usarli.** In gruppo, con il bassista, nei tempi medi e veloci. Da solo, o nel chord melody, torna alle forme con la fondamentale: drop 2, drop 3 o tre voci.
+
+Lo strumento :ref:`Accordi <strumenti-accordi>` ha la famiglia «Senza fondamentale» con le stesse note e gli stessi gruppi di corde; le triadi strette e late sono le famiglie «Triadi strette» e «Triadi late».
+
+.. _vocabolario-avanzato:
 
 Vocabolario avanzato
 --------------------
@@ -1220,6 +1523,145 @@ Per approfondire il rapporto fra melodia, toni cordali e tensioni:
 
 
 
+.. _strutture-superiori:
+
+Strutture superiori
+-------------------
+
+Una **struttura superiore** (*upper structure*) è una triade maggiore suonata sopra una nota guida. La nota guida, terza o settima, dice la qualità dell’accordo; la triade porta le tensioni. La fondamentale la suona il basso, come nei :ref:`voicing senza fondamentale <voicing-senza-fondamentale>`. Sulla chitarra la nota guida sta sulla corda più grave del gruppo (quinta o quarta) e la triade, stretta, sulle tre corde sopra.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 22 33 45
+
+   * - Sigla
+     - Triade sopra la nota guida
+     - Tensioni rispetto a Do
+   * - Cmaj7
+     - II maggiore (Re); V maggiore (Sol)
+     - 9 ♯11 13; 5 7 9
+   * - Cm7
+     - IV maggiore (Fa); ♭VII maggiore (Si♭)
+     - 11 13 1; ♭7 9 11
+   * - C7
+     - II maggiore (Re)
+     - 9 ♯11 13
+   * - C7 alterato
+     - VI (La); ♭VI (La♭); ♭V (Sol♭) maggiori
+     - 13 ♭9 3; ♭13 1 ♯9; ♯11 ♭7 ♭9
+
+Sul semidiminuito non usiamo strutture superiori: senza la ♭5 una triade sopra ♭3 o ♭7 suonerebbe come un m7.
+
+Triadi naturali
+~~~~~~~~~~~~~~~
+
+Cmaj9 con il Sol maggiore sopra il Mi: sono le stesse note del voicing senza fondamentale, viste come triade. Poi Cmaj7(♯11) con il Re maggiore sopra il Mi, Cm11 con il Si♭ maggiore sopra il Mi♭, C13(♯11) con il Re maggiore sopra il Si♭.
+
+.. image:: _static/music/vf-strutture-superiori.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-strutture-superiori.mp3" type="audio/mpeg">
+   </audio>
+
+**Ascolto.** Suona prima la sola nota guida, poi la sola triade, poi insieme. La triade da sola è un accordo semplice e luminoso; sopra la nota guida diventa un colore preciso.
+
+Triadi alterate e risoluzione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sul dominante le triadi di VI, ♭VI e ♭V portano le **tensioni alterate**. Nell’esempio C13(♭9) usa La maggiore sopra il Si♭, C7(♯9♭13) La♭ maggiore sopra il Si♭, C7(♭9♯11) Sol♭ maggiore sopra il Mi; l’ultimo risolve su Fmaj9 senza fondamentale. Sul pentagramma le note si scrivono secondo la tensione: il Do♯ di La maggiore è il ♭9 Re♭, il Mi♭ di La♭ maggiore è il ♯9 Re♯, il Sol♭ è il ♯11 Fa♯.
+
+.. image:: _static/music/vf-strutture-superiori-alterate.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-strutture-superiori-alterate.mp3" type="audio/mpeg">
+   </audio>
+
+Nella risoluzione Mi resta fermo e le altre tre voci scendono o salgono di un semitono: Si♭ → La, Re♭ → Do, Fa♯ → Sol. È questo movimento, più delle singole tensioni, a far sentire l’arrivo.
+
+**Come studiare.** Scegli una sola triade alterata e usala su tutti i dominanti di un brano per una settimana. Nello strumento :ref:`Accordi <strumenti-accordi>` la famiglia «Strutture superiori» mostra le triadi naturali; l’opzione «Tensioni alterate» aggiunge quelle di VI, ♭VI e ♭V.
+
+.. _voicing-quarte:
+
+Voicing per quarte
+------------------
+
+Nei **voicing per quarte** (detti anche *quartali*) le note si sovrappongono per quarte giuste invece che per terze. Non hanno la direzione di un accordo per terze: il suono è aperto, sospeso, tipico del jazz modale degli anni ’60. Sulla chitarra, accordata per quarte, vengono naturali: stesso tasto su corde vicine, tranne fra 3ª e 2ª corda, dove la voce sale di un tasto.
+
+Le regole sono quelle del capitolo:
+
+- tutte le note sono note dell’accordo o tensioni naturali;
+- il basso è una nota dell’accordo, mai una tensione;
+- c’è almeno una nota guida, terza o settima.
+
+La forma più famosa è detta **«So What»**, dal brano di Miles Davis (1959): tre quarte giuste e una terza maggiore in cima, cinque note in tutto.
+
+Quattro forme su Do
+~~~~~~~~~~~~~~~~~~~
+
+Cm11 nella forma «So What» (Do Fa Si♭ Mi♭ Sol, al III tasto), Cm11 a quattro voci (Sol Do Fa Si♭), Cmaj13 (Si Mi La Re) e C13 a tre voci (Mi La Re).
+
+.. image:: _static/music/vf-quarte.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-quarte.mp3" type="audio/mpeg">
+   </audio>
+
+Sul dominante le quarte possibili sono poche: sopra il Si♭ la quarta sarebbe Mi♭, il ♯9, una tensione alterata. Mi–La–Re (terza, tredicesima e nona) è la scelta naturale.
+
+Quarte in Re dorico
+~~~~~~~~~~~~~~~~~~~
+
+Dm11 ed Em11 nella forma «So What», un tono di distanza: tutte le note stanno nel Re dorico. È il gesto tipico dell’accompagnamento modale: la stessa forma scivola su e giù per la scala, mentre il basso resta su Re.
+
+.. image:: _static/music/vf-quarte-modale.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-quarte-modale.mp3" type="audio/mpeg">
+   </audio>
+
+Lo studio :ref:`modern-03` del capitolo 9 porta queste forme sopra un pedale di Re, con basso, batteria e due attacchi per battuta.
+
+**Verifica.** Sai trovare la forma «So What» di Gm7 e di Am7 senza guardare lo spartito, partendo dalla fondamentale sulla quinta corda?
+
+.. _voicing-cluster:
+
+Cluster
+-------
+
+Un **cluster** (voicing a grappolo) mette due voci vicine a distanza di **seconda**. La seconda crea attrito: il suono diventa denso e moderno, vicino a quello del pianoforte. Sulla chitarra una seconda fra corde vicine chiede di tornare indietro di tre tasti, due fra 3ª e 2ª corda: per questo i cluster sono forme raccolte e la 3ª e la 2ª corda vi compaiono spesso.
+
+Le regole dello strumento e del capitolo:
+
+- quattro voci fra note dell’accordo e tensioni naturali, sempre con terza e settima (o sesta);
+- almeno una seconda fra voci vicine, al più una seconda minore;
+- nessuna nona minore fra due voci;
+- niente corde a vuoto: le forme si trasportano.
+
+Nell’esempio Cmaj9 (Sol Re Mi Si) e C6/9 (Sol Re Mi La) hanno la seconda Re–Mi fra 3ª e 2ª corda; C13 (Si♭ Do Mi La) ha Si♭–Do fra 4ª e 3ª; Cm11 (Mi♭ Fa Si♭ Re) ha Mi♭–Fa fra 5ª e 4ª. Quest’ultimo è anche una struttura superiore, Si♭ maggiore sopra il Mi♭: le famiglie si toccano.
+
+.. image:: _static/music/vf-cluster.*
+   :width: 100%
+
+.. raw:: html
+
+   <audio controls class="audio-controls" preload="none">
+      <source src="_static/music/vf-cluster.mp3" type="audio/mpeg">
+   </audio>
+
+**Come suonarli.** Pizzica le quattro note insieme, piano, oppure arpeggiale lentamente dal basso per sentire la seconda che si apre. Sono accordi da ballad, da accordo lungo e da finale: in un accompagnamento veloce l’attrito si perde.
+
 .. _chord-melody-voicings:
 
 Voicing per il chord melody
@@ -1245,7 +1687,7 @@ Gli esempi usano lo stesso formato del capitolo: diagramma, pentagramma, tablatu
 Drop 2 sulle corde 4–3–2–1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Un **drop 2** nasce da un accordo in posizione stretta (quattro note dentro un’ottava) in cui la **seconda voce dall’alto scende di un’ottava**. Il risultato è una forma che la mano prende senza aperture estreme, con la melodia ben separata dalle altre voci.
+Il **drop 2**, costruito nella sezione :ref:`voicing-drop`, è una forma che la mano prende senza aperture estreme, con la melodia ben separata dalle altre voci.
 
 Il vantaggio per il chord melody è enorme: per ogni accordo di settima esistono **quattro disposizioni**, una per ciascuna nota dell’accordo al canto. Se la melodia è un tono dell’accordo, una delle quattro forme la mette già in cima.
 
@@ -1320,10 +1762,12 @@ Nel II–V–I che segue la melodia è **Do – Si – Si – La**: settima di D
 
 Questa è la vera tecnica del chord melody: **scegli la forma in base alla melodia, poi controlla che le voci interne si muovano poco**. Se una voce salta, cerca un’altra disposizione con la stessa nota al canto.
 
+.. _drop3-chord-melody:
+
 Drop 3: il basso torna al basso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nel **drop 3** scende di un’ottava la **terza voce dall’alto**. La forma si apre: tra il basso e le altre voci rimane una corda muta (la quinta nelle forme sulla sesta corda, la quarta nelle forme sulla quinta corda). È proprio quello spazio a dare il suono “orchestrale”: il basso è un basso, la melodia è una melodia.
+Nel **drop 3** (costruzione in :ref:`voicing-drop`) la forma si apre: tra il basso e le altre voci rimane una corda muta (la quinta nelle forme sulla sesta corda, la quarta nelle forme sulla quinta corda). È proprio quello spazio a dare il suono “orchestrale”: il basso è un basso, la melodia è una melodia.
 
 Con la fondamentale al basso, la nota al canto è la quinta dell’accordo. Nella prima riga trovi C su sesta corda (corde 6–4–3–2), nella seconda F su quinta corda (corde 5–3–2–1), sempre nell’ordine maj7, 7, m7, m7(♭5).
 

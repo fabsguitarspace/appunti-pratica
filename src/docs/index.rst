@@ -25,7 +25,8 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
   9-modern-jazz-fusion
   10-percorsi-autore
   11-strumenti-per-la-pratica
+  note-di-rilascio
 
 .. rst-class:: ultimo-aggiornamento
 
-Versione |release| · aggiornato il |today|
+Versione |release| · aggiornato il |today| · :doc:`note di rilascio <note-di-rilascio>`

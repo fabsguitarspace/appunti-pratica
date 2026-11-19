@@ -165,7 +165,8 @@ minore e terza minore; il secondo tonica, quinta, tonica e undicesima.
 Il secondo non contiene la terza: è il contesto a mantenere il colore minore.
 
 Sono strutture di quattro note, distinte dagli :ref:`shell-voicings` a
-sole tre voci sulle corde 6–4–3 o 5–4–3. Il loro basso alla chitarra è
+sole tre voci sulle corde 6–4–3 o 5–4–3. Come si costruiscono è spiegato nella
+sezione :ref:`voicing-quarte` del capitolo sugli accordi. Il loro basso alla chitarra è
 sempre Re, come il basso d'insieme. Fai sentire ogni voce e sposta
 le tre voci superiori senza trascinare rumori. Poi riduci gli accordi a due
 attacchi per battuta e lascia rispondere la batteria.
@@ -193,7 +194,8 @@ attacchi per battuta e lascia rispondere la batteria.
 ----------------------------------------
 
 Su Cmaj7 suoniamo la triade di **Re maggiore: Re–Fa♯–La**, cioè
-9–♯11–13 rispetto a Do. L'accompagnamento fornisce Do–Mi–Si;
+9–♯11–13 rispetto a Do, la stessa struttura superiore della sezione
+:ref:`strutture-superiori`. L'accompagnamento fornisce Do–Mi–Si;
 la melodia completa le tensioni. Nella terza battuta la triade è arpeggiata in semiminime,
 mentre il basso resta Do: la chitarra esegue una linea, non un voicing
 con una tensione al basso.

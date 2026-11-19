@@ -9,7 +9,7 @@ author = "Fabrizio's Guitar Space"
 copyright = "youtube.com/@fabsguitarspace"
 # Versione MAJOR.MINOR, scritta a mano: cambiarla fa ripartire la patch da 0.
 # La patch conta i commit successivi e la data è quella dell'ultimo commit (versione_git.py).
-VERSIONE = "1.1"
+VERSIONE = "1.2"
 version = VERSIONE
 release = versione(VERSIONE, __file__)
 today = data_aggiornamento(__file__)

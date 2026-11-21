@@ -17,6 +17,11 @@ Le novità sono raggruppate per MAJOR.MINOR e, all’interno, per data di pubbli
 
 Il capitolo Accordi tratta tutte le famiglie di voicing per chitarra jazz, con gli stessi nomi e le stesse forme dello strumento Accordi.
 
+21 novembre 2026
+~~~~~~~~~~~~~~~~
+
+- :doc:`1-introduzione`: dove si consiglia di imparare brani a memoria, un rimando alla sezione degli Appunti di Repertorio sul perché imparare il tema a orecchio.
+
 19 novembre 2026
 ~~~~~~~~~~~~~~~~
 

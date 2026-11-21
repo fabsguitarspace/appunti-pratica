@@ -140,7 +140,7 @@ Tre cose meritano attenzione ogni giorno, qualunque sia l'esercizio:
 - **il tempo**: dove cade la nota rispetto alla pulsazione, e se la pulsazione regge anche nelle pause;
 - **il repertorio**: i brani che conosci a memoria, perché è lì che scale e accordi diventano musica.
 
-Le prime due si allenano in cinque minuti, su una nota sola. La terza chiede pazienza: un brano nuovo ogni tanto, imparato prima cantando la melodia e poi sulla chitarra, vale più di dieci esercizi nuovi.
+Le prime due si allenano in cinque minuti, su una nota sola. La terza chiede pazienza: un brano nuovo ogni tanto, imparato prima cantando la melodia e poi sulla chitarra, vale più di dieci esercizi nuovi. Perché conviene impararlo dal disco e non da uno spartito lo spiega `Perché il tema si impara a orecchio <https://appunti-di-repertorio-per-chitarra-jazz.readthedocs.io/it/latest/2-imparare-uno-standard.html#perche-il-tema-si-impara-a-orecchio>`__, negli Appunti di Repertorio.
 
 **Meno note, più scelte**
 

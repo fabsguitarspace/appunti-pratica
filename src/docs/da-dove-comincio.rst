@@ -23,7 +23,7 @@ Costruire una frase
 
 **Basta quando** sai suonare due giri di II–V–I in Do sulla base di :ref:`strutture-due-accordi`, arrivando sulla nota che avevi scelto e lasciando almeno una pausa per giro.
 
-**Poi:** :doc:`8-licks`, a partire dalle frasi sulle progressioni.
+**Poi:** il percorso essenziale di :doc:`ritmo-melodico`, per variare il ritmo delle frasi; quindi :doc:`8-licks`, a partire dalle frasi sulle progressioni.
 
 Accompagnare una progressione
 -----------------------------

@@ -29,7 +29,8 @@ Prima di iniziare
   Con le cuffie il metronomo e la chitarra si distinguono meglio.
 - **Tastiera del computer.** Con il pannello Esercizi aperto, Spazio avvia e
   ferma e le frecce sinistra e destra cambiano il tempo di 5 BPM; Invio estrae
-  un'altra scala, un altro arpeggio, un altro accordo o un'altra progressione.
+  un'altra scala, un altro arpeggio, un altro accordo, un'altra progressione o
+  un'altra figura ritmica.
 - **Tema.** I link di questa pagina aprono lo strumento in una nuova scheda con
   lo stesso tema chiaro o scuro del volume.
 - **Materiale generato.** Gli esercizi sono prodotti da regole, non scritti e
@@ -455,3 +456,110 @@ salvo dove indicato.
 
 Per un'altra progressione o tonalità scegli famiglie e tonalità in
 **Impostazioni** ed estrai di nuovo: l'esercizio impostato resta lo stesso.
+
+.. _strumenti-ritmi:
+
+Ritmi
+-----
+
+Lo strumento **Ritmi** accompagna la pagina :doc:`ritmo-melodico`. Estrae una
+figura ritmica fra le 64 del catalogo, in otto famiglie che seguono le sezioni
+della pagina: crome, terzine e semicrome consecutive, note per battuta, ritmi
+di una battuta, cicli di 3, 5 e 7 pulsazioni sopra il 4/4, marce (da cinque a
+ventiquattro note per battuta) e cambi di marcia. La figura si legge in una
+**griglia ritmica**: una casella per battuta, una cella per suddivisione, piena
+per gli attacchi, a barra per le note tenute, vuota per le pause, con il
+conteggio sotto. Il pannello **Esercizi** ha quattro assi:
+
+- **Cosa**: per le note consecutive la partenza (una delle posizioni della
+  battuta, tutte in sequenza oppure casuale), per le note per battuta lo stesso
+  ritmo o uno diverso in ogni battuta; le **note tolte** (una per gruppo, o
+  pause casuali) e gli accenti;
+- **Come**: le altezze che riempiono la figura (una **nota fissa**, le note
+  dell'accordo, una **sequenza di scala** che continua da un attacco all'altro,
+  le note guida) e le crome regolari o swing;
+- **Base**: nessuna, oppure una delle quattordici progressioni dello strumento
+  Progressioni nella tonalità estratta, con basso e accordi;
+- **Opzioni**: metronomo, battuta d'attacco, trainer di velocità, volumi e la
+  **posizione del click**: su tutti i battiti, sul 2 e sul 4, sull'1 e sul 3,
+  solo sull'1, solo sul 3, solo sul 4 o sull'«e» del 2 e del 4.
+
+Le viste **Conteggio** e **Note** aggiungono alla griglia il conteggio e i nomi
+delle note suonate; la **Tablatura** compare quando la figura sta dentro la
+pulsazione. Con **Esercizio: leggi la figura** in **Impostazioni** la griglia
+compare senza conteggio: batti la figura contando ad alta voce, poi controlla.
+
+.. only:: html
+
+   .. container:: strumenti-apri
+
+      :strumento:`Apri lo strumento Ritmi <ritmi.html>`
+
+.. only:: not html
+
+   Indirizzo: https://fabsguitarspace.github.io/appunti-strumenti/ritmi.html
+
+Esercizi pronti sui ritmi
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Un esercizio per ogni sezione della pagina sul ritmo melodico, in Do e a 60
+battiti al minuto con il click sul 2 e sul 4, salvo dove indicato. Le figure
+casuali hanno un seme nel link: si riaprono sempre uguali, e **Nuova figura
+casuale** ne estrae un'altra.
+
+#. :strumento:`Tre note per battuta, lo stesso ritmo
+   <ritmi.html#v=1&rhythm=note-3&key=C&seed=3&notes=chord&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Come R1: un ritmo di tre note ripetuto sul II–V–I. Cantalo, poi suonalo con
+   le note dell'accordo che preferisci.
+#. :strumento:`Tre note per battuta, ritmi diversi
+   <ritmi.html#v=1&rhythm=note-3&key=C&vary=1&seed=7&notes=chord&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Come R2: quattro battute con quattro ritmi. Prova poi con cinque e con due
+   note, cambiando figura in **Impostazioni**.
+#. :strumento:`Quattro crome, tutte le partenze
+   <ritmi.html#v=1&rhythm=crome-4&key=C&start=seq&notes=perc&base=none&metro=two-four&bpm=60>`.
+   Le otto partenze di R3, una dopo l'altra, su una nota sola: conta ad alta
+   voce e di' da dove parte ogni gruppo.
+#. :strumento:`Quattro crome dall'«e» del 4, sul II–V–I
+   <ritmi.html#v=1&rhythm=crome-4&key=C&start=8&notes=chord&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Come R4: l'ultima croma di ogni battuta suona già l'accordo seguente.
+#. :strumento:`Cinque crome in punti casuali, sequenza di scala
+   <ritmi.html#v=1&rhythm=crome-5&key=C&start=rand&seed=12&notes=scale&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Gruppi di cinque, anche a cavallo della stanghetta: la sequenza di scala
+   continua da un gruppo all'altro.
+#. :strumento:`Quattro note di terzina, tutte le partenze
+   <ritmi.html#v=1&rhythm=terzine-4&key=C&start=seq&notes=chord&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Le dodici partenze del gruppo di R5. Ascolta come le terzine si
+   incastrano con il walking.
+#. :strumento:`Charleston come una percussione, sul blues in Fa
+   <ritmi.html#v=1&rhythm=charleston&key=F&notes=perc&base=blues&bass=walk&metro=two-four&bpm=72>`.
+   Un ritmo di una battuta per un chorus intero, su una nota sola, a 72
+   battiti al minuto. Poi passa a **Note dell'accordo** in **Come**.
+#. :strumento:`Ciclo di tre pulsazioni sul II–V–I
+   <ritmi.html#v=1&rhythm=ciclo-3a&key=C&notes=chord&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Come R6: dodici battute, finché ciclo e giro tornano insieme sull'uno.
+#. :strumento:`Ciclo di cinque pulsazioni, click solo sul 4
+   <ritmi.html#v=1&rhythm=ciclo-5a&key=C&notes=perc&base=none&metro=four&bpm=60>`.
+   Senza base e con un solo click per battuta: il ciclo deve ricadere sull'uno
+   alla sesta battuta.
+#. :strumento:`Terzine di semiminima sul vamp in Re
+   <ritmi.html#v=1&rhythm=marcia-6&key=D&notes=scale&base=vamp-modale&bass=roots&metro=two-four&bpm=60>`.
+   La marcia più lenta di R7, con una sequenza di scala: il tempo sembra
+   rallentare, ma il basso non cambia.
+#. :strumento:`Crome e terzine, una battuta per marcia
+   <ritmi.html#v=1&rhythm=crome-terzine&key=C&notes=scale&base=none&metro=two-four&bpm=60>`.
+   Un cambio di marcia a ogni battuta, senza base: conta le pulsazioni, non le
+   note.
+#. :strumento:`Sequenza di scala con note tolte
+   <ritmi.html#v=1&rhythm=marcia-8&key=C&omit=one&seed=5&notes=scale&base=ii-v-i&bass=walk&metro=two-four&bpm=60>`.
+   Come R8: crome con una nota tolta per pulsazione; la sequenza resta al suo
+   posto.
+#. :strumento:`Semiminime in levare sul blues in Fa
+   <ritmi.html#v=1&rhythm=levare&key=F&notes=chord&base=blues&bass=walk&metro=two-four&bpm=72>`.
+   Come la seconda metà di R10: le semiminime cadono tutte fra un click e
+   l'altro.
+#. :strumento:`Semiminime in battere, click sull'«e» del 2 e del 4
+   <ritmi.html#v=1&rhythm=battere&key=C&notes=perc&base=none&metro=and-two-four&bpm=60>`.
+   Il click cade fra le pulsazioni: le tue semiminime restano sul battere?
+
+Per un'altra figura o tonalità scegli famiglie e tonalità in **Impostazioni**
+ed estrai di nuovo: le impostazioni dell'esercizio restano le stesse.

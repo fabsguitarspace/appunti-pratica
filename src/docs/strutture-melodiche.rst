@@ -460,6 +460,8 @@ Il capitolo :doc:`4-scale` propone lo stesso lavoro nell’esercizio «Dal patte
 
 Un modo semplice per uscire dalle crome continue è **togliere note**: da una struttura di quattro note ne suoni tre, due o una, lasciando al loro posto pause o note più lunghe. Puoi anche ripetere una nota. Il materiale resta riconoscibile, il ritmo cambia.
 
+La pagina :doc:`ritmo-melodico` sviluppa questo lavoro: un numero fisso di note per battuta, lo stesso gruppo spostato in ogni punto della battuta, figure che attraversano la stanghetta.
+
 .. image:: _static/music/strutture-04.*
    :width: 100%
 
@@ -577,4 +579,5 @@ Dove proseguire
 - Le frasi di :ref:`licks-progressioni` collegano accordi con procedimenti simili, su forme più lunghe.
 - Lo studio :ref:`modern-01` usa la cellula Mi–Sol–Si–Re con ritmi e spostamenti più complessi.
 - I :doc:`10-percorsi-autore` mostrano come alcuni chitarristi sviluppano poche note in una frase.
+- :doc:`ritmo-melodico` tiene ferme le note e lavora sulla figura ritmica: quante note, dove cadono, quando attraversano la stanghetta.
 - Gli strumenti :ref:`Scale <strumenti-scale>` e :ref:`Arpeggi <strumenti-arpeggi>` permettono di esercitare ordine, registro e posizione su altro materiale.

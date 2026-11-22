@@ -1,14 +1,16 @@
 """Deep link verso gli Strumenti per la pratica (ADR 0005).
 
-Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale, Arpeggi, Accordi e
-Progressioni):
+Controlla i link :strumento:`testo <pagina#v=1&...>` di tutti i capitoli (Scale, Arpeggi, Accordi,
+Progressioni e Ritmi):
 - pagina esistente fra quelle pubblicate, frammento versionato `v=1`;
 - se il repository ../appunti-strumenti è presente e Node è installato, ogni parametro
   è riconosciuto dallo strumento: js/link.js lo decodifica e lo riscrive uguale, la scala
   esiste nel catalogo e la tonica è valida; negli Accordi e nelle Progressioni l'esercizio produce
   almeno un voicing;
 - le griglie del catalogo di Progressioni (js/progressions.js) sono quelle del capitolo 7: stesse
-  sigle e stesse battute, e ogni `ref` è un'etichetta del capitolo.
+  sigle e stesse battute, e ogni `ref` è un'etichetta del capitolo;
+- nei Ritmi la figura esiste, la partenza sta nella griglia della figura, l'esercizio produce
+  attacchi; le sezioni della pagina «Ritmo melodico» citate dallo strumento (js/ritmi.js) esistono.
   Senza il repository i controlli con Node sono saltati.
 Da eseguire prima di ogni rilascio del volume.
 """
@@ -19,7 +21,7 @@ from urllib.parse import unquote
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'src/docs'
 TOOLS = ROOT.parent / 'appunti-strumenti'
-PAGES = {'index.html', 'scale.html', 'arpeggi.html', 'accordi.html', 'progressioni.html'}
+PAGES = {'index.html', 'scale.html', 'arpeggi.html', 'accordi.html', 'progressioni.html', 'ritmi.html'}
 ROLE = re.compile(r':strumento:`[^`<]*<([^>]+)>`', re.S)
 
 links = []
@@ -56,11 +58,16 @@ const PG = require(tools + '/js/progression.js');
 const PS = require(tools + '/js/progressions.js');
 const PC = require(tools + '/js/exercises/progcomp.js');
 const B = require(tools + '/js/exercises/bass.js');
+const R = require(tools + '/js/rhythms.js');
+const RL = require(tools + '/js/exercises/rhythmline.js');
+// Impostazioni predefinite del pannello di Ritmi (js/rhythmpractice.js, defaults).
+const RHYTHM_DEFAULTS = { ...RL.DEFAULTS, metroMode: 'two-four', bpm: 60 };
+const METRO = ['all', 'two-four', 'one-three', 'downbeat', 'three', 'four', 'and-two-four'];
 // Impostazioni predefinite del pannello di Progressioni (js/progpractice.js, defaults).
 const PROG_DEFAULTS = { ...PC.DEFAULTS, study: 'grid', giri: 0, form: 'short', ending: 'loop', bpm: 60 };
 const slugs = new Set(T.catalog().map((s) => L.slug(s.name)));
 const chords = new Set(C.catalog().map((q) => q.id));
-const SCOPE_KEYS = ['v', 'scale', 'chord', 'root', 'prog', 'key'];
+const SCOPE_KEYS = ['v', 'scale', 'chord', 'root', 'prog', 'key', 'rhythm'];
 /** Ogni parametro dell'esercizio deve sopravvivere a decodifica e ricodifica con il catalogo dato. */
 function roundTrip(params, cat, errors) {
   if (params.preset && !cat.PRESETS.some((p) => p.id === params.preset)) errors.push('esercizio sconosciuto ' + params.preset);
@@ -150,6 +157,37 @@ for (const [name, page, params] of JSON.parse(require('fs').readFileSync(0, 'utf
       if (ex.error || !ex.events.length) errors.push('esercizio vuoto: ' + (ex.error || 'nessun evento'));
     }
   }
+  if (page === 'ritmi.html') {
+    const item = R.byId(params.rhythm);
+    if (params.rhythm && !item) errors.push('figura sconosciuta ' + params.rhythm);
+    if (params.key && !L.parseNote(params.key)) errors.push('tonalità non valida ' + params.key);
+    if (!!params.rhythm !== !!params.key) errors.push('rhythm e key vanno insieme');
+    if (params.start && !(item && item.kind === 'consecutive')) errors.push('start vale solo per le note consecutive');
+    if (item && item.kind === 'consecutive' && /^\d+$/.test(params.start || '') && +params.start > R.METER * item.div) errors.push('partenza oltre la griglia della figura');
+    if (params.vary && !(item && item.kind === 'perbar')) errors.push('vary vale solo per le note per battuta');
+    if (params.notes && !RL.NOTES.some(([id]) => id === params.notes)) errors.push('altezze sconosciute ' + params.notes);
+    if (params.omit && !R.OMIT.some(([id]) => id === params.omit)) errors.push('note tolte sconosciute ' + params.omit);
+    if (params.accent && !R.ACCENTS.some(([id]) => id === params.accent)) errors.push('accento sconosciuto ' + params.accent);
+    if (params.base && params.base !== 'none' && !PS.catalog().some((p) => p.id === params.base)) errors.push('base sconosciuta ' + params.base);
+    if (params.bass && !RL.BASS.some(([id]) => id === params.bass)) errors.push('basso sconosciuto ' + params.bass);
+    if (params.metro && !METRO.includes(params.metro)) errors.push('click sconosciuto ' + params.metro);
+    if (params.bpm && !(+params.bpm >= 30 && +params.bpm <= 300)) errors.push('bpm fuori da 30–300');
+    const d = L.decodeRhythmExercise(params);
+    const s = { ...RHYTHM_DEFAULTS, ...d };
+    // Come exerciseUrl in js/rhythmpractice.js.
+    const random = !!item && (item.kind === 'perbar' || (item.kind === 'consecutive' && s.start === 'rand'));
+    const back = L.encodeRhythmExercise({ ...s, random, start: item && item.kind === 'consecutive' ? s.start : null,
+      vary: !!item && item.kind === 'perbar' && s.vary });
+    for (const [k, v] of Object.entries(params)) {
+      if (SCOPE_KEYS.includes(k)) continue;
+      if (String(back[k]) !== v) errors.push(k + '=' + v + ' ignorato (diventa ' + back[k] + ')');
+    }
+    if (random && !params.seed) errors.push('figura casuale senza seed: il link non la riproduce');
+    if (item && params.key && !errors.length) {
+      const ex = RL.build(item, L.parseNote(params.key), s);
+      if (ex.error || !RL.lineEvents(ex).length) errors.push('esercizio vuoto: ' + (ex.error || 'nessun attacco'));
+    }
+  }
   if (errors.length) out.push(name + ': ' + JSON.stringify(params) + ' → ' + errors.join('; '));
 }
 console.log(JSON.stringify(out));
@@ -212,6 +250,13 @@ for p in catalog:
     else:
         assert chapter_bars(labels[ref]) == mine, (p['id'], chapter_bars(labels[ref]), mine)
     grids += 1
+
+# ---------------------------------------------------------------- Sezioni della pagina citate dallo strumento Ritmi
+
+ritmi = (TOOLS / 'js/ritmi.js').read_text()
+anchors = set(re.findall(r"'(ritmo-[\w-]+)'", ritmi.split('ANCHORS =', 1)[1].split('};', 1)[0]))
+page_labels = set(re.findall(r'^\.\. _([\w-]+):', (DOCS / 'ritmo-melodico.rst').read_text(), re.M))
+assert anchors and anchors <= page_labels, ('sezioni mancanti in ritmo-melodico.rst', anchors - page_labels)
 
 print(f'PASS: {len(links)} link verso gli strumenti, {len(fragments)} esercizi riconosciuti da appunti-strumenti, '
       f'{grids} griglie di Progressioni uguali al capitolo 7')

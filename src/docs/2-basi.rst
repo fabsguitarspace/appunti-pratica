@@ -318,6 +318,8 @@ Una frase da tenere a mente:
 
 Se metti in piedi il backbeat, metà del groove è già lì... e tutto il resto, note comprese, smette di essere una lotta.
 
+Quando il backbeat regge, puoi portare lo stesso lavoro dentro le frasi: dove comincia una linea, quante note mette in una battuta, quando attraversa la stanghetta. È il tema della pagina :doc:`ritmo-melodico`.
+
 Vediamo un modo pratico per imparare a fare del backbeat il nostro gesto quotidiano. 
 Il **count-in** è il “conteggio di partenza”: quei numeri (detti a voce o suonati) che servono a far entrare tutti **insieme**, allo **stesso tempo** e con lo **stesso feel**, prima che inizi davvero il brano.
 

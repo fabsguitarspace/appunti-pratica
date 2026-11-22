@@ -19,6 +19,7 @@ Realizzati con l'assistenza dell'intelligenza artificiale.
   5-arpeggi
   strutture-melodiche
   pentatoniche
+  ritmo-melodico
   6-accordi
   7-progressioni
   8-licks

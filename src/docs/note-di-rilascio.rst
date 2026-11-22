@@ -20,7 +20,7 @@ Il capitolo Accordi tratta tutte le famiglie di voicing per chitarra jazz, con g
 Prossimo aggiornamento
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- **Nuova pagina** :doc:`ritmo-melodico`, sul ritmo applicato alla melodia: note per battuta, lo stesso gruppo di note da ogni punto della battuta, anticipi dell'accordo, terzine, cicli di tre pulsazioni sopra il 4/4, «marce», sequenze di scala con note tolte, anticipi e ritardi della risoluzione, semiminime in battere e in levare. Dieci esempi originali con spartito, tablatura e audio a 60 e 90 BPM; i procedimenti seguono Jerry Bergonzi, *Inside Improvisation*, vol. 4.
+- **Nuova pagina** :doc:`ritmo-melodico`, sul ritmo applicato alla melodia: note per battuta, lo stesso gruppo di note da ogni punto della battuta, anticipi dell'accordo, terzine, cicli di tre pulsazioni sopra il 4/4, «marce», sequenze di scala con note tolte, anticipi e ritardi della risoluzione, semiminime in battere e in levare. Dieci esempi originali con spartito, tablatura e audio a 60 e 90 BPM.
 - **Strumenti per la pratica:** nuovo strumento :ref:`Ritmi <strumenti-ritmi>`, con 64 figure in otto famiglie, griglia ritmica, base e click sul 2 e sul 4; quattordici esercizi pronti.
 - Rimandi alla nuova pagina da :doc:`2-basi`, :doc:`strutture-melodiche` e :doc:`da-dove-comincio`.
 

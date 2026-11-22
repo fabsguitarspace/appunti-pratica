@@ -22,8 +22,6 @@ Ti servono l'arpeggio di Cmaj7 e le note di Dm7 e G7 in quinta posizione (:doc:`
 
 Ogni esempio ha pentagramma e tablatura allineati, con le convenzioni di :doc:`leggere-gli-esempi`, e due audio a 60 e 90 BPM con crome regolari, senza swing. Nell'audio un pad e un basso tengono gli accordi e un charleston suona sul 2 e sul 4: senti così dove cade ogni attacco rispetto alla battuta.
 
-I procedimenti seguono Jerry Bergonzi, *Inside Improvisation*, vol. 4, *Melodic Rhythms*, dove trovi il metodo completo con molte altre figure e le basi per esercitarle. Gli esempi di questa pagina sono originali.
-
 Prima di cominciare: un metronomo che non suona sempre
 ------------------------------------------------------
 

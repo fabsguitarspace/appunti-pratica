@@ -23,6 +23,8 @@ Prossimo aggiornamento
 - **Nuova pagina** :doc:`ritmo-melodico`, sul ritmo applicato alla melodia: note per battuta, lo stesso gruppo di note da ogni punto della battuta, anticipi dell'accordo, terzine, cicli di tre pulsazioni sopra il 4/4, «marce», sequenze di scala con note tolte, anticipi e ritardi della risoluzione, semiminime in battere e in levare. Dieci esempi originali con spartito, tablatura e audio a 60 e 90 BPM.
 - **Strumenti per la pratica:** nuovo strumento :ref:`Ritmi <strumenti-ritmi>`, con 64 figure in otto famiglie, griglia ritmica, base e click sul 2 e sul 4; quattordici esercizi pronti.
 - Rimandi alla nuova pagina da :doc:`2-basi`, :doc:`strutture-melodiche` e :doc:`da-dove-comincio`.
+- **Tema scuro:** spartiti, tablature e diagrammi ora si leggono anche con il tema scuro, con l'inchiostro chiaro sul fondo scuro.
+- **Menu laterale richiudibile:** su computer e tablet il nuovo pulsante nell'intestazione, accanto a quello del tema, nasconde il menu a sinistra e lascia al contenuto tutta la larghezza; lo stesso pulsante lo riapre. La scelta resta valida passando da una pagina all'altra.
 
 21 novembre 2026
 ~~~~~~~~~~~~~~~~

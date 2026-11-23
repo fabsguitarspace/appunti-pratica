@@ -45,3 +45,49 @@
   opacity: 0.7;
   text-align: center;
 }
+
+/* Spartiti in modalità scura. Gli SVG di LilyPond hanno inchiostro nero su
+   sfondo trasparente e sparirebbero sul fondo scuro di Shibuya (classe .dark
+   su <html>, anche in modalità automatica). L'inversione rende chiaro
+   l'inchiostro e scure le mascherature bianche; hue-rotate riporta rosso e
+   blu delle note evidenziate a tinte simili all'originale. 0.93 avvicina il
+   bianco invertito allo sfondo slate-1 invece del nero puro. */
+.dark .yue img[src$=".svg"],
+.dark .yue img[src*="circolo-quinte"],
+.dark .yue img[src*="armatura-di-chiave"] {
+    filter: invert(0.93) hue-rotate(180deg);
+}
+
+/* Menu laterale richiudibile (menu-laterale.js). Il pulsante compare solo da
+   768px in su, dove Shibuya mostra la barra a sinistra; chiudendola, il
+   contenuto prende lo spazio liberato. */
+.menu-laterale-toggle {
+    display: none;
+    color: var(--sy-c-text);
+}
+
+@media (min-width: 768px) {
+    .sy-head-actions .menu-laterale-toggle {
+        display: flex;
+        align-items: center;
+    }
+
+    .menu-laterale-toggle[aria-pressed="true"] {
+        color: var(--accent-11);
+    }
+
+    html[data-menu-laterale="chiuso"] .sy-lside {
+        display: none;
+    }
+
+    html[data-menu-laterale="chiuso"] .sy-main {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+@media (min-width: 1280px) {
+    html[data-menu-laterale="chiuso"] .sy-main {
+        width: calc(100% - 16rem); /* resta la colonna «In questa pagina» */
+    }
+}

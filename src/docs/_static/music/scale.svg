@@ -1,70 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="37.60mm" height="12.92mm" viewBox="8.5358 -0.0210 21.3949 7.3500">
-<style type="text/css">
-<![CDATA[
-tspan { white-space: pre; }
-]]>
-</style>
-<g transform="translate(0.0000, 6.7790)">
-<rect x="16.9098" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125.9961pt" height="56pt" viewBox="0 0 125.9961 56">
+<defs>
+<g>
+<g id="glyph-0-0">
+<path d="M 0 0.921875 C 0 1.9375 0.78125 2.703125 2.109375 2.703125 C 4.296875 2.703125 6.5 0.8125 6.5 -0.921875 C 6.5 -2.015625 5.578125 -2.703125 4.328125 -2.703125 C 2.3125 -2.703125 0 -0.890625 0 0.921875 Z M 0 0.921875 "/>
 </g>
-<g transform="translate(8.5358, 5.7790)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="21.3449" y2="0"/>
+<g id="glyph-0-1">
+<path d="M 5.296875 12.65625 L 5.3125 11.796875 L 5.234375 11.796875 C 4.265625 11.796875 3.421875 11.28125 2.90625 10.5 C 3.109375 10.578125 3.3125 10.625 3.53125 10.625 C 4.5625 10.625 5.421875 9.765625 5.421875 8.71875 C 5.421875 7.609375 4.609375 6.671875 3.53125 6.671875 C 2.34375 6.671875 1.296875 7.5625 1.296875 8.71875 C 1.296875 10.890625 3.03125 12.65625 5.171875 12.65625 Z M 7.984375 -3.015625 C 10.21875 -2.765625 11.421875 -0.96875 11.421875 0.796875 C 11.421875 2.171875 10.703125 3.5 9.1875 4.046875 C 8.9375 1.8125 8.359375 -1.234375 7.984375 -3.015625 Z M 1.46875 -0.5625 C 1.46875 -3.75 3.578125 -6.171875 5.71875 -8.59375 C 6.0625 -7.4375 6.359375 -6.25 6.640625 -5.09375 C 4.609375 -4.640625 3.453125 -2.921875 3.453125 -1.171875 C 3.453125 1.3125 5.65625 2.546875 5.953125 2.546875 C 6.203125 2.546875 6.390625 2.328125 6.390625 2.109375 C 6.390625 2.015625 6.359375 1.90625 6.25 1.8125 C 5.140625 1.171875 4.640625 0.234375 4.640625 -0.640625 C 4.640625 -1.796875 5.53125 -2.84375 7.109375 -3.015625 C 7.796875 0.203125 8.234375 2.96875 8.359375 4.25 C 7.890625 4.328125 7.4375 4.359375 7.015625 4.359375 C 3.421875 4.359375 1.46875 1.671875 1.46875 -0.5625 Z M 7.109375 -23.78125 C 6.8125 -23.78125 3.9375 -21.671875 3.9375 -17.90625 C 3.9375 -14.40625 4.40625 -12.921875 4.984375 -11.015625 C 2.65625 -8.328125 0.046875 -5.75 0.046875 -2.234375 C 0.046875 0.890625 2.09375 5.21875 6.859375 5.21875 C 7.34375 5.21875 7.890625 5.15625 8.453125 5.0625 C 8.5 5.671875 8.53125 6.28125 8.53125 6.890625 C 8.53125 7.25 8.5 7.625 8.484375 7.984375 C 8.359375 9.953125 7.171875 11.75 5.3125 11.796875 L 5.296875 12.65625 C 7.5625 12.59375 9.1875 10.484375 9.328125 8.109375 C 9.34375 7.734375 9.359375 7.328125 9.359375 6.953125 C 9.359375 6.25 9.328125 5.5625 9.265625 4.859375 C 11.375 4.203125 12.84375 2.234375 12.84375 -0.015625 C 12.84375 -2.671875 10.859375 -5.234375 7.765625 -5.234375 C 7.6875 -5.234375 7.59375 -5.21875 7.484375 -5.21875 C 7.15625 -6.59375 6.796875 -7.984375 6.375 -9.34375 C 8.25 -11.515625 9.953125 -13.75 9.953125 -16.59375 C 9.953125 -19.6875 7.671875 -23.78125 7.109375 -23.78125 Z M 4.921875 -15.578125 C 4.921875 -18.890625 7.15625 -20.34375 8.125 -20.8125 C 8.421875 -19.921875 8.546875 -19.078125 8.546875 -18.28125 C 8.546875 -15.8125 7.25 -13.78125 5.625 -11.796875 C 5.15625 -13.28125 4.921875 -14.484375 4.921875 -15.578125 Z M 4.921875 -15.578125 "/>
 </g>
-<g transform="translate(8.5358, 4.7790)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="21.3449" y2="0"/>
+<g id="glyph-0-2">
+<path d="M 8.625 1.765625 C 8.625 1.609375 8.484375 1.53125 8.359375 1.53125 C 8.265625 1.53125 8.171875 1.59375 8.125 1.734375 C 7.75 3.34375 6.578125 4.734375 4.984375 4.734375 C 2.875 4.734375 2.734375 3.265625 2.734375 1.015625 L 2.734375 -1.015625 C 2.734375 -3.265625 2.875 -4.71875 4.984375 -4.71875 C 5.9375 -4.71875 6.8125 -4.28125 7.375 -3.546875 C 7.265625 -3.5625 7.171875 -3.5625 7.09375 -3.5625 C 6.203125 -3.5625 5.65625 -2.78125 5.65625 -2.03125 C 5.65625 -1.03125 6.53125 -0.53125 7.15625 -0.53125 C 7.890625 -0.53125 8.484375 -1.171875 8.484375 -1.96875 C 8.484375 -3.109375 7.296875 -5.21875 4.984375 -5.21875 C 0.359375 -5.21875 0 -1.234375 0 0 C 0 4.859375 3.8125 5.234375 4.984375 5.234375 C 7.625 5.234375 8.625 2.21875 8.625 1.765625 Z M 8.625 1.765625 "/>
 </g>
-<g transform="translate(8.5358, 3.7790)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="21.3449" y2="0"/>
 </g>
-<g transform="translate(8.5358, 2.7790)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="21.3449" y2="0"/>
+</defs>
+<path fill="none" stroke-width="9.96264" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1266.796887 7687.226562 L 1354.257825 7687.226562 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="4.98132" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 852.890637 7737.03125 L 1907.9297 7737.03125 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="4.98132" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 852.890637 7786.835938 L 1907.9297 7786.835938 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="4.98132" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 852.890637 7836.640625 L 1907.9297 7836.640625 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="4.98132" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 852.890637 7886.484375 L 1907.9297 7886.484375 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="4.98132" stroke-linecap="round" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 852.890637 7936.289062 L 1907.9297 7936.289062 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill="none" stroke-width="9.46451" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1905.664075 7737.03125 L 1905.664075 7936.289062 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="52.76103" y="43.279"/>
 </g>
-<g transform="translate(8.5358, 1.7790)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="21.3449" y2="0"/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-1" x="13.98133" y="33.3165"/>
 </g>
-<g transform="translate(29.7407, 3.7790)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-2" x="34.33013" y="28.33525"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:9:17:18">
-<g transform="translate(17.2358, 6.7790)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<path fill="none" stroke-width="3.98506" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1338.515637 7698.476562 L 1341.015637 7698.476562 L 1341.015637 7859.570312 L 1338.515637 7859.570312 Z M 1338.515637 7698.476562 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill-rule="nonzero" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 58.808594 42.152344 L 59.058594 42.152344 L 59.058594 26.042969 L 58.808594 26.042969 Z M 58.808594 42.152344 "/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="68.96103" y="38.297"/>
 </g>
-</a>
-<g transform="translate(9.3358, 4.7790)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<path fill="none" stroke-width="3.98506" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1500.546887 7748.28125 L 1503.007825 7748.28125 L 1503.007825 7909.375 L 1500.546887 7909.375 Z M 1500.546887 7748.28125 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill-rule="nonzero" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 75.011719 37.171875 L 75.257812 37.171875 L 75.257812 21.0625 L 75.011719 21.0625 Z M 75.011719 37.171875 "/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="85.16203" y="33.316"/>
 </g>
-<g transform="translate(13.5358, 3.7790)">
-<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
-c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+<path fill="none" stroke-width="3.98506" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1662.539075 7798.125 L 1665.000012 7798.125 L 1665.000012 7959.179688 L 1662.539075 7959.179688 Z M 1662.539075 7798.125 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill-rule="nonzero" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 91.210938 32.1875 L 91.457031 32.1875 L 91.457031 16.082031 L 91.210938 16.082031 Z M 91.210938 32.1875 "/>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="100.92003" y="25.844"/>
 </g>
-<g transform="translate(18.4750, 3.7790)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:9:20:21">
-<g transform="translate(20.4881, 5.7790)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(21.7273, 3.7790)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:9:22:23">
-<g transform="translate(23.7403, 4.7790)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(24.9795, 3.7790)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///Users/fabrizio/Projects/appunti-pratica/src/lilypond/scale.ly:9:24:25">
-<g transform="translate(26.9037, 3.2790)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(26.9687, 3.7790)">
-<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
+<path fill="none" stroke-width="3.98506" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 1761.601575 7689.21875 L 1764.101575 7689.21875 L 1764.101575 7850.3125 L 1761.601575 7850.3125 Z M 1761.601575 7689.21875 " transform="matrix(0.1, 0, 0, -0.1, -75.04297, 812)"/>
+<path fill-rule="nonzero" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 101.117188 43.078125 L 101.367188 43.078125 L 101.367188 26.972656 L 101.117188 26.972656 Z M 101.117188 43.078125 "/>
 </svg>

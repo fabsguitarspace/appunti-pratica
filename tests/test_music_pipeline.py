@@ -2,7 +2,7 @@ from pathlib import Path
 import tempfile, shutil, subprocess, os, json, sys
 with tempfile.TemporaryDirectory(prefix='music-check-') as tmp:
  r=Path(tmp);(r/'scripts').mkdir();shutil.copy(str(Path(__file__).resolve().parents[1] / 'scripts/build_music.py'),r/'scripts/build_music.py')
- src=r/'src/lilypond';(src/'sf').mkdir(parents=True);(src/'include').mkdir();(src/'include/common.ly').write_text('macro');(src/'sf/Jazzernaut.sf2').write_text('font');(src/'sample.ly').write_text('music')
+ src=r/'src/lilypond';(src/'sf').mkdir(parents=True);(src/'include').mkdir();(src/'include/common.ly').write_text('macro');(src/'sf/AppuntiEPiano.sf2').write_text('font');(src/'sample.ly').write_text('music')
  tools=r/'bin';tools.mkdir(); fake='''#!/usr/bin/env python3
 import sys,os
 from pathlib import Path
@@ -24,7 +24,7 @@ elif n=='lame':Path(a[1]).write_text('mp3')
  assert 'Compilo' in run();assert 'Aggiornato' in run()
  (out/'sample.midi').unlink();assert 'Compilo' in run()
  (src/'include/common.ly').write_text('changed');assert 'Compilo' in run()
- (src/'sf/Jazzernaut.sf2').write_text('changed font');assert 'Compilo' in run()
+ (src/'sf/AppuntiEPiano.sf2').write_text('changed font');assert 'Compilo' in run()
  (out/'sample.svg').write_text('damaged');assert 'Compilo' in run()
  before=(out/'sample.pdf').read_bytes();(src/'sample.ly').write_text('new');(r/'fail').touch();run(False);assert (out/'sample.pdf').read_bytes()==before
  (r/'fail').unlink();assert 'Compilo' in run();assert 'Aggiornato' in run()

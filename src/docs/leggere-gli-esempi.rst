@@ -34,5 +34,6 @@ Audio
   riprodotti con swing 2:1: il primo ottavo occupa due terzi del movimento, il
   secondo un terzo. È un modello di studio, non una misura universale dello
   swing: non applicarlo ai passaggi indicati come regolari.
-- Il timbro è sintetizzato. Gli audio illustrano note e durate, non
-  un'interpretazione: per quella ci sono gli ascolti indicati nei capitoli.
+- Il timbro è sintetizzato: accordi e linee suonano con un piano elettrico
+  dal suono morbido, non con una chitarra. Gli audio illustrano note e durate,
+  non un'interpretazione: per quella ci sono gli ascolti indicati nei capitoli.

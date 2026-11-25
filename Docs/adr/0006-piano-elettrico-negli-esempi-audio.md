@@ -29,7 +29,7 @@ Il 24 novembre 2026 sono stati confrontati, sugli stessi MIDI di Repertorio e Pr
 
 - **Media.** Tutti gli MP3 dei tre volumi sono ricompilati; anche PDF e SVG vengono riscritti, perché il soundfont entra nell'impronta di ogni sorgente. Spartiti e MIDI non cambiano nel contenuto.
 - **Editoriali.** Dove il testo parla del suono degli esempi come di una chitarra, va adeguato. Le note di rilascio di ogni volume annotano il cambio.
-- **Reversibilità.** Ripristinare il nome del soundfont nei builder e ricompilare riporta la chitarra. `Jazzernaut.sf2` resta per ora nei repository, non più usato.
+- **Reversibilità.** Ripristinare `Jazzernaut.sf2` dalla storia git, il suo nome nei builder e ricompilare riporta la chitarra. Il file, non più usato, è stato rimosso dalla libreria e dai volumi il 24 novembre 2026.
 - **Fuori ambito.** appunti-strumenti ha un proprio motore audio nel browser e non cambia.
 
 ## Verifica

@@ -4,8 +4,8 @@ Strumenti per la pratica
 Gli esempi dei capitoli precedenti sono fissi: pentagramma, tablatura e audio
 scelti e rivisti uno per uno. Gli **Strumenti per la pratica** fanno il
 contrario: generano l'esercizio sul momento, nella tonalità, nella zona della
-tastiera e al tempo che scegli, con suono di chitarra, tablatura, metronomo e
-trainer di velocità. Servono a portare un esercizio già capito in altre
+tastiera e al tempo che scegli, con suono di chitarra o di piano elettrico,
+tablatura, metronomo e trainer di velocità. Servono a portare un esercizio già capito in altre
 tonalità, scale e posizioni senza dover scrivere nulla.
 
 Gli strumenti si aprono nel browser, anche sul telefono, e non richiedono
@@ -26,7 +26,9 @@ Prima di iniziare
 
 - **Audio.** Il suono parte dopo il primo tocco su Play. Su iPhone e iPad
   disattiva la modalità silenziosa: altrimenti il browser non emette suoni.
-  Con le cuffie il metronomo e la chitarra si distinguono meglio.
+  Con le cuffie il metronomo e le note si distinguono meglio. Il pulsante
+  con l'altoparlante, accanto a Play, regola il volume e sceglie il suono:
+  chitarra o piano elettrico.
 - **Tastiera del computer.** Con il pannello Esercizi aperto, Spazio avvia e
   ferma e le frecce sinistra e destra cambiano il tempo di 5 BPM; Invio estrae
   un'altra scala, un altro arpeggio, un altro accordo, un'altra progressione o

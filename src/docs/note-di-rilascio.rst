@@ -21,6 +21,7 @@ Prossimo aggiornamento
 ~~~~~~~~~~~~~~~~~~~~~~
 
 - **Audio:** in tutti gli esempi accordi e linee suonano ora con un piano elettrico dal suono morbido al posto della chitarra sintetizzata. Note, tempi, basso e batteria non cambiano.
+- **Strumenti per la pratica:** nel pannello del volume si può scegliere il suono, chitarra o piano elettrico; :doc:`11-strumenti-per-la-pratica` lo spiega in «Prima di iniziare».
 - **Nuova pagina** :doc:`ritmo-melodico`, sul ritmo applicato alla melodia: note per battuta, lo stesso gruppo di note da ogni punto della battuta, anticipi dell'accordo, terzine, cicli di tre pulsazioni sopra il 4/4, «marce», sequenze di scala con note tolte, anticipi e ritardi della risoluzione, semiminime in battere e in levare. Dieci esempi originali con spartito, tablatura e audio a 60 e 90 BPM.
 - **Strumenti per la pratica:** nuovo strumento :ref:`Ritmi <strumenti-ritmi>`, con 64 figure in otto famiglie, griglia ritmica, base e click sul 2 e sul 4; quattordici esercizi pronti.
 - Rimandi alla nuova pagina da :doc:`2-basi`, :doc:`strutture-melodiche` e :doc:`da-dove-comincio`.

@@ -9,3 +9,7 @@
 *.sh text eol=lf
 *.py text eol=lf
 *.ly text eol=lf
+
+# SVG generati da LilyPond: niente conversione dei fine riga, perché le impronte
+# della build (manifest) restino valide dopo checkout e merge.
+*.svg -text

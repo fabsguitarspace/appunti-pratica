@@ -78,6 +78,8 @@ html_css_files = ["custom.css"]
 html_js_files = [
     "menu-laterale.js",
     ("strumenti.js", {"defer": "defer", "data-base": strumenti_url}),
+    # Link a YouTube in una nuova scheda (identico nei tre volumi).
+    ("link-youtube.js", {"defer": "defer"}),
 ]
 # Facoltativo: migliora la navigazione del tema
 
